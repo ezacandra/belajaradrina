@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>belajaradrina — Latihan & Bank Soal per Kelas, Kategori, dan Mata Pelajaran</title>
+<meta name="description" content="belajaradrina: kumpulan latihan soal sesuai kelas, kategori (Sumatif, Sumatif 2), dan mata pelajaran dengan nilai otomatis." />
+<style>
+  :root{
+    --ink:#1f2340; --muted:#767d99; --line:#e8ebf4; --soft:#f7f8fc;
+    --biru:#3b82f6; --hijau:#22c55e; --jingga:#f97316; --ungu:#8b5cf6;
+    --pink:#ec4899; --merah:#ef4444;
+    --grad:linear-gradient(135deg,#2563eb,#7c3aed 55%,#ec4899);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:"Segoe UI",system-ui,Arial,sans-serif;color:var(--ink);min-height:100vh;
+    background:
+      radial-gradient(circle at 10% 6%, #bfdbfe55, transparent 30%),
+      radial-gradient(circle at 90% 10%, #fbcfe855, transparent 30%),
+      radial-gradient(circle at 50% 100%, #ddd6fe55, transparent 38%),
+      #f7f8fc;
+  }
+  .wrap{max-width:1020px;margin:0 auto;padding:20px 16px 60px}
+
+  /* header */
+  .head{background:var(--grad);color:#fff;border-radius:26px;padding:26px 24px;
+    box-shadow:0 18px 40px rgba(124,58,237,.3);position:relative;overflow:hidden}
+  .head:before,.head:after{content:"";position:absolute;border-radius:50%;background:rgba(255,255,255,.14)}
+  .head:before{width:190px;height:190px;right:-50px;top:-70px}
+  .head:after{width:120px;height:120px;left:-40px;bottom:-50px}
+  .logo{display:flex;align-items:center;gap:12px;position:relative}
+  .logo .mark{width:52px;height:52px;border-radius:16px;background:rgba(255,255,255,.22);
+    border:2px solid rgba(255,255,255,.5);display:flex;align-items:center;justify-content:center;font-size:1.7rem}
+  .logo h1{margin:0;font-size:1.75rem;letter-spacing:.5px}
+  .logo .t{font-size:.86rem;opacity:.92;margin-top:2px}
+  .stats{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px;position:relative}
+  .st{background:rgba(255,255,255,.2);border:1.5px solid rgba(255,255,255,.45);
+    padding:6px 14px;border-radius:999px;font-size:.82rem;font-weight:700}
+
+  /* filter */
+  .filterBox{background:#fff;border:3px solid var(--line);border-radius:22px;padding:18px 18px 20px;
+    margin-top:18px;box-shadow:0 8px 24px rgba(31,35,64,.06)}
+  .fTitle{font-size:.78rem;font-weight:900;letter-spacing:1.4px;color:var(--muted);
+    text-transform:uppercase;margin:0 0 9px}
+  .fGroup{margin-bottom:14px}
+  .chips{display:flex;gap:8px;flex-wrap:wrap}
+  .chip{background:var(--soft);border:2.5px solid var(--line);border-radius:999px;
+    padding:8px 16px;font-size:.87rem;font-weight:700;cursor:pointer;transition:.13s;color:#4b5563}
+  .chip:hover{border-color:#c7d2fe;transform:translateY(-2px)}
+  .chip.on{background:#111827;border-color:#111827;color:#fff}
+  .hasilCari{font-size:.85rem;color:var(--muted);margin-top:4px}
+
+  /* grid kuis */
+  .secT{font-weight:900;font-size:1.02rem;margin:24px 0 12px;display:flex;align-items:center;gap:9px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+  .card{background:#fff;border:3px solid var(--line);border-radius:22px;padding:20px 18px;
+    box-shadow:0 7px 0 var(--line);transition:.15s;display:flex;flex-direction:column;position:relative;overflow:hidden}
+  .card:hover{transform:translateY(-5px);box-shadow:0 12px 0 var(--line)}
+  .card .strip{position:absolute;left:0;top:0;bottom:0;width:6px}
+  .card .ic{font-size:2.3rem}
+  .card h3{margin:9px 0 5px;font-size:1.14rem;line-height:1.35}
+  .badges{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:9px}
+  .bg{font-size:.7rem;font-weight:900;padding:4px 9px;border-radius:7px;letter-spacing:.3px}
+  .bg.kelas{background:#dbeafe;color:#1d4ed8}
+  .bg.kat{background:#fef3c7;color:#b45309}
+  .bg.mapel{background:#ede9fe;color:#6d28d9}
+  .bg.versi{background:#dcfce7;color:#15803d}
+  .card p{margin:0 0 14px;font-size:.87rem;line-height:1.6;color:#5b6178}
+  .card .go{margin-top:auto;display:flex;gap:8px;align-items:center}
+  .btn{font:inherit;font-weight:800;border:none;border-radius:13px;padding:11px 20px;cursor:pointer;
+    transition:.12s;box-shadow:0 4px 0 rgba(0,0,0,.14);text-decoration:none;display:inline-block}
+  .btn:active{transform:translateY(3px);box-shadow:none}
+  .btn.main{background:var(--biru);color:#fff;flex:1;text-align:center}
+  .btn.key{background:#fff;color:var(--ungu);border:2.5px solid var(--line);box-shadow:none;padding:9px 14px;font-size:.82rem}
+  .kosong{background:#fff;border:3px dashed var(--line);border-radius:20px;padding:34px 20px;
+    text-align:center;color:var(--muted);font-size:.95rem;grid-column:1/-1}
+
+  /* modal kunci */
+  .modal{position:fixed;inset:0;background:rgba(15,23,42,.6);display:none;align-items:flex-start;
+    justify-content:center;padding:24px 14px;overflow:auto;z-index:60}
+  .modal .box{background:#fff;border-radius:22px;max-width:680px;width:100%;padding:24px}
+  .modal h3{margin:0 0 4px;text-align:center}
+  .modal .sub{text-align:center;color:var(--muted);font-size:.83rem;margin-bottom:12px}
+  .modal ol{padding-left:22px;line-height:1.8;font-size:.9rem}
+  .modal ol li{margin-bottom:8px}
+  .modal .ok{color:#15803d;font-weight:800}
+  .modal .btn{display:block;width:100%;margin-top:14px;background:#111827;color:#fff}
+
+  footer{text-align:center;color:#9aa1b5;font-size:.8rem;margin-top:34px;line-height:1.8}
+  footer b{color:#6b7280}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="head">
+    <div class="logo">
+      <div class="mark">📚</div>
+      <div>
+        <h1>belajaradrina</h1>
+        <div class="t">Latihan &amp; bank soal sesuai kelas, kategori, dan mata pelajaran</div>
+      </div>
+    </div>
+    <div class="stats">
+      <span class="st">🎒 <span id="sKuis">0</span> Paket Soal</span>
+      <span class="st">📝 <span id="sSoal">0</span> Butir Soal</span>
+      <span class="st">🏫 <span id="sKelas">0</span> Jenjang Kelas</span>
+      <span class="st">📖 <span id="sMapel">0</span> Mata Pelajaran</span>
+      <span class="st">📂 <span id="sKat">0</span> Kategori Penilaian</span>
+    </div>
+  </div>
+
+  <div class="filterBox">
+    <div class="fGroup">
+      <p class="fTitle">🏫 Kelas / Jenjang</p>
+      <div class="chips" id="fKelas"></div>
+    </div>
+    <div class="fGroup">
+      <p class="fTitle">📂 Kategori Penilaian</p>
+      <div class="chips" id="fKat"></div>
+    </div>
+    <div class="fGroup" style="margin-bottom:0">
+      <p class="fTitle">📖 Mata Pelajaran</p>
+      <div class="chips" id="fMapel"></div>
+    </div>
+    <div class="hasilCari" id="hasilCari"></div>
+  </div>
+
+  <div class="secT"><span>🧩</span> Daftar Latihan Soal</div>
+  <div class="grid" id="grid"></div>
+
+  <footer>
+    <b>belajaradrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>
+    Setiap paket soal dilengkapi nilai otomatis 0–100, kunci jawaban, dan pembahasan.
+  </footer>
+</div>
+
+<div class="modal" id="modal">
+  <div class="box">
+    <h3>🔑 Kunci Jawaban</h3>
+    <div class="sub" id="mSub"></div>
+    <div id="mBody"></div>
+    <button class="btn" id="btnTutup">Tutup</button>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script>
+const K = window.KUIS || [];
+const $ = id => document.getElementById(id);
+const warna = ["#3b82f6","#f97316","#22c55e","#8b5cf6","#ec4899","#0ea5e9"];
+
+const unik = (arr) => [...new Set(arr)];
+const F = { kelas:"semua", kat:"semua", mapel:"semua" };
+
+function totalSoal(k){ return k.versi.reduce((a,v)=>a+v.soal.length,0); }
+
+/* --- statistik --- */
+$("sKuis").textContent = K.length;
+$("sSoal").textContent = K.reduce((a,k)=>a+totalSoal(k),0);
+$("sKelas").textContent = unik(K.map(k=>k.kelas)).length;
+$("sMapel").textContent = unik(K.map(k=>k.mapel)).length;
+$("sKat").textContent = unik(K.map(k=>k.kategori)).length;
+
+/* --- chips filter --- */
+function chips(elId, nilai, daftar, key){
+  const items = [["semua","Semua"]].concat(daftar.map(d=>[d,d]));
+  $(elId).innerHTML = items.map(([v,label])=>
+    `<span class="chip ${F[key]===v?"on":""}" data-v="${label === "Semua" ? "semua" : v}">${label}</span>`).join("");
+  [...$(elId).children].forEach(c=>{
+    c.onclick = ()=>{ F[key] = c.dataset.v; refresh(); };
+  });
+}
+
+function refresh(){
+  chips("fKelas", F.kelas, unik(K.map(k=>k.kelas)), "kelas");
+  chips("fKat", F.kat, unik(K.map(k=>k.kategori)), "kat");
+  chips("fMapel", F.mapel, unik(K.map(k=>k.mapel)), "mapel");
+
+  const list = K.filter(k =>
+    (F.kelas === "semua" || k.kelas === F.kelas) &&
+    (F.kat === "semua" || k.kategori === F.kat) &&
+    (F.mapel === "semua" || k.mapel === F.mapel));
+
+  $("hasilCari").innerHTML = `Menampilkan <b>${list.length}</b> dari <b>${K.length}</b> paket soal ` +
+    `· kelas: <b>${F.kelas === "semua" ? "semua" : F.kelas}</b> · kategori: <b>${F.kat === "semua" ? "semua" : F.kat}</b>` +
+    ` · mapel: <b>${F.mapel === "semua" ? "semua" : F.mapel}</b>`;
+
+  $("grid").innerHTML = list.length ? list.map((k,i)=>{
+    const idx = K.indexOf(k);
+    const w = warna[idx % warna.length];
+    const versi = k.versi.length > 1
+      ? `<span class="bg versi">${k.versi} Versi</span>` : "";
+    return `<div class="card">
+      <div class="strip" style="background:${w}"></div>
+      <div class="ic">${k.ikon}</div>
+      <h3>${k.judul}</h3>
+      <div class="badges">
+        <span class="bg kelas">🏫 ${k.kelas}</span>
+        <span class="bg kat">📂 ${k.kategori}</span>
+        <span class="bg mapel">📖 ${k.mapel}</span>
+        ${versi}
+        <span class="bg versi">📝 ${totalSoal(k)} soal</span>
+      </div>
+      <p><b>${k.bab}</b><br>${k.deskripsi}</p>
+      <div class="go">
+        <a class="btn main" href="kuis.html?id=${encodeURIComponent(k.id)}">Kerjakan ➡</a>
+        <button class="btn key" onclick="kunci(${idx})">🔑 Kunci</button>
+      </div>
+    </div>`;
+  }).join("") : `<div class="kosong">😕 Belum ada soal untuk kombinasi filter ini.<br>Coba pilih kelas, kategori, atau mata pelajaran lainnya.</div>`;
+}
+
+function kunci(i){
+  const k = K[i];
+  $("mSub").textContent = `${k.kategori} · ${k.mapel} · ${k.kelas} · ${k.bab}`;
+  $("mBody").innerHTML = k.versi.map(v=>{
+    if(k.versi.length > 1) return `<p style="font-weight:900;margin:14px 0 6px;color:#6d28d9">— ${v.nama} (${v.kode}) —</p>` + list(v);
+    return list(v);
+  }).join("");
+  $("modal").style.display = "flex";
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+function list(v){
+  return `<ol>${v.soal.map(s=>
+    `<li>${s.t}<br><span class="ok">✔ ${String.fromCharCode(65+s.j)}. ${s.p[s.j]}</span></li>`).join("")}</ol>`;
+}
+$("btnTutup").onclick = ()=> $("modal").style.display = "none";
+$("modal").onclick = e=>{ if(e.target === $("modal")) $("modal").style.display = "none"; };
+
+refresh();
+</script>
+</body>
+</html>

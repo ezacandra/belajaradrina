@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>belajaradrina — Kerjakan Soal</title>
+<style>
+  :root{
+    --ink:#242840; --muted:#7a7f95; --line:#e9ecf4; --soft:#f7f8fc;
+    --merah:#ef4444; --biru:#3b82f6; --hijau:#22c55e; --kuning:#facc15;
+    --jingga:#f97316; --ungu:#8b5cf6; --pink:#ec4899;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{font-family:"Segoe UI",system-ui,Arial,sans-serif;color:var(--ink);min-height:100vh;
+    background:radial-gradient(circle at 12% 8%,#c7d2fe55,transparent 32%),
+      radial-gradient(circle at 88% 12%,#fbcfe855,transparent 32%),
+      radial-gradient(circle at 50% 95%,#bbf7d055,transparent 40%),#f7f8fc}
+  .app{max-width:900px;margin:0 auto;padding:18px 15px 70px}
+
+  .hero{border-radius:24px;padding:22px;color:#fff;position:relative;overflow:hidden;
+    background:linear-gradient(135deg,#2563eb,#7c3aed 55%,#ec4899);box-shadow:0 14px 34px rgba(124,58,237,.3)}
+  .hero:after{content:"";position:absolute;right:-46px;top:-46px;width:180px;height:180px;
+    background:rgba(255,255,255,.15);border-radius:50%}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:900;font-size:.95rem;
+    letter-spacing:.6px;position:relative;opacity:.95}
+  .brand .m{width:32px;height:32px;border-radius:10px;background:rgba(255,255,255,.25);
+    border:1.5px solid rgba(255,255,255,.5);display:flex;align-items:center;justify-content:center;font-size:1rem}
+  .crumb{font-size:.78rem;background:rgba(0,0,0,.18);display:inline-block;padding:5px 12px;
+    border-radius:8px;margin:13px 0 10px;position:relative}
+  .crumb b{color:#fde047}
+  .hero h2{margin:0;font-size:1.28rem;line-height:1.4;position:relative}
+  .hero .sub{margin:8px 0 0;font-size:.9rem;opacity:.94;position:relative}
+  .badges{display:flex;gap:7px;flex-wrap:wrap;margin-top:13px;position:relative}
+  .bg{background:rgba(255,255,255,.22);border:1.5px solid rgba(255,255,255,.5);
+    padding:5px 12px;border-radius:999px;font-size:.78rem;font-weight:800}
+  .bar{height:13px;background:rgba(255,255,255,.3);border-radius:99px;margin-top:15px;
+    overflow:hidden;border:2px solid rgba(255,255,255,.55);position:relative}
+  .bar i{display:block;height:100%;width:0;background:var(--kuning);transition:.4s}
+
+  .topbar{display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin-top:16px}
+  .pill{background:#fff;border:2px solid var(--line);border-radius:99px;padding:7px 14px;
+    font-size:.8rem;font-weight:800;color:var(--muted)}
+  .dots{display:flex;gap:5px;flex-wrap:wrap;margin-top:12px}
+  .dot{width:26px;height:26px;border-radius:8px;background:#fff;border:2px solid var(--line);
+    font-size:.72rem;font-weight:800;color:var(--muted);display:flex;align-items:center;
+    justify-content:center;cursor:pointer}
+  .dot.done{background:#dbeafe;border-color:#93c5fd;color:#1d4ed8}
+  .dot.now{background:var(--biru);border-color:#1d4ed8;color:#fff}
+  .dot.ok{background:#dcfce7;border-color:#86efac;color:#15803d}
+  .dot.no{background:#ffe4e6;border-color:#fda4af;color:#be123c}
+
+  .card{background:#fff;border:3px solid var(--line);border-radius:22px;padding:22px 20px;
+    margin-top:16px;box-shadow:0 8px 24px rgba(36,40,64,.07)}
+  .qtag{display:inline-block;background:#ede9fe;color:#6d28d9;font-size:.72rem;font-weight:900;
+    letter-spacing:1px;padding:5px 12px;border-radius:8px;text-transform:uppercase}
+  .qtext{font-size:1.1rem;font-weight:700;line-height:1.65;margin:12px 0 18px}
+  .pil{display:grid;gap:11px}
+  .pil label{display:flex;gap:13px;align-items:flex-start;padding:13px 15px;border:2.5px solid var(--line);
+    border-radius:14px;cursor:pointer;font-size:1rem;line-height:1.5;background:#fff;transition:.13s}
+  .pil label:hover{border-color:#93c5fd;background:#f8fbff;transform:translateX(3px)}
+  .pil label.sel{border-color:var(--biru);background:#eff6ff}
+  .pil label.ok{border-color:var(--hijau);background:#f0fdf4}
+  .pil label.salah{border-color:var(--merah);background:#fff1f2}
+  .huruf{width:34px;height:34px;flex-shrink:0;border-radius:50%;background:var(--soft);
+    border:2.5px solid var(--line);display:flex;align-items:center;justify-content:center;
+    font-weight:900;font-size:.95rem}
+  .pil label.sel .huruf{background:var(--biru);color:#fff;border-color:var(--biru)}
+  .pil label.ok .huruf{background:var(--hijau);color:#fff;border-color:var(--hijau)}
+  .pil label.salah .huruf{background:var(--merah);color:#fff;border-color:var(--merah)}
+
+  .nav{display:flex;justify-content:space-between;gap:11px;margin-top:20px;flex-wrap:wrap}
+  .btn{font:inherit;font-weight:800;border:none;border-radius:14px;padding:13px 24px;
+    cursor:pointer;transition:.12s;box-shadow:0 5px 0 rgba(0,0,0,.13);text-decoration:none;display:inline-block}
+  .btn:active{transform:translateY(4px);box-shadow:none}
+  .btn.biru{background:var(--biru);color:#fff}
+  .btn.biru:disabled{background:#cbd5e1;box-shadow:0 5px 0 #94a3b8;cursor:not-allowed;transform:none}
+  .btn.abu{background:#fff;color:#64748b;border:2.5px solid var(--line);box-shadow:none}
+  .btn.abu:disabled{opacity:.45;cursor:not-allowed}
+  .btn.hijau{background:var(--hijau);color:#fff}
+  .btn.ungu{background:var(--ungu);color:#fff}
+
+  /* pilih versi */
+  .versiGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin-top:14px}
+  .vCard{background:#fff;border:3px solid var(--line);border-radius:20px;padding:18px 15px;
+    cursor:pointer;transition:.15s;box-shadow:0 6px 0 var(--line);text-align:center}
+  .vCard:hover{transform:translateY(-4px);box-shadow:0 10px 0 var(--line);border-color:#ddd6fe}
+  .vCard .ic{font-size:2.2rem}
+  .vCard h3{margin:8px 0 4px;font-size:1.1rem}
+  .vCard small{color:var(--muted);display:block;font-size:.8rem}
+  .vCard .mulai{margin-top:11px;display:inline-block;background:var(--ungu);color:#fff;
+    font-weight:800;font-size:.84rem;padding:9px 20px;border-radius:99px}
+
+  /* hasil */
+  .hasil{display:none;text-align:center}
+  .bintang{font-size:3.2rem;letter-spacing:6px;margin:4px 0}
+  .kartuNilai{background:linear-gradient(135deg,#8b5cf6,#ec4899 60%,#f97316);color:#fff;
+    border-radius:24px;padding:26px 18px;box-shadow:0 14px 32px rgba(139,92,246,.35)}
+  .kartuNilai .n{font-size:4rem;font-weight:900;line-height:1}
+  .kartuNilai .l{font-size:.78rem;letter-spacing:3px;opacity:.9}
+  .badgePred{display:inline-block;margin-top:10px;background:rgba(255,255,255,.22);
+    border:1.5px solid rgba(255,255,255,.6);padding:7px 22px;border-radius:99px;font-weight:900}
+  .grid3{display:flex;gap:11px;justify-content:center;flex-wrap:wrap;margin-top:16px}
+  .kotak{background:#fff;border:3px solid var(--line);border-radius:16px;padding:13px 20px;min-width:110px}
+  .kotak b{display:block;font-size:1.7rem}
+  .kotak span{font-size:.78rem;color:var(--muted)}
+  .pujian{margin-top:16px;background:#f0fdf4;border:3px solid #bbf7d0;border-radius:18px;
+    padding:15px;font-size:1rem;font-weight:700;line-height:1.65}
+  .daftar{text-align:left;background:#fff;border:3px solid var(--line);border-radius:18px;
+    padding:16px 18px;margin-top:16px;font-size:.93rem;line-height:1.85}
+  .daftar h3{margin:0 0 10px;text-align:center;font-size:1.05rem}
+  .daftar .benar{color:#15803d;font-weight:700}
+  .daftar .merah{color:#be123c}
+
+  .modal{position:fixed;inset:0;background:rgba(15,23,42,.6);display:none;align-items:flex-start;
+    justify-content:center;padding:24px 14px;overflow:auto;z-index:60}
+  .modal .box{background:#fff;border-radius:22px;max-width:660px;width:100%;padding:24px}
+  .modal h3{margin:0 0 4px;text-align:center}
+  .modal .sub{text-align:center;color:var(--muted);font-size:.83rem;margin-bottom:12px}
+  .modal ol{padding-left:22px;line-height:1.8;font-size:.9rem}
+  .modal ol li{margin-bottom:8px}
+  .modal .ok{color:#15803d;font-weight:800}
+  .modal .btn{display:block;width:100%;margin-top:14px;background:#111827;color:#fff;box-shadow:none}
+
+  footer{text-align:center;color:#9aa1b5;font-size:.79rem;margin-top:26px;line-height:1.7}
+  .hidden{display:none!important}
+  @media print{body{background:#fff}.nav,.bintang,.btn,.topbar{display:none!important}}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <div class="hero">
+    <a class="brand" href="index.html" style="color:#fff;text-decoration:none">
+      <span class="m">📚</span> belajaradrina
+    </a>
+    <div class="crumb" id="crumb">Kategori: <b>—</b></div>
+    <h2 id="judul">Memuat soal…</h2>
+    <p class="sub" id="sub"></p>
+    <div class="badges" id="badges"></div>
+    <div class="bar"><i id="bar"></i></div>
+  </div>
+
+  <!-- PILIH VERSI -->
+  <section id="pilihVersi" class="hidden">
+    <div class="card">
+      <span class="qtag">Pilih Versi Soal</span>
+      <div class="qtext" style="margin-bottom:6px">Tersedia beberapa versi soal dengan soal yang berbeda-beda.</div>
+      <div class="versiGrid" id="versiGrid"></div>
+      <div class="nav">
+        <a class="btn abu" href="index.html">🏠 Kembali ke Daftar Soal</a>
+        <button class="btn ungu" id="btnKunci">🔑 Kunci Jawaban (Guru)</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SOAL -->
+  <section id="soal" class="hidden">
+    <div class="topbar">
+      <a class="pill" href="index.html" style="text-decoration:none">🏠 Daftar Soal</a>
+      <span class="pill" id="pillVersi">—</span>
+      <span class="pill" id="pillTerjawab">0 / 0 terjawab</span>
+      <button class="pill" id="btnKunci2" style="cursor:pointer">🔑 Kunci Jawaban</button>
+    </div>
+    <div class="dots" id="dots"></div>
+
+    <div class="card">
+      <span class="qtag" id="qtag">Soal 1</span>
+      <div class="qtext" id="qtext"></div>
+      <div class="pil" id="pil"></div>
+      <div class="nav">
+        <button class="btn abu" id="btnPrev">⬅ Sebelumnya</button>
+        <button class="btn biru" id="btnNext" disabled>Lanjut ➡</button>
+        <button class="btn hijau hidden" id="btnKirim">📤 Kirim Jawaban</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- HASIL -->
+  <section id="hasil" class="hasil">
+    <div class="bintang" id="bintang">⭐⭐⭐</div>
+    <div class="kartuNilai">
+      <div class="l">NILAI AKHIR</div>
+      <div class="n" id="nilai">0</div>
+      <div class="badgePred" id="predikat">—</div>
+    </div>
+    <div class="grid3">
+      <div class="kotak"><b style="color:#16a34a" id="bStat">0</b><span>Benar ✅</span></div>
+      <div class="kotak"><b style="color:#e11d48" id="sStat">0</b><span>Salah ❌</span></div>
+      <div class="kotak"><b style="color:#d97706" id="kStat">0</b><span>Kosong ⬜</span></div>
+    </div>
+    <div class="pujian" id="pujian"></div>
+    <div class="daftar">
+      <h3>🖍 Kunci Jawaban &amp; Pembahasan</h3>
+      <ol id="daftarJawab"></ol>
+    </div>
+    <div class="nav" style="justify-content:center">
+      <button class="btn ungu" id="btnUlang">🔁 Kerjakan Lagi</button>
+      <button class="btn abu" id="btnMenu">🏠 Daftar Soal</button>
+      <button class="btn biru" id="btnCetak">🖨 Cetak / PDF</button>
+    </div>
+  </section>
+
+  <!-- MODAL KUNCI -->
+  <div class="modal" id="modal">
+    <div class="box">
+      <h3>🔑 Kunci Jawaban</h3>
+      <div class="sub" id="mSub"></div>
+      <div id="mBody"></div>
+      <button class="btn" id="btnTutup">Tutup</button>
+    </div>
+  </div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const param = new URLSearchParams(location.search);
+const K = (window.KUIS || []).find(k => k.id === param.get("id")) || (window.KUIS || [])[0];
+
+let versiIdx = 0, idx = 0, jawab = [];
+
+function tampilkan(nama){
+  ["pilihVersi","soal","hasil"].forEach(s => $(s).classList.add("hidden"));
+  $(nama).classList.remove("hidden");
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+/* ---- header ---- */
+function header(){
+  document.title = `belajaradrina — ${K.judul} (${K.kategori}, ${K.kelas})`;
+  $("crumb").innerHTML =
+    `Kategori: <b>${K.kategori}</b> &nbsp;›&nbsp; Mapel: <b>${K.mapel}</b> &nbsp;›&nbsp; Kelas: <b>${K.kelas}</b>`;
+  $("judul").textContent = `${K.bab}`;
+  $("sub").textContent = `${K.deskripsi} · ${K.versi.reduce((a,v)=>a+v.soal.length,0)} butir soal pilihan ganda dengan nilai otomatis.`;
+  $("badges").innerHTML = [
+    "📂 " + K.kategori, "📖 " + K.mapel, "🏫 " + K.kelas,
+    K.versi.length > 1 ? `🗂 ${K.versi.length} Versi` : null,
+    `📝 ${K.versi[0].soal.length} Soal`
+  ].filter(Boolean).map(b => `<span class="bg">${b}</span>`).join("");
+  $("foot").innerHTML =
+    `<b>belajaradrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>` +
+    `${K.kategori} · ${K.mapel} · ${K.kelas} · ${K.bab}`;
+}
+
+/* ---- pilih versi ---- */
+function renderPilihVersi(){
+  $("versiGrid").innerHTML = K.versi.map((v,i)=>`
+    <div class="vCard" onclick="mulai(${i})">
+      <div class="ic">${["🎨","🖌️","✏️","🖍️","🌟"][i%5]}</div>
+      <h3>${v.nama || ("Versi " + v.kode)}</h3>
+      <small>${v.soal.length} soal pilihan ganda<br>4 pilihan jawaban</small>
+      <span class="mulai">Mulai Kerjakan</span>
+    </div>`).join("");
+  $("bar").style.width = "0%";
+}
+
+/* ---- mulai ---- */
+function mulai(i){
+  versiIdx = i; idx = 0;
+  const v = K.versi[i];
+  jawab = new Array(v.soal.length).fill(null);
+  $("pillVersi").textContent = (v.nama || "Versi " + v.kode);
+  tampilkan("soal");
+  renderSoal();
+}
+
+function renderSoal(){
+  const v = K.versi[versiIdx], s = v.soal[idx];
+  $("qtag").textContent = `Soal ${idx+1} dari ${v.soal.length}`;
+  $("qtext").textContent = s.t;
+  $("pil").innerHTML = s.p.map((t,k)=>`
+    <label class="${jawab[idx]===k?"sel":""}">
+      <span class="huruf">${String.fromCharCode(65+k)}</span><span>${t}</span>
+    </label>`).join("");
+  [...$("pil").children].forEach((lb,k)=>{ lb.onclick = ()=>{ jawab[idx] = k; renderSoal(); }; });
+  $("btnPrev").disabled = idx === 0;
+  const akhir = idx === v.soal.length - 1;
+  $("btnNext").classList.toggle("hidden", akhir);
+  $("btnKirim").classList.toggle("hidden", !akhir);
+  $("btnNext").disabled = jawab[idx] === null;
+  $("btnKirim").disabled = jawab[idx] === null;
+  renderDots();
+}
+
+function renderDots(){
+  const total = K.versi[versiIdx].soal.length;
+  const terjawab = jawab.filter(x => x !== null).length;
+  $("dots").innerHTML = jawab.map((_,k)=>{
+    let c = "dot";
+    if(k === idx) c += " now";
+    else if(jawab[k] !== null) c += " done";
+    return `<div class="${c}" onclick="lompat(${k})">${k+1}</div>`;
+  }).join("");
+  $("pillTerjawab").textContent = `${terjawab} / ${total} terjawab`;
+  $("bar").style.width = (terjawab/total*100) + "%";
+}
+function lompat(k){ idx = k; renderSoal(); }
+
+$("btnNext").onclick = ()=>{ if(idx < K.versi[versiIdx].soal.length-1){ idx++; renderSoal(); window.scrollTo({top:0,behavior:"smooth"}); } };
+$("btnPrev").onclick = ()=>{ if(idx > 0){ idx--; renderSoal(); window.scrollTo({top:0,behavior:"smooth"}); } };
+$("btnKirim").onclick = hitung;
+$("btnUlang").onclick = ()=> mulai(versiIdx);
+$("btnMenu").onclick = ()=> location.href = "index.html";
+$("btnCetak").onclick = ()=> window.print();
+
+/* ---- kunci jawaban ---- */
+function kunci(){
+  $("mSub").textContent = `${K.kategori} · ${K.mapel} · ${K.kelas} · ${K.bab}`;
+  $("mBody").innerHTML = K.versi.map(v=>{
+    const head = K.versi.length > 1 ? `<p style="font-weight:900;margin:14px 0 6px;color:#6d28d9">— ${v.nama} (${v.kode}) —</p>` : "";
+    return head + `<ol>${v.soal.map(s =>
+      `<li>${s.t}<br><span class="ok">✔ ${String.fromCharCode(65+s.j)}. ${s.p[s.j]}</span></li>`).join("")}</ol>`;
+  }).join("");
+  $("modal").style.display = "flex";
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+$("btnKunci").onclick = kunci;
+$("btnKunci2").onclick = kunci;
+$("btnTutup").onclick = ()=> $("modal").style.display = "none";
+$("modal").onclick = e=>{ if(e.target === $("modal")) $("modal").style.display = "none"; };
+
+/* ---- penilaian ---- */
+function hitung(){
+  const v = K.versi[versiIdx];
+  let b = 0, s = 0, k = 0;
+  v.soal.forEach((so,i)=>{
+    if(jawab[i] === null) k++;
+    else if(jawab[i] === so.j) b++;
+    else s++;
+  });
+  const nilai = Math.round(b / v.soal.length * 100);
+
+  let pred, bintang, pujian;
+  if(nilai >= 90){ pred="A — SANGAT BAIK"; bintang="🌟🌟🌟";
+    pujian="Luar biasa! Kamu sangat menguasai materi ini. Pertahankan prestasimu! 🎉"; }
+  else if(nilai >= 75){ pred="B — BAIK"; bintang="🌟🌟";
+    pujian="Kerja bagus! Sedikit lagi sempurna. Tinjau kembali soal yang salah. 👏"; }
+  else if(nilai >= 60){ pred="C — CUKUP"; bintang="🌟";
+    pujian="Sudah cukup baik. Pelajari lagi materinya, lalu kerjakan kembali soal ini. 💪"; }
+  else { pred="D — BELUM TUNTAS"; bintang="✨";
+    pujian="Jangan menyerah! Pelajari lagi materi bersama gurumu, lalu coba lagi. 😊"; }
+
+  $("nilai").textContent = nilai;
+  $("predikat").textContent = pred;
+  $("bintang").textContent = bintang;
+  $("bStat").textContent = b; $("sStat").textContent = s; $("kStat").textContent = k;
+  $("pujian").textContent = pujian;
+  $("bar").style.width = "100%";
+
+  $("daftarJawab").innerHTML = v.soal.map((so,i)=>{
+    const pilih = jawab[i];
+    const tanda = pilih === so.j ? "✅" : "❌";
+    const salah = pilih === so.j ? "" :
+      `<br><span class="merah">Jawabanmu: ${pilih === null ? "tidak dijawab" : String.fromCharCode(65+pilih) + ". " + so.p[pilih]}</span>`;
+    return `<li style="margin-bottom:9px">${tanda} <b>Soal ${i+1}.</b> <span class="benar">${String.fromCharCode(65+so.j)}. ${so.p[so.j]}</span>${salah}
+      <br><span style="color:#7a7f95;font-size:.86rem">💡 ${so.e || ""}</span></li>`;
+  }).join("");
+
+  tampilkan("hasil");
+}
+
+/* ---- init ---- */
+header();
+if(K.versi.length > 1){ tampilkan("pilihVersi"); renderPilihVersi(); }
+else { mulai(0); }
+</script>
+</body>
+</html>
