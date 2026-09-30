@@ -1,700 +1,142 @@
-/* ✏️ PAKET SOAL: Seni Rupa Kelas 1 SD — Garis, Bentuk dan Warna
+/* ✏️ PAKET SOAL: Seni Rupa Kelas 1 SD — Garis, Bentuk, dan Warna (Sumatif 2)
+   Sumber materi: materi-sumatif-2/Seni Rupa/Materi Seni Rupa BAB 1 + Latihan Seni Rupa
+   (9 macam garis, bentuk geometris & organis, warna panas/dingin/netral)
    Edit file ini saja untuk mengubah soal paket ini.
    Lalu jalankan: node tools/build-belajaradrina.mjs   (lalu commit & push) */
 window.KUIS = window.KUIS || [];
 window.KUIS.push({
   "id": "seni-rupa-garis-bentuk-warna-sd",
-  "urut": 4,
+  "urut": 2,
   "judul": "Garis, Bentuk dan Warna",
   "kategori": "Sumatif 2",
   "mapel": "Seni Rupa",
   "kelas": "Kelas 1 SD",
   "tingkat": "sd",
-  "bab": "Garis, Bentuk, dan Warna di Sekitar Kita",
+  "jadwal": "1 Oktober 2026",
+  "bab": "Bab 1: Garis, Bentuk, dan Warna di Sekitar Kita",
   "ikon": "🎨",
-  "deskripsi": "Mengenal garis (tegak, mendatar, lengkung, berlekuk), bentuk dasar, dan warna di sekitar kita.",
+  "deskripsi": "Mengenal macam-macam garis, bentuk geometris & organis, serta warna panas, dingin, dan netral di sekitar kita.",
   "versi": [
     {
       "kode": "A",
-      "nama": "Versi A",
+      "nama": "Sumatif 2",
       "soal": [
         {
-          "t": "Gambar yang bulat seperti roda sepeda disebut bentuk ...",
-          "p": [
-            "segitiga",
-            "lingkaran",
-            "persegi",
-            "persegi panjang"
-          ],
+          "tipe": "pg",
+          "t": "Rel kereta api memiliki garis ....",
+          "p": ["sejajar", "lengkung", "gelombang"],
+          "j": 0,
+          "e": "Rel kereta api terdiri dari dua garis lurus yang sejajar di sisi kiri dan kanan."
+        },
+        {
+          "tipe": "pg",
+          "t": "Anak tangga (tangga) memiliki garis yang membentuk ....",
+          "p": ["lurus", "zig-zag", "gelombang"],
           "j": 1,
-          "e": "Roda sepeda bulat tanpa sudut, yaitu bentuk lingkaran."
+          "e": "Tangga naik-turun seperti huruf V berulang → garis zig-zag."
         },
         {
-          "t": "Garis yang berjalan dari atas ke bawah disebut garis ...",
-          "p": [
-            "mendatar",
-            "lurus",
-            "vertikal (tegak)",
-            "berlekuk"
-          ],
-          "j": 2,
-          "e": "Garis tegak/vertikal berjalan dari atas ke bawah, seperti tiang bendera."
-        },
-        {
-          "t": "Garis yang berjalan dari kiri ke kanan disebut garis ...",
-          "p": [
-            "mendatar (horisontal)",
-            "tegak",
-            "lengkung",
-            "putus-putus"
-          ],
-          "j": 0,
-          "e": "Garis mendatar berjalan menyamping dari kiri ke kanan, seperti tepi meja."
-        },
-        {
-          "t": "Warna daun tumbuhan yang sehat adalah warna ...",
-          "p": [
-            "merah",
-            "biru",
-            "hijau",
-            "hitam"
-          ],
-          "j": 2,
-          "e": "Daun yang sehat berwarna hijau karena mengandung klorofil."
-        },
-        {
-          "t": "Warna langit pada siang hari cerah adalah warna ...",
-          "p": [
-            "biru",
-            "kuning",
-            "jingga",
-            "hitam"
-          ],
-          "j": 0,
-          "e": "Langit pada siang hari terlihat berwarna biru."
-        },
-        {
-          "t": "Warna campuran dari warna merah dan warna kuning adalah ...",
-          "p": [
-            "hijau",
-            "ungu",
-            "jingga",
-            "biru"
-          ],
-          "j": 2,
-          "e": "Merah dicampur kuning menghasilkan warna jingga (oranye)."
-        },
-        {
-          "t": "Atap rumah pada umumnya berbentuk ...",
-          "p": [
-            "lingkaran",
-            "persegi",
-            "segitiga",
-            "oval"
-          ],
-          "j": 2,
-          "e": "Kebanyakan atap rumah berbentuk segitiga agar air hujan cepat turun."
-        },
-        {
-          "t": "Garis yang berbelok seperti huruf V berulang-ulang disebut garis ...",
-          "p": [
-            "lengkung",
-            "berlekuk (zigzag)",
-            "tegak",
-            "bulat"
-          ],
+          "tipe": "pg",
+          "t": "Biru, ungu, dan hijau adalah warna ....",
+          "p": ["panas", "dingin", "netral"],
           "j": 1,
-          "e": "Garis berlekuk atau zigzag adalah garis yang berbelok-belok seperti gigi gergaji."
+          "e": "Biru, ungu, hijau termasuk warna dingin — membuat suasana tenang dan sejuk."
         },
         {
-          "t": "Warna dasar adalah ...",
-          "p": [
-            "merah, kuning, biru",
-            "hijau, jingga, ungu",
-            "hitam, putih, abu-abu",
-            "merah, hijau, biru"
-          ],
-          "j": 0,
-          "e": "Warna dasar (warna primer) adalah merah, kuning, dan biru."
-        },
-        {
-          "t": "Meja tulis pada umumnya berbentuk ...",
-          "p": [
-            "lingkaran",
-            "persegi panjang",
-            "segitiga",
-            "oval"
-          ],
+          "tipe": "pg",
+          "t": "Daun, ikan, awan, dan kucing memiliki bentuk ....",
+          "p": ["geometris", "organis", "lurus"],
           "j": 1,
-          "e": "Meja tulis berbentuk persegi panjang."
+          "e": "Benda alam yang tidak beraturan (daun, ikan, awan, kucing) adalah bentuk organis."
         },
         {
-          "t": "Garis yang terputus-putus seperti titik-titik disebut garis ...",
-          "p": [
-            "panjang",
-            "putus-putus",
-            "tebal",
-            "lengkung"
-          ],
+          "tipe": "pg",
+          "t": "Merah, jingga, dan kuning adalah warna ....",
+          "p": ["panas", "dingin", "netral"],
+          "j": 0,
+          "e": "Merah, jingga (oranye), dan kuning adalah warna panas — membuat bersemangat dan ceria."
+        },
+        {
+          "tipe": "bs",
+          "t": "Garis tegak berjalan dari atas ke bawah.",
+          "p": ["Benar", "Salah"],
+          "j": 0,
+          "e": "Garis tegak (vertikal) memang berjalan dari atas ke bawah → Benar."
+        },
+        {
+          "tipe": "bs",
+          "t": "Bentuk geometris memiliki ciri garis teratur dan sudut yang tegas.",
+          "p": ["Benar", "Salah"],
+          "j": 0,
+          "e": "Bentuk geometris (segitiga, lingkaran, persegi) memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus → Benar."
+        },
+        {
+          "tipe": "bs",
+          "t": "Garis sejajar saling berpotongan.",
+          "p": ["Benar", "Salah"],
           "j": 1,
-          "e": "Garis putus-putus adalah garis yang tidak menyambung, seperti garis di tengah jalan."
+          "e": "Garis sejajar berjalan berdampingan dan tidak pernah berpotongan → Salah."
         },
         {
-          "t": "Jam dinding pada umumnya berbentuk ...",
-          "p": [
-            "persegi",
-            "segitiga",
-            "lingkaran",
-            "persegi panjang"
-          ],
-          "j": 2,
-          "e": "Jam dinding pada umumnya berbentuk lingkaran."
-        },
-        {
-          "t": "Warna campuran dari warna biru dan warna kuning adalah ...",
-          "p": [
-            "merah",
-            "jingga",
-            "ungu",
-            "hijau"
-          ],
-          "j": 3,
-          "e": "Biru dicampur kuning menghasilkan warna hijau."
-        },
-        {
-          "t": "Buah mangga yang sudah masak berwarna ...",
-          "p": [
-            "kuning",
-            "hijau",
-            "biru",
-            "hitam"
-          ],
-          "j": 0,
-          "e": "Buah mangga yang sudah masak umumnya berwarna kuning."
-        },
-        {
-          "t": "Untuk menggambar malam hari yang gelap, warna yang paling tepat adalah ...",
-          "p": [
-            "putih",
-            "kuning",
-            "merah",
-            "hitam"
-          ],
-          "j": 3,
-          "e": "Malam hari terlihat gelap, jadi gambarannya menggunakan warna hitam."
-        }
-      ]
-    },
-    {
-      "kode": "B",
-      "nama": "Versi B",
-      "soal": [
-        {
-          "t": "Warna campuran dari warna biru dan warna merah adalah ...",
-          "p": [
-            "hijau",
-            "ungu",
-            "jingga",
-            "kuning"
-          ],
+          "tipe": "bs",
+          "t": "Warna netral membuat suasana menjadi panas dan gerah.",
+          "p": ["Benar", "Salah"],
           "j": 1,
-          "e": "Biru dicampur merah menghasilkan warna ungu."
+          "e": "Warna netral (putih, abu-abu, coklat) memberi kesan tenang dan lembut, bukan panas → Salah."
         },
         {
-          "t": "Garis yang melengkung seperti tali disebut garis ...",
-          "p": [
-            "tegak",
-            "lurus",
-            "lengkung",
-            "berlekuk"
-          ],
-          "j": 2,
-          "e": "Garis lengkung berbentuk melengkung seperti pelangi atau tali."
-        },
-        {
-          "t": "Kusen pintu pada umumnya berbentuk ...",
-          "p": [
-            "lingkaran",
-            "persegi panjang",
-            "segitiga",
-            "oval"
-          ],
-          "j": 1,
-          "e": "Kusen pintu berbentuk persegi panjang."
-        },
-        {
-          "t": "Kulit buah pisang yang sudah matang berwarna ...",
-          "p": [
-            "biru",
-            "merah",
-            "kuning",
-            "hijau"
-          ],
-          "j": 2,
-          "e": "Pisang yang sudah matang berwarna kuning."
-        },
-        {
-          "t": "Garis di tengah jalan yang tidak menyambung disebut garis ...",
-          "p": [
-            "lengkung",
-            "tegak",
-            "putus-putus",
-            "bulat"
-          ],
-          "j": 2,
-          "e": "Garis di tengah jalan berupa garis putus-putus."
-        },
-        {
-          "t": "Jumlah warna dasar adalah ...",
-          "p": [
-            "dua warna",
-            "tiga warna",
-            "empat warna",
-            "lima warna"
-          ],
-          "j": 1,
-          "e": "Ada tiga warna dasar: merah, kuning, dan biru."
-        },
-        {
-          "t": "Bentuk atap rumah dan bentuk tumpeng pada umumnya adalah ...",
-          "p": [
-            "segitiga",
-            "lingkaran",
-            "persegi",
-            "persegi panjang"
-          ],
+          "tipe": "isian",
+          "t": "Bentuk yang memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus disebut bentuk ....",
+          "p": ["geometris", "organis", "bebas"],
           "j": 0,
-          "e": "Atap rumah dan tumpeng sama-sama berbentuk segitiga."
+          "e": "Ciri bentuk geometris: garis teratur, sudut tegas, dan terdiri dari garis lurus."
         },
         {
-          "t": "Garis yang naik turun seperti gigi gergaji disebut garis ...",
-          "p": [
-            "lengkung",
-            "mendatar",
-            "tegak",
-            "berlekuk (zigzag)"
-          ],
-          "j": 3,
-          "e": "Garis berlekuk/zigzag naik turun terus seperti gigi gergaji."
-        },
-        {
-          "t": "Warna kulit batang pohon pada umumnya adalah ...",
-          "p": [
-            "cokelat",
-            "biru",
-            "ungu",
-            "jingga"
-          ],
+          "tipe": "isian",
+          "t": "Cangkang siput mempunyai garis .... di permukaannya.",
+          "p": ["spiral", "zig-zag", "silang"],
           "j": 0,
-          "e": "Kulit batang pohon pada umumnya berwarna cokelat."
+          "e": "Cangkang siput berpilin ke dalam seperti obeng → garis spiral."
         },
         {
-          "t": "Bunga melati umumnya berwarna ...",
-          "p": [
-            "merah",
-            "hitam",
-            "putih",
-            "ungu"
-          ],
-          "j": 2,
-          "e": "Bunga melati terkenal berwarna putih dan harum."
-        },
-        {
-          "t": "Bentuk telur ayam adalah ...",
-          "p": [
-            "persegi",
-            "segitiga",
-            "lingkaran",
-            "oval"
-          ],
-          "j": 3,
-          "e": "Telur ayam berbentuk oval (lonjong)."
-        },
-        {
-          "t": "Garis yang dibuat dari kiri ke kanan untuk menggambar jalan disebut ...",
-          "p": [
-            "garis tegak",
-            "garis mendatar",
-            "garis lengkung",
-            "garis berlekuk"
-          ],
-          "j": 1,
-          "e": "Jalan digambar dengan garis mendatar dari kiri ke kanan."
-        },
-        {
-          "t": "Buah semangka yang sudah matang berwarna ...",
-          "p": [
-            "merah",
-            "biru",
-            "hitam",
-            "abu-abu"
-          ],
+          "tipe": "isian",
+          "t": "Fungsi warna adalah untuk memperindah ....",
+          "p": ["bentuk dan gambar", "lagu dan suara", "benda yang berat"],
           "j": 0,
-          "e": "Daging buah semangka yang matang berwarna merah."
+          "e": "Fungsi warna adalah memperindah bentuk dan gambar."
         },
         {
-          "t": "Garis bulat yang kita gambar untuk membuat matahari disebut ...",
-          "p": [
-            "garis tegak",
-            "garis lengkung (melengkung)",
-            "garis putus-putus",
-            "garis mendatar"
+          "tipe": "cocok",
+          "t": "Pasangkan macam garis dengan benda yang memilikinya!",
+          "pasangan": [
+            ["garis zig-zag", "tangga"],
+            ["garis spiral", "cangkang siput"],
+            ["garis sejajar", "rel kereta api"]
           ],
-          "j": 1,
-          "e": "Lingkaran matahari digambar dengan garis lengkung yang menyambung."
+          "urutKanan": ["cangkang siput", "rel kereta api", "tangga"],
+          "e": "Tangga → zig-zag, cangkang siput → spiral, rel kereta api → sejajar."
         },
         {
-          "t": "Berikut ini yang BUKAN termasuk warna dasar adalah ...",
-          "p": [
-            "merah",
-            "kuning",
-            "biru",
-            "hijau"
+          "tipe": "cocok",
+          "t": "Pasangkan kelompok warna dengan contoh warnanya!",
+          "pasangan": [
+            ["warna panas", "merah, jingga, kuning"],
+            ["warna dingin", "biru, ungu, hijau"],
+            ["warna netral", "putih, abu-abu, coklat"]
           ],
-          "j": 3,
-          "e": "Hijau adalah warna campuran, bukan warna dasar."
-        }
-      ]
-    },
-    {
-      "kode": "C",
-      "nama": "Versi C",
-      "soal": [
-        {
-          "t": "Pensil yang dilihat dari samping terlihat berbentuk ...",
-          "p": [
-            "lingkaran",
-            "segitiga",
-            "persegi panjang",
-            "oval"
-          ],
-          "j": 2,
-          "e": "Pensil dilihat dari samping terlihat panjang, yaitu persegi panjang."
+          "urutKanan": ["putih, abu-abu, coklat", "merah, jingga, kuning", "biru, ungu, hijau"],
+          "e": "Warna panas: merah, jingga, kuning. Warna dingin: biru, ungu, hijau. Warna netral: putih, abu-abu, coklat."
         },
         {
-          "t": "Warna campuran dari warna kuning dan warna biru adalah ...",
-          "p": [
-            "jingga",
-            "ungu",
-            "merah",
-            "hijau"
+          "tipe": "cocok",
+          "t": "Pasangkan bentuk dengan benda yang berbentuk demikian!",
+          "pasangan": [
+            ["lingkaran", "🕐 jam dinding"],
+            ["persegi panjang", "🚪 pintu"],
+            ["segitiga", "🏠 atap rumah"]
           ],
-          "j": 3,
-          "e": "Kuning dicampur biru menghasilkan warna hijau."
-        },
-        {
-          "t": "Tiang bendera menggambarkan garis ...",
-          "p": [
-            "tegak (vertikal)",
-            "mendatar",
-            "lengkung",
-            "berlekuk"
-          ],
-          "j": 0,
-          "e": "Tiang bendera berdiri dari atas ke bawah, yaitu garis tegak."
-        },
-        {
-          "t": "Buah jeruk yang sudah matang berwarna ...",
-          "p": [
-            "jingga",
-            "biru",
-            "hijau",
-            "hitam"
-          ],
-          "j": 0,
-          "e": "Buah jeruk yang matang umumnya berwarna jingga."
-        },
-        {
-          "t": "Roda sepeda berbentuk ...",
-          "p": [
-            "segitiga",
-            "persegi",
-            "lingkaran",
-            "persegi panjang"
-          ],
-          "j": 2,
-          "e": "Roda sepeda berbentuk lingkaran."
-        },
-        {
-          "t": "Garis yang berkelok seperti huruf S disebut garis ...",
-          "p": [
-            "tegak",
-            "lengkung",
-            "mendatar",
-            "putus-putus"
-          ],
-          "j": 1,
-          "e": "Garis yang berkelok lembut seperti huruf S adalah garis lengkung."
-        },
-        {
-          "t": "Warna dasar adalah merah, kuning, dan ...",
-          "p": [
-            "hijau",
-            "ungu",
-            "biru",
-            "jingga"
-          ],
-          "j": 2,
-          "e": "Warna dasar ketiga adalah biru."
-        },
-        {
-          "t": "Pada hari mendung, awan yang menutupi langit berwarna ...",
-          "p": [
-            "kelabu (abu-abu)",
-            "hijau",
-            "kuning",
-            "cokelat"
-          ],
-          "j": 0,
-          "e": "Awan yang tebal pada hari mendung berwarna kelabu."
-        },
-        {
-          "t": "Jendela kamar pada umumnya berbentuk ...",
-          "p": [
-            "lingkaran",
-            "segitiga",
-            "persegi panjang",
-            "oval"
-          ],
-          "j": 2,
-          "e": "Jendela kamar pada umumnya berbentuk persegi panjang."
-        },
-        {
-          "t": "Garis yang dibuat dari titik-titik yang tidak menyambung disebut ...",
-          "p": [
-            "garis putus-putus",
-            "garis tebal",
-            "garis lengkung",
-            "garis tegak"
-          ],
-          "j": 0,
-          "e": "Garis putus-putus tersusun dari titik-titik atau garis yang tidak menyambung."
-        },
-        {
-          "t": "Buah apel yang segar berwarna ...",
-          "p": [
-            "merah",
-            "biru",
-            "hitam",
-            "kelabu"
-          ],
-          "j": 0,
-          "e": "Buah apel yang segar umumnya berwarna merah."
-        },
-        {
-          "t": "Pelangi jika digambar akan berbentuk seperti garis ...",
-          "p": [
-            "lengkung",
-            "tegak",
-            "mendatar",
-            "putus-putus"
-          ],
-          "j": 0,
-          "e": "Pelangi berbentuk melengkung seperti garis lengkung."
-        },
-        {
-          "t": "Warna merah dicampur dengan warna biru menghasilkan warna ...",
-          "p": [
-            "ungu",
-            "hijau",
-            "jingga",
-            "kuning"
-          ],
-          "j": 0,
-          "e": "Merah dicampur biru menghasilkan warna ungu."
-        },
-        {
-          "t": "Berikut ini yang BUKAN warna dasar adalah ...",
-          "p": [
-            "merah",
-            "kuning",
-            "biru",
-            "hijau"
-          ],
-          "j": 3,
-          "e": "Hijau terbentuk dari campuran biru dan kuning, sehingga bukan warna dasar."
-        },
-        {
-          "t": "Gunung jika digambar dengan sederhana berbentuk ...",
-          "p": [
-            "lingkaran",
-            "segitiga",
-            "persegi panjang",
-            "oval"
-          ],
-          "j": 1,
-          "e": "Gunung digambar sederhana berbentuk segitiga."
-        }
-      ]
-    },
-    {
-      "kode": "D",
-      "nama": "Versi D",
-      "soal": [
-        {
-          "t": "Daging buah pepaya yang sudah masak berwarna ...",
-          "p": [
-            "jingga",
-            "biru",
-            "hitam",
-            "putih"
-          ],
-          "j": 0,
-          "e": "Daging buah pepaya yang masak berwarna jingga."
-        },
-        {
-          "t": "Garis yang berjalan dari kiri ke kanan disebut garis ...",
-          "p": [
-            "tegak",
-            "mendatar",
-            "lengkung",
-            "putus-putus"
-          ],
-          "j": 1,
-          "e": "Garis mendatar berjalan menyamping dari kiri ke kanan."
-        },
-        {
-          "t": "Balon yang diisi penuh udara berbentuk ...",
-          "p": [
-            "segitiga",
-            "persegi",
-            "lingkaran",
-            "persegi panjang"
-          ],
-          "j": 2,
-          "e": "Balon yang penuh berbentuk bulat, yaitu lingkaran."
-        },
-        {
-          "t": "Warna campuran dari warna biru dan warna kuning adalah ...",
-          "p": [
-            "jingga",
-            "ungu",
-            "merah",
-            "hijau"
-          ],
-          "j": 3,
-          "e": "Biru dicampur kuning menghasilkan warna hijau."
-        },
-        {
-          "t": "Pada malam hari, langit yang gelap terlihat berwarna ...",
-          "p": [
-            "hitam",
-            "putih",
-            "kuning",
-            "merah"
-          ],
-          "j": 0,
-          "e": "Malam hari langit gelap, warnanya hitam."
-        },
-        {
-          "t": "Buku tulis pada umumnya berbentuk ...",
-          "p": [
-            "lingkaran",
-            "segitiga",
-            "persegi panjang",
-            "oval"
-          ],
-          "j": 2,
-          "e": "Buku tulis berbentuk persegi panjang."
-        },
-        {
-          "t": "Garis yang berbelok seperti huruf Z berulang-ulang disebut garis ...",
-          "p": [
-            "lengkung",
-            "berlekuk (zigzag)",
-            "tegak",
-            "bulat"
-          ],
-          "j": 1,
-          "e": "Garis berlekuk adalah garis yang berbelok-belok tajam seperti huruf Z."
-        },
-        {
-          "t": "Warna dasar adalah ...",
-          "p": [
-            "merah, kuning, biru",
-            "hijau, ungu, jingga",
-            "hitam, putih, merah",
-            "kuning, hijau, biru"
-          ],
-          "j": 0,
-          "e": "Warna dasar adalah merah, kuning, dan biru."
-        },
-        {
-          "t": "Bentuk tumpeng jika dilihat dari samping adalah ...",
-          "p": [
-            "lingkaran",
-            "persegi",
-            "oval",
-            "segitiga"
-          ],
-          "j": 3,
-          "e": "Tumpeng meruncing ke atas, yaitu berbentuk segitiga."
-        },
-        {
-          "t": "Garis yang dibuat dengan penggaris dan tidak berbelok disebut garis ...",
-          "p": [
-            "lurus",
-            "putus-putus",
-            "lengkung",
-            "berlekuk"
-          ],
-          "j": 0,
-          "e": "Garis yang dibuat dengan penggaris tidak berbelok, yaitu garis lurus."
-        },
-        {
-          "t": "Daun pisang yang sudah kering berwarna ...",
-          "p": [
-            "cokelat",
-            "hijau",
-            "biru",
-            "merah"
-          ],
-          "j": 0,
-          "e": "Daun yang sudah kering berwarna cokelat."
-        },
-        {
-          "t": "Bantal tidur pada umumnya berbentuk ...",
-          "p": [
-            "persegi panjang",
-            "segitiga",
-            "lingkaran",
-            "oval"
-          ],
-          "j": 0,
-          "e": "Bantal tidur pada umumnya berbentuk persegi panjang."
-        },
-        {
-          "t": "Bunga matahari berwarna ...",
-          "p": [
-            "kuning",
-            "biru",
-            "hitam",
-            "putih"
-          ],
-          "j": 0,
-          "e": "Kelopak bunga matahari berwarna kuning cerah."
-        },
-        {
-          "t": "Warna rambut orang Indonesia pada umumnya adalah ...",
-          "p": [
-            "hitam",
-            "biru",
-            "jingga",
-            "ungu"
-          ],
-          "j": 0,
-          "e": "Rambut orang Indonesia pada umumnya berwarna hitam."
-        },
-        {
-          "t": "Saat menggambar rumah, dinding digambar dengan garis ...",
-          "p": [
-            "tegak dan mendatar",
-            "lengkung",
-            "berlekuk",
-            "putus-putus"
-          ],
-          "j": 0,
-          "e": "Dinding rumah digambar dengan garis tegak dan garis mendatar."
+          "urutKanan": ["🏠 atap rumah", "🕐 jam dinding", "🚪 pintu"],
+          "e": "Jam dinding bentuknya lingkaran, pintu persegi panjang, atap rumah segitiga."
         }
       ]
     }

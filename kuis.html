@@ -69,6 +69,24 @@
   .pil label.ok .huruf{background:var(--hijau);color:#fff;border-color:var(--hijau)}
   .pil label.salah .huruf{background:var(--merah);color:#fff;border-color:var(--merah)}
 
+  /* tipe: benar/salah */
+  .bsPil{display:flex;gap:12px;flex-wrap:wrap}
+  .bsPil label{flex:1;min-width:150px;justify-content:center;gap:9px;
+    font-size:1.08rem;font-weight:900;text-align:center;padding:17px 14px}
+  .bsPil label .bsIc{font-size:1.5rem}
+
+  /* tipe: cocokkan */
+  .cocokRow{display:flex;gap:10px;align-items:center;background:#f8fafc;border:2.5px solid var(--line);
+    border-radius:14px;padding:11px 13px;margin-bottom:11px;flex-wrap:wrap}
+  .cocokRow .kiri{flex:1;min-width:130px;font-weight:800}
+  .cocokRow .panah{font-weight:900;color:var(--muted)}
+  .cocokRow select{font:inherit;font-weight:700;padding:9px 12px;border:2.5px solid var(--line);
+    border-radius:11px;background:#fff;cursor:pointer;min-width:150px;flex:1;max-width:260px}
+  .cocokRow select.picked{border-color:var(--biru);background:#eff6ff}
+
+  .catatan{margin-top:12px;background:#fffbeb;border:2.5px solid #fde68a;border-radius:14px;
+    padding:11px 14px;font-size:.86rem;font-weight:600;line-height:1.6;text-align:left}
+
   .nav{display:flex;justify-content:space-between;gap:11px;margin-top:20px;flex-wrap:wrap}
   .btn{font:inherit;font-weight:800;border:none;border-radius:14px;padding:13px 24px;
     cursor:pointer;transition:.12s;box-shadow:0 5px 0 rgba(0,0,0,.13);text-decoration:none;display:inline-block}
@@ -189,6 +207,7 @@
       <div class="kotak"><b style="color:#e11d48" id="sStat">0</b><span>Salah ❌</span></div>
       <div class="kotak"><b style="color:#d97706" id="kStat">0</b><span>Kosong ⬜</span></div>
     </div>
+    <div class="catatan hidden" id="catatan"></div>
     <div class="pujian" id="pujian"></div>
     <div class="daftar">
       <h3>🖍 Kunci Jawaban &amp; Pembahasan</h3>
@@ -222,6 +241,21 @@ const K = (window.KUIS || []).find(k => k.id === param.get("id")) || (window.KUI
 
 let versiIdx = 0, idx = 0, jawab = [];
 
+/* ---- tipe soal (default "pg" untuk kompatibilitas lama) ---- */
+const TIPE = s => s.tipe || "pg";
+const NAMA_TIPE = { pg:"pilihan ganda", bs:"benar/salah", isian:"isian kata pilihan", cocok:"cocokkan" };
+function tipesPaket(){
+  return [...new Set(K.versi.flatMap(v => v.soal.map(TIPE)))];
+}
+function jawabKosong(s){ return TIPE(s) === "cocok" ? new Array(s.pasangan.length).fill(null) : null; }
+function terisi(s, jwb){
+  return TIPE(s) === "cocok" ? jwb.every(x => x !== null) : jwb !== null;
+}
+function teksKunci(s){
+  if(TIPE(s) === "cocok") return s.pasangan.map(p => `${p[0]} ➡ <b>${p[1]}</b>`).join("<br>");
+  return `${String.fromCharCode(65 + s.j)}. ${s.p[s.j]}`;
+}
+
 function tampilkan(nama){
   ["pilihVersi","soal","hasil"].forEach(s => $(s).classList.add("hidden"));
   $(nama).classList.remove("hidden");
@@ -234,11 +268,15 @@ function header(){
   $("crumb").innerHTML =
     `Kategori: <b>${K.kategori}</b> &nbsp;›&nbsp; Mapel: <b>${K.mapel}</b> &nbsp;›&nbsp; Kelas: <b>${K.kelas}</b>`;
   $("judul").textContent = `${K.bab}`;
-  $("sub").textContent = `${K.deskripsi} · ${K.versi.reduce((a,v)=>a+v.soal.length,0)} butir soal pilihan ganda dengan nilai otomatis.`;
+  const tp = tipesPaket(), nSoal = K.versi.reduce((a,v)=>a+v.soal.length,0);
+  $("sub").textContent = `${K.deskripsi} · ${nSoal} butir soal dengan ${tp.length} konsep soal ` +
+    `(${tp.map(t=>NAMA_TIPE[t]).join(", ")}) dan nilai otomatis.`;
   $("badges").innerHTML = [
     "📂 " + K.kategori, "📖 " + K.mapel, "🏫 " + K.kelas,
+    K.jadwal ? "📅 Ujian " + K.jadwal : null,
+    `🧩 ${tp.length} Konsep`,
     K.versi.length > 1 ? `🗂 ${K.versi.length} Versi` : null,
-    `📝 ${K.versi[0].soal.length} Soal`
+    `📝 ${nSoal} Soal`
   ].filter(Boolean).map(b => `<span class="bg">${b}</span>`).join("");
   $("foot").innerHTML =
     `<b>belajaradrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>` +
@@ -251,7 +289,7 @@ function renderPilihVersi(){
     <div class="vCard" onclick="mulai(${i})">
       <div class="ic">${["🎨","🖌️","✏️","🖍️","🌟"][i%5]}</div>
       <h3>${v.nama || ("Versi " + v.kode)}</h3>
-      <small>${v.soal.length} soal pilihan ganda<br>4 pilihan jawaban</small>
+      <small>${v.soal.length} soal · ${[...new Set(v.soal.map(TIPE))].length} konsep soal<br>semua pilihan jawaban</small>
       <span class="mulai">Mulai Kerjakan</span>
     </div>`).join("");
   $("bar").style.width = "0%";
@@ -261,37 +299,63 @@ function renderPilihVersi(){
 function mulai(i){
   versiIdx = i; idx = 0;
   const v = K.versi[i];
-  jawab = new Array(v.soal.length).fill(null);
+  jawab = v.soal.map(s => jawabKosong(s));
   $("pillVersi").textContent = (v.nama || "Versi " + v.kode);
   tampilkan("soal");
   renderSoal();
 }
 
 function renderSoal(){
-  const v = K.versi[versiIdx], s = v.soal[idx];
-  $("qtag").textContent = `Soal ${idx+1} dari ${v.soal.length}`;
+  const v = K.versi[versiIdx], s = v.soal[idx], t = TIPE(s);
+  $("qtag").textContent = `Soal ${idx+1} dari ${v.soal.length}` + (t !== "pg" ? ` · ${NAMA_TIPE[t]}` : "");
   $("qtext").textContent = s.t;
-  $("pil").innerHTML = s.p.map((t,k)=>`
-    <label class="${jawab[idx]===k?"sel":""}">
-      <span class="huruf">${String.fromCharCode(65+k)}</span><span>${t}</span>
-    </label>`).join("");
-  [...$("pil").children].forEach((lb,k)=>{ lb.onclick = ()=>{ jawab[idx] = k; renderSoal(); }; });
+
+  if(t === "cocok"){
+    $("pil").innerHTML = `<div class="cocok">` + s.pasangan.map((p,r)=>`
+      <div class="cocokRow">
+        <span class="kiri">${p[0]}</span><span class="panah">➡</span>
+        <select data-r="${r}" class="${jawab[idx][r]!==null?"picked":""}">
+          <option value="">… pilih pasangannya</option>
+          ${s.urutKanan.map(o=>`<option value="${o}" ${jawab[idx][r]===o?"selected":""}>${o}</option>`).join("")}
+        </select>
+      </div>`).join("") + `</div>`;
+    [...$("pil").querySelectorAll("select")].forEach(sel=>{
+      sel.onchange = ()=>{
+        jawab[idx][+sel.dataset.r] = sel.value || null;
+        renderSoal();
+      };
+    });
+  } else if(t === "bs"){
+    $("pil").innerHTML = `<div class="bsPil">` + s.p.map((txt,k)=>`
+      <label class="${jawab[idx]===k?"sel":""}"><span class="bsIc">${k===0?"✅":"❌"}</span><span>${txt}</span></label>`).join("") + `</div>`;
+    [...$("pil").querySelectorAll("label")].forEach((lb,k)=>{
+      lb.onclick = ()=>{ jawab[idx] = k; renderSoal(); };
+    });
+  } else {
+    /* pg & isian kata pilihan */
+    $("pil").innerHTML = s.p.map((txt,k)=>`
+      <label class="${jawab[idx]===k?"sel":""}"><span class="huruf">${String.fromCharCode(65+k)}</span><span>${txt}</span></label>`).join("");
+    [...$("pil").children].forEach((lb,k)=>{ lb.onclick = ()=>{ jawab[idx] = k; renderSoal(); }; });
+  }
+
   $("btnPrev").disabled = idx === 0;
   const akhir = idx === v.soal.length - 1;
   $("btnNext").classList.toggle("hidden", akhir);
   $("btnKirim").classList.toggle("hidden", !akhir);
-  $("btnNext").disabled = jawab[idx] === null;
-  $("btnKirim").disabled = jawab[idx] === null;
+  const isi = terisi(s, jawab[idx]);
+  $("btnNext").disabled = !isi;
+  $("btnKirim").disabled = !isi;
   renderDots();
 }
 
 function renderDots(){
-  const total = K.versi[versiIdx].soal.length;
-  const terjawab = jawab.filter(x => x !== null).length;
-  $("dots").innerHTML = jawab.map((_,k)=>{
+  const v = K.versi[versiIdx];
+  const total = v.soal.length;
+  const terjawab = jawab.filter((jwb,k) => terisi(v.soal[k], jwb)).length;
+  $("dots").innerHTML = jawab.map((jwb,k)=>{
     let c = "dot";
     if(k === idx) c += " now";
-    else if(jawab[k] !== null) c += " done";
+    else if(terisi(v.soal[k], jwb)) c += " done";
     return `<div class="${c}" onclick="lompat(${k})">${k+1}</div>`;
   }).join("");
   $("pillTerjawab").textContent = `${terjawab} / ${total} terjawab`;
@@ -312,7 +376,7 @@ function kunci(){
   $("mBody").innerHTML = K.versi.map(v=>{
     const head = K.versi.length > 1 ? `<p style="font-weight:900;margin:14px 0 6px;color:#6d28d9">— ${v.nama} (${v.kode}) —</p>` : "";
     return head + `<ol>${v.soal.map(s =>
-      `<li>${s.t}<br><span class="ok">✔ ${String.fromCharCode(65+s.j)}. ${s.p[s.j]}</span></li>`).join("")}</ol>`;
+      `<li>${s.t}<br><span class="ok">✔ ${teksKunci(s)}</span></li>`).join("")}</ol>`;
   }).join("");
   $("modal").style.display = "flex";
   window.scrollTo({top:0,behavior:"smooth"});
@@ -327,11 +391,21 @@ function hitung(){
   const v = K.versi[versiIdx];
   let b = 0, s = 0, k = 0;
   v.soal.forEach((so,i)=>{
-    if(jawab[i] === null) k++;
-    else if(jawab[i] === so.j) b++;
-    else s++;
+    if(TIPE(so) === "cocok"){
+      so.pasangan.forEach((p,r)=>{
+        const jwb = jawab[i][r];
+        if(jwb === null || jwb === undefined) k++;
+        else if(jwb === p[1]) b++;
+        else s++;
+      });
+    } else {
+      if(jawab[i] === null) k++;
+      else if(jawab[i] === so.j) b++;
+      else s++;
+    }
   });
-  const nilai = Math.round(b / v.soal.length * 100);
+  const totalUnit = b + s + k;
+  const nilai = Math.round(b / totalUnit * 100);
 
   let pred, bintang, pujian;
   if(nilai >= 90){ pred="A — SANGAT BAIK"; bintang="🌟🌟🌟";
@@ -350,12 +424,33 @@ function hitung(){
   $("pujian").textContent = pujian;
   $("bar").style.width = "100%";
 
+  const nSoal = v.soal.length;
+  const adaCocok = v.soal.some(so => TIPE(so) === "cocok");
+  const cat = $("catatan");
+  cat.classList.toggle("hidden", !adaCocok);
+  if(adaCocok){
+    cat.textContent = `🧮 Nilai dihitung dari ${totalUnit} jawaban: ${nSoal} soal, di mana tiap pasangan ` +
+      `pada soal cocokkan dihitung terpisah (${b + s} terisi, ${k} kosong).`;
+  }
+
   $("daftarJawab").innerHTML = v.soal.map((so,i)=>{
+    if(TIPE(so) === "cocok"){
+      const benar = so.pasangan.filter((p,r)=> jawab[i][r] === p[1]).length;
+      const rows = so.pasangan.map((p,r)=>{
+        const jwb = jawab[i][r], ok = jwb === p[1];
+        return `<div style="margin:4px 0 4px 6px">${ok?"✅":"❌"} <b>${p[0]}</b> ➡ ` +
+          `<span class="benar">${p[1]}</span>` +
+          (ok ? "" : `<br><span class="merah" style="margin-left:14px">Jawabanmu: ${jwb===null?"tidak dijawab":jwb}</span>`) +
+          `</div>`;
+      }).join("");
+      return `<li style="margin-bottom:9px">🔗 <b>Soal ${i+1}.</b> Cocokkan — benar ${benar} dari ${so.pasangan.length}<br>${rows}
+        <br><span style="color:#7a7f95;font-size:.86rem">💡 ${so.e || ""}</span></li>`;
+    }
     const pilih = jawab[i];
     const tanda = pilih === so.j ? "✅" : "❌";
     const salah = pilih === so.j ? "" :
       `<br><span class="merah">Jawabanmu: ${pilih === null ? "tidak dijawab" : String.fromCharCode(65+pilih) + ". " + so.p[pilih]}</span>`;
-    return `<li style="margin-bottom:9px">${tanda} <b>Soal ${i+1}.</b> <span class="benar">${String.fromCharCode(65+so.j)}. ${so.p[so.j]}</span>${salah}
+    return `<li style="margin-bottom:9px">${tanda} <b>Soal ${i+1}.</b> <span class="benar">${teksKunci(so)}</span>${salah}
       <br><span style="color:#7a7f95;font-size:.86rem">💡 ${so.e || ""}</span></li>`;
   }).join("");
 
