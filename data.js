@@ -568,7 +568,7 @@ window.KUIS = [
       "t": "Garis yang berjalan dari atas ke bawah disebut garis ...",
       "p": [
        "mendatar",
-       "lengkap",
+       "lurus",
        "vertikal (tegak)",
        "berlekuk"
       ],
