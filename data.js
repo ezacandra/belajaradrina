@@ -3,6 +3,7 @@ window.SITE = { nama: "belajaradrina", tagline: "Latihan & bank soal sesuai kela
 window.KUIS = [
  {
   "id": "pjok-gerak-lokomotor-smp",
+  "urut": 1,
   "judul": "Gerak Lokomotor",
   "kategori": "Sumatif",
   "mapel": "PJOK",
@@ -187,6 +188,7 @@ window.KUIS = [
  },
  {
   "id": "pjok-variasi-gerak-lokomotor-smp",
+  "urut": 2,
   "judul": "Variasi Gerak Lokomotor",
   "kategori": "Sumatif 2",
   "mapel": "PJOK",
@@ -371,6 +373,7 @@ window.KUIS = [
  },
  {
   "id": "pjok-gerak-lokomotor-sd",
+  "urut": 3,
   "judul": "Gerak Lokomotor",
   "kategori": "Sumatif",
   "mapel": "PJOK",
@@ -540,6 +543,7 @@ window.KUIS = [
  },
  {
   "id": "seni-rupa-garis-bentuk-warna-sd",
+  "urut": 4,
   "judul": "Garis, Bentuk dan Warna",
   "kategori": "Sumatif 2",
   "mapel": "Seni Rupa",
