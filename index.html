@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>belajaradrina — Latihan & Bank Soal per Kelas, Kategori, dan Mata Pelajaran</title>
-<meta name="description" content="belajaradrina: kumpulan latihan soal sesuai kelas, kategori (Sumatif, Sumatif 2), dan mata pelajaran dengan nilai otomatis." />
+<title>Belajar Adrina — Latihan & Bank Soal per Kelas, Kategori, dan Mata Pelajaran</title>
+<meta name="description" content="Belajar Adrina: kumpulan latihan soal sesuai kelas, kategori (Sumatif, Sumatif 2), dan mata pelajaran dengan nilai otomatis." />
 <style>
   :root{
     --ink:#1f2340; --muted:#767d99; --line:#e8ebf4; --soft:#f7f8fc;
@@ -13,6 +13,7 @@
     --grad:linear-gradient(135deg,#2563eb,#7c3aed 55%,#ec4899);
   }
   *{box-sizing:border-box}
+  html{font-size:17.5px}
   html,body{margin:0}
   body{
     font-family:"Segoe UI",system-ui,Arial,sans-serif;color:var(--ink);min-height:100vh;
@@ -99,7 +100,7 @@
     <div class="logo">
       <div class="mark">📚</div>
       <div>
-        <h1>belajaradrina</h1>
+        <h1>Belajar Adrina</h1>
         <div class="t">Latihan &amp; bank soal sesuai kelas, kategori, dan mata pelajaran</div>
       </div>
     </div>
@@ -132,7 +133,7 @@
   <div class="grid" id="grid"></div>
 
   <footer>
-    <b>belajaradrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>
+    <b>Belajar Adrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>
     Setiap paket soal dilengkapi nilai otomatis 0–100, kunci jawaban, dan pembahasan.
   </footer>
 </div>
@@ -154,6 +155,13 @@ const warna = ["#3b82f6","#f97316","#22c55e","#8b5cf6","#ec4899","#0ea5e9"];
 
 const unik = (arr) => [...new Set(arr)];
 const F = { kelas:"semua", kat:"semua", mapel:"semua" };
+
+/* filter dari URL (dipakai link breadcrumb di halaman kuis) */
+const prm = new URLSearchParams(location.search);
+const cocok = (key, nilai, daftar) => { if (nilai && daftar.includes(nilai)) F[key] = nilai; };
+cocok("kelas", prm.get("kelas"), unik(K.map(k => k.kelas)));
+cocok("mapel", prm.get("mapel"), unik(K.map(k => k.mapel)));
+cocok("kat",   prm.get("kat"),   unik(K.map(k => k.kategori)));
 
 function totalSoal(k){ return k.versi.reduce((a,v)=>a+v.soal.length,0); }
 
@@ -199,8 +207,8 @@ function refresh(){
       <h3>${k.judul}</h3>
       <div class="badges">
         <span class="bg kelas">🏫 ${k.kelas}</span>
-        <span class="bg kat">📂 ${k.kategori}</span>
         <span class="bg mapel">📖 ${k.mapel}</span>
+        <span class="bg kat">📂 ${k.kategori}</span>
         ${k.jadwal ? `<span class="bg versi">📅 ${k.jadwal}</span>` : ""}
         ${versi}
         <span class="bg versi">📝 ${totalSoal(k)} soal</span>

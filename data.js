@@ -1,5 +1,5 @@
 /* Dibuat otomatis oleh tools/build-belajaradrina.mjs — jangan diedit manual */
-window.SITE = { nama: "belajaradrina", tagline: "Latihan & bank soal sesuai kelas, kategori, dan mata pelajaran" };
+window.SITE = { nama: "Belajar Adrina", tagline: "Latihan & bank soal sesuai kelas, kategori, dan mata pelajaran" };
 window.KUIS = [
  {
   "id": "english-unit2-family-time-sd",
@@ -30,6 +30,16 @@ window.KUIS = [
       "e": "Gambar nenek → grandmother (nenek). She is my grandmother = Dia adalah nenekku."
      },
      {
+      "tipe": "bs",
+      "t": "Father and grandfather are family members.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Father (ayah) dan grandfather (kakek) adalah anggota keluarga → Benar."
+     },
+     {
       "tipe": "pg",
       "t": "There are .... bananas. 🍌🍌🍌🍌🍌",
       "p": [
@@ -41,79 +51,6 @@ window.KUIS = [
       "e": "Hitung pisangnya: 1, 2, 3, 4, 5 → five (lima)."
      },
      {
-      "tipe": "pg",
-      "t": "I eat .... for breakfast. 🍳",
-      "p": [
-       "rice",
-       "bread",
-       "eggs"
-      ],
-      "j": 2,
-      "e": "Gambar telur goreng → eggs (telur). Breakfast = sarapan."
-     },
-     {
-      "tipe": "pg",
-      "t": "What do you do at home? I .... 📺",
-      "p": [
-       "read books",
-       "watch TV",
-       "do Maths"
-      ],
-      "j": 1,
-      "e": "📺 = TV → I watch TV at home (aku menonton TV di rumah)."
-     },
-     {
-      "tipe": "pg",
-      "t": "At school, I learn .... 🏫",
-      "p": [
-       "English",
-       "toys",
-       "noodles"
-      ],
-      "j": 0,
-      "e": "Di sekolah kita belajar English (bahasa Inggris). Toys = mainan, noodles = mie, itu bukan pelajaran."
-     },
-     {
-      "tipe": "bs",
-      "t": "Father and grandfather are family members.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Father (ayah) dan grandfather (kakek) adalah anggota keluarga → Benar."
-     },
-     {
-      "tipe": "bs",
-      "t": "I watch TV at school with my teacher.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Menonton TV dilakukan di rumah (at home), bukan di sekolah → Salah."
-     },
-     {
-      "tipe": "bs",
-      "t": "I eat noodles for breakfast.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Noodles (mie) bisa dimakan untuk sarapan → Benar. Pada latihan ada pilihan noodles untuk breakfast."
-     },
-     {
-      "tipe": "bs",
-      "t": "My sister is a boy.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Sister = kakak/adik perempuan, jadi bukan boy (anak laki-laki) → Salah."
-     },
-     {
       "tipe": "isian",
       "t": "She is my .... 👩",
       "p": [
@@ -123,28 +60,6 @@ window.KUIS = [
       ],
       "j": 0,
       "e": "Gambar ibu → mother. She is my mother = Dia ibuku. Father & grandfather adalah laki-laki."
-     },
-     {
-      "tipe": "isian",
-      "t": "He eats .... for breakfast. 🍜",
-      "p": [
-       "bread",
-       "noodles",
-       "yogurt"
-      ],
-      "j": 1,
-      "e": "Gambar semangkuk mie → noodles (mie)."
-     },
-     {
-      "tipe": "isian",
-      "t": "There are .... strawberries. 🍓🍓🍓🍓",
-      "p": [
-       "two",
-       "three",
-       "four"
-      ],
-      "j": 2,
-      "e": "Hitung stroberi: 1, 2, 3, 4 → four (empat)."
      },
      {
       "tipe": "cocok",
@@ -171,6 +86,49 @@ window.KUIS = [
       "e": "father = ayah, mother = ibu, grandmother = nenek."
      },
      {
+      "tipe": "pg",
+      "t": "I eat .... for breakfast. 🍳",
+      "p": [
+       "rice",
+       "bread",
+       "eggs"
+      ],
+      "j": 2,
+      "e": "Gambar telur goreng → eggs (telur). Breakfast = sarapan."
+     },
+     {
+      "tipe": "bs",
+      "t": "I watch TV at school with my teacher.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Menonton TV dilakukan di rumah (at home), bukan di sekolah → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "He eats .... for breakfast. 🍜",
+      "p": [
+       "bread",
+       "noodles",
+       "yogurt"
+      ],
+      "j": 1,
+      "e": "Gambar semangkuk mie → noodles (mie)."
+     },
+     {
+      "tipe": "pg",
+      "t": "What do you do at home? I .... 📺",
+      "p": [
+       "read books",
+       "watch TV",
+       "do Maths"
+      ],
+      "j": 1,
+      "e": "📺 = TV → I watch TV at home (aku menonton TV di rumah)."
+     },
+     {
       "tipe": "cocok",
       "t": "Pasangkan bilangan (angka) dengan tulisan dalam bahasa Inggris!",
       "pasangan": [
@@ -193,6 +151,48 @@ window.KUIS = [
        "five"
       ],
       "e": "3 = three, 5 = five, 7 = seven. Teruskan menghitung sampai ten (10)!"
+     },
+     {
+      "tipe": "bs",
+      "t": "I eat noodles for breakfast.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Noodles (mie) bisa dimakan untuk sarapan → Benar. Pada latihan ada pilihan noodles untuk breakfast."
+     },
+     {
+      "tipe": "pg",
+      "t": "At school, I learn .... 🏫",
+      "p": [
+       "English",
+       "toys",
+       "noodles"
+      ],
+      "j": 0,
+      "e": "Di sekolah kita belajar English (bahasa Inggris). Toys = mainan, noodles = mie, itu bukan pelajaran."
+     },
+     {
+      "tipe": "isian",
+      "t": "There are .... strawberries. 🍓🍓🍓🍓",
+      "p": [
+       "two",
+       "three",
+       "four"
+      ],
+      "j": 2,
+      "e": "Hitung stroberi: 1, 2, 3, 4 → four (empat)."
+     },
+     {
+      "tipe": "bs",
+      "t": "My sister is a boy.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Sister = kakak/adik perempuan, jadi bukan boy (anak laki-laki) → Salah."
      },
      {
       "tipe": "cocok",
@@ -251,6 +251,16 @@ window.KUIS = [
       "e": "Rel kereta api terdiri dari dua garis lurus yang sejajar di sisi kiri dan kanan."
      },
      {
+      "tipe": "bs",
+      "t": "Garis tegak berjalan dari atas ke bawah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Garis tegak (vertikal) memang berjalan dari atas ke bawah → Benar."
+     },
+     {
       "tipe": "pg",
       "t": "Anak tangga (tangga) memiliki garis yang membentuk ....",
       "p": [
@@ -262,79 +272,6 @@ window.KUIS = [
       "e": "Tangga naik-turun seperti huruf V berulang → garis zig-zag."
      },
      {
-      "tipe": "pg",
-      "t": "Biru, ungu, dan hijau adalah warna ....",
-      "p": [
-       "panas",
-       "dingin",
-       "netral"
-      ],
-      "j": 1,
-      "e": "Biru, ungu, hijau termasuk warna dingin — membuat suasana tenang dan sejuk."
-     },
-     {
-      "tipe": "pg",
-      "t": "Daun, ikan, awan, dan kucing memiliki bentuk ....",
-      "p": [
-       "geometris",
-       "organis",
-       "lurus"
-      ],
-      "j": 1,
-      "e": "Benda alam yang tidak beraturan (daun, ikan, awan, kucing) adalah bentuk organis."
-     },
-     {
-      "tipe": "pg",
-      "t": "Merah, jingga, dan kuning adalah warna ....",
-      "p": [
-       "panas",
-       "dingin",
-       "netral"
-      ],
-      "j": 0,
-      "e": "Merah, jingga (oranye), dan kuning adalah warna panas — membuat bersemangat dan ceria."
-     },
-     {
-      "tipe": "bs",
-      "t": "Garis tegak berjalan dari atas ke bawah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Garis tegak (vertikal) memang berjalan dari atas ke bawah → Benar."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bentuk geometris memiliki ciri garis teratur dan sudut yang tegas.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Bentuk geometris (segitiga, lingkaran, persegi) memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus → Benar."
-     },
-     {
-      "tipe": "bs",
-      "t": "Garis sejajar saling berpotongan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Garis sejajar berjalan berdampingan dan tidak pernah berpotongan → Salah."
-     },
-     {
-      "tipe": "bs",
-      "t": "Warna netral membuat suasana menjadi panas dan gerah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Warna netral (putih, abu-abu, coklat) memberi kesan tenang dan lembut, bukan panas → Salah."
-     },
-     {
       "tipe": "isian",
       "t": "Bentuk yang memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus disebut bentuk ....",
       "p": [
@@ -344,28 +281,6 @@ window.KUIS = [
       ],
       "j": 0,
       "e": "Ciri bentuk geometris: garis teratur, sudut tegas, dan terdiri dari garis lurus."
-     },
-     {
-      "tipe": "isian",
-      "t": "Cangkang siput mempunyai garis .... di permukaannya.",
-      "p": [
-       "spiral",
-       "zig-zag",
-       "silang"
-      ],
-      "j": 0,
-      "e": "Cangkang siput berpilin ke dalam seperti obeng → garis spiral."
-     },
-     {
-      "tipe": "isian",
-      "t": "Fungsi warna adalah untuk memperindah ....",
-      "p": [
-       "bentuk dan gambar",
-       "lagu dan suara",
-       "benda yang berat"
-      ],
-      "j": 0,
-      "e": "Fungsi warna adalah memperindah bentuk dan gambar."
      },
      {
       "tipe": "cocok",
@@ -392,6 +307,49 @@ window.KUIS = [
       "e": "Tangga → zig-zag, cangkang siput → spiral, rel kereta api → sejajar."
      },
      {
+      "tipe": "pg",
+      "t": "Biru, ungu, dan hijau adalah warna ....",
+      "p": [
+       "panas",
+       "dingin",
+       "netral"
+      ],
+      "j": 1,
+      "e": "Biru, ungu, hijau termasuk warna dingin — membuat suasana tenang dan sejuk."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bentuk geometris memiliki ciri garis teratur dan sudut yang tegas.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Bentuk geometris (segitiga, lingkaran, persegi) memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus → Benar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Cangkang siput mempunyai garis .... di permukaannya.",
+      "p": [
+       "spiral",
+       "zig-zag",
+       "silang"
+      ],
+      "j": 0,
+      "e": "Cangkang siput berpilin ke dalam seperti obeng → garis spiral."
+     },
+     {
+      "tipe": "pg",
+      "t": "Daun, ikan, awan, dan kucing memiliki bentuk ....",
+      "p": [
+       "geometris",
+       "organis",
+       "lurus"
+      ],
+      "j": 1,
+      "e": "Benda alam yang tidak beraturan (daun, ikan, awan, kucing) adalah bentuk organis."
+     },
+     {
       "tipe": "cocok",
       "t": "Pasangkan kelompok warna dengan contoh warnanya!",
       "pasangan": [
@@ -414,6 +372,48 @@ window.KUIS = [
        "biru, ungu, hijau"
       ],
       "e": "Warna panas: merah, jingga, kuning. Warna dingin: biru, ungu, hijau. Warna netral: putih, abu-abu, coklat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Garis sejajar saling berpotongan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Garis sejajar berjalan berdampingan dan tidak pernah berpotongan → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Merah, jingga, dan kuning adalah warna ....",
+      "p": [
+       "panas",
+       "dingin",
+       "netral"
+      ],
+      "j": 0,
+      "e": "Merah, jingga (oranye), dan kuning adalah warna panas — membuat bersemangat dan ceria."
+     },
+     {
+      "tipe": "isian",
+      "t": "Fungsi warna adalah untuk memperindah ....",
+      "p": [
+       "bentuk dan gambar",
+       "lagu dan suara",
+       "benda yang berat"
+      ],
+      "j": 0,
+      "e": "Fungsi warna adalah memperindah bentuk dan gambar."
+     },
+     {
+      "tipe": "bs",
+      "t": "Warna netral membuat suasana menjadi panas dan gerah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Warna netral (putih, abu-abu, coklat) memberi kesan tenang dan lembut, bukan panas → Salah."
      },
      {
       "tipe": "cocok",
@@ -472,6 +472,16 @@ window.KUIS = [
       "e": "Berkenalan artinya ingin saling tahu. Dengan berani berkenalan, kita mendapat teman baru."
      },
      {
+      "tipe": "bs",
+      "t": "Ada enam agama resmi di Indonesia.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Enam agama di Indonesia: Islam, Kristen, Katolik, Hindu, Budha, dan Konghucu → Benar."
+     },
+     {
       "tipe": "pg",
       "t": "Wawancara artinya .... kepada orang lain untuk mengenalnya lebih dekat.",
       "p": [
@@ -483,79 +493,6 @@ window.KUIS = [
       "e": "Wawancara adalah bertanya kepada orang lain untuk mengenalnya lebih dekat."
      },
      {
-      "tipe": "pg",
-      "t": "Dari kegiatan yang kita sukai, kita bisa menghasilkan sebuah ....",
-      "p": [
-       "pertengkaran",
-       "masalah",
-       "karya"
-      ],
-      "j": 2,
-      "e": "Karya adalah hasil usaha yang kita lakukan, misalnya gambar, lagu, atau benda."
-     },
-     {
-      "tipe": "pg",
-      "t": "Contoh hobi di bidang seni adalah ....",
-      "p": [
-       "menggambar",
-       "tidur seharian",
-       "bermain saja"
-      ],
-      "j": 0,
-      "e": "Hobi bidang seni antara lain menggambar, mewarnai, melipat kertas, bernyanyi, dan menari."
-     },
-     {
-      "tipe": "pg",
-      "t": "Membaca buku cerita termasuk hobi di bidang ....",
-      "p": [
-       "pengetahuan",
-       "olahraga",
-       "seni"
-      ],
-      "j": 0,
-      "e": "Membaca buku cerita, menyusun balok, dan mengamati tumbuhan adalah hobi bidang pengetahuan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Ada enam agama resmi di Indonesia.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Enam agama di Indonesia: Islam, Kristen, Katolik, Hindu, Budha, dan Konghucu → Benar."
-     },
-     {
-      "tipe": "bs",
-      "t": "Karya buatan teman boleh kita ejek supaya teman lebih semangat.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Kita harus menghargai karya teman dan tidak boleh mengejek → Salah."
-     },
-     {
-      "tipe": "bs",
-      "t": "Hobi adalah kegemaran yang dilakukan saat waktu luang.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Pengertian hobi: kegemaran yang dilakukan saat waktu luang → Benar."
-     },
-     {
-      "tipe": "bs",
-      "t": "Saat melakukan wawancara, sikap kita sebaiknya cemberut dan marah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Saat wawancara sikap kita sebaiknya ramah, menyampaikan pertanyaan dengan baik, dan tersenyum → Salah."
-     },
-     {
       "tipe": "isian",
       "t": "Identitas diri adalah informasi tentang .... kita.",
       "p": [
@@ -565,28 +502,6 @@ window.KUIS = [
       ],
       "j": 0,
       "e": "Identitas diri adalah informasi tentang diri kita yang membedakan kita dengan orang lain."
-     },
-     {
-      "tipe": "isian",
-      "t": "Tempat ibadah agama Islam adalah ....",
-      "p": [
-       "masjid",
-       "gereja",
-       "pura"
-      ],
-      "j": 0,
-      "e": "Umat Islam beribadah di masjid. Gereja untuk Kristen/Katolik, pura untuk Hindu."
-     },
-     {
-      "tipe": "isian",
-      "t": "Karya adalah hasil .... yang kita lakukan.",
-      "p": [
-       "usaha",
-       "tidur",
-       "marah"
-      ],
-      "j": 0,
-      "e": "Karya adalah hasil usaha yang kita lakukan — misalnya membuat kartu nama atau papan nama meja."
      },
      {
       "tipe": "cocok",
@@ -613,6 +528,49 @@ window.KUIS = [
       "e": "Sepak bola → olahraga; menggambar → seni; membaca buku → pengetahuan."
      },
      {
+      "tipe": "pg",
+      "t": "Dari kegiatan yang kita sukai, kita bisa menghasilkan sebuah ....",
+      "p": [
+       "pertengkaran",
+       "masalah",
+       "karya"
+      ],
+      "j": 2,
+      "e": "Karya adalah hasil usaha yang kita lakukan, misalnya gambar, lagu, atau benda."
+     },
+     {
+      "tipe": "bs",
+      "t": "Karya buatan teman boleh kita ejek supaya teman lebih semangat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Kita harus menghargai karya teman dan tidak boleh mengejek → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Tempat ibadah agama Islam adalah ....",
+      "p": [
+       "masjid",
+       "gereja",
+       "pura"
+      ],
+      "j": 0,
+      "e": "Umat Islam beribadah di masjid. Gereja untuk Kristen/Katolik, pura untuk Hindu."
+     },
+     {
+      "tipe": "pg",
+      "t": "Contoh hobi di bidang seni adalah ....",
+      "p": [
+       "menggambar",
+       "tidur seharian",
+       "bermain saja"
+      ],
+      "j": 0,
+      "e": "Hobi bidang seni antara lain menggambar, mewarnai, melipat kertas, bernyanyi, dan menari."
+     },
+     {
       "tipe": "cocok",
       "t": "Pasangkan nama agama dengan tempat ibadahnya!",
       "pasangan": [
@@ -635,6 +593,48 @@ window.KUIS = [
        "masjid"
       ],
       "e": "Islam → masjid, Kristen → gereja, Hindu → pura. Kita menghormati semua agama."
+     },
+     {
+      "tipe": "bs",
+      "t": "Hobi adalah kegemaran yang dilakukan saat waktu luang.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Pengertian hobi: kegemaran yang dilakukan saat waktu luang → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Membaca buku cerita termasuk hobi di bidang ....",
+      "p": [
+       "pengetahuan",
+       "olahraga",
+       "seni"
+      ],
+      "j": 0,
+      "e": "Membaca buku cerita, menyusun balok, dan mengamati tumbuhan adalah hobi bidang pengetahuan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Karya adalah hasil .... yang kita lakukan.",
+      "p": [
+       "usaha",
+       "tidur",
+       "marah"
+      ],
+      "j": 0,
+      "e": "Karya adalah hasil usaha yang kita lakukan — misalnya membuat kartu nama atau papan nama meja."
+     },
+     {
+      "tipe": "bs",
+      "t": "Saat melakukan wawancara, sikap kita sebaiknya cemberut dan marah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Saat wawancara sikap kita sebaiknya ramah, menyampaikan pertanyaan dengan baik, dan tersenyum → Salah."
      },
      {
       "tipe": "cocok",

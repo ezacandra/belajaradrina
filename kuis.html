@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>belajaradrina — Kerjakan Soal</title>
+<title>Belajar Adrina — Kerjakan Soal</title>
 <style>
   :root{
     --ink:#242840; --muted:#7a7f95; --line:#e9ecf4; --soft:#f7f8fc;
@@ -11,6 +11,7 @@
     --jingga:#f97316; --ungu:#8b5cf6; --pink:#ec4899;
   }
   *{box-sizing:border-box}
+  html{font-size:17.5px}
   html,body{margin:0}
   body{font-family:"Segoe UI",system-ui,Arial,sans-serif;color:var(--ink);min-height:100vh;
     background:radial-gradient(circle at 12% 8%,#c7d2fe55,transparent 32%),
@@ -29,6 +30,8 @@
   .crumb{font-size:.78rem;background:rgba(0,0,0,.18);display:inline-block;padding:5px 12px;
     border-radius:8px;margin:13px 0 10px;position:relative}
   .crumb b{color:#fde047}
+  .crumb a{color:#fff;text-decoration:none;border-bottom:1.5px dotted rgba(255,255,255,.65)}
+  .crumb a:hover{border-bottom-style:solid}
   .hero h2{margin:0;font-size:1.28rem;line-height:1.4;position:relative}
   .hero .sub{margin:8px 0 0;font-size:.9rem;opacity:.94;position:relative}
   .badges{display:flex;gap:7px;flex-wrap:wrap;margin-top:13px;position:relative}
@@ -150,7 +153,7 @@
 
   <div class="hero">
     <a class="brand" href="index.html" style="color:#fff;text-decoration:none">
-      <span class="m">📚</span> belajaradrina
+      <span class="m">📚</span> Belajar Adrina
     </a>
     <div class="crumb" id="crumb">Kategori: <b>—</b></div>
     <h2 id="judul">Memuat soal…</h2>
@@ -264,22 +267,24 @@ function tampilkan(nama){
 
 /* ---- header ---- */
 function header(){
-  document.title = `belajaradrina — ${K.judul} (${K.kategori}, ${K.kelas})`;
+  document.title = `Belajar Adrina — ${K.judul} (${K.kategori}, ${K.kelas})`;
   $("crumb").innerHTML =
-    `Kategori: <b>${K.kategori}</b> &nbsp;›&nbsp; Mapel: <b>${K.mapel}</b> &nbsp;›&nbsp; Kelas: <b>${K.kelas}</b>`;
+    `Kelas: <a href="index.html?kelas=${encodeURIComponent(K.kelas)}"><b>${K.kelas}</b></a> &nbsp;›&nbsp; ` +
+    `Mapel: <a href="index.html?mapel=${encodeURIComponent(K.mapel)}"><b>${K.mapel}</b></a> &nbsp;›&nbsp; ` +
+    `Kategori: <a href="index.html?kat=${encodeURIComponent(K.kategori)}"><b>${K.kategori}</b></a>`;
   $("judul").textContent = `${K.bab}`;
   const tp = tipesPaket(), nSoal = K.versi.reduce((a,v)=>a+v.soal.length,0);
   $("sub").textContent = `${K.deskripsi} · ${nSoal} butir soal dengan ${tp.length} konsep soal ` +
     `(${tp.map(t=>NAMA_TIPE[t]).join(", ")}) dan nilai otomatis.`;
   $("badges").innerHTML = [
-    "📂 " + K.kategori, "📖 " + K.mapel, "🏫 " + K.kelas,
+    "🏫 " + K.kelas, "📖 " + K.mapel, "📂 " + K.kategori,
     K.jadwal ? "📅 Ujian " + K.jadwal : null,
     `🧩 ${tp.length} Konsep`,
     K.versi.length > 1 ? `🗂 ${K.versi.length} Versi` : null,
     `📝 ${nSoal} Soal`
   ].filter(Boolean).map(b => `<span class="bg">${b}</span>`).join("");
   $("foot").innerHTML =
-    `<b>belajaradrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>` +
+    `<b>Belajar Adrina</b> — kumpulan latihan soal sesuai kelas, kategori, dan mata pelajaran.<br>` +
     `${K.kategori} · ${K.mapel} · ${K.kelas} · ${K.bab}`;
 }
 
@@ -307,7 +312,7 @@ function mulai(i){
 
 function renderSoal(){
   const v = K.versi[versiIdx], s = v.soal[idx], t = TIPE(s);
-  $("qtag").textContent = `Soal ${idx+1} dari ${v.soal.length}` + (t !== "pg" ? ` · ${NAMA_TIPE[t]}` : "");
+  $("qtag").textContent = `Soal ${idx+1} dari ${v.soal.length} · ${NAMA_TIPE[t]}`;
   $("qtext").textContent = s.t;
 
   if(t === "cocok"){
