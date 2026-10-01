@@ -360,10 +360,10 @@ function renderSoal(){
   $("btnPrev").disabled = idx === 0;
   const akhir = idx === v.soal.length - 1;
   $("btnNext").classList.toggle("hidden", akhir);
-  $("btnKirim").classList.remove("hidden");
+  $("btnKirim").classList.toggle("hidden", !akhir);
   const isi = terisi(s, jawab[idx]);
   $("btnNext").disabled = !isi;
-  $("btnKirim").disabled = false;
+  $("btnKirim").disabled = !isi;
   renderDots();
 }
 
