@@ -91,6 +91,7 @@
   .modal ol{padding-left:22px;line-height:1.8;font-size:.9rem}
   .modal ol li{margin-bottom:8px}
   .modal .ok{color:#15803d;font-weight:800}
+  .emo{font-size:1.7em;line-height:1.35;vertical-align:-.25em}
   .modal .btn{display:block;width:100%;margin-top:14px;background:#111827;color:#fff}
 
   footer{text-align:center;color:#9aa1b5;font-size:.8rem;margin-top:34px;line-height:1.8}
@@ -236,14 +237,17 @@ function kunci(i){
   $("modal").style.display = "flex";
   window.scrollTo({top:0,behavior:"smooth"});
 }
+/* gambar/emoji pada soal ditampilkan lebih besar */
+const emo = t => String(t).replace(/(\p{Extended_Pictographic}(?:\uFE0F|\u200D|\p{Extended_Pictographic})*)+/gu,
+  m => `<span class="emo">${m}</span>`);
 function list(v){
   return `<ol>${v.soal.map(s=>
-    `<li>${s.t}<br><span class="ok">✔ ${teksKunci(s)}</span></li>`).join("")}</ol>`;
+    `<li>${emo(s.t)}<br><span class="ok">✔ ${teksKunci(s)}</span></li>`).join("")}</ol>`;
 }
 /* kunci untuk tipe soal (default pilihan ganda) */
 function teksKunci(s){
-  if((s.tipe || "pg") === "cocok") return s.pasangan.map(p => `${p[0]} ➡ <b>${p[1]}</b>`).join("<br>");
-  return `${String.fromCharCode(65 + s.j)}. ${s.p[s.j]}`;
+  if((s.tipe || "pg") === "cocok") return s.pasangan.map(p => `${emo(p[0])} ➡ <b>${emo(p[1])}</b>`).join("<br>");
+  return `${String.fromCharCode(65 + s.j)}. ${emo(s.p[s.j])}`;
 }
 $("btnTutup").onclick = ()=> $("modal").style.display = "none";
 $("modal").onclick = e=>{ if(e.target === $("modal")) $("modal").style.display = "none"; };
