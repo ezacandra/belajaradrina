@@ -60,7 +60,12 @@
     box-shadow:0 7px 0 var(--line);transition:.15s;display:flex;flex-direction:column;position:relative;overflow:hidden}
   .card:hover{transform:translateY(-5px);box-shadow:0 12px 0 var(--line)}
   .card .strip{position:absolute;left:0;top:0;bottom:0;width:6px}
-  .card h3{margin:9px 0 5px;font-size:1.14rem;line-height:1.35}
+  .card .ic{width:60px;height:60px;border-radius:18px;display:flex;align-items:center;justify-content:center;
+    font-size:2rem;border:3px solid var(--line);box-shadow:0 5px 0 var(--line);margin-bottom:12px;
+    position:relative;overflow:hidden}
+  .card .ic::after{content:"";position:absolute;inset:0;
+    background:linear-gradient(120deg,rgba(255,255,255,.75) 0%,rgba(255,255,255,0) 45%)}
+  .card h3{margin:0 0 5px;font-size:1.14rem;line-height:1.35}
   .badges{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:9px}
   .bg{font-size:.7rem;font-weight:900;padding:4px 9px;border-radius:7px;letter-spacing:.3px}
   .bg.kelas{background:#dbeafe;color:#1d4ed8}
@@ -202,6 +207,7 @@ function refresh(){
       ? `<span class="bg versi">🗂 ${k.versi.length} Versi</span>` : "";
     return `<div class="card">
       <div class="strip" style="background:${w}"></div>
+      <div class="ic" style="background:linear-gradient(135deg,${w} 0%,${w}44 100%)">${k.ikon}</div>
       <h3>${k.judul}</h3>
       <div class="badges">
         <span class="bg kelas">🏫 ${k.kelas}</span>
