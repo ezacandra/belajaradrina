@@ -200,7 +200,7 @@ function refresh(){
     const idx = K.indexOf(k);
     const w = warna[idx % warna.length];
     const versi = k.versi.length > 1
-      ? `<span class="bg versi">${k.versi} Versi</span>` : "";
+      ? `<span class="bg versi">🗂 ${k.versi.length} Versi</span>` : "";
     return `<div class="card">
       <div class="strip" style="background:${w}"></div>
       <div class="ic">${k.ikon}</div>
@@ -211,7 +211,7 @@ function refresh(){
         <span class="bg kat">📂 ${k.kategori}</span>
         ${k.jadwal ? `<span class="bg versi">📅 ${k.jadwal}</span>` : ""}
         ${versi}
-        <span class="bg versi">📝 ${totalSoal(k)} soal</span>
+        <span class="bg versi">📝 ${k.versi.length > 1 ? `${k.versi[0].soal.length} soal/versi` : `${totalSoal(k)} soal`}</span>
       </div>
       <p><b>${k.bab}</b><br>${k.deskripsi}</p>
       <div class="go">

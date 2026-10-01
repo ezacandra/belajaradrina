@@ -273,8 +273,11 @@ function header(){
     `Mapel: <a href="index.html?mapel=${encodeURIComponent(K.mapel)}"><b>${K.mapel}</b></a> &nbsp;›&nbsp; ` +
     `Kategori: <a href="index.html?kat=${encodeURIComponent(K.kategori)}"><b>${K.kategori}</b></a>`;
   $("judul").textContent = `${K.bab}`;
-  const tp = tipesPaket(), nSoal = K.versi.reduce((a,v)=>a+v.soal.length,0);
-  $("sub").textContent = `${K.deskripsi} · ${nSoal} butir soal dengan ${tp.length} konsep soal ` +
+  const tp = tipesPaket(), nSoal = K.versi[0].soal.length;
+  const variasi = K.versi.length > 1
+    ? `${K.versi.length} variasi soal (${K.versi.map(v=>v.kode).join("–")}), tiap variasi ${nSoal} butir`
+    : `${nSoal} butir soal`;
+  $("sub").textContent = `${K.deskripsi} · ${variasi} dengan ${tp.length} konsep soal ` +
     `(${tp.map(t=>NAMA_TIPE[t]).join(", ")}) dan nilai otomatis.`;
   $("badges").innerHTML = [
     "🏫 " + K.kelas, "📖 " + K.mapel, "📂 " + K.kategori,
