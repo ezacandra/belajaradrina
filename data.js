@@ -2517,5 +2517,2522 @@ window.KUIS = [
     ]
    }
   ]
+ },
+ {
+  "id": "aqidah-ibadah-syahadat-sholat-sd",
+  "urut": 4,
+  "judul": "Syahadat dan Sholat",
+  "kategori": "Sumatif 2",
+  "mapel": "Aqidah-Ibadah",
+  "kelas": "Kelas 1 SD",
+  "tingkat": "sd",
+  "jadwal": "5 Oktober 2026",
+  "bab": "Syahadat, Asmaul Husna, dan Sholat5 Waktu",
+  "ikon": "🤲",
+  "deskripsi": "Mengenal arti syahadat, asmaul husna, rukun islam, serta sholat5 waktu dengan waktu dan jumlah rakaatnya.",
+  "versi": [
+   {
+    "kode": "A",
+    "nama": "Variasi A",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Arti syahadat adalah ....",
+      "p": [
+       "persaksian",
+       "perjalanan",
+       "permainan"
+      ],
+      "j": 0,
+      "e": "Syahadat berarti persaksian — kita bersaksi bahwa tiada tuhan selain Allah dan nabi Muhammad utusan Allah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Syahadat termasuk rukun islam yang pertama.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Rukun islam yang pertama adalah syahadat → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Syahadat ada2 yaitu syahadat ....",
+      "p": [
+       "subuh dan ashar",
+       "tauhid dan rasul",
+       "zakat dan puasa"
+      ],
+      "j": 1,
+      "e": "Syahadat ada2: syahadat tauhid (tiada tuhan selain Allah) dan syahadat rasul (nabi Muhammad utusan Allah)."
+     },
+     {
+      "tipe": "isian",
+      "t": "Jumlah asmaul husna ada .... nama baik milik Allah.",
+      "p": [
+       "5",
+       "7",
+       "99"
+      ],
+      "j": 2,
+      "e": "Asmaul husna berjumlah 99 nama baik milik Allah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan bacaan syahadat dengan artinya!",
+      "pasangan": [
+       [
+        "syahadat tauhid",
+        "saya bersaksi tiada tuhan selain Allah"
+       ],
+       [
+        "syahadat rasul",
+        "saya bersaksi nabi Muhammad utusan Allah"
+       ],
+       [
+        "syahadatain",
+        "dua kalimat syahadat"
+       ]
+      ],
+      "urutKanan": [
+       "saya bersaksi nabi Muhammad utusan Allah",
+       "dua kalimat syahadat",
+       "saya bersaksi tiada tuhan selain Allah"
+      ],
+      "e": "Tauhid → tiada tuhan selain Allah; rasul → nabi Muhammad utusan Allah; syahadatain → dua kalimat syahadat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ar Rahim artinya Allah Maha ....",
+      "p": [
+       "Penyayang",
+       "Pengasih",
+       "Pencipta"
+      ],
+      "j": 0,
+      "e": "Ar Rahim = Allah Maha Penyayang. (Ar Rahman = Allah Maha Pengasih.)"
+     },
+     {
+      "tipe": "bs",
+      "t": "Masih ada nabi setelah nabi Muhammad.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Nabi Muhammad adalah nabi terakhir, setelah beliau tidak ada nabi lagi → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Arti kata sholat adalah ....",
+      "p": [
+       "zakat",
+       "doa",
+       "puasa"
+      ],
+      "j": 1,
+      "e": "Sholat artinya doa — ibadah kepada Allah yang diawali takbiratul ihram dan diakhiri salam."
+     },
+     {
+      "tipe": "pg",
+      "t": "Rukun islam ada ....",
+      "p": [
+       "4",
+       "5",
+       "6"
+      ],
+      "j": 1,
+      "e": "Rukun islam ada5: syahadat, sholat, zakat, puasa, dan haji."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan sholat dengan waktunya!",
+      "pasangan": [
+       [
+        "sholat subuh",
+        "04.00 pagi"
+       ],
+       [
+        "sholat duhur",
+        "12.00 siang"
+       ],
+       [
+        "sholat maghrib",
+        "18.00 petang"
+       ]
+      ],
+      "urutKanan": [
+       "12.00 siang",
+       "04.00 pagi",
+       "18.00 petang"
+      ],
+      "e": "Subuh jam04.00 pagi, duhur jam12.00 siang, maghrib jam18.00 petang."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kita boleh meninggalkan sholat tanpa alasan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Mengerjakan sholat hukumnya wajib; meninggalkannya tanpa alasan tidak boleh → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sholat isya' dikerjakan pada jam ....",
+      "p": [
+       "18.00",
+       "15.00",
+       "19.00"
+      ],
+      "j": 2,
+      "e": "Sholat isya' dikerjakan jam19.00 malam."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sholat diawali dengan .... dan diakhiri dengan salam.",
+      "p": [
+       "adzan",
+       "takbiratul ihram",
+       "iqamah"
+      ],
+      "j": 1,
+      "e": "Sholat diawali dengan takbiratul ihram (takbir Allahu akbar) dan diakhiri dengan salam."
+     },
+     {
+      "tipe": "bs",
+      "t": "Shalat wajib disebut juga shalat fardhu.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Shalat wajib juga disebut shalat fardhu → Benar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan sholat dengan jumlah rakaatnya!",
+      "pasangan": [
+       [
+        "sholat subuh",
+        "2 rakaat"
+       ],
+       [
+        "sholat maghrib",
+        "3 rakaat"
+       ],
+       [
+        "sholat ashar",
+        "4 rakaat"
+       ]
+      ],
+      "urutKanan": [
+       "3 rakaat",
+       "4 rakaat",
+       "2 rakaat"
+      ],
+      "e": "Subuh2 rakaat, maghrib3 rakaat, ashar4 rakaat."
+     }
+    ]
+   },
+   {
+    "kode": "B",
+    "nama": "Variasi B",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Syahadatain artinya ....",
+      "p": [
+       "lima waktu sholat",
+       "99 nama baik",
+       "dua kalimat syahadat"
+      ],
+      "j": 2,
+      "e": "Syahadatain artinya dua kalimat syahadat, yaitu syahadat tauhid dan syahadat rasul."
+     },
+     {
+      "tipe": "bs",
+      "t": "Syahadat rasul berbunyi wa asyhadu anna muhammadar rasulullah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Bunyi syahadat rasul memang wa asyhadu anna muhammadar rasulullah → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bacaan syahadat adalah salah satu bacaan untuk menjadi ....",
+      "p": [
+       "petani",
+       "muslim",
+       "dokter"
+      ],
+      "j": 1,
+      "e": "Bacaan syahadat adalah salah satu bacaan seseorang untuk menjadi muslim."
+     },
+     {
+      "tipe": "isian",
+      "t": "Arti syahadat tauhid: saya bersaksi tiada .... selain Allah.",
+      "p": [
+       "tuhan",
+       "nabi",
+       "malaikat"
+      ],
+      "j": 0,
+      "e": "Asyhadu alla ilaha illallah = saya bersaksi tiada tuhan selain Allah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan jam dengan sholatnya!",
+      "pasangan": [
+       [
+        "jam 15.00",
+        "sholat ashar"
+       ],
+       [
+        "jam 19.00",
+        "sholat isya'"
+       ],
+       [
+        "jam 04.00",
+        "sholat subuh"
+       ]
+      ],
+      "urutKanan": [
+       "sholat subuh",
+       "sholat ashar",
+       "sholat isya'"
+      ],
+      "e": "Jam15.00 → ashar, jam19.00 → isya', jam04.00 → subuh."
+     },
+     {
+      "tipe": "pg",
+      "t": "Asmaul husna artinya nama-nama .... milik Allah.",
+      "p": [
+       "jahat",
+       "buruk",
+       "baik"
+      ],
+      "j": 2,
+      "e": "Asmaul husna adalah nama-nama baik milik Allah, jumlahnya99."
+     },
+     {
+      "tipe": "bs",
+      "t": "Seorang muslim wajib percaya kepada Allah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Seorang muslim wajib percaya kepada Allah, sebab Allah adalah tuhan yang wajib disembah → Benar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Shalat wajib juga disebut shalat ....",
+      "p": [
+       "fardhu",
+       "sunnah",
+       "rawatib"
+      ],
+      "j": 0,
+      "e": "Shalat wajib juga disebut shalat fardhu."
+     },
+     {
+      "tipe": "pg",
+      "t": "Yang bukan rukun islam adalah ....",
+      "p": [
+       "zakat",
+       "membaca buku",
+       "puasa"
+      ],
+      "j": 1,
+      "e": "Rukun islam: syahadat, sholat, zakat, puasa, haji — membaca buku bukan rukun islam."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan istilah dengan artinya!",
+      "pasangan": [
+       [
+        "asmaul husna",
+        "99 nama baik Allah"
+       ],
+       [
+        "rukun islam",
+        "5 hal wajib dalam islam"
+       ],
+       [
+        "sholat",
+        "doa"
+       ]
+      ],
+      "urutKanan": [
+       "doa",
+       "99 nama baik Allah",
+       "5 hal wajib dalam islam"
+      ],
+      "e": "Asmaul husna =99 nama baik Allah; rukun islam =5 hal wajib; sholat = doa."
+     },
+     {
+      "tipe": "bs",
+      "t": "Sholat hanya dikerjakan pada siang hari saja.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Sholat5 waktu: subuh (pagi) sampai isya' (malam) → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ada .... sholat yang rakaatnya4.",
+      "p": [
+       "dua",
+       "tiga",
+       "lima"
+      ],
+      "j": 1,
+      "e": "Duhur, ashar, dan isya' — tiga sholat yang rakaatnya4."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sholat ashar dikerjakan pada jam ....",
+      "p": [
+       "19.00",
+       "04.00",
+       "15.00"
+      ],
+      "j": 2,
+      "e": "Sholat ashar dikerjakan jam15.00 sore."
+     },
+     {
+      "tipe": "bs",
+      "t": "Hanya ada3 waktu sholat dalam sehari.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Dalam sehari semalam ada5 sholat: subuh, duhur, ashar, maghrib, isya' → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan sholat dengan waktu pelaksanaannya!",
+      "pasangan": [
+       [
+        "sholat subuh",
+        "waktu pagi"
+       ],
+       [
+        "sholat ashar",
+        "waktu sore"
+       ],
+       [
+        "sholat isya'",
+        "waktu malam"
+       ]
+      ],
+      "urutKanan": [
+       "waktu sore",
+       "waktu malam",
+       "waktu pagi"
+      ],
+      "e": "Subuh pada waktu pagi (04.00), ashar pada waktu sore (15.00), isya' pada waktu malam (19.00)."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Syahadat tauhid berbunyi ....",
+      "p": [
+       "asyhadu alla ilaha illallah",
+       "wa asyhadu anna muhammadar rasulullah",
+       "bismillaahirrohmaanirrohiim"
+      ],
+      "j": 0,
+      "e": "Bunyi syahadat tauhid: asyhadu alla ilaha illallah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Allah adalah tuhan yang wajib disembah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Seorang muslim wajib percaya kepada Allah, sebab Allah adalah tuhan yang wajib disembah → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Syahadat rasul berbunyi ....",
+      "p": [
+       "asyhadu alla ilaha illallah",
+       "wa asyhadu anna muhammadar rasulullah",
+       "qul a'uudzu birobbin naas"
+      ],
+      "j": 1,
+      "e": "Bunyi syahadat rasul: wa asyhadu anna muhammadar rasulullah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sholat yang rakaatnya paling sedikit adalah sholat ....",
+      "p": [
+       "isya'",
+       "subuh",
+       "duhur"
+      ],
+      "j": 1,
+      "e": "Sholat subuh adalah sholat dengan rakaat paling sedikit di antara sholat wajib."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan pertanyaan latihan dengan jawabannya!",
+      "pasangan": [
+       [
+        "Arti syahadat adalah …",
+        "persaksian"
+       ],
+       [
+        "Allah Maha Pengasih adalah …",
+        "Ar Rahman"
+       ],
+       [
+        "Rukun islam ada …",
+        "5"
+       ]
+      ],
+      "urutKanan": [
+       "5",
+       "persaksian",
+       "Ar Rahman"
+      ],
+      "e": "Syahadat = persaksian; Allah Maha Pengasih = Ar Rahman; rukun islam =5."
+     },
+     {
+      "tipe": "pg",
+      "t": "Rukun islam yang kelima adalah ....",
+      "p": [
+       "haji",
+       "zakat",
+       "puasa"
+      ],
+      "j": 0,
+      "e": "Urutan rukun islam: syahadat, sholat, zakat, puasa, haji — yang kelima haji."
+     },
+     {
+      "tipe": "bs",
+      "t": "Sholat hanya boleh dikerjakan di masjid.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Sholat boleh dikerjakan di mana saja; masjid adalah tempat utama, tetapi bukan syarat wajib → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Nabi Muhammad adalah nabi ....",
+      "p": [
+       "pertama",
+       "terakhir",
+       "kedua"
+      ],
+      "j": 1,
+      "e": "Nabi Muhammad adalah nabi terakhir, setelah beliau tidak ada nabi lagi."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surga adalah tempat bagi orang yang selalu ....",
+      "p": [
+       "mengejek",
+       "malas belajar",
+       "mengerjakan sholat"
+      ],
+      "j": 2,
+      "e": "Surga adalah tempat bagi orang-orang yang selalu mengerjakan sholat."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan sholat dengan jumlah rakaatnya!",
+      "pasangan": [
+       [
+        "sholat subuh",
+        "2 rakaat"
+       ],
+       [
+        "sholat maghrib",
+        "3 rakaat"
+       ],
+       [
+        "sholat duhur",
+        "4 rakaat"
+       ]
+      ],
+      "urutKanan": [
+       "4 rakaat",
+       "2 rakaat",
+       "3 rakaat"
+      ],
+      "e": "Subuh2 rakaat, maghrib3 rakaat, duhur4 rakaat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Sholat diakhiri dengan salam.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Sholat diawali takbiratul ihram dan diakhiri dengan salam → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sholat isya' memiliki .... rakaat.",
+      "p": [
+       "2",
+       "3",
+       "4"
+      ],
+      "j": 2,
+      "e": "Sholat isya'4 rakaat. Duhur, ashar, dan isya' sama-sama4 rakaat."
+     },
+     {
+      "tipe": "isian",
+      "t": "Rukun islam yang keempat adalah ....",
+      "p": [
+       "puasa",
+       "zakat",
+       "haji"
+      ],
+      "j": 0,
+      "e": "Urutan rukun islam: syahadat (1), sholat (2), zakat (3), puasa (4), haji (5)."
+     },
+     {
+      "tipe": "bs",
+      "t": "Anak-anak tidak perlu belajar sholat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Anak-anak perlu diajarkan sholat sejak kecil agar menjadi kebiasaan → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan istilah dengan artinya!",
+      "pasangan": [
+       [
+        "syahadatain",
+        "dua kalimat syahadat"
+       ],
+       [
+        "sholat fardhu",
+        "sholat wajib"
+       ],
+       [
+        "asmaul husna",
+        "nama-nama Allah yang baik"
+       ]
+      ],
+      "urutKanan": [
+       "nama-nama Allah yang baik",
+       "dua kalimat syahadat",
+       "sholat wajib"
+      ],
+      "e": "Syahadatain = dua kalimat syahadat; sholat fardhu = sholat wajib; asmaul husna = nama-nama Allah yang baik."
+     }
+    ]
+   },
+   {
+    "kode": "D",
+    "nama": "Variasi D",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Yang mencipta seluruh alam semesta adalah ....",
+      "p": [
+       "Allah",
+       "guru",
+       "manusia"
+      ],
+      "j": 0,
+      "e": "Allah adalah pencipta semua alam semesta."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain dan tidur termasuk rukun islam.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Rukun islam adalah syahadat, sholat, zakat, puasa, haji — bukan bermain atau tidur → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Yang bukan sholat wajib adalah ....",
+      "p": [
+       "subuh",
+       "duhur",
+       "bermain"
+      ],
+      "j": 2,
+      "e": "Sholat wajib5 waktu: subuh, duhur, ashar, maghrib, isya' — bermain bukan sholat."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sehari semalam kita sholat .... kali.",
+      "p": [
+       "3",
+       "5",
+       "7"
+      ],
+      "j": 1,
+      "e": "Sehari semalam sholat5 waktu: subuh, duhur, ashar, maghrib, isya'."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan sholat dengan jam waktunya!",
+      "pasangan": [
+       [
+        "sholat duhur",
+        "12.00 siang"
+       ],
+       [
+        "sholat ashar",
+        "15.00 sore"
+       ],
+       [
+        "sholat isya'",
+        "19.00 malam"
+       ]
+      ],
+      "urutKanan": [
+       "15.00 sore",
+       "19.00 malam",
+       "12.00 siang"
+      ],
+      "e": "Duhur jam12.00 siang, ashar jam15.00 sore, isya' jam19.00 malam."
+     },
+     {
+      "tipe": "pg",
+      "t": "Salah satu rukun islam adalah ....",
+      "p": [
+       "sholat",
+       "bermain",
+       "tidur"
+      ],
+      "j": 0,
+      "e": "Salah satu rukun islam adalah sholat; selain itu syahadat, zakat, puasa, dan haji."
+     },
+     {
+      "tipe": "bs",
+      "t": "Sholat subuh rakaatnya lebih banyak daripada sholat maghrib.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Sholat subuh2 rakaat, sholat maghrib3 rakaat — subuh lebih sedikit → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sholat maghrib dikerjakan pada jam .... petang.",
+      "p": [
+       "15.00",
+       "04.00",
+       "18.00"
+      ],
+      "j": 2,
+      "e": "Sholat maghrib dikerjakan jam18.00 petang."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sholat yang rakaatnya4 adalah ....",
+      "p": [
+       "duhur",
+       "subuh",
+       "maghrib"
+      ],
+      "j": 0,
+      "e": "Duhur, ashar, dan isya' rakaatnya4; subuh2; maghrib3."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan nama syahadat dengan bunyinya!",
+      "pasangan": [
+       [
+        "syahadat tauhid",
+        "asyhadu alla ilaha illallah"
+       ],
+       [
+        "syahadat rasul",
+        "wa asyhadu anna muhammadar rasulullah"
+       ],
+       [
+        "syahadatain",
+        "dua kalimat syahadat"
+       ]
+      ],
+      "urutKanan": [
+       "wa asyhadu anna muhammadar rasulullah",
+       "dua kalimat syahadat",
+       "asyhadu alla ilaha illallah"
+      ],
+      "e": "Tauhid: asyhadu alla ilaha illallah; rasul: wa asyhadu anna muhammadar rasulullah; syahadatain = dua kalimat syahadat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Zakat termasuk rukun islam.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Zakat adalah rukun islam yang ketiga → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Syahadat rasul menyebut ....",
+      "p": [
+       "alam semesta",
+       "nabi Muhammad",
+       "99 nama"
+      ],
+      "j": 1,
+      "e": "Syahadat rasul bersaksi bahwa nabi Muhammad adalah utusan Allah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sholat yang rakaatnya3 adalah sholat ....",
+      "p": [
+       "subuh",
+       "maghrib",
+       "isya'"
+      ],
+      "j": 1,
+      "e": "Sholat maghrib3 rakaat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain tidak boleh menggantikan sholat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Sholat wajib dikerjakan pada waktunya; bermain dilakukan di waktu luang → Benar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan rukun islam dengan urutannya!",
+      "pasangan": [
+       [
+        "syahadat",
+        "rukun pertama"
+       ],
+       [
+        "sholat",
+        "rukun kedua"
+       ],
+       [
+        "zakat",
+        "rukun ketiga"
+       ]
+      ],
+      "urutKanan": [
+       "rukun ketiga",
+       "rukun pertama",
+       "rukun kedua"
+      ],
+      "e": "Urutan rukun islam: syahadat (pertama), sholat (kedua), zakat (ketiga), puasa (keempat), haji (kelima)."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "quran-surat-al-fatihah-an-naas-sd",
+  "urut": 5,
+  "judul": "Surat Al Fatihah dan An Naas",
+  "kategori": "Sumatif 2",
+  "mapel": "Al-Qur'an",
+  "kelas": "Kelas 1 SD",
+  "tingkat": "sd",
+  "jadwal": "6 Oktober 2026",
+  "bab": "Surat Al Fatihah, Ummul Kitab, dan Surat An Naas",
+  "ikon": "📕",
+  "deskripsi": "Mengenal surat Al Fatihah dan An Naas: urutan, arti, jumlah ayat, kota turun, keutamaan, dan doanya.",
+  "versi": [
+   {
+    "kode": "A",
+    "nama": "Variasi A",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Surat yang pertama dalam Al Qur'an adalah ....",
+      "p": [
+       "Al Ikhlas",
+       "An Naas",
+       "Al Fatihah"
+      ],
+      "j": 2,
+      "e": "Dalam Al Qur'an terdapat114 surat, surat yang pertama adalah surat Al Fatihah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Dalam Al Qur'an terdapat114 surat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Dalam Al Qur'an terdapat sebanyak114 surat → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat Al Fatihah artinya ....",
+      "p": [
+       "pembuka",
+       "penutup",
+       "pertanyaan"
+      ],
+      "j": 0,
+      "e": "Al Fatihah artinya pembuka — surat pembuka atau permulaan dalam Al Qur'an."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat Al Fatihah terdiri dari .... ayat.",
+      "p": [
+       "6",
+       "5",
+       "7"
+      ],
+      "j": 2,
+      "e": "Surat Al Fatihah terdiri dari7 ayat; ayat pertamanya kalimat basmalah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan istilah dengan artinya!",
+      "pasangan": [
+       [
+        "An Naas",
+        "manusia"
+       ],
+       [
+        "Ummul Kitab",
+        "induk Al Qur'an"
+       ],
+       [
+        "surat Makkiyah",
+        "surat yang diturunkan di kota Makkah"
+       ]
+      ],
+      "urutKanan": [
+       "induk Al Qur'an",
+       "surat yang diturunkan di kota Makkah",
+       "manusia"
+      ],
+      "e": "An Naas = manusia; Ummul Kitab = induk Al Qur'an; surat Makkiyah = surat yang diturunkan di Makkah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat Al Fatihah wajib dibaca saat ....",
+      "p": [
+       "makan",
+       "shalat",
+       "tidur"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah wajib dibaca saat melaksanakan shalat; tidak sah shalat tanpa Al Fatihah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Surat An Naas diturunkan di kota Makkah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Surat An Naas diturunkan di kota Makkah dan tergolong surat Makkiyah → Benar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat An Naas terdiri dari .... ayat.",
+      "p": [
+       "5",
+       "6",
+       "7"
+      ],
+      "j": 1,
+      "e": "Surat An Naas terdiri dari6 ayat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat An Naas adalah surat ke .... dalam Al Qur'an.",
+      "p": [
+       "7",
+       "114",
+       "5"
+      ],
+      "j": 1,
+      "e": "Surat An Naas adalah surat yang terakhir, yaitu surat ke-114."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan istilah surat dengan penjelasannya!",
+      "pasangan": [
+       [
+        "Assabul Matsany",
+        "7 ayat yang dibaca berulang kali saat shalat"
+       ],
+       [
+        "Ilaahin naas",
+        "ayat3 surat An Naas"
+       ],
+       [
+        "basmalah",
+        "ayat pertama surat Al Fatihah"
+       ]
+      ],
+      "urutKanan": [
+       "ayat3 surat An Naas",
+       "ayat pertama surat Al Fatihah",
+       "7 ayat yang dibaca berulang kali saat shalat"
+      ],
+      "e": "Assabul Matsany =7 ayat yang dibaca berulang saat shalat; Ilaahin naas = ayat3 An Naas; basmalah = ayat pertama Al Fatihah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Sebaiknya kita membaca surat An Naas sebelum tidur.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Biasakan membaca surat An Naas sebelum tidur agar selalu dalam perlindungan Allah → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Dengan membaca surat An Naas, kita meminta perlindungan Allah dari ....",
+      "p": [
+       "godaan jin dan manusia",
+       "cuaca panas",
+       "rasa lapar"
+      ],
+      "j": 0,
+      "e": "Dengan membaca surat An Naas, kita meminta perlindungan Allah dari godaan jin dan manusia."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bunyi \"an naas\" dalam surat An Naas diulang .... kali.",
+      "p": [
+       "5",
+       "3",
+       "7"
+      ],
+      "j": 0,
+      "e": "Terdapat bunyi an naas dalam surat An Naas, diulang sebanyak5 kali."
+     },
+     {
+      "tipe": "bs",
+      "t": "Anak yang sering membaca surat An Naas akan menyakiti temannya.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Anak yang sering membaca surat An Naas justru tidak akan pernah mengganggu dan menyakiti temannya → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan lanjutan ayat dengan suratnya!",
+      "pasangan": [
+       [
+        "Qul a'uudzu birobbin naas",
+        "ayat pertama surat An Naas"
+       ],
+       [
+        "Minal jinnati wan naas",
+        "lanjutan ayat pertama surat An Naas"
+       ],
+       [
+        "Iyyaaka na'budu wa iyaaka nasta'iin",
+        "ayat dalam surat Al Fatihah"
+       ]
+      ],
+      "urutKanan": [
+       "ayat dalam surat Al Fatihah",
+       "ayat pertama surat An Naas",
+       "lanjutan ayat pertama surat An Naas"
+      ],
+      "e": "Qul a'uudzu birobbin naas = ayat1 An Naas; Minal jinnati wan naas = lanjutannya; Iyyaaka na'budu = ayat dalam Al Fatihah."
+     }
+    ]
+   },
+   {
+    "kode": "B",
+    "nama": "Variasi B",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Surat Al Fatihah tergolong surat ....",
+      "p": [
+       "Makkiyah",
+       "Madaniyah",
+       "Nasakh"
+      ],
+      "j": 0,
+      "e": "Surat Al Fatihah diturunkan di kota Makkah, jadi tergolong surat Makkiyah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Isi surat Al Fatihah adalah memuji Allah dan meminta petunjuk-Nya.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Isi surat Al Fatihah: memuji Allah, menyembah dan meminta pertolongan hanya kepada Allah, serta meminta petunjuk → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Urutan surat Al Fatihah dalam Al Qur'an adalah ....",
+      "p": [
+       "surat ke-114",
+       "surat pertama",
+       "surat ketiga"
+      ],
+      "j": 1,
+      "e": "Al Fatihah adalah surat yang pertama dalam Al Qur'an."
+     },
+     {
+      "tipe": "isian",
+      "t": "Ayat pertama surat Al Fatihah adalah kalimat ....",
+      "p": [
+       "takbir",
+       "basmalah",
+       "salam"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah terdiri dari7 ayat, ayat yang pertama berbunyi bismillaahirrohmaanirrohiim (basmalah)."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan nama dengan artinya!",
+      "pasangan": [
+       [
+        "Al Fatihah",
+        "pembuka"
+       ],
+       [
+        "An Naas",
+        "manusia"
+       ],
+       [
+        "Ummul Kitab",
+        "induk Al Qur'an"
+       ]
+      ],
+      "urutKanan": [
+       "manusia",
+       "induk Al Qur'an",
+       "pembuka"
+      ],
+      "e": "Al Fatihah = pembuka; An Naas = manusia; Ummul Kitab = induk Al Qur'an."
+     },
+     {
+      "tipe": "pg",
+      "t": "Lanjutkan ayat Al Fatihah: iyyaaka na'budu wa iyaaka ....",
+      "p": [
+       "naas",
+       "fatihah",
+       "nasta'iin"
+      ],
+      "j": 2,
+      "e": "Lanjutannya: iyyaaka na'budu wa iyaaka nasta'iin — hanya kepada Engkau kami menyembah dan hanya kepada Engkau kami mohon pertolongan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Shalat sah walaupun tidak membaca surat Al Fatihah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah wajib dibaca saat shalat; tidak sah shalat seseorang jika tidak membaca surat Al Fatihah → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat An Naas memiliki .... ayat.",
+      "p": [
+       "5",
+       "7",
+       "6"
+      ],
+      "j": 2,
+      "e": "Surat An Naas terdiri dari6 ayat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat An Naas adalah surat terakhir, yaitu surat ke ....",
+      "p": [
+       "114",
+       "7",
+       "5"
+      ],
+      "j": 0,
+      "e": "Surat An Naas adalah surat yang ke-114 atau surat terakhir dalam Al Qur'an."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan dengan penjelasan yang tepat!",
+      "pasangan": [
+       [
+        "bunyi \"an naas\"",
+        "diulang5 kali dalam surat An Naas"
+       ],
+       [
+        "Ilaahin naas",
+        "ayat3 surat An Naas"
+       ],
+       [
+        "ayat pertama surat An Naas",
+        "Qul a'uudzu birobbin naas"
+       ]
+      ],
+      "urutKanan": [
+       "Qul a'uudzu birobbin naas",
+       "diulang5 kali dalam surat An Naas",
+       "ayat3 surat An Naas"
+      ],
+      "e": "Bunyi an naas diulang5 kali; Ilaahin naas = ayat3; ayat pertamanya Qul a'uudzu birobbin naas."
+     },
+     {
+      "tipe": "bs",
+      "t": "Membaca surat An Naas membuat kita mendapat perlindungan dari Allah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Dengan membaca surat An Naas kita meminta perlindungan Allah dari godaan jin, setan, dan manusia → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kebiasaan baik sebelum tidur adalah membaca ....",
+      "p": [
+       "surat An Naas",
+       "main game",
+       "berlari di jalan"
+      ],
+      "j": 0,
+      "e": "Sebelum tidur sebaiknya membaca doa sebelum tidur dan surat An Naas."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat Al Fatihah diturunkan di kota ....",
+      "p": [
+       "Madinah",
+       "Palestina",
+       "Makkah"
+      ],
+      "j": 2,
+      "e": "Surat Al Fatihah diturunkan di kota Makkah dan juga disebut surat Makkiyah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Surat An Naas diturunkan di kota Madinah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Surat An Naas diturunkan di kota Makkah, bukan Madinah → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan istilah dengan penjelasannya!",
+      "pasangan": [
+       [
+        "surat Makkiyah",
+        "surat yang diturunkan di kota Makkah"
+       ],
+       [
+        "surat Al Fatihah",
+        "7 ayat"
+       ],
+       [
+        "isi surat An Naas",
+        "doa meminta perlindungan dari godaan setan"
+       ]
+      ],
+      "urutKanan": [
+       "doa meminta perlindungan dari godaan setan",
+       "surat yang diturunkan di kota Makkah",
+       "7 ayat"
+      ],
+      "e": "Surat Makkiyah = diturunkan di Makkah; Al Fatihah =7 ayat; isi An Naas = doa meminta perlindungan dari godaan setan."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Surat Al Fatihah juga disebut Ummul Kitab yang artinya ....",
+      "p": [
+       "pembuka",
+       "induk Al Qur'an",
+       "surat terakhir"
+      ],
+      "j": 1,
+      "e": "Nama lain dari surat Al Fatihah adalah Ummul Kitab yang artinya induk Al Qur'an."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al Fatihah adalah surat pertama dalam Al Qur'an.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Dalam Al Qur'an terdapat114 surat, sedangkan surat Al Fatihah adalah surat yang pertama → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat terakhir dalam Al Qur'an adalah ....",
+      "p": [
+       "Al Ikhlas",
+       "An Naas",
+       "Al Fatihah"
+      ],
+      "j": 1,
+      "e": "Surat An Naas adalah surat yang ke-114 (terakhir) dalam Al Qur'an."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat An Naas artinya ....",
+      "p": [
+       "manusia",
+       "pembuka",
+       "induk"
+      ],
+      "j": 0,
+      "e": "Nama surat An Naas artinya adalah manusia."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan dengan penjelasan yang tepat!",
+      "pasangan": [
+       [
+        "surat Al Fatihah",
+        "dibaca saat melaksanakan shalat"
+       ],
+       [
+        "surat An Naas",
+        "dibaca sebelum tidur"
+       ],
+       [
+        "bunyi \"an naas\"",
+        "diulang5 kali dalam surat An Naas"
+       ]
+      ],
+      "urutKanan": [
+       "diulang5 kali dalam surat An Naas",
+       "dibaca sebelum tidur",
+       "dibaca saat melaksanakan shalat"
+      ],
+      "e": "Al Fatihah dibaca saat shalat; An Naas dibaca sebelum tidur; bunyi an naas diulang5 kali."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat Al Fatihah disebut Assabul Matsany karena ....",
+      "p": [
+       "diturunkan di kota Madinah",
+       "surat yang terakhir",
+       "terdiri dari7 ayat yang dibaca berulang kali saat shalat"
+      ],
+      "j": 2,
+      "e": "Surat Al Fatihah juga disebut Assabul Matsany, artinya7 ayat yang dibaca berulang kali saat shalat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al Qur'an memiliki114 surat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Dalam Al Qur'an terdapat sebanyak114 surat → Benar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat Al Fatihah terdiri dari .... ayat.",
+      "p": [
+       "6",
+       "7",
+       "8"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah terdiri dari7 ayat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Lanjutkan ayat An Naas: minal jinnati wan ....",
+      "p": [
+       "fatihah",
+       "makkah",
+       "naas"
+      ],
+      "j": 2,
+      "e": "Lanjutannya: minal jinnati wan naas — dari godaan jin dan manusia."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan pernyataan dengan jawabannya!",
+      "pasangan": [
+       [
+        "Qul a'uudzu birobbin naas",
+        "ayat pertama surat An Naas"
+       ],
+       [
+        "Ilaahin naas",
+        "ayat ketiga surat An Naas"
+       ],
+       [
+        "doa sebelum tidur",
+        "dibaca bersama surat An Naas"
+       ]
+      ],
+      "urutKanan": [
+       "dibaca bersama surat An Naas",
+       "ayat pertama surat An Naas",
+       "ayat ketiga surat An Naas"
+      ],
+      "e": "Qul a'uudzu birobbin naas = ayat1; Ilaahin naas = ayat3; sebelum tidur membaca doa sebelum tidur dan surat An Naas."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kita tidak perlu membaca doa sebelum tidur.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Sebaiknya sebelum tidur kita membaca doa sebelum tidur dan surat An Naas → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Isi surat Al Fatihah adalah ....",
+      "p": [
+       "memuji Allah dan meminta petunjuk-Nya",
+       "meminta perlindungan dari setan",
+       "bermain bersama teman"
+      ],
+      "j": 0,
+      "e": "Isi surat Al Fatihah: memuji Allah, menyembah dan meminta pertolongan hanya kepada Allah, serta meminta petunjuk."
+     },
+     {
+      "tipe": "isian",
+      "t": "Doa meminta perlindungan dari godaan setan tersembunyi ada dalam surat ....",
+      "p": [
+       "Al Fatihah",
+       "An Naas",
+       "Al Ikhlas"
+      ],
+      "j": 1,
+      "e": "Isi surat An Naas adalah doa meminta perlindungan kepada Allah dari godaan setan yang tersembunyi."
+     },
+     {
+      "tipe": "bs",
+      "t": "Surat Al Fatihah diturunkan di kota Madinah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah diturunkan di kota Makkah (surat Makkiyah), bukan Madinah → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan pernyataan dengan pasangan yang tepat!",
+      "pasangan": [
+       [
+        "surat Al Fatihah",
+        "pembuka"
+       ],
+       [
+        "anak yang rajin membaca surat An Naas",
+        "tidak mengganggu dan menyakiti temannya"
+       ],
+       [
+        "membaca surat An Naas",
+        "mendapat perlindungan dari Allah"
+       ]
+      ],
+      "urutKanan": [
+       "mendapat perlindungan dari Allah",
+       "pembuka",
+       "tidak mengganggu dan menyakiti temannya"
+      ],
+      "e": "Al Fatihah = pembuka; anak rajin baca An Naas tidak menyakiti teman; membaca An Naas = perlindungan Allah."
+     }
+    ]
+   },
+   {
+    "kode": "D",
+    "nama": "Variasi D",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Nama surat An Naas artinya adalah ....",
+      "p": [
+       "pembuka",
+       "induk",
+       "manusia"
+      ],
+      "j": 2,
+      "e": "Nama surat An Naas artinya adalah manusia."
+     },
+     {
+      "tipe": "bs",
+      "t": "Surat An Naas adalah surat pertama dalam Al Qur'an.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Surat An Naas adalah surat terakhir (ke-114); surat pertama adalah Al Fatihah → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Agar shalat sah, kita wajib membaca ....",
+      "p": [
+       "surat An Naas",
+       "surat Al Fatihah",
+       "doa makan"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah wajib dibaca saat shalat; tidak sah shalat seseorang jika tidak membaca surat Al Fatihah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Lanjutkan ayat Al Fatihah: iyyaaka na'budu wa iyaaka ....",
+      "p": [
+       "nasta'iin",
+       "naas",
+       "fatihah"
+      ],
+      "j": 0,
+      "e": "Lanjutannya: iyyaaka na'budu wa iyaaka nasta'iin."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan surat dengan jumlahnya!",
+      "pasangan": [
+       [
+        "surat Al Fatihah",
+        "7 ayat"
+       ],
+       [
+        "surat An Naas",
+        "6 ayat"
+       ],
+       [
+        "Al Qur'an",
+        "114 surat"
+       ]
+      ],
+      "urutKanan": [
+       "114 surat",
+       "7 ayat",
+       "6 ayat"
+      ],
+      "e": "Al Qur'an =114 surat; Al Fatihah =7 ayat; An Naas =6 ayat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat An Naas adalah surat ke ....",
+      "p": [
+       "7",
+       "114",
+       "6"
+      ],
+      "j": 1,
+      "e": "Surat An Naas adalah surat yang terakhir, yaitu surat ke-114."
+     },
+     {
+      "tipe": "bs",
+      "t": "Membaca surat An Naas sebelum tidur membuat kita selalu dalam perlindungan Allah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Biasakan membaca surat An Naas sebelum tidur, agar selalu dalam perlindungan Allah → Benar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Dengan membaca surat An Naas, kita meminta perlindungan dari godaan ....",
+      "p": [
+       "jin dan manusia",
+       "hujan",
+       "panas"
+      ],
+      "j": 0,
+      "e": "Dengan membaca surat An Naas kita mendapat perlindungan dari Allah dari godaan jin, setan, dan manusia."
+     },
+     {
+      "tipe": "pg",
+      "t": "Anak yang sering membaca surat An Naas ....",
+      "p": [
+       "tidak mengganggu dan menyakiti teman",
+       "suka mengganggu teman",
+       "malas belajar"
+      ],
+      "j": 0,
+      "e": "Anak yang sering membaca surat An Naas tidak akan pernah mengganggu dan menyakiti temannya."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan istilah dengan artinya!",
+      "pasangan": [
+       [
+        "Ummul Kitab",
+        "induk Al Qur'an"
+       ],
+       [
+        "surat Makkiyah",
+        "surat yang diturunkan di kota Makkah"
+       ],
+       [
+        "Assabul Matsany",
+        "7 ayat yang dibaca berulang kali saat shalat"
+       ]
+      ],
+      "urutKanan": [
+       "surat yang diturunkan di kota Makkah",
+       "7 ayat yang dibaca berulang kali saat shalat",
+       "induk Al Qur'an"
+      ],
+      "e": "Ummul Kitab = induk Al Qur'an; surat Makkiyah = diturunkan di Makkah; Assabul Matsany =7 ayat yang dibaca berulang saat shalat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Surat Al Fatihah adalah surat terakhir.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Surat Al Fatihah adalah surat pertama; surat terakhir adalah An Naas → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Surat Al Fatihah diturunkan di ....",
+      "p": [
+       "Madinah",
+       "Palestina",
+       "Makkah"
+      ],
+      "j": 2,
+      "e": "Surat Al Fatihah diturunkan di kota Makkah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Surat Al Fatihah artinya ....",
+      "p": [
+       "penutup",
+       "pembuka",
+       "manusia"
+      ],
+      "j": 1,
+      "e": "Al Fatihah artinya pembuka."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al Qur'an memiliki lebih dari100 surat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Dalam Al Qur'an terdapat114 surat, jadi lebih dari100 surat → Benar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan bunyi ayat dengan urutannya!",
+      "pasangan": [
+       [
+        "Qul a'uudzu birobbin naas",
+        "ayat pertama surat An Naas"
+       ],
+       [
+        "Ilaahin naas",
+        "ayat ketiga surat An Naas"
+       ],
+       [
+        "Minal jinnati wan naas",
+        "lanjutan ayat pertama surat An Naas"
+       ]
+      ],
+      "urutKanan": [
+       "ayat ketiga surat An Naas",
+       "lanjutan ayat pertama surat An Naas",
+       "ayat pertama surat An Naas"
+      ],
+      "e": "Qul a'uudzu birobbin naas = ayat1; lanjutannya minal jinnati wan naas; Ilaahin naas = ayat3."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bahasa-indonesia-bermain-tanda-baca-sd",
+  "urut": 6,
+  "judul": "Bermain dan Tanda Baca",
+  "kategori": "Sumatif 2",
+  "mapel": "Bahasa Indonesia",
+  "kelas": "Kelas 1 SD",
+  "tingkat": "sd",
+  "jadwal": "7 Oktober 2026",
+  "bab": "Tempat Bermain Aman, Tanda Seru-Tanya, dan Suku Kata",
+  "ikon": "✍️",
+  "deskripsi": "Mengenal tempat dan benda bermain yang aman, kalimat tanya-perintah-ajakan, tanda seru dan tanya, serta suku kata awal kata.",
+  "versi": [
+   {
+    "kode": "A",
+    "nama": "Variasi A",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Tempat bermain yang aman adalah ....",
+      "p": [
+       "jalan raya",
+       "taman",
+       "dapur"
+      ],
+      "j": 1,
+      "e": "Tempat bermain yang aman adalah taman; jalan raya berbahaya karena banyak kendaraan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain di jalan raya sangat aman.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Di jalan raya banyak kendaraan lalu-lalang sehingga bermain di sana berbahaya dan bisa menyebabkan kecelakaan → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Benda yang aman digunakan untuk bermain adalah ....",
+      "p": [
+       "boneka",
+       "gunting",
+       "pisau"
+      ],
+      "j": 0,
+      "e": "Benda yang aman untuk bermain antara lain boneka, lego, dan bola."
+     },
+     {
+      "tipe": "isian",
+      "t": "Benda yang berbahaya untuk bermain adalah ....",
+      "p": [
+       "bola",
+       "lego",
+       "gunting"
+      ],
+      "j": 2,
+      "e": "Gunting dan pisau adalah benda yang berbahaya untuk bermain."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kata dengan suku kata awalnya!",
+      "pasangan": [
+       [
+        "cari",
+        "ca"
+       ],
+       [
+        "hobi",
+        "ho"
+       ],
+       [
+        "cuci",
+        "cu"
+       ]
+      ],
+      "urutKanan": [
+       "cu",
+       "ca",
+       "ho"
+      ],
+      "e": "Cari berawalan ca, hobi berawalan ho, cuci berawalan cu."
+     },
+     {
+      "tipe": "pg",
+      "t": "'Buanglah sampah di tempatnya!' diakhiri dengan tanda ....",
+      "p": [
+       "seru",
+       "titik",
+       "tanya"
+      ],
+      "j": 0,
+      "e": "Kalimat perintah seperti 'Buanglah sampah di tempatnya!' diakhiri dengan tanda seru (!)."
+     },
+     {
+      "tipe": "bs",
+      "t": "Saat bermain dengan teman kita harus rukun.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Saat bermain dengan teman kita harus rukun dan saling menghargai → Benar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kalimat tanya diakhiri dengan tanda ....",
+      "p": [
+       "seru (!)",
+       "tanya (?)",
+       "titik (.)"
+      ],
+      "j": 1,
+      "e": "Tanda tanya (?) digunakan dalam kalimat tanya, jadi kalimat tanya diakhiri tanda (?)."
+     },
+     {
+      "tipe": "pg",
+      "t": "'.... kita ke masjid!' Kata yang tepat untuk kalimat ajakan adalah ....",
+      "p": [
+       "Mari",
+       "Tolong",
+       "Maaf"
+      ],
+      "j": 0,
+      "e": "Kata ajakan adalah Mari atau Ayo, contohnya 'Mari kita ke masjid!'."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan jenisnya!",
+      "pasangan": [
+       [
+        "Siapa namamu?",
+        "kalimat tanya"
+       ],
+       [
+        "Tutup pintu itu!",
+        "kalimat perintah"
+       ],
+       [
+        "Ayo kita sholat!",
+        "kalimat ajakan"
+       ]
+      ],
+      "urutKanan": [
+       "kalimat perintah",
+       "kalimat ajakan",
+       "kalimat tanya"
+      ],
+      "e": "Siapa namamu? = kalimat tanya; Tutup pintu itu! = kalimat perintah; Ayo kita sholat! = kalimat ajakan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain harus hati-hati agar tidak ada yang terluka.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Saat bermain kita harus hati-hati agar tidak ada yang terluka → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Huruf vokal pada kata 'sadar' adalah ....",
+      "p": [
+       "i",
+       "u",
+       "a"
+      ],
+      "j": 2,
+      "e": "Kata 'sadar' berhuruf vokal a, jadi huruf vokalnya adalah a."
+     },
+     {
+      "tipe": "isian",
+      "t": "'Ayah .... kunci!' Kata berawalan suku kata ca pada kalimat di atas adalah ....",
+      "p": [
+       "makan",
+       "cari",
+       "main"
+      ],
+      "j": 1,
+      "e": "Kata 'cari' berawalan suku kata ca, jadi kalimatnya 'Ayah cari kunci!'."
+     },
+     {
+      "tipe": "bs",
+      "t": "Gunting dan pisau adalah benda yang aman untuk bermain.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Gunting dan pisau adalah benda yang berbahaya untuk bermain → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Lengkapi pasangan kata berikut!",
+      "pasangan": [
+       [
+        "cita",
+        "ci"
+       ],
+       [
+        "hujan",
+        "hu"
+       ],
+       [
+        "coba",
+        "co"
+       ]
+      ],
+      "urutKanan": [
+       "hu",
+       "co",
+       "ci"
+      ],
+      "e": "Cita berawalan ci, hujan berawalan hu, coba berawalan co."
+     }
+    ]
+   },
+   {
+    "kode": "B",
+    "nama": "Variasi B",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Tempat bermain yang berbahaya adalah ....",
+      "p": [
+       "taman",
+       "jalan raya",
+       "halaman"
+      ],
+      "j": 1,
+      "e": "Jalan raya adalah tempat bermain yang berbahaya karena banyak kendaraan lalu-lalang."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain di jalan raya dapat menyebabkan kecelakaan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Bermain di jalan raya menyebabkan kecelakaan → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Benda yang berbahaya adalah ....",
+      "p": [
+       "lego",
+       "bola",
+       "pisau"
+      ],
+      "j": 2,
+      "e": "Benda yang berbahaya contohnya gunting dan pisau; lego dan bola aman untuk bermain."
+     },
+     {
+      "tipe": "isian",
+      "t": "Benda yang aman untuk bermain antara lain boneka, ...., dan bola.",
+      "p": [
+       "gunting",
+       "lego",
+       "pisau"
+      ],
+      "j": 1,
+      "e": "Benda yang aman contohnya boneka, lego, dan bola."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan tanda baca yang sesuai!",
+      "pasangan": [
+       [
+        "Jangan berdiri di depan pintu",
+        "tanda seru (!) untuk larangan"
+       ],
+       [
+        "Dimana rumahmu",
+        "tanda tanya (?) untuk pertanyaan"
+       ],
+       [
+        "Ayo kita ke lapangan",
+        "tanda seru (!) untuk ajakan"
+       ]
+      ],
+      "urutKanan": [
+       "tanda tanya (?) untuk pertanyaan",
+       "tanda seru (!) untuk ajakan",
+       "tanda seru (!) untuk larangan"
+      ],
+      "e": "Larangan diakhiri tanda seru (!), pertanyaan diakhiri tanda tanya (?), ajakan diakhiri tanda seru (!)."
+     },
+     {
+      "tipe": "pg",
+      "t": "'Apa nama kucingmu?' termasuk kalimat ....",
+      "p": [
+       "tanya",
+       "perintah",
+       "ajakan"
+      ],
+      "j": 0,
+      "e": "Kalimat yang diawali kata tanya seperti 'Apa nama kucingmu?' adalah kalimat tanya."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kata 'hobi' berawalan suku kata ha.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Kata 'hobi' berawalan ho; contoh kata berawalan ha adalah hati-hati → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "'.... kita shalat lima waktu!' Kata ajakan yang tepat adalah ....",
+      "p": [
+       "Jangan",
+       "Tutup",
+       "Mari"
+      ],
+      "j": 2,
+      "e": "Contoh kalimat ajakan: 'Mari kita shalat lima waktu!'."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kalimat perintah yang benar adalah ....",
+      "p": [
+       "He, kita bermain boneka!",
+       "Apa kita bermain boneka saja?",
+       "Mari kita bermain boneka, Khansa!"
+      ],
+      "j": 2,
+      "e": "Kalimat perintah yang benar dan sopan adalah 'Mari kita bermain boneka, Khansa!'."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kata dengan suku kata awalnya!",
+      "pasangan": [
+       [
+        "cina",
+        "ci"
+       ],
+       [
+        "cepat",
+        "ce"
+       ],
+       [
+        "cocol",
+        "co"
+       ]
+      ],
+      "urutKanan": [
+       "co",
+       "ce",
+       "ci"
+      ],
+      "e": "Cina berawalan ci, cepat berawalan ce, cocol berawalan co."
+     },
+     {
+      "tipe": "bs",
+      "t": "Saat bermain kita harus bergantian memakai alat permainan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Kita harus bergantian memakai alat permainan agar tidak berebut → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata yang berawalan suku kata co adalah ....",
+      "p": [
+       "coba",
+       "cabe",
+       "cuci"
+      ],
+      "j": 0,
+      "e": "Coba berawalan co; cabe berawalan ca; cuci berawalan cu."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kalimat perintah diakhiri dengan tanda ....",
+      "p": [
+       "tanya (?)",
+       "seru (!)",
+       "titik (.)"
+      ],
+      "j": 1,
+      "e": "Tanda seru (!) digunakan dalam kalimat ajakan, perintah, atau larangan — jadi kalimat perintah diakhiri tanda seru."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain di dapur adalah tempat bermain yang aman.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Tempat bermain yang aman adalah taman; dapur bukan tempat bermain → Salah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan jenisnya!",
+      "pasangan": [
+       [
+        "Berapa uang saku kamu?",
+        "kalimat tanya"
+       ],
+       [
+        "Buanglah sampah di tempatnya!",
+        "kalimat perintah"
+       ],
+       [
+        "Jangan makan sambil berdiri!",
+        "kalimat larangan"
+       ]
+      ],
+      "urutKanan": [
+       "kalimat perintah",
+       "kalimat larangan",
+       "kalimat tanya"
+      ],
+      "e": "'Berapa uang saku kamu?' = kalimat tanya; 'Buanglah sampah di tempatnya!' = kalimat perintah; 'Jangan makan sambil berdiri!' = kalimat larangan."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "'Ayo kita rajin belajar!' Kata ajakan pada kalimat di atas adalah ....",
+      "p": [
+       "Ayo",
+       "Kita",
+       "Rajin"
+      ],
+      "j": 0,
+      "e": "Kata ajakan pada kalimat itu adalah 'Ayo'."
+     },
+     {
+      "tipe": "bs",
+      "t": "Tanda seru (!) digunakan untuk kalimat ajakan, perintah, atau larangan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Tanda seru (!) digunakan dalam kalimat ajakan, perintah, atau larangan → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "'Dimana rumahmu?' termasuk kalimat ....",
+      "p": [
+       "perintah",
+       "ajakan",
+       "tanya"
+      ],
+      "j": 2,
+      "e": "Kalimat 'Dimana rumahmu?' adalah kalimat tanya dan diakhiri tanda (?)."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kalimat 'Berapa harga bukumu?' termasuk kalimat ....",
+      "p": [
+       "ajakan",
+       "tanya",
+       "perintah"
+      ],
+      "j": 1,
+      "e": "'Berapa harga bukumu?' adalah kalimat tanya."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kata dengan suku kata awalnya!",
+      "pasangan": [
+       [
+        "cumi",
+        "cu"
+       ],
+       [
+        "hebat",
+        "he"
+       ],
+       [
+        "cendol",
+        "ce"
+       ]
+      ],
+      "urutKanan": [
+       "he",
+       "ce",
+       "cu"
+      ],
+      "e": "Cumi berawalan cu, hebat berawalan he, cendol berawalan ce."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata yang berawalan suku kata ho adalah ....",
+      "p": [
+       "hobi",
+       "hujan",
+       "hijau"
+      ],
+      "j": 0,
+      "e": "Hobi berawalan ho; hujan berawalan hu; hijau berawalan hi."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bola dan lego adalah benda yang berbahaya.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Bola dan lego adalah benda yang aman untuk bermain; yang berbahaya contohnya gunting dan pisau → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Saat bermain dengan teman kita harus ....",
+      "p": [
+       "saling bertengkar",
+       "rukun",
+       "memukul"
+      ],
+      "j": 1,
+      "e": "Saat bermain dengan teman kita harus rukun dan hati-hati."
+     },
+     {
+      "tipe": "pg",
+      "t": "'Ayo kita ke perpustakaan ....' Tanda baca yang tepat adalah ....",
+      "p": [
+       "? (tanda tanya)",
+       ". (titik)",
+       "! (tanda seru)"
+      ],
+      "j": 2,
+      "e": "'Ayo kita ke perpustakaan!' adalah kalimat ajakan, jadi diakhiri tanda seru (!)."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan jenisnya!",
+      "pasangan": [
+       [
+        "Jangan buang sampah sembarangan!",
+        "kalimat larangan"
+       ],
+       [
+        "Mari kita shalat lima waktu!",
+        "kalimat ajakan"
+       ],
+       [
+        "Kapan ayahmu datang?",
+        "kalimat tanya"
+       ]
+      ],
+      "urutKanan": [
+       "kalimat ajakan",
+       "kalimat tanya",
+       "kalimat larangan"
+      ],
+      "e": "'Jangan buang sampah sembarangan!' = larangan; 'Mari kita shalat lima waktu!' = ajakan; 'Kapan ayahmu datang?' = tanya."
+     },
+     {
+      "tipe": "bs",
+      "t": "Saat bermain kita boleh rebutan alat permainan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Kita harus bergantian memakai alat permainan, tidak boleh rebutan → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sore hari Ela menyisir rambut di depan ....",
+      "p": [
+       "kamera",
+       "cermin",
+       "jendela"
+      ],
+      "j": 1,
+      "e": "Ela menyisir rambut di depan cermin."
+     },
+     {
+      "tipe": "isian",
+      "t": "'.... nama kucingmu?' Kata tanya yang tepat adalah ....",
+      "p": [
+       "Apa",
+       "Mari",
+       "Buang"
+      ],
+      "j": 0,
+      "e": "Kata tanya yang tepat adalah 'Apa', jadi 'Apa nama kucingmu?'."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kata 'hebat' berawalan suku kata he.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Hebat berawalan he (ha, hi, hu, he, ho) → Benar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan tanda baca yang sesuai!",
+      "pasangan": [
+       [
+        "Siapa namamu?",
+        "? tanda tanya"
+       ],
+       [
+        "Buanglah sampah di tempatnya!",
+        "! tanda seru untuk perintah"
+       ],
+       [
+        "Ayo kita ke lapangan!",
+        "! tanda seru untuk ajakan"
+       ]
+      ],
+      "urutKanan": [
+       "! tanda seru untuk perintah",
+       "! tanda seru untuk ajakan",
+       "? tanda tanya"
+      ],
+      "e": "Siapa namamu? → (?); Buanglah sampah di tempatnya! → (!) perintah; Ayo kita ke lapangan! → (!) ajakan."
+     }
+    ]
+   },
+   {
+    "kode": "D",
+    "nama": "Variasi D",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Yang termasuk benda berbahaya untuk bermain adalah ....",
+      "p": [
+       "lego",
+       "gunting",
+       "bola"
+      ],
+      "j": 1,
+      "e": "Gunting termasuk benda berbahaya; lego dan bola aman untuk bermain."
+     },
+     {
+      "tipe": "bs",
+      "t": "Taman adalah tempat bermain yang aman.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Tempat bermain yang aman adalah taman → Benar."
+     },
+     {
+      "tipe": "pg",
+      "t": "'Kapan kamu pulang?' kalimat di atas termasuk kalimat ....",
+      "p": [
+       "perintah",
+       "tanya",
+       "ajakan"
+      ],
+      "j": 1,
+      "e": "Kalimat 'Kapan kamu pulang?' adalah kalimat tanya, diakhiri tanda (?)."
+     },
+     {
+      "tipe": "isian",
+      "t": "'.... kita rajin belajar!' Kata ajakan yang tepat adalah ....",
+      "p": [
+       "Ayo",
+       "Jangan",
+       "Tutup"
+      ],
+      "j": 0,
+      "e": "Kata ajakan yang tepat adalah 'Ayo', jadi 'Ayo kita rajin belajar!'."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan jenisnya!",
+      "pasangan": [
+       [
+        "Berapa harga bukumu?",
+        "kalimat tanya"
+       ],
+       [
+        "Mari kita bermain boneka, Khansa!",
+        "kalimat perintah"
+       ],
+       [
+        "Ayo kita ke lapangan!",
+        "kalimat ajakan"
+       ]
+      ],
+      "urutKanan": [
+       "kalimat perintah",
+       "kalimat ajakan",
+       "kalimat tanya"
+      ],
+      "e": "'Berapa harga bukumu?' = tanya; 'Mari kita bermain boneka, Khansa!' = perintah; 'Ayo kita ke lapangan!' = ajakan."
+     },
+     {
+      "tipe": "pg",
+      "t": "'Tutup pintu itu!' termasuk kalimat ....",
+      "p": [
+       "tanya",
+       "ajakan",
+       "perintah"
+      ],
+      "j": 2,
+      "e": "'Tutup pintu itu!' adalah kalimat perintah yang diakhiri tanda seru (!)."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain dengan teman harus saling merugikan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Saat bermain dengan teman kita harus rukun, bukan saling merugikan → Salah."
+     },
+     {
+      "tipe": "isian",
+      "t": "'Buanglah sampah di tempatnya!' menggunakan tanda ....",
+      "p": [
+       "seru (!)",
+       "tanya (?)",
+       "titik (.)"
+      ],
+      "j": 0,
+      "e": "Kalimat perintah 'Buanglah sampah di tempatnya!' diakhiri tanda seru (!)."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata yang berawalan suku kata ha adalah ....",
+      "p": [
+       "hobi",
+       "hujan",
+       "hati-hati"
+      ],
+      "j": 2,
+      "e": "Hati-hati berawalan ha; hobi berawalan ho; hujan berawalan hu."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kalimat dengan tanda baca yang sesuai!",
+      "pasangan": [
+       [
+        "Dimana rumahmu?",
+        "tanda tanya (?) untuk kalimat tanya"
+       ],
+       [
+        "Jangan bersuara keras!",
+        "tanda seru (!) untuk larangan"
+       ],
+       [
+        "Mari kita shalat lima waktu!",
+        "tanda seru (!) untuk kalimat ajakan"
+       ]
+      ],
+      "urutKanan": [
+       "tanda seru (!) untuk larangan",
+       "tanda seru (!) untuk kalimat ajakan",
+       "tanda tanya (?) untuk kalimat tanya"
+      ],
+      "e": "Dimana rumahmu? → tanda tanya; Jangan bersuara keras! → tanda seru (larangan); Mari kita shalat lima waktu! → tanda seru (ajakan)."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kata 'cita' dan 'cuci' berawalan suku kata yang sama.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Cita berawalan ci, sedangkan cuci berawalan cu — berbeda → Salah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bola termasuk benda ....",
+      "p": [
+       "berbahaya",
+       "tajam",
+       "aman"
+      ],
+      "j": 2,
+      "e": "Bola termasuk benda yang aman untuk bermain."
+     },
+     {
+      "tipe": "isian",
+      "t": "'Ayo kita ke perpustakaan ....' Tanda baca yang sesuai adalah ....",
+      "p": [
+       "? (tanda tanya)",
+       "! (tanda seru)",
+       ". (titik)"
+      ],
+      "j": 1,
+      "e": "'Ayo kita ke perpustakaan!' adalah kalimat ajakan, jadi diakhiri tanda seru (!)."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kata 'hujan' berawalan suku kata hu.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Hujan berawalan hu → Benar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan tempat dengan keterangan aman atau berbahaya!",
+      "pasangan": [
+       [
+        "jalan raya",
+        "tempat bermain yang berbahaya"
+       ],
+       [
+        "di teras rumah",
+        "tempat bermain yang aman di rumah"
+       ],
+       [
+        "dapur",
+        "bukan tempat bermain"
+       ]
+      ],
+      "urutKanan": [
+       "tempat bermain yang aman di rumah",
+       "bukan tempat bermain",
+       "tempat bermain yang berbahaya"
+      ],
+      "e": "Jalan raya berbahaya; teras rumah aman untuk bermain; dapur bukan tempat bermain."
+     }
+    ]
+   }
+  ]
  }
 ];
