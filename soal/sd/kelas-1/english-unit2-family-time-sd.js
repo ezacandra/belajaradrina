@@ -15,12 +15,12 @@ window.KUIS.push({
   "tingkat": "sd",
   "jadwal": "30 September 2026",
   "bab": "Unit 2: Family, Activities at Home and School, Numbers 1–10",
-  "ikon": "🇬🇧",
+  "ikon": "🔤",
   "deskripsi": "Belajar bahasa Inggris: anggota keluarga, kegiatan di rumah dan sekolah, serta bilangan 1–10. Petunjuk dan pembahasan dalam Bahasa Indonesia.",
   "versi": [
     {
       "kode": "A",
-      "nama": "Sumatif 2",
+      "nama": "Variasi A",
       "soal": [
         {
           "tipe": "pg",

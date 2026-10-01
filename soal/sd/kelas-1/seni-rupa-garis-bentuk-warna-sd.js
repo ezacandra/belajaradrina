@@ -19,7 +19,7 @@ window.KUIS.push({
   "versi": [
     {
       "kode": "A",
-      "nama": "Sumatif 2",
+      "nama": "Variasi A",
       "soal": [
         {
           "tipe": "pg",

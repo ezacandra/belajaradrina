@@ -11,12 +11,12 @@ window.KUIS = [
   "tingkat": "sd",
   "jadwal": "30 September 2026",
   "bab": "Unit 2: Family, Activities at Home and School, Numbers 1–10",
-  "ikon": "🇬🇧",
+  "ikon": "🔤",
   "deskripsi": "Belajar bahasa Inggris: anggota keluarga, kegiatan di rumah dan sekolah, serta bilangan 1–10. Petunjuk dan pembahasan dalam Bahasa Indonesia.",
   "versi": [
    {
     "kode": "A",
-    "nama": "Sumatif 2",
+    "nama": "Variasi A",
     "soal": [
      {
       "tipe": "pg",
@@ -855,7 +855,7 @@ window.KUIS = [
   "versi": [
    {
     "kode": "A",
-    "nama": "Sumatif 2",
+    "nama": "Variasi A",
     "soal": [
      {
       "tipe": "pg",
@@ -1689,12 +1689,12 @@ window.KUIS = [
   "tingkat": "sd",
   "jadwal": "2 Oktober 2026",
   "bab": "Hobi, Agama, Mengenal Teman, dan Aku Bisa Berkarya",
-  "ikon": "🇮🇩",
+  "ikon": "🤝",
   "deskripsi": "Mengenal identitas diri dan teman, menghargai keberagaman agama, hobi, serta berkarya dengan percaya diri.",
   "versi": [
    {
     "kode": "A",
-    "nama": "Sumatif 2",
+    "nama": "Variasi A",
     "soal": [
      {
       "tipe": "pg",

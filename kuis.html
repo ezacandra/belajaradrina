@@ -217,6 +217,7 @@
       <ol id="daftarJawab"></ol>
     </div>
     <div class="nav" style="justify-content:center">
+      <button class="btn hijau" id="btnBagikan">📤 Bagikan Hasil</button>
       <button class="btn ungu" id="btnUlang">🔁 Kerjakan Lagi</button>
       <button class="btn abu" id="btnMenu">🏠 Daftar Soal</button>
       <button class="btn biru" id="btnCetak">🖨 Cetak / PDF</button>
@@ -349,10 +350,10 @@ function renderSoal(){
   $("btnPrev").disabled = idx === 0;
   const akhir = idx === v.soal.length - 1;
   $("btnNext").classList.toggle("hidden", akhir);
-  $("btnKirim").classList.toggle("hidden", !akhir);
+  $("btnKirim").classList.remove("hidden");
   const isi = terisi(s, jawab[idx]);
   $("btnNext").disabled = !isi;
-  $("btnKirim").disabled = !isi;
+  $("btnKirim").disabled = false;
   renderDots();
 }
 
@@ -373,10 +374,30 @@ function lompat(k){ idx = k; renderSoal(); }
 
 $("btnNext").onclick = ()=>{ if(idx < K.versi[versiIdx].soal.length-1){ idx++; renderSoal(); window.scrollTo({top:0,behavior:"smooth"}); } };
 $("btnPrev").onclick = ()=>{ if(idx > 0){ idx--; renderSoal(); window.scrollTo({top:0,behavior:"smooth"}); } };
-$("btnKirim").onclick = hitung;
+$("btnKirim").onclick = ()=>{
+  const v = K.versi[versiIdx];
+  const kosong = jawab.filter((jwb,k)=> !terisi(v.soal[k], jwb)).length;
+  if(kosong && !confirm(`Masih ada ${kosong} soal yang belum dijawab. Kirim jawaban sekarang?`)) return;
+  hitung();
+};
 $("btnUlang").onclick = ()=> mulai(versiIdx);
 $("btnMenu").onclick = ()=> location.href = "index.html";
 $("btnCetak").onclick = ()=> window.print();
+$("btnBagikan").onclick = async ()=>{
+  const v = K.versi[versiIdx];
+  const teks =
+    `📊 Hasil Belajar Adrina\n` +
+    `${K.mapel} — ${K.bab} (${v.nama || "Variasi " + v.kode})\n` +
+    `Nilai: ${$("nilai").textContent} (${$("predikat").textContent})\n` +
+    `✅ ${$("bStat").textContent} benar · ❌ ${$("sStat").textContent} salah · ⬜ ${$("kStat").textContent} kosong\n` +
+    `Kerjakan sendiri: ${location.origin + location.pathname}?id=${K.id}`;
+  if(navigator.share){
+    try{ await navigator.share({title:"Hasil Belajar Adrina", text:teks}); return; }catch(e){ if(e && e.name === "AbortError") return; }
+  }
+  try{ await navigator.clipboard.writeText(teks);
+    alert("📋 Hasil disalin! Tempel (paste) di chat WhatsApp atau kirim ke gurumu."); return; }catch(e){}
+  location.href = "https://wa.me/?text=" + encodeURIComponent(teks);
+};
 
 /* ---- kunci jawaban ---- */
 function kunci(){

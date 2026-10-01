@@ -15,12 +15,12 @@ window.KUIS.push({
   "tingkat": "sd",
   "jadwal": "2 Oktober 2026",
   "bab": "Hobi, Agama, Mengenal Teman, dan Aku Bisa Berkarya",
-  "ikon": "🇮🇩",
+  "ikon": "🤝",
   "deskripsi": "Mengenal identitas diri dan teman, menghargai keberagaman agama, hobi, serta berkarya dengan percaya diri.",
   "versi": [
     {
       "kode": "A",
-      "nama": "Sumatif 2",
+      "nama": "Variasi A",
       "soal": [
         {
           "tipe": "pg",
