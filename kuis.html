@@ -281,7 +281,7 @@ function header(){
   $("sub").textContent = `${K.deskripsi} · ${variasi} dengan ${tp.length} konsep soal ` +
     `(${tp.map(t=>NAMA_TIPE[t]).join(", ")}) dan nilai otomatis.`;
   $("badges").innerHTML = [
-    "🏫 " + K.kelas, "📖 " + K.mapel, "📂 " + K.kategori,
+    "🏫 " + K.kelas, K.mapel, "📂 " + K.kategori,
     K.jadwal ? "📅 Ujian " + K.jadwal : null,
     `🧩 ${tp.length} Konsep`,
     K.versi.length > 1 ? `🗂 ${K.versi.length} Versi` : null,
