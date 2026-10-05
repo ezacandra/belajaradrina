@@ -31,17 +31,17 @@ window.KUIS.push({
             "Al Fatihah"
           ],
           "j": 2,
-          "e": "Dalam Al Qur'an terdapat114 surat, surat yang pertama adalah surat Al Fatihah."
+          "e": "Dalam Al Qur'an terdapat 114 surat, surat yang pertama adalah surat Al Fatihah."
         },
         {
           "tipe": "bs",
-          "t": "Dalam Al Qur'an terdapat114 surat.",
+          "t": "Dalam Al Qur'an terdapat 114 surat.",
           "p": [
             "Benar",
             "Salah"
           ],
           "j": 0,
-          "e": "Dalam Al Qur'an terdapat sebanyak114 surat → Benar."
+          "e": "Dalam Al Qur'an terdapat sebanyak 114 surat → Benar."
         },
         {
           "tipe": "pg",
@@ -63,7 +63,7 @@ window.KUIS.push({
             "7"
           ],
           "j": 2,
-          "e": "Surat Al Fatihah terdiri dari7 ayat; ayat pertamanya kalimat basmalah."
+          "e": "Surat Al Fatihah terdiri dari 7 ayat; ayat pertamanya kalimat basmalah."
         },
         {
           "tipe": "cocok",
@@ -119,7 +119,7 @@ window.KUIS.push({
             "7"
           ],
           "j": 1,
-          "e": "Surat An Naas terdiri dari6 ayat."
+          "e": "Surat An Naas terdiri dari 6 ayat."
         },
         {
           "tipe": "pg",
@@ -142,7 +142,7 @@ window.KUIS.push({
             ],
             [
               "Ilaahin naas",
-              "ayat3 surat An Naas"
+              "ayat 3 surat An Naas"
             ],
             [
               "basmalah",
@@ -150,11 +150,11 @@ window.KUIS.push({
             ]
           ],
           "urutKanan": [
-            "ayat3 surat An Naas",
+            "ayat 3 surat An Naas",
             "ayat pertama surat Al Fatihah",
             "7 ayat yang dibaca berulang kali saat shalat"
           ],
-          "e": "Assabul Matsany =7 ayat yang dibaca berulang saat shalat; Ilaahin naas = ayat3 An Naas; basmalah = ayat pertama Al Fatihah."
+          "e": "Assabul Matsany = 7 ayat yang dibaca berulang saat shalat; Ilaahin naas = ayat 3 An Naas; basmalah = ayat pertama Al Fatihah."
         },
         {
           "tipe": "bs",
@@ -186,7 +186,7 @@ window.KUIS.push({
             "7"
           ],
           "j": 0,
-          "e": "Terdapat bunyi an naas dalam surat An Naas, diulang sebanyak5 kali."
+          "e": "Terdapat bunyi an naas dalam surat An Naas, diulang sebanyak 5 kali."
         },
         {
           "tipe": "bs",
@@ -200,7 +200,7 @@ window.KUIS.push({
         },
         {
           "tipe": "cocok",
-          "t": "Pasangkan lanjutan ayat dengan suratnya!",
+          "t": "Pasangkan bunyi ayat dengan penjelasannya!",
           "pasangan": [
             [
               "Qul a'uudzu birobbin naas",
@@ -208,7 +208,7 @@ window.KUIS.push({
             ],
             [
               "Minal jinnati wan naas",
-              "lanjutan ayat pertama surat An Naas"
+              "ayat keenam (terakhir) surat An Naas"
             ],
             [
               "Iyyaaka na'budu wa iyaaka nasta'iin",
@@ -218,9 +218,9 @@ window.KUIS.push({
           "urutKanan": [
             "ayat dalam surat Al Fatihah",
             "ayat pertama surat An Naas",
-            "lanjutan ayat pertama surat An Naas"
+            "ayat keenam (terakhir) surat An Naas"
           ],
-          "e": "Qul a'uudzu birobbin naas = ayat1 An Naas; Minal jinnati wan naas = lanjutannya; Iyyaaka na'budu = ayat dalam Al Fatihah."
+          "e": "Qul a'uudzu birobbin naas = ayat 1 An Naas; Minal jinnati wan naas = ayat keenam (terakhir); Iyyaaka na'budu = ayat dalam surat Al Fatihah."
         }
       ]
     },
@@ -269,7 +269,7 @@ window.KUIS.push({
             "salam"
           ],
           "j": 1,
-          "e": "Surat Al Fatihah terdiri dari7 ayat, ayat yang pertama berbunyi bismillaahirrohmaanirrohiim (basmalah)."
+          "e": "Surat Al Fatihah terdiri dari 7 ayat, ayat yang pertama berbunyi bismillaahirrohmaanirrohiim (basmalah)."
         },
         {
           "tipe": "cocok",
@@ -325,7 +325,7 @@ window.KUIS.push({
             "6"
           ],
           "j": 2,
-          "e": "Surat An Naas terdiri dari6 ayat."
+          "e": "Surat An Naas terdiri dari 6 ayat."
         },
         {
           "tipe": "pg",
@@ -344,11 +344,11 @@ window.KUIS.push({
           "pasangan": [
             [
               "bunyi \"an naas\"",
-              "diulang5 kali dalam surat An Naas"
+              "diulang 5 kali dalam surat An Naas"
             ],
             [
               "Ilaahin naas",
-              "ayat3 surat An Naas"
+              "ayat 3 surat An Naas"
             ],
             [
               "ayat pertama surat An Naas",
@@ -357,10 +357,10 @@ window.KUIS.push({
           ],
           "urutKanan": [
             "Qul a'uudzu birobbin naas",
-            "diulang5 kali dalam surat An Naas",
-            "ayat3 surat An Naas"
+            "diulang 5 kali dalam surat An Naas",
+            "ayat 3 surat An Naas"
           ],
-          "e": "Bunyi an naas diulang5 kali; Ilaahin naas = ayat3; ayat pertamanya Qul a'uudzu birobbin naas."
+          "e": "Bunyi an naas diulang 5 kali; Ilaahin naas = ayat 3; ayat pertamanya Qul a'uudzu birobbin naas."
         },
         {
           "tipe": "bs",
@@ -426,7 +426,7 @@ window.KUIS.push({
             "surat yang diturunkan di kota Makkah",
             "7 ayat"
           ],
-          "e": "Surat Makkiyah = diturunkan di Makkah; Al Fatihah =7 ayat; isi An Naas = doa meminta perlindungan dari godaan setan."
+          "e": "Surat Makkiyah = diturunkan di Makkah; Al Fatihah = 7 ayat; isi An Naas = doa meminta perlindungan dari godaan setan."
         }
       ]
     },
@@ -453,7 +453,7 @@ window.KUIS.push({
             "Salah"
           ],
           "j": 0,
-          "e": "Dalam Al Qur'an terdapat114 surat, sedangkan surat Al Fatihah adalah surat yang pertama → Benar."
+          "e": "Dalam Al Qur'an terdapat 114 surat, sedangkan surat Al Fatihah adalah surat yang pertama → Benar."
         },
         {
           "tipe": "pg",
@@ -491,15 +491,15 @@ window.KUIS.push({
             ],
             [
               "bunyi \"an naas\"",
-              "diulang5 kali dalam surat An Naas"
+              "diulang 5 kali dalam surat An Naas"
             ]
           ],
           "urutKanan": [
-            "diulang5 kali dalam surat An Naas",
+            "diulang 5 kali dalam surat An Naas",
             "dibaca sebelum tidur",
             "dibaca saat melaksanakan shalat"
           ],
-          "e": "Al Fatihah dibaca saat shalat; An Naas dibaca sebelum tidur; bunyi an naas diulang5 kali."
+          "e": "Al Fatihah dibaca saat shalat; An Naas dibaca sebelum tidur; bunyi an naas diulang 5 kali."
         },
         {
           "tipe": "pg",
@@ -507,20 +507,20 @@ window.KUIS.push({
           "p": [
             "diturunkan di kota Madinah",
             "surat yang terakhir",
-            "terdiri dari7 ayat yang dibaca berulang kali saat shalat"
+            "terdiri dari 7 ayat yang dibaca berulang kali saat shalat"
           ],
           "j": 2,
-          "e": "Surat Al Fatihah juga disebut Assabul Matsany, artinya7 ayat yang dibaca berulang kali saat shalat."
+          "e": "Surat Al Fatihah juga disebut Assabul Matsany, artinya 7 ayat yang dibaca berulang kali saat shalat."
         },
         {
           "tipe": "bs",
-          "t": "Al Qur'an memiliki114 surat.",
+          "t": "Al Qur'an memiliki 114 surat.",
           "p": [
             "Benar",
             "Salah"
           ],
           "j": 0,
-          "e": "Dalam Al Qur'an terdapat sebanyak114 surat → Benar."
+          "e": "Dalam Al Qur'an terdapat sebanyak 114 surat → Benar."
         },
         {
           "tipe": "isian",
@@ -531,7 +531,7 @@ window.KUIS.push({
             "8"
           ],
           "j": 1,
-          "e": "Surat Al Fatihah terdiri dari7 ayat."
+          "e": "Surat Al Fatihah terdiri dari 7 ayat."
         },
         {
           "tipe": "pg",
@@ -566,7 +566,7 @@ window.KUIS.push({
             "ayat pertama surat An Naas",
             "ayat ketiga surat An Naas"
           ],
-          "e": "Qul a'uudzu birobbin naas = ayat1; Ilaahin naas = ayat3; sebelum tidur membaca doa sebelum tidur dan surat An Naas."
+          "e": "Qul a'uudzu birobbin naas = ayat 1; Ilaahin naas = ayat 3; sebelum tidur membaca doa sebelum tidur dan surat An Naas."
         },
         {
           "tipe": "bs",
@@ -705,7 +705,7 @@ window.KUIS.push({
             "7 ayat",
             "6 ayat"
           ],
-          "e": "Al Qur'an =114 surat; Al Fatihah =7 ayat; An Naas =6 ayat."
+          "e": "Al Qur'an = 114 surat; Al Fatihah = 7 ayat; An Naas = 6 ayat."
         },
         {
           "tipe": "pg",
@@ -772,7 +772,7 @@ window.KUIS.push({
             "7 ayat yang dibaca berulang kali saat shalat",
             "induk Al Qur'an"
           ],
-          "e": "Ummul Kitab = induk Al Qur'an; surat Makkiyah = diturunkan di Makkah; Assabul Matsany =7 ayat yang dibaca berulang saat shalat."
+          "e": "Ummul Kitab = induk Al Qur'an; surat Makkiyah = diturunkan di Makkah; Assabul Matsany = 7 ayat yang dibaca berulang saat shalat."
         },
         {
           "tipe": "bs",
@@ -808,13 +808,13 @@ window.KUIS.push({
         },
         {
           "tipe": "bs",
-          "t": "Al Qur'an memiliki lebih dari100 surat.",
+          "t": "Al Qur'an memiliki lebih dari 100 surat.",
           "p": [
             "Benar",
             "Salah"
           ],
           "j": 0,
-          "e": "Dalam Al Qur'an terdapat114 surat, jadi lebih dari100 surat → Benar."
+          "e": "Dalam Al Qur'an terdapat 114 surat, jadi lebih dari 100 surat → Benar."
         },
         {
           "tipe": "cocok",
@@ -830,15 +830,15 @@ window.KUIS.push({
             ],
             [
               "Minal jinnati wan naas",
-              "lanjutan ayat pertama surat An Naas"
+              "ayat keenam (terakhir) surat An Naas"
             ]
           ],
           "urutKanan": [
             "ayat ketiga surat An Naas",
-            "lanjutan ayat pertama surat An Naas",
+            "ayat keenam (terakhir) surat An Naas",
             "ayat pertama surat An Naas"
           ],
-          "e": "Qul a'uudzu birobbin naas = ayat1; lanjutannya minal jinnati wan naas; Ilaahin naas = ayat3."
+          "e": "Qul a'uudzu birobbin naas = ayat 1; Ilaahin naas = ayat 3; minal jinnati wan naas = ayat keenam (terakhir)."
         }
       ]
     }
