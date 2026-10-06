@@ -127,7 +127,7 @@ window.KUIS.push({
           "t": "You can hold a .... in your hand.",
           "p": [
             "a 2D shape",
-            "a picture",
+            "a rectangle",
             "a 3D shape"
           ],
           "j": 2,
@@ -319,14 +319,14 @@ window.KUIS.push({
         },
         {
           "tipe": "isian",
-          "t": "This cookie is a ....",
+          "t": "This cookie is not cut. It is a ....",
           "p": [
             "half",
             "whole",
             "part"
           ],
           "j": 1,
-          "e": "This cookie is a whole; jika dipotong dua bagian sama besar, tiap bagian = a half."
+          "e": "The cookie is not cut so it is a whole; jika dipotong dua bagian sama besar, tiap bagian = a half."
         },
         {
           "tipe": "pg",
@@ -458,7 +458,7 @@ window.KUIS.push({
         },
         {
           "tipe": "pg",
-          "t": "The cookie is cut into two parts. Each part is a ....",
+          "t": "The cookie is cut into two equal parts. Each part is a ....",
           "p": [
             "half",
             "whole",

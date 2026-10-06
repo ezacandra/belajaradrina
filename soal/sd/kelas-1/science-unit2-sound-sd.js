@@ -464,7 +464,7 @@ window.KUIS.push({
             "loud",
             "nice"
           ],
-          "j": 0,
+          "j": 1,
           "e": "Some loud sounds warn us of danger — misalnya alarm atau sirene."
         },
         {
@@ -504,14 +504,14 @@ window.KUIS.push({
         },
         {
           "tipe": "pg",
-          "t": "A clock and a chair are examples of things that can ....",
+          "t": "A chair and a table are examples of things that can ....",
           "p": [
             "make sound",
             "break",
             "not make sound"
           ],
           "j": 2,
-          "e": "The objects that can not make sound are things like a clock dan a chair (bunyi lain berasal dari benda yang bergerak/dipukul)."
+          "e": "The objects that can not make sound are things like a chair dan a table (bunyi lain berasal dari benda yang bergerak/dipukul)."
         },
         {
           "tipe": "bs",

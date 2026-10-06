@@ -48,7 +48,7 @@ window.KUIS.push({
           "tipe": "pg",
           "t": "🤾 Throwing and catching the ball train our .... skills.",
           "p": [
-            "a ball",
+            "ball",
             "sleeping",
             "reading"
           ],
@@ -264,12 +264,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "🤾 Throwing the ball uses the ....",
-          "p": [
-            "hand",
-            "foot",
-            "mouth"
+          "p": [            "foot",
+            "mouth",
+            "hand"
           ],
-          "j": 0,
+          "j": 2,
           "e": "Melempar (throw) bola menggunakan tangan (hand)."
         },
         {
@@ -278,7 +277,7 @@ window.KUIS.push({
           "pasangan": [
             [
               "stretch",
-              "menggerakkan badan"
+              "peregangan tubuh"
             ],
             [
               "warm up",
@@ -292,9 +291,9 @@ window.KUIS.push({
           "urutKanan": [
             "pemanasan sebelum olahraga",
             "pendinginan setelah olahraga",
-            "menggerakkan badan"
+            "peregangan tubuh"
           ],
-          "e": "Stretch = menggerakkan badan; warm up = pemanasan sebelum olahraga; cool down = pendinginan setelah olahraga."
+          "e": "Stretch = peregangan tubuh; warm up = pemanasan sebelum olahraga; cool down = pendinginan setelah olahraga."
         },
         {
           "tipe": "pg",
@@ -381,7 +380,7 @@ window.KUIS.push({
             "eating chips",
             "skipping breakfast"
           ],
-          "j": 2,
+          "j": 0,
           "e": "Melewatkan sarapan (skipping breakfast) tidak sehat; makan sayur saat istirahat = kebiasaan sehat."
         },
         {
@@ -681,7 +680,7 @@ window.KUIS.push({
             "market",
             "shop"
           ],
-          "j": 1,
+          "j": 0,
           "e": "Tempat aman menyeberang jalan adalah zebra crossing."
         },
         {

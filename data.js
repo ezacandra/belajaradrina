@@ -104,7 +104,7 @@ window.KUIS = [
        "Salah"
       ],
       "j": 1,
-      "e": "Menonton TV dilakukan di rumah (at home), bukan di sekolah → Salah."
+      "e": "Menonton TV termasuk kegiatan di rumah (at home), bukan kegiatan di sekolah bersama guru → Salah."
      },
      {
       "tipe": "isian",
@@ -261,10 +261,10 @@ window.KUIS = [
       "t": "I drink .... for breakfast. 🥛",
       "p": [
        "water",
-       "milk",
-       "tea"
+       "tea",
+       "milk"
       ],
-      "j": 1,
+      "j": 2,
       "e": "Gambar segelas susu → milk (susu), minuman sehat untuk sarapan."
      },
      {
@@ -589,11 +589,11 @@ window.KUIS = [
       "tipe": "isian",
       "t": "I put my books in my .... 🎒",
       "p": [
-       "bag",
        "bed",
-       "bowl"
+       "bowl",
+       "bag"
       ],
-      "j": 0,
+      "j": 2,
       "e": "Gambar tas sekolah → bag (tas), buku disimpan di dalam tas."
      },
      {
@@ -672,11 +672,11 @@ window.KUIS = [
       "tipe": "isian",
       "t": "I wear my .... to school. 👟",
       "p": [
-       "shoes",
        "pajamas",
-       "blanket"
+       "blanket",
+       "shoes"
       ],
-      "j": 0,
+      "j": 2,
       "e": "Gambar sepatu → shoes (sepatu) dipakai saat pergi ke sekolah."
      },
      {
@@ -737,14 +737,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "I eat a .... for breakfast. 🍌",
+      "t": "I eat .... for breakfast. 🍌",
       "p": [
        "banana",
        "rice",
        "cake"
       ],
       "j": 0,
-      "e": "🍌 = pisang → banana bisa dimakan untuk sarapan."
+      "e": "🍌 menunjukkan gambar pisang → jawabannya banana."
      },
      {
       "tipe": "cocok",
@@ -768,7 +768,7 @@ window.KUIS = [
        "👦",
        "👧"
       ],
-      "e": "brother = anak laki-laki 👦, sister = anak perempuan 👧, grandfather = kakek 👴."
+      "e": "brother = kakak atau adik laki-laki 👦, sister = kakak atau adik perempuan 👧, grandfather = kakek 👴."
      },
      {
       "tipe": "bs",
@@ -795,11 +795,11 @@ window.KUIS = [
       "tipe": "isian",
       "t": "I sleep in my .... at night. 🛏️",
       "p": [
-       "bed",
        "bag",
-       "bowl"
+       "bowl",
+       "bed"
       ],
-      "j": 0,
+      "j": 2,
       "e": "Gambar ranjang → bed (ranjang), tempat tidur saat malam hari."
      },
      {
@@ -893,11 +893,11 @@ window.KUIS = [
       "tipe": "isian",
       "t": "Bentuk yang memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus disebut bentuk ....",
       "p": [
-       "geometris",
        "organis",
-       "bebas"
+       "bebas",
+       "geometris"
       ],
-      "j": 0,
+      "j": 2,
       "e": "Ciri bentuk geometris: garis teratur, sudut tegas, dan terdiri dari garis lurus."
      },
      {
@@ -949,11 +949,11 @@ window.KUIS = [
       "tipe": "isian",
       "t": "Cangkang siput mempunyai garis .... di permukaannya.",
       "p": [
-       "spiral",
        "zig-zag",
-       "silang"
+       "silang",
+       "spiral"
       ],
-      "j": 0,
+      "j": 2,
       "e": "Cangkang siput berpilin ke dalam seperti obeng → garis spiral."
      },
      {
@@ -1721,22 +1721,22 @@ window.KUIS = [
       "tipe": "pg",
       "t": "Wawancara artinya .... kepada orang lain untuk mengenalnya lebih dekat.",
       "p": [
-       "bertanya",
        "menjauhi",
+       "bertanya",
        "mengejek"
       ],
-      "j": 0,
+      "j": 1,
       "e": "Wawancara adalah bertanya kepada orang lain untuk mengenalnya lebih dekat."
      },
      {
       "tipe": "isian",
       "t": "Identitas diri adalah informasi tentang .... kita.",
       "p": [
-       "diri",
        "guru",
+       "diri",
        "tetangga"
       ],
-      "j": 0,
+      "j": 1,
       "e": "Identitas diri adalah informasi tentang diri kita yang membedakan kita dengan orang lain."
      },
      {
@@ -4524,10 +4524,10 @@ window.KUIS = [
       "p": [
        "He, kita bermain boneka!",
        "Apa kita bermain boneka saja?",
-       "Mari kita bermain boneka, Khansa!"
+       "Tutup pintu itu!"
       ],
       "j": 2,
-      "e": "Kalimat perintah yang benar dan sopan adalah 'Mari kita bermain boneka, Khansa!'."
+      "e": "Kalimat perintah yang benar adalah 'Tutup pintu itu!' — kalimat yang menyuruh orang melakukan sesuatu."
      },
      {
       "tipe": "cocok",
@@ -4884,11 +4884,11 @@ window.KUIS = [
        ],
        [
         "Mari kita bermain boneka, Khansa!",
-        "kalimat perintah"
+        "kalimat ajakan"
        ],
        [
-        "Ayo kita ke lapangan!",
-        "kalimat ajakan"
+        "Buanglah sampah di tempatnya!",
+        "kalimat perintah"
        ]
       ],
       "urutKanan": [
@@ -4896,7 +4896,7 @@ window.KUIS = [
        "kalimat ajakan",
        "kalimat tanya"
       ],
-      "e": "'Berapa harga bukumu?' = tanya; 'Mari kita bermain boneka, Khansa!' = perintah; 'Ayo kita ke lapangan!' = ajakan."
+      "e": "'Berapa harga bukumu?' = tanya; 'Mari kita bermain boneka, Khansa!' = ajakan; 'Buanglah sampah di tempatnya!' = perintah."
      },
      {
       "tipe": "pg",
@@ -5493,7 +5493,7 @@ window.KUIS = [
        "loud",
        "nice"
       ],
-      "j": 0,
+      "j": 1,
       "e": "Some loud sounds warn us of danger — misalnya alarm atau sirene."
      },
      {
@@ -5533,14 +5533,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "A clock and a chair are examples of things that can ....",
+      "t": "A chair and a table are examples of things that can ....",
       "p": [
        "make sound",
        "break",
        "not make sound"
       ],
       "j": 2,
-      "e": "The objects that can not make sound are things like a clock dan a chair (bunyi lain berasal dari benda yang bergerak/dipukul)."
+      "e": "The objects that can not make sound are things like a chair dan a table (bunyi lain berasal dari benda yang bergerak/dipukul)."
      },
      {
       "tipe": "bs",
@@ -5995,7 +5995,7 @@ window.KUIS = [
       "t": "You can hold a .... in your hand.",
       "p": [
        "a 2D shape",
-       "a picture",
+       "a rectangle",
        "a 3D shape"
       ],
       "j": 2,
@@ -6187,14 +6187,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "This cookie is a ....",
+      "t": "This cookie is not cut. It is a ....",
       "p": [
        "half",
        "whole",
        "part"
       ],
       "j": 1,
-      "e": "This cookie is a whole; jika dipotong dua bagian sama besar, tiap bagian = a half."
+      "e": "The cookie is not cut so it is a whole; jika dipotong dua bagian sama besar, tiap bagian = a half."
      },
      {
       "tipe": "pg",
@@ -6326,7 +6326,7 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "The cookie is cut into two parts. Each part is a ....",
+      "t": "The cookie is cut into two equal parts. Each part is a ....",
       "p": [
        "half",
        "whole",
@@ -7529,8 +7529,8 @@ window.KUIS = [
       "t": "Pasangkan pedoman dolanan!",
       "pasangan": [
        [
-        "sanajan bedha kasenengan",
-        "dolanan kudu tetep rukun"
+        "Doni seneng",
+        "dolanan layangan"
        ],
        [
         "yen dolanan karo kanca",
@@ -7544,9 +7544,9 @@ window.KUIS = [
       "urutKanan": [
        "kudu rukun ora oleh tukaran",
        "ora padha karo bocah lanang",
-       "dolanan kudu tetep rukun"
+       "dolanan layangan"
       ],
-      "e": "Sanajan bedha kasenengan tetep kudu rukun; dolanan karo kanca ora oleh tukaran; kasenengan wadon ora padha lanang."
+      "e": "Doni seneng dolanan layangan; yen dolanan karo kanca kudu rukun ora oleh tukaran; kasenengan bocah wadon ora padha karo bocah lanang."
      }
     ]
    }
@@ -7594,7 +7594,7 @@ window.KUIS = [
       "tipe": "pg",
       "t": "🤾 Throwing and catching the ball train our .... skills.",
       "p": [
-       "a ball",
+       "ball",
        "sleeping",
        "reading"
       ],
@@ -7811,11 +7811,11 @@ window.KUIS = [
       "tipe": "isian",
       "t": "🤾 Throwing the ball uses the ....",
       "p": [
-       "hand",
        "foot",
-       "mouth"
+       "mouth",
+       "hand"
       ],
-      "j": 0,
+      "j": 2,
       "e": "Melempar (throw) bola menggunakan tangan (hand)."
      },
      {
@@ -7824,7 +7824,7 @@ window.KUIS = [
       "pasangan": [
        [
         "stretch",
-        "menggerakkan badan"
+        "peregangan tubuh"
        ],
        [
         "warm up",
@@ -7838,9 +7838,9 @@ window.KUIS = [
       "urutKanan": [
        "pemanasan sebelum olahraga",
        "pendinginan setelah olahraga",
-       "menggerakkan badan"
+       "peregangan tubuh"
       ],
-      "e": "Stretch = menggerakkan badan; warm up = pemanasan sebelum olahraga; cool down = pendinginan setelah olahraga."
+      "e": "Stretch = peregangan tubuh; warm up = pemanasan sebelum olahraga; cool down = pendinginan setelah olahraga."
      },
      {
       "tipe": "pg",
@@ -7927,7 +7927,7 @@ window.KUIS = [
        "eating chips",
        "skipping breakfast"
       ],
-      "j": 2,
+      "j": 0,
       "e": "Melewatkan sarapan (skipping breakfast) tidak sehat; makan sayur saat istirahat = kebiasaan sehat."
      },
      {
@@ -8227,7 +8227,7 @@ window.KUIS = [
        "market",
        "shop"
       ],
-      "j": 1,
+      "j": 0,
       "e": "Tempat aman menyeberang jalan adalah zebra crossing."
      },
      {

@@ -46,23 +46,21 @@ window.KUIS.push({
         {
           "tipe": "pg",
           "t": "Wawancara artinya .... kepada orang lain untuk mengenalnya lebih dekat.",
-          "p": [
+          "p": [            "menjauhi",
             "bertanya",
-            "menjauhi",
             "mengejek"
           ],
-          "j": 0,
+          "j": 1,
           "e": "Wawancara adalah bertanya kepada orang lain untuk mengenalnya lebih dekat."
         },
         {
           "tipe": "isian",
           "t": "Identitas diri adalah informasi tentang .... kita.",
-          "p": [
+          "p": [            "guru",
             "diri",
-            "guru",
             "tetangga"
           ],
-          "j": 0,
+          "j": 1,
           "e": "Identitas diri adalah informasi tentang diri kita yang membedakan kita dengan orang lain."
         },
         {

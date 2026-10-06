@@ -56,12 +56,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "Bentuk yang memiliki garis teratur, sudut tegas, dan terdiri dari garis lurus disebut bentuk ....",
-          "p": [
-            "geometris",
-            "organis",
-            "bebas"
+          "p": [            "organis",
+            "bebas",
+            "geometris"
           ],
-          "j": 0,
+          "j": 2,
           "e": "Ciri bentuk geometris: garis teratur, sudut tegas, dan terdiri dari garis lurus."
         },
         {
@@ -112,12 +111,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "Cangkang siput mempunyai garis .... di permukaannya.",
-          "p": [
-            "spiral",
-            "zig-zag",
-            "silang"
+          "p": [            "zig-zag",
+            "silang",
+            "spiral"
           ],
-          "j": 0,
+          "j": 2,
           "e": "Cangkang siput berpilin ke dalam seperti obeng → garis spiral."
         },
         {

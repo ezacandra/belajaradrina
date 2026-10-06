@@ -333,10 +333,10 @@ window.KUIS.push({
           "p": [
             "He, kita bermain boneka!",
             "Apa kita bermain boneka saja?",
-            "Mari kita bermain boneka, Khansa!"
+            "Tutup pintu itu!"
           ],
           "j": 2,
-          "e": "Kalimat perintah yang benar dan sopan adalah 'Mari kita bermain boneka, Khansa!'."
+          "e": "Kalimat perintah yang benar adalah 'Tutup pintu itu!' — kalimat yang menyuruh orang melakukan sesuatu."
         },
         {
           "tipe": "cocok",
@@ -693,11 +693,11 @@ window.KUIS.push({
             ],
             [
               "Mari kita bermain boneka, Khansa!",
-              "kalimat perintah"
+              "kalimat ajakan"
             ],
             [
-              "Ayo kita ke lapangan!",
-              "kalimat ajakan"
+              "Buanglah sampah di tempatnya!",
+              "kalimat perintah"
             ]
           ],
           "urutKanan": [
@@ -705,7 +705,7 @@ window.KUIS.push({
             "kalimat ajakan",
             "kalimat tanya"
           ],
-          "e": "'Berapa harga bukumu?' = tanya; 'Mari kita bermain boneka, Khansa!' = perintah; 'Ayo kita ke lapangan!' = ajakan."
+          "e": "'Berapa harga bukumu?' = tanya; 'Mari kita bermain boneka, Khansa!' = ajakan; 'Buanglah sampah di tempatnya!' = perintah."
         },
         {
           "tipe": "pg",

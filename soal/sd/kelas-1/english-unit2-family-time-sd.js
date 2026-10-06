@@ -108,7 +108,7 @@ window.KUIS.push({
             "Salah"
           ],
           "j": 1,
-          "e": "Menonton TV dilakukan di rumah (at home), bukan di sekolah → Salah."
+          "e": "Menonton TV termasuk kegiatan di rumah (at home), bukan kegiatan di sekolah bersama guru → Salah."
         },
         {
           "tipe": "isian",
@@ -263,12 +263,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "I drink .... for breakfast. 🥛",
-          "p": [
-            "water",
-            "milk",
-            "tea"
+          "p": [            "water",
+            "tea",
+            "milk"
           ],
-          "j": 1,
+          "j": 2,
           "e": "Gambar segelas susu → milk (susu), minuman sehat untuk sarapan."
         },
         {
@@ -592,12 +591,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "I put my books in my .... 🎒",
-          "p": [
-            "bag",
-            "bed",
-            "bowl"
+          "p": [            "bed",
+            "bowl",
+            "bag"
           ],
-          "j": 0,
+          "j": 2,
           "e": "Gambar tas sekolah → bag (tas), buku disimpan di dalam tas."
         },
         {
@@ -675,12 +673,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "I wear my .... to school. 👟",
-          "p": [
-            "shoes",
-            "pajamas",
-            "blanket"
+          "p": [            "pajamas",
+            "blanket",
+            "shoes"
           ],
-          "j": 0,
+          "j": 2,
           "e": "Gambar sepatu → shoes (sepatu) dipakai saat pergi ke sekolah."
         },
         {
@@ -741,14 +738,14 @@ window.KUIS.push({
         },
         {
           "tipe": "pg",
-          "t": "I eat a .... for breakfast. 🍌",
+          "t": "I eat .... for breakfast. 🍌",
           "p": [
             "banana",
             "rice",
             "cake"
           ],
           "j": 0,
-          "e": "🍌 = pisang → banana bisa dimakan untuk sarapan."
+          "e": "🍌 menunjukkan gambar pisang → jawabannya banana."
         },
         {
           "tipe": "cocok",
@@ -772,7 +769,7 @@ window.KUIS.push({
             "👦",
             "👧"
           ],
-          "e": "brother = anak laki-laki 👦, sister = anak perempuan 👧, grandfather = kakek 👴."
+          "e": "brother = kakak atau adik laki-laki 👦, sister = kakak atau adik perempuan 👧, grandfather = kakek 👴."
         },
         {
           "tipe": "bs",
@@ -798,12 +795,11 @@ window.KUIS.push({
         {
           "tipe": "isian",
           "t": "I sleep in my .... at night. 🛏️",
-          "p": [
-            "bed",
-            "bag",
-            "bowl"
+          "p": [            "bag",
+            "bowl",
+            "bed"
           ],
-          "j": 0,
+          "j": 2,
           "e": "Gambar ranjang → bed (ranjang), tempat tidur saat malam hari."
         },
         {

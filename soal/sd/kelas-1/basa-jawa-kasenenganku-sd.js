@@ -821,8 +821,8 @@ window.KUIS.push({
           "t": "Pasangkan pedoman dolanan!",
           "pasangan": [
             [
-              "sanajan bedha kasenengan",
-              "dolanan kudu tetep rukun"
+              "Doni seneng",
+              "dolanan layangan"
             ],
             [
               "yen dolanan karo kanca",
@@ -836,9 +836,9 @@ window.KUIS.push({
           "urutKanan": [
             "kudu rukun ora oleh tukaran",
             "ora padha karo bocah lanang",
-            "dolanan kudu tetep rukun"
+            "dolanan layangan"
           ],
-          "e": "Sanajan bedha kasenengan tetep kudu rukun; dolanan karo kanca ora oleh tukaran; kasenengan wadon ora padha lanang."
+          "e": "Doni seneng dolanan layangan; yen dolanan karo kanca kudu rukun ora oleh tukaran; kasenengan bocah wadon ora padha karo bocah lanang."
         }
       ]
     }
