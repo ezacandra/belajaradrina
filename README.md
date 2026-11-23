@@ -9,7 +9,7 @@
 ## ✨ Fitur
 
 ### Untuk Siswa
-- **Navigasi hierarki**: Kategori (Sumatif 2) → Mata Pelajaran → Kelas, dengan filter & chips.
+- **Navigasi hierarki**: Kategori (Sumatif 2 / Sumatif Final) → Mata Pelajaran → Kelas, dengan filter & chips.
 - **4 tipe soal** — semuanya tinggal pilih (tanpa mengetik):
   | Tipe | Label | Bentuk |
   |---|---|---|
@@ -30,9 +30,11 @@
 
 ---
 
-## 📦 Daftar Paket Soal (Sumatif 2 — Kelas 1 SD)
+## 📦 Daftar Paket Soal (Kelas 1 SD)
 
-**10 mata pelajaran × 4 versi × 15 soal = 600 soal.**
+**10 mata pelajaran × 2 kategori × 4 versi × 15 soal = 1200 soal.**
+
+### Sumatif 2
 
 | # | Mata Pelajaran | Judul | Jadwal | Ikon | File sumber |
 |---|---|---|---|---|---|
@@ -49,35 +51,39 @@
 
 > English/Science/Math dicampur bahasa (istilah & soal Inggris, instruksi + pembahasan Indonesia). B Jawa pakai basa Jawa sederhana, penjelasan bahasa Indonesia.
 
+### Sumatif Final
+
+| # | Mata Pelajaran | Materi | Jadwal | Ikon | File sumber |
+|---|---|---|---|---|---|
+| 11 | Al-Qur'an | Surat Al-Falaq dan Al-Ikhlas | 23 Nov 2026 | 📕 | `quran-al-falaq-al-ikhlas-sd-final.js` |
+| 12 | Aqidah-Ibadah | Asmaul Husna (Al-Quddus) & Rukun Islam | 24 Nov 2026 | 🤲 | `aqidah-ibadah-asmaul-husna-rukun-islam-sd-final.js` |
+| 13 | Pendidikan Pancasila | Pelajaran 2 — Aturan di Keluarga | 25 Nov 2026 | 🤝 | `pancasila-aturan-di-keluarga-sd-final.js` |
+| 14 | PJOK | Pelajaran 3 & 4 — Bola Besar dan Bola Kecil | 26 Nov 2026 | 🏃 | `pjok-bola-besar-bola-kecil-sd-final.js` |
+| 15 | Mathematics | Unit 6 Position, 7 Statistics, 8 Time | 27 Nov 2026 | 📐 | `matematika-position-statistics-time-sd-final.js` |
+| 16 | Seni Rupa | Bab 2 — Alat dan Bahan | 30 Nov 2026 | 🎨 | `seni-rupa-alat-bahan-sd-final.js` |
+| 17 | B Jawa | Wulangan 4 — Kulawargaku | 1 Des 2026 | 💬 | `basa-jawa-kulawargaku-sd-final.js` |
+| 18 | Bahasa Indonesia | Pelajaran 4 — Berlatih Supaya Bisa | 1 Des 2026 | ✍️ | `bahasa-indonesia-berlatih-supaya-bisa-sd-final.js` |
+| 19 | Science | Unit III — Materials in My World | 1 Des 2026 | 🔬 | `science-materials-in-my-world-sd-final.js` |
+| 20 | English | Unit 4 — Clothes, Colors, and Shapes | 2 Des 2026 | 🔤 | `english-unit4-clothes-colors-shapes-sd-final.js` |
+
 ---
 
 ## 🗂 Struktur Repository
 
 ```
-belajaradrina/
-├── index.html          # Hub: filter kategori/kelas/mapel, kartu paket
-├── kuis.html           # Mesin kuis: pengerjaan, nilai, kunci, cetak
-├── data.js             # ⚠️ HASIL BUILD (jangan diedit manual!)
+belajaradrina/                  # semua isi proyek ada di folder ini
+├── index.html                  # Hub: filter kategori/kelas/mapel, kartu paket
+├── kuis.html                   # Mesin kuis: pengerjaan, nilai, kunci, cetak
+├── data.js                     # ⚠️ HASIL BUILD (jangan diedit manual!)
 ├── soal/
 │   └── sd/
-│       └── kelas-1/    # 1 file per paket (edit di sini)
-│           ├── english-unit2-family-time-sd.js
-│           ├── seni-rupa-garis-bentuk-warna-sd.js
-│           ├── pancasila-aku-dan-temanku-sd.js
-│           ├── aqidah-ibadah-syahadat-sholat-sd.js
-│           ├── quran-surat-al-fatihah-an-naas-sd.js
-│           ├── bahasa-indonesia-bermain-tanda-baca-sd.js
-│           ├── science-unit2-sound-sd.js
-│           ├── matematika-geometri-pecahan-sd.js
-│           ├── basa-jawa-kasenenganku-sd.js
-│           └── pjok-gerak-dasar-keselamatan-sd.js
+│       └── kelas-1/            # 20 file paket (1 file = 1 paket, edit di sini)
+├── tools/
+│   ├── build-belajaradrina.mjs # Build + validasi data.js
+│   └── serve.mjs               # Server lokal untuk tes
 └── README.md
 
-../tools/
-├── build-belajaradrina.mjs   # Build + validasi data.js
-└── serve.mjs                 # Server lokal untuk tes
-
-../materi-sumatif-2/          # ⚠️ Materi sekolah (DI LUAR repo, tidak ikut git)
+../materi-sumatif-2/            # ⚠️ Materi sekolah (docx/pptx/pdf) — di luar repo, tidak ikut git
 ```
 
 ---
@@ -147,18 +153,21 @@ window.KUIS.push({
 ## 🔧 Alur Kerja: Edit / Tambah Soal
 
 ```powershell
+# Semua perintah dijalankan DARI folder repo:
+cd belajaradrina
+
 # 1. Edit SATU file paket saja (soal/sd/kelas-1/<paket>.js)
 # 2. Build + validasi (jangan edit data.js langsung!)
 node tools/build-belajaradrina.mjs
 
 # 3. Tes lokal (opsional)
-node tools/serve.mjs belajaradrina 8787
-#   → http://localhost:8787/
+node tools/serve.mjs
+#   → http://localhost:8787/   (port lain: node tools/serve.mjs . 3000)
 
-# 4. Commit & push DARI folder belajaradrina/
-git -C belajaradrina add soal data.js
-git -C belajaradrina commit -m "pesan"
-git -C belajaradrina push origin master
+# 4. Commit & push
+git add soal data.js tools
+git commit -m "pesan"
+git push origin master
 
 # 5. Tunggu ±80 detik, cek build GitHub Pages
 gh api repos/ezacandra/belajaradrina/pages/builds/latest --jq "{status: .status, commit: .commit[0:7]}"
@@ -167,7 +176,7 @@ gh api repos/ezacandra/belajaradrina/pages/builds/latest --jq "{status: .status,
 #    https://ezacandra.github.io/belajaradrina/data.js?cb=<timestamp>
 ```
 
-Validator build memastikan: jumlah versi & soal, POLA tipe, sebaran kunci, keunikan soal, dan aturan `cocok` — build gagal kalau ada yang melanggar.
+Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal, index jawaban valid, `pasangan`/`urutKanan` konsisten, dan pembahasan tidak kosong — build gagal kalau ada yang melanggar.
 
 ---
 
@@ -184,9 +193,9 @@ Validator build memastikan: jumlah versi & soal, POLA tipe, sebaran kunci, keuni
 
 ## 📊 Statistik
 
-- **10 paket** · **40 versi** · **600 soal**
+- **20 paket** → **80 versi** → **1200 soal**
 - **4 tipe soal** tercampur di tiap versi
-- Bundle: `data.js` ±190 KB (1 request, tanpa server/API)
+- Bundle: `data.js` ±360 KB (1 request, tanpa server/API)
 - Stack: HTML + CSS + JS murni → di-serve gratis oleh **GitHub Pages**
 
 ---
