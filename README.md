@@ -178,6 +178,8 @@ gh api repos/ezacandra/belajaradrina/pages/builds/latest --jq "{status: .status,
 
 Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal, index jawaban valid, `pasangan`/`urutKanan` konsisten, dan pembahasan tidak kosong — build gagal kalau ada yang melanggar.
 
+> **Cache:** setiap kali `data.js` berubah, naikkan angka `?v=` pada `<script src="data.js?v=...">` di `index.html` **dan** `kuis.html`. GitHub Pages mengirim `cache-control: max-age=600`, jadi tanpa itu browser bisa memakai data lama hingga 10 menit.
+
 ---
 
 ## 🖥 Cara Pakai
