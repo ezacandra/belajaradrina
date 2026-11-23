@@ -1,5 +1,5 @@
 /* Build data.js untuk situs belajaradrina.
-   Sumber: soal/<tingkat>/<kelas>/*.js — semua file .js discan otomatis,
+   Sumber: soal/<tingkat>/<kelas>/<kategori>/*.js. Semua file .js discan otomatis,
    tidak ada entri hardcode. Paket baru tinggal tambah file, jalankan script ini. */
 import fs from "node:fs";
 import path from "node:path";

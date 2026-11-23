@@ -77,7 +77,9 @@ belajaradrina/                  # semua isi proyek ada di folder ini
 ├── data.js                     # ⚠️ HASIL BUILD (jangan diedit manual!)
 ├── soal/
 │   └── sd/
-│       └── kelas-1/            # 20 file paket (1 file = 1 paket, edit di sini)
+│       └── kelas-1/
+│           ├── sumatif-2/      # 10 file paket Sumatif 2
+│           └── sumatif-final/  # 10 file paket Sumatif Final
 ├── tools/
 │   ├── build-belajaradrina.mjs # Build + validasi data.js
 │   └── serve.mjs               # Server lokal untuk tes
@@ -85,6 +87,10 @@ belajaradrina/                  # semua isi proyek ada di folder ini
 
 ../materi-sumatif-2/            # ⚠️ Materi sekolah (docx/pptx/pdf) — di luar repo, tidak ikut git
 ```
+
+Pola folder paket: `soal/<tingkat>/<kelas>/<kategori>/<paket>.js`.
+Contoh: `soal/sd/kelas-2/sumatif-1/`, `soal/smp/kelas-7/sumatif-final/`, `soal/sma/kelas-10/sumatif-2/`.
+Build script menyapu semua file `.js` di bawah `soal/`, jadi folder baru otomatis ikut.
 
 ---
 
@@ -156,7 +162,7 @@ window.KUIS.push({
 # Semua perintah dijalankan DARI folder repo:
 cd belajaradrina
 
-# 1. Edit SATU file paket saja (soal/sd/kelas-1/<paket>.js)
+# 1. Edit SATU file paket saja (soal/sd/kelas-1/<kategori>/<paket>.js)
 # 2. Build + validasi (jangan edit data.js langsung!)
 node tools/build-belajaradrina.mjs
 
