@@ -45,17 +45,17 @@ window.KUIS.push({
         {"tipe":"bs","t":"Tanpa berlatih kita pasti langsung bisa.","p":["Benar","Salah"],"j":1,"e":"Salah, tanpa berlatih kita sulit bisa."},
         {"tipe":"pg","t":"Sinonim 'bisa' adalah ....","p":["malas","mampu","lambat"],"j":1,"e":"Sinonim bisa adalah mampu."},
         {"tipe":"isian","t":"Dia bisa ... gitar.","p":["makan","tidur","memainkan"],"j":2,"e":"Kalimat yang benar: Dia bisa memainkan gitar."},
-        {"tipe":"cocok","t":"Pasangkan kegiatan dengan alat atau tempatnya!","pasangan":[["Berenang","kolam renang"],["Bersepeda","sepeda"],["Menggambar","krayon"]],"urutKanan":["kolam renang","krayon","sepeda"],"e":"Berenang di kolam renang, bersepeda dengan sepeda, menggambar dengan krayon."},
-        {"tipe":"pg","t":"Kalimat yang benar adalah ....","p":["Saya bisa membaca.","Bisa saya membaca.","Saya membaca bisa."],"j":0,"e":"Kalimat yang benar: Saya bisa membaca."},
+        {"tipe":"cocok","t":"Pasangkan kegiatan dengan peralatan yang dipakai!","pasangan":[["Berenang","kolam renang"],["Bersepeda","sepeda"],["Menggambar","krayon"]],"urutKanan":["kolam renang","krayon","sepeda"],"e":"Berenang di kolam renang, bersepeda dengan sepeda, menggambar dengan krayon."},
+        {"tipe":"pg","t":"Pilih kalimat dengan tanda baca yang tepat!","p":["Saya bisa membaca.","Bisa saya membaca.","Saya membaca bisa."],"j":0,"e":"Kalimat yang benar: Saya bisa membaca."},
         {"tipe":"bs","t":"Berlatih membaca membuat kita lancar.","p":["Benar","Salah"],"j":0,"e":"Benar, berlatih membaca membuat kita lancar."},
         {"tipe":"isian","t":"Berlatih supaya ....","p":["bisa","malas","takut"],"j":0,"e":"Kita berlatih supaya bisa."},
         {"tipe":"pg","t":"Lawan kata 'pintar' adalah ....","p":["bodoh","cepat","rajin"],"j":0,"e":"Lawan kata pintar adalah bodoh."},
-        {"tipe":"cocok","t":"Pasangkan kegiatan dengan tempatnya!","pasangan":[["Berenang","kolam renang"],["Membaca","perpustakaan"],["Bermain","lapangan"]],"urutKanan":["lapangan","kolam renang","perpustakaan"],"e":"Berenang di kolam, membaca di perpustakaan, bermain di lapangan."},
+        {"tipe":"cocok","t":"Pasangkan kegiatan dengan lokasinya!","pasangan":[["Berenang","kolam renang"],["Membaca","perpustakaan"],["Bermain","lapangan"]],"urutKanan":["lapangan","kolam renang","perpustakaan"],"e":"Berenang di kolam, membaca di perpustakaan, bermain di lapangan."},
         {"tipe":"bs","t":"Kita harus sabar saat berlatih.","p":["Benar","Salah"],"j":0,"e":"Benar, sabar saat berlatih itu penting."},
         {"tipe":"pg","t":"Tanda tanya dipakai untuk kalimat ....","p":["berita","pertanyaan","perintah"],"j":1,"e":"Tanda tanya dipakai untuk kalimat tanya."},
         {"tipe":"isian","t":"Aku berlatih menyanyi di ....","p":["kolam","dapur","rumah"],"j":2,"e":"Kita bisa berlatih menyanyi di rumah."},
         {"tipe":"bs","t":"Menulis tidak perlu dilatih.","p":["Benar","Salah"],"j":1,"e":"Salah, menulis perlu dilatih."},
-        {"tipe":"cocok","t":"Pasangkan kata dengan artinya!","pasangan":[["Bisa","mampu"],["Rajin","tekun"],["Pintar","cerdas"]],"urutKanan":["cerdas","mampu","tekun"],"e":"Bisa mampu, rajin tekun, pintar cerdas."}
+        {"tipe":"cocok","t":"Pasangkan kosakata dengan maknanya!","pasangan":[["Bisa","mampu"],["Rajin","tekun"],["Pintar","cerdas"]],"urutKanan":["cerdas","mampu","tekun"],"e":"Bisa mampu, rajin tekun, pintar cerdas."}
       ]
     },
     {
@@ -66,17 +66,17 @@ window.KUIS.push({
         {"tipe":"bs","t":"Latihan yang terus-menerus membuat kita mahir.","p":["Benar","Salah"],"j":0,"e":"Benar, latihan terus-menerus membuat mahir."},
         {"tipe":"pg","t":"Kata 'dapat' artinya ....","p":["tidak bisa","malas","bisa"],"j":2,"e":"Dapat artinya bisa atau mendapat."},
         {"tipe":"isian","t":"Aku bisa berenang di ....","p":["meja","kolam renang","kursi"],"j":1,"e":"Berenang dilakukan di kolam renang."},
-        {"tipe":"cocok","t":"Pasangkan kegiatan dengan alat atau tempatnya!","pasangan":[["Berenang","kolam renang"],["Bersepeda","sepeda"],["Menggambar","krayon"]],"urutKanan":["krayon","sepeda","kolam renang"],"e":"Berenang di kolam renang, bersepeda dengan sepeda, menggambar dengan krayon."},
-        {"tipe":"pg","t":"Kalimat yang benar adalah ....","p":["Bisa aku menari.","Aku menari bisa.","Aku bisa menari."],"j":2,"e":"Kalimat yang benar: Aku bisa menari."},
+        {"tipe":"cocok","t":"Pasangkan aktivitas dengan alat atau lokasinya!","pasangan":[["Berenang","kolam renang"],["Bersepeda","sepeda"],["Menggambar","krayon"]],"urutKanan":["krayon","sepeda","kolam renang"],"e":"Berenang di kolam renang, bersepeda dengan sepeda, menggambar dengan krayon."},
+        {"tipe":"pg","t":"Kalimat yang ejaannya benar adalah ....","p":["Bisa aku menari.","Aku menari bisa.","Aku bisa menari."],"j":2,"e":"Kalimat yang benar: Aku bisa menari."},
         {"tipe":"bs","t":"Kita boleh menyerah saat berlatih.","p":["Benar","Salah"],"j":1,"e":"Salah, kita harus sabar dan tidak menyerah."},
         {"tipe":"isian","t":"Jika rajin berlatih, kita menjadi ....","p":["malas","pintar","takut"],"j":1,"e":"Rajin berlatih membuat kita pintar."},
         {"tipe":"pg","t":"Lawan kata 'malas' adalah ....","p":["tidur","lambat","rajin"],"j":2,"e":"Lawan kata malas adalah rajin."},
-        {"tipe":"cocok","t":"Pasangkan kegiatan dengan tempatnya!","pasangan":[["Berenang","kolam renang"],["Membaca","perpustakaan"],["Bermain","lapangan"]],"urutKanan":["perpustakaan","lapangan","kolam renang"],"e":"Berenang di kolam, membaca di perpustakaan, bermain di lapangan."},
+        {"tipe":"cocok","t":"Pasangkan aktivitas dengan tempatnya!","pasangan":[["Berenang","kolam renang"],["Membaca","perpustakaan"],["Bermain","lapangan"]],"urutKanan":["perpustakaan","lapangan","kolam renang"],"e":"Berenang di kolam, membaca di perpustakaan, bermain di lapangan."},
         {"tipe":"bs","t":"Membaca tidak perlu berlatih.","p":["Benar","Salah"],"j":1,"e":"Salah, membaca juga perlu berlatih."},
         {"tipe":"pg","t":"Tanda titik dipakai untuk kalimat ....","p":["berita","pertanyaan","seruan"],"j":0,"e":"Kalimat berita diakhiri tanda titik."},
         {"tipe":"isian","t":"Aku berlatih menulis setiap ....","p":["tahun","minggu","hari"],"j":2,"e":"Kita sebaiknya berlatih menulis setiap hari."},
         {"tipe":"bs","t":"Berlatih dengan sabar itu baik.","p":["Benar","Salah"],"j":0,"e":"Benar, berlatih dengan sabar itu baik."},
-        {"tipe":"cocok","t":"Pasangkan kata dengan artinya!","pasangan":[["Bisa","mampu"],["Rajin","tekun"],["Pintar","cerdas"]],"urutKanan":["tekun","cerdas","mampu"],"e":"Bisa mampu, rajin tekun, pintar cerdas."}
+        {"tipe":"cocok","t":"Pasangkan kata dengan sinonimnya!","pasangan":[["Bisa","mampu"],["Rajin","tekun"],["Pintar","cerdas"]],"urutKanan":["tekun","cerdas","mampu"],"e":"Bisa mampu, rajin tekun, pintar cerdas."}
       ]
     },
     {
@@ -87,17 +87,17 @@ window.KUIS.push({
         {"tipe":"bs","t":"Berlatih itu tidak ada gunanya.","p":["Benar","Salah"],"j":1,"e":"Salah, berlatih sangat berguna."},
         {"tipe":"pg","t":"Sinonim 'mampu' adalah ....","p":["bisa","malas","lambat"],"j":0,"e":"Sinonim mampu adalah bisa."},
         {"tipe":"isian","t":"Aku bisa ... bola.","p":["makan","memainkan","tidur"],"j":1,"e":"Kalimat yang benar: Aku bisa memainkan bola."},
-        {"tipe":"cocok","t":"Pasangkan kegiatan dengan alat atau tempatnya!","pasangan":[["Berenang","kolam renang"],["Bersepeda","sepeda"],["Menggambar","krayon"]],"urutKanan":["sepeda","kolam renang","krayon"],"e":"Berenang di kolam renang, bersepeda dengan sepeda, menggambar dengan krayon."},
-        {"tipe":"pg","t":"Kalimat yang benar adalah ....","p":["Aku menyanyi bisa.","Bisa aku menyanyi.","Aku bisa menyanyi."],"j":2,"e":"Kalimat yang benar: Aku bisa menyanyi."},
+        {"tipe":"cocok","t":"Pasangkan kegiatan dengan alat dan tempatnya!","pasangan":[["Berenang","kolam renang"],["Bersepeda","sepeda"],["Menggambar","krayon"]],"urutKanan":["sepeda","kolam renang","krayon"],"e":"Berenang di kolam renang, bersepeda dengan sepeda, menggambar dengan krayon."},
+        {"tipe":"pg","t":"Kalimat yang ditulis dengan tepat adalah ....","p":["Aku menyanyi bisa.","Bisa aku menyanyi.","Aku bisa menyanyi."],"j":2,"e":"Kalimat yang benar: Aku bisa menyanyi."},
         {"tipe":"bs","t":"Kita boleh berhenti serta-merta saat berlatih.","p":["Benar","Salah"],"j":1,"e":"Salah, kita harus berlatih dengan sabar dan tekun."},
-        {"tipe":"isian","t":"Berlatih supaya ....","p":["bisa","malas","takut"],"j":0,"e":"Kita berlatih supaya bisa."},
+        {"tipe":"isian","t":"Kata tanya untuk menanyakan tempat adalah ....","p":["di mana","kapan","siapa"],"j":0,"e":"Kata tanya 'di mana' dipakai untuk menanyakan tempat."},
         {"tipe":"pg","t":"Lawan kata 'cepat' adalah ....","p":["pintar","rajin","lambat"],"j":2,"e":"Lawan kata cepat adalah lambat."},
-        {"tipe":"cocok","t":"Pasangkan kegiatan dengan tempatnya!","pasangan":[["Berenang","kolam renang"],["Membaca","perpustakaan"],["Bermain","lapangan"]],"urutKanan":["lapangan","perpustakaan","kolam renang"],"e":"Berenang di kolam, membaca di perpustakaan, bermain di lapangan."},
+        {"tipe":"cocok","t":"Pasangkan kegiatan dengan tempat pelaksanaannya!","pasangan":[["Berenang","kolam renang"],["Membaca","perpustakaan"],["Bermain","lapangan"]],"urutKanan":["lapangan","perpustakaan","kolam renang"],"e":"Berenang di kolam, membaca di perpustakaan, bermain di lapangan."},
         {"tipe":"bs","t":"Dengan berlatih, kita bisa mengendarai sepeda.","p":["Benar","Salah"],"j":0,"e":"Benar, berlatih membuat kita bisa mengendarai sepeda."},
         {"tipe":"pg","t":"Tanda baca di akhir kalimat tanya adalah ....","p":["tanda tanya","titik","koma"],"j":0,"e":"Kalimat tanya diakhiri tanda tanya."},
         {"tipe":"isian","t":"Aku bisa menulis dengan ....","p":["kaki","pensil","sendok"],"j":1,"e":"Kita menulis dengan pensil."},
         {"tipe":"bs","t":"Sabar berlatih itu penting.","p":["Benar","Salah"],"j":0,"e":"Benar, sabar berlatih itu penting."},
-        {"tipe":"cocok","t":"Pasangkan kata dengan artinya!","pasangan":[["Bisa","mampu"],["Rajin","tekun"],["Pintar","cerdas"]],"urutKanan":["mampu","cerdas","tekun"],"e":"Bisa mampu, rajin tekun, pintar cerdas."}
+        {"tipe":"cocok","t":"Pasangkan kata dengan arti yang tepat!","pasangan":[["Bisa","mampu"],["Rajin","tekun"],["Pintar","cerdas"]],"urutKanan":["mampu","cerdas","tekun"],"e":"Bisa mampu, rajin tekun, pintar cerdas."}
       ]
     }
   ]

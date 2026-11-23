@@ -8704,14 +8704,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Surat Al-Falaq berarti waktu ....",
+      "t": "Allah tempat bergantung dan meminta segala sesuatu disebut ....",
       "p": [
-       "subuh",
-       "malam",
-       "siang"
+       "Allahush shamad",
+       "Allahush ahad",
+       "Lam yalid"
       ],
       "j": 0,
-      "e": "Al-Falaq artinya waktu subuh."
+      "e": "Allahush shamad artinya Allah tempat meminta segala sesuatu."
      },
      {
       "tipe": "pg",
@@ -8854,18 +8854,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Surat Al-Falaq terdiri dari ... ayat.",
+      "t": "Dalam Al-Falaq, kejahatan orang yang dengki disebut ....",
       "p": [
-       "4",
-       "5",
-       "6"
+       "haasidin",
+       "ghaasiqin",
+       "naffaatsaati"
       ],
-      "j": 1,
-      "e": "Surat Al-Falaq terdiri dari 5 ayat."
+      "j": 0,
+      "e": "Haasidin idzaa hasad artinya orang yang dengki."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan lafal dengan artinya!",
+      "t": "Pasangkan lafal surah dengan artinya!",
       "pasangan": [
        [
         "Al-Falaq",
@@ -8889,24 +8889,24 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Surat Al-Ikhlas terdiri dari ... ayat.",
+      "t": "Bacaan 'Wa min syarrin-naffaatsaati fil-'uqad' menggambarkan kejahatan ....",
       "p": [
-       "5",
-       "6",
-       "4"
+       "tukang sihir",
+       "orang dengki",
+       "kegelapan malam"
       ],
-      "j": 2,
-      "e": "Surat Al-Ikhlas terdiri dari 4 ayat."
+      "j": 0,
+      "e": "Naffaatsaati fil-'uqad artinya tukang sihir."
      },
      {
       "tipe": "bs",
-      "t": "Surat Al-Falaq terdiri dari 5 ayat.",
+      "t": "Surah Al-Falaq memohon perlindungan dari kejahatan makhluk, kegelapan malam, dan hasad.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Surat Al-Falaq terdiri dari 5 ayat."
+      "e": "Benar, itulah isi pokok Al-Falaq."
      },
      {
       "tipe": "isian",
@@ -8977,14 +8977,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Allah tidak beranak dan tidak ....",
+      "t": "Ayat keempat Al-Ikhlas menegaskan bahwa Allah ....",
       "p": [
-       "dilihat",
-       "didengar",
-       "diperanakkan"
+       "tidak ada yang setara",
+       "beranak",
+       "tumpuan"
       ],
-      "j": 2,
-      "e": "Allah tidak beranak dan tidak diperanakkan."
+      "j": 0,
+      "e": "Ayat empat menjelaskan tidak ada satu pun yang setara dengan-Nya."
      },
      {
       "tipe": "bs",
@@ -9028,14 +9028,14 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Surat Al-Ikhlas adalah surat yang ke-....",
+      "t": "Arti nama surah Al-Ikhlas adalah ....",
       "p": [
-       "113",
-       "112",
-       "114"
+       "Memurnikan Keesaan Allah",
+       "Waktu Subuh",
+       "Manusia"
       ],
-      "j": 1,
-      "e": "Surat Al-Ikhlas adalah surat ke-112."
+      "j": 0,
+      "e": "Al-Ikhlas artinya Memurnikan Keesaan Allah."
      },
      {
       "tipe": "bs",
@@ -9071,7 +9071,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan surat dengan jumlah ayatnya!",
+      "t": "Pasangkan nama surah dengan bilangan ayatnya!",
       "pasangan": [
        [
         "Al-Falaq",
@@ -9116,14 +9116,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Surat Al-Ikhlas terdiri dari ... ayat.",
+      "t": "Surah Al-Falaq diawali dengan 'Qul a'udzu birabbil ....'",
       "p": [
-       "4",
-       "5",
-       "6"
+       "falaq",
+       "naas",
+       "ahad"
       ],
       "j": 0,
-      "e": "Surat Al-Ikhlas terdiri dari 4 ayat."
+      "e": "Ayat pertama Al-Falaq adalah Qul a'udzu birabbil falaq."
      },
      {
       "tipe": "pg",
@@ -9138,7 +9138,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kata dengan artinya!",
+      "t": "Pasangkan kata penting Al-Ikhlas dengan artinya!",
       "pasangan": [
        [
         "Ahad",
@@ -9162,24 +9162,24 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Surat Al-Ikhlas terdiri dari 4 ayat.",
+      "t": "Surah Al-Falaq dan Al-Ikhlas termasuk surah Makkiyah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Surat Al-Ikhlas terdiri dari 4 ayat."
+      "e": "Benar, keduanya diturunkan di Makkah sebelum hijrah."
      },
      {
       "tipe": "pg",
-      "t": "Surat Al-Falaq adalah surat ke-....",
+      "t": "Jumlah ayat Al-Falaq dan Al-Ikhlas jika digabungkan adalah ....",
       "p": [
-       "113",
-       "112",
-       "114"
+       "9",
+       "8",
+       "10"
       ],
       "j": 0,
-      "e": "Surat Al-Falaq adalah surat ke-113."
+      "e": "Lima ditambah empat sama dengan sembilan ayat."
      },
      {
       "tipe": "isian",
@@ -9487,18 +9487,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Rukun Islam ada ... perkara.",
+      "t": "Shalat wajib dikerjakan sebanyak ... rakaat sehari semalam.",
       "p": [
-       "3",
-       "4",
-       "5"
+       "17",
+       "15",
+       "12"
       ],
-      "j": 2,
-      "e": "Rukun Islam ada 5 perkara."
+      "j": 0,
+      "e": "Shalat fardhu lima waktu berjumlah 17 rakaat sehari semalam."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rukun Islam dengan urutannya!",
+      "t": "Pasangkan rukun Islam dengan nomor urutnya!",
       "pasangan": [
        [
         "Syahadat",
@@ -9631,7 +9631,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rukun Islam dengan maknanya!",
+      "t": "Pasangkan rukun Islam dengan artinya!",
       "pasangan": [
        [
         "Shalat",
@@ -9693,18 +9693,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Rukun Islam yang pertama adalah ....",
+      "t": "Shalat disebut tiang agama karena shalat adalah rukun Islam yang ke-....",
       "p": [
-       "shalat",
-       "syahadat",
-       "zakat"
+       "1",
+       "2",
+       "3"
       ],
       "j": 1,
-      "e": "Rukun Islam yang pertama adalah syahadat."
+      "e": "Shalat adalah rukun Islam ke-2 dan disebut tiang agama."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rukun Islam dengan urutannya!",
+      "t": "Pasangkan tiga rukun Islam dengan urutan pelaksanaannya!",
       "pasangan": [
        [
         "Syahadat",
@@ -9728,14 +9728,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Shalat wajib ada ... waktu.",
+      "t": "Jumlah rakaat Shalat Maghrib dan Isya jika digabungkan adalah ....",
       "p": [
-       "3",
-       "4",
-       "5"
+       "6",
+       "7",
+       "8"
       ],
-      "j": 2,
-      "e": "Shalat wajib ada 5 waktu."
+      "j": 1,
+      "e": "Maghrib 3 rakaat dan Isya 4 rakaat, jadi 7 rakaat."
      },
      {
       "tipe": "bs",
@@ -9755,7 +9755,7 @@ window.KUIS = [
        "senja",
        "siang"
       ],
-      "j": 0,
+      "j": 1,
       "e": "Shalat Maghrib dikerjakan pada waktu senja."
      },
      {
@@ -9816,14 +9816,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Jumlah Asmaul Husna ada ....",
+      "t": "Rukun Islam yang keempat adalah ....",
       "p": [
-       "10",
-       "50",
-       "99"
+       "puasa",
+       "haji",
+       "zakat"
       ],
-      "j": 2,
-      "e": "Asmaul Husna jumlahnya 99."
+      "j": 0,
+      "e": "Rukun Islam ke-4 adalah puasa."
      },
      {
       "tipe": "bs",
@@ -9837,7 +9837,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rukun Islam dengan maknanya!",
+      "t": "Pasangkan rukun Islam dengan pengertiannya!",
       "pasangan": [
        [
         "Shalat",
@@ -9867,14 +9867,14 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Al-Quddus artinya Yang Maha ....",
+      "t": "Bentuk zakat fitrah yang diberikan kepada fakir miskin adalah ....",
       "p": [
-       "Besar",
-       "Suci",
-       "Kaya"
+       "beras sekitar 2,5 kg",
+       "pakaian baru",
+       "mainan"
       ],
-      "j": 1,
-      "e": "Al-Quddus artinya Yang Maha Suci."
+      "j": 0,
+      "e": "Zakat fitrah berupa makanan pokok, seperti beras sekitar 2,5 kg."
      },
      {
       "tipe": "bs",
@@ -9888,29 +9888,29 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Rukun Islam ada ....",
+      "t": "Perbedaan utama shalat dan zakat adalah ....",
       "p": [
-       "5",
-       "4",
-       "3"
+       "shalat 5 waktu sehari, zakat membagikan harta",
+       "shalat setahun sekali, zakat tiap hari",
+       "shalat hanya untuk orang kaya"
       ],
       "j": 0,
-      "e": "Rukun Islam ada 5."
+      "e": "Shalat dikerjakan 5 waktu setiap hari, zakat mengeluarkan sebagian harta untuk yang berhak."
      },
      {
       "tipe": "isian",
-      "t": "Rukun Islam yang kedua adalah ....",
+      "t": "Shalat Ashar terdiri dari ... rakaat.",
       "p": [
-       "syahadat",
-       "shalat",
-       "zakat"
+       "2",
+       "4",
+       "3"
       ],
       "j": 1,
-      "e": "Rukun Islam yang kedua adalah shalat."
+      "e": "Shalat Ashar terdiri dari 4 rakaat."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rukun Islam dengan urutannya!",
+      "t": "Pasangkan nama rukun Islam dengan urutannya!",
       "pasangan": [
        [
         "Syahadat",
@@ -9955,14 +9955,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Jumlah Asmaul Husna ada ....",
+      "t": "Rukun Islam yang kelima adalah ....",
       "p": [
-       "99",
-       "50",
-       "10"
+       "haji",
+       "puasa",
+       "shalat"
       ],
       "j": 0,
-      "e": "Asmaul Husna jumlahnya 99."
+      "e": "Rukun Islam ke-5 adalah haji."
      },
      {
       "tipe": "pg",
@@ -10001,13 +10001,13 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Allah Maha Suci dari segala kekurangan.",
+      "t": "Zakat fitrah dikeluarkan sebelum shalat Idul Fitri.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Allah Maha Suci dari segala kekurangan."
+      "e": "Benar, zakat fitrah ditunaikan pada Ramadhan sebelum shalat Idul Fitri."
      },
      {
       "tipe": "pg",
@@ -10022,14 +10022,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Zakat fitrah dikeluarkan pada bulan ....",
+      "t": "Meneladani Al-Quddus dengan menjaga hati, antara lain berkata ....",
       "p": [
-       "Syawal",
-       "Ramadan",
-       "Rajab"
+       "jujur",
+       "pedas",
+       "keras"
       ],
-      "j": 1,
-      "e": "Zakat fitrah dikeluarkan pada bulan Ramadan."
+      "j": 0,
+      "e": "Menjaga kesucian hati dilakukan dengan berkata jujur dan sopan."
      },
      {
       "tipe": "bs",
@@ -10043,7 +10043,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rukun Islam dengan maknanya!",
+      "t": "Pasangkan rukun Islam dengan penjelasannya!",
       "pasangan": [
        [
         "Shalat",
@@ -10337,7 +10337,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan aturan dengan kebiasaannya!",
+      "t": "Pasangkan aturan di rumah dengan kebiasaan sehari-hari!",
       "pasangan": [
        [
         "Bangun pagi",
@@ -10382,14 +10382,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Aturan di keluarga disepakati oleh ....",
+      "t": "Sebelum makan, kita berdoa dan memakai tangan ....",
       "p": [
-       "anggota keluarga",
-       "tetangga",
-       "guru"
+       "kanan",
+       "kiri",
+       "dua-duanya"
       ],
       "j": 0,
-      "e": "Aturan keluarga disepakati oleh anggota keluarga."
+      "e": "Doa dan makan memakai tangan kanan sesuai aturan keluarga."
      },
      {
       "tipe": "pg",
@@ -10470,7 +10470,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kebiasaan dengan waktunya!",
+      "t": "Pasangkan kebiasaan keluarga dengan waktunya!",
       "pasangan": [
        [
         "Meminta izin",
@@ -10521,14 +10521,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Aturan dibuat agar hidup ....",
+      "t": "Tujuan utama aturan di keluarga adalah menciptakan rumah yang ....",
       "p": [
-       "kacau",
-       "berantakan",
-       "tertib"
+       "tertib dan rukun",
+       "ramai",
+       "kotor"
       ],
-      "j": 2,
-      "e": "Aturan dibuat agar hidup tertib."
+      "j": 0,
+      "e": "Aturan membuat rumah tertib dan rukun."
      },
      {
       "tipe": "isian",
@@ -10543,7 +10543,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan aturan dengan kebiasaannya!",
+      "t": "Pasangkan aturan keluarga dengan kebiasaannya!",
       "pasangan": [
        [
         "Bangun pagi",
@@ -10588,14 +10588,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Aturan di keluarga disepakati oleh ....",
+      "t": "Jika tidur terlalu malam, esok pagi kita akan ....",
       "p": [
-       "anggota keluarga",
-       "tetangga",
-       "guru"
+       "kesiangan",
+       "segar",
+       "lebih pagi"
       ],
       "j": 0,
-      "e": "Aturan keluarga disepakati oleh anggota keluarga."
+      "e": "Tidur larut membuat kita bangun kesiangan dan mengantuk."
      },
      {
       "tipe": "pg",
@@ -10610,7 +10610,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan aturan dengan tujuannya!",
+      "t": "Pasangkan aturan dengan manfaat yang dirasakan!",
       "pasangan": [
        [
         "Mandi",
@@ -10676,7 +10676,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kebiasaan dengan waktunya!",
+      "t": "Pasangkan kebiasaan di rumah dengan waktu pelaksanaannya!",
       "pasangan": [
        [
         "Meminta izin",
@@ -10727,29 +10727,29 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Contoh aturan di rumah adalah ....",
+      "t": "Aturan meletakkan sepatu di rak dilakukan setelah ....",
       "p": [
-       "merapikan tempat tidur",
-       "berkelahi",
-       "membuang sampah sembarangan"
+       "pulang sekolah",
+       "bangun tidur",
+       "makan"
       ],
       "j": 0,
-      "e": "Merapikan tempat tidur adalah contoh aturan di rumah."
+      "e": "Sepatu disimpan di rak setelah pulang sekolah."
      },
      {
       "tipe": "isian",
-      "t": "Sebelum makan kita mencuci ....",
+      "t": "Doa sebelum makan dilakukan dengan memakai tangan ....",
       "p": [
-       "kaki",
-       "tangan",
-       "rambut"
+       "kanan",
+       "kiri",
+       "kedua"
       ],
-      "j": 1,
-      "e": "Sebelum makan kita mencuci tangan."
+      "j": 0,
+      "e": "Berdoa dan makan memakai tangan kanan."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan aturan dengan kebiasaannya!",
+      "t": "Pasangkan aturan dengan kebiasaan yang sesuai!",
       "pasangan": [
        [
         "Bangun pagi",
@@ -10794,29 +10794,29 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Aturan di keluarga disepakati oleh ....",
+      "t": "Sikap saat mengingatkan adik yang berantakan adalah ....",
       "p": [
-       "anggota keluarga",
-       "tetangga",
-       "guru"
+       "lembut",
+       "keras",
+       "diam"
       ],
       "j": 0,
-      "e": "Aturan keluarga disepakati oleh anggota keluarga."
+      "e": "Mengingatkan dengan lembut dan membantu merapikan adalah sikap terbaik."
      },
      {
       "tipe": "pg",
-      "t": "Membantu orang tua membuat pekerjaan menjadi ....",
+      "t": "Contoh aturan di lingkungan keluarga adalah ....",
       "p": [
-       "berat",
-       "lama",
-       "ringan"
+       "meletakkan sepatu di rak",
+       "upacara bendera",
+       "mengantre tiket"
       ],
-      "j": 2,
-      "e": "Membantu orang tua membuat pekerjaan menjadi ringan."
+      "j": 0,
+      "e": "Meletakkan sepatu di rak termasuk aturan rumah."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan aturan dengan tujuannya!",
+      "t": "Pasangkan aturan dengan sasaran utamanya!",
       "pasangan": [
        [
         "Mandi",
@@ -10850,39 +10850,39 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Jika orang tua memanggil, kita harus ....",
+      "t": "Ketika adik lupa membereskan mainan, sikap kakak yang baik adalah ....",
       "p": [
-       "menghampiri",
-       "pura-pura tidak dengar",
-       "kabur"
+       "mengingatkan dengan lembut",
+       "memarahi",
+       "membiarkan"
       ],
       "j": 0,
-      "e": "Jika dipanggil orang tua, kita menghampiri."
+      "e": "Mengingatkan dengan lembut dan membantu merapikan."
      },
      {
       "tipe": "isian",
-      "t": "Membuang sampah harus di ....",
+      "t": "Jika melanggar aturan tidur, kita bisa merasa .... di kelas.",
       "p": [
-       "lantai",
-       "tempat sampah",
-       "sungai"
+       "mengantuk",
+       "segar",
+       "senang"
       ],
-      "j": 1,
-      "e": "Membuang sampah harus di tempat sampah."
+      "j": 0,
+      "e": "Kurang tidur membuat kita mengantuk di kelas."
      },
      {
       "tipe": "bs",
-      "t": "Membantu orang tua adalah perbuatan baik.",
+      "t": "Melanggar aturan di rumah boleh dilakukan jika tidak ada yang melihat.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, membantu orang tua adalah perbuatan baik."
+      "j": 1,
+      "e": "Salah, aturan tetap harus dipatuhi."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kebiasaan dengan waktunya!",
+      "t": "Pasangkan kebiasaan dengan kapan dilakukannya!",
       "pasangan": [
        [
         "Meminta izin",
@@ -11176,7 +11176,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alatnya!",
+      "t": "Pasangkan permainan bola dengan alat yang dipakai!",
       "pasangan": [
        [
         "Sepak bola",
@@ -11221,14 +11221,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Setelah olahraga kita melakukan ....",
+      "t": "Gerakan menendang bola dalam sepak bola memakai ....",
       "p": [
-       "pendinginan",
-       "pemanasan",
-       "tidur"
+       "kaki",
+       "tangan",
+       "kepala"
       ],
       "j": 0,
-      "e": "Setelah olahraga kita melakukan pendinginan."
+      "e": "Menendang bola dilakukan dengan kaki."
      },
      {
       "tipe": "pg",
@@ -11243,7 +11243,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan gerak dengan contohnya!",
+      "t": "Pasangkan gerak dasar dengan contoh gerakannya!",
       "pasangan": [
        [
         "Berlari",
@@ -11309,7 +11309,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alat yang dipakai!",
+      "t": "Pasangkan permainan bola dengan anggota tubuh yang dipakai!",
       "pasangan": [
        [
         "Sepak bola",
@@ -11350,39 +11350,39 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Sepak bola menggunakan bola besar.",
+      "t": "Bola golf termasuk permainan bola kecil.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, sepak bola menggunakan bola besar."
+      "e": "Benar, golf memakai bola kecil."
      },
      {
       "tipe": "pg",
-      "t": "Contoh permainan bola kecil adalah ....",
+      "t": "Permainan yang memakai raket dan bola kecil adalah ....",
       "p": [
+       "tenis lapangan",
        "sepak bola",
-       "bola basket",
-       "tenis meja"
+       "bola voli"
       ],
-      "j": 2,
-      "e": "Tenis meja adalah permainan bola kecil."
+      "j": 0,
+      "e": "Tenis lapangan memakai raket dan bola kecil."
      },
      {
       "tipe": "isian",
-      "t": "Sebelum olahraga kita melakukan ....",
+      "t": "Gerak dasar bola voli adalah memukul atau memvoli bola dengan ....",
       "p": [
-       "tidur",
-       "pemanasan",
-       "makan"
+       "tangan",
+       "kaki",
+       "punggung"
       ],
-      "j": 1,
-      "e": "Sebelum olahraga kita melakukan pemanasan."
+      "j": 0,
+      "e": "Voli memakai tangan."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alatnya!",
+      "t": "Pasangkan jenis bola dengan contoh permainannya!",
       "pasangan": [
        [
         "Sepak bola",
@@ -11427,14 +11427,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Setelah olahraga kita melakukan ....",
+      "t": "Dalam bola basket, bola dipantulkan atau didribel memakai ....",
       "p": [
-       "pemanasan",
-       "pendinginan",
-       "tidur"
+       "tangan",
+       "kaki",
+       "dada"
       ],
-      "j": 1,
-      "e": "Setelah olahraga kita melakukan pendinginan."
+      "j": 0,
+      "e": "Dribel basket memakai tangan."
      },
      {
       "tipe": "pg",
@@ -11449,7 +11449,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan gerak dengan contohnya!",
+      "t": "Pasangkan gerak lokomotor, non-lokomotor, dan manipulatif!",
       "pasangan": [
        [
         "Melompat",
@@ -11494,14 +11494,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Bermain bola sebaiknya di ....",
+      "t": "Bermain bola secara beregu harus ....",
       "p": [
-       "jalan raya",
-       "kelas",
-       "lapangan"
+       "bekerja sama",
+       "sendiri-sendiri",
+       "mendorong teman"
       ],
-      "j": 2,
-      "e": "Bermain bola sebaiknya di lapangan."
+      "j": 0,
+      "e": "Kerja sama dan mematuhi aturan wasit membuat permainan aman."
      },
      {
       "tipe": "bs",
@@ -11515,7 +11515,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alat yang dipakai!",
+      "t": "Pasangkan permainan dengan alat utamanya!",
       "pasangan": [
        [
         "Sepak bola",
@@ -11545,24 +11545,24 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Contoh permainan bola besar adalah ....",
+      "t": "Permainan bola kecil yang memakai bola pingpong adalah ....",
       "p": [
-       "kasti",
-       "sepak bola",
-       "tenis meja"
+       "tenis meja",
+       "bola voli",
+       "sepak bola"
       ],
-      "j": 1,
-      "e": "Sepak bola adalah permainan bola besar."
+      "j": 0,
+      "e": "Tenis meja memakai bola kecil, yaitu bola pingpong."
      },
      {
       "tipe": "bs",
-      "t": "Tenis meja menggunakan bola besar.",
+      "t": "Tenis meja menggunakan bola kecil.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, tenis meja menggunakan bola kecil."
+      "j": 0,
+      "e": "Benar, tenis meja memakai bola kecil."
      },
      {
       "tipe": "pg",
@@ -11577,18 +11577,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Sebelum olahraga kita melakukan ....",
+      "t": "Lemparan bola dari atas kepala disebut lemparan ....",
       "p": [
-       "tidur",
-       "pemanasan",
-       "makan"
+       "melambung",
+       "mendatar",
+       "menyusur tanah"
       ],
-      "j": 1,
-      "e": "Sebelum olahraga kita melakukan pemanasan."
+      "j": 0,
+      "e": "Lemparan melambung dimulai dari atas kepala."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alatnya!",
+      "t": "Pasangkan permainan dengan bola yang sesuai!",
       "pasangan": [
        [
         "Sepak bola",
@@ -11612,50 +11612,50 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Melempar dan menangkap bola melatih ....",
+      "t": "Saat menangkap bola, pandangan mata sebaiknya ....",
       "p": [
-       "kaki",
-       "mata",
-       "tangan"
+       "tertuju pada bola",
+       "ke arah teman",
+       "terpejam"
       ],
-      "j": 2,
-      "e": "Melempar dan menangkap bola melatih tangan."
+      "j": 0,
+      "e": "Menangkap bola dengan kedua tangan di depan dada dan mata melihat bola."
      },
      {
       "tipe": "bs",
-      "t": "Bola basket termasuk bola kecil.",
+      "t": "Bola voli termasuk bola besar.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, bola basket termasuk bola besar."
+      "j": 0,
+      "e": "Benar, basket memakai bola besar."
      },
      {
       "tipe": "isian",
-      "t": "Setelah olahraga kita melakukan ....",
+      "t": "Memukul bola kasti dilakukan dengan ....",
       "p": [
-       "pendinginan",
-       "pemanasan",
-       "tidur"
+       "kaki",
+       "alat pemukul",
+       "siku"
       ],
-      "j": 0,
-      "e": "Setelah olahraga kita melakukan pendinginan."
+      "j": 1,
+      "e": "Bola kasti dipukul memakai alat pemukul."
      },
      {
       "tipe": "pg",
-      "t": "Permainan bulu tangkis menggunakan ....",
+      "t": "Jenis lemparan bola kecil yang sejajar dada disebut ....",
       "p": [
-       "bet",
-       "pemukul",
-       "raket"
+       "mendatar",
+       "melambung",
+       "menyusur tanah"
       ],
-      "j": 2,
-      "e": "Bulu tangkis menggunakan raket."
+      "j": 0,
+      "e": "Lemparan mendatar dilakukan sejajar dada."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan gerak dengan contohnya!",
+      "t": "Pasangkan gerak dengan contoh yang tepat!",
       "pasangan": [
        [
         "Berjalan",
@@ -11679,49 +11679,49 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Pemanasan dilakukan sebelum olahraga.",
+      "t": "Lemparan menyusur tanah dilakukan dengan mengayunkan tangan dari bawah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, pemanasan dilakukan sebelum olahraga."
+      "e": "Benar, bola akan menggelinding di tanah."
      },
      {
       "tipe": "pg",
-      "t": "Bermain bola sebaiknya di ....",
+      "t": "Saat bermain bola, sikap yang aman adalah ....",
       "p": [
-       "lapangan",
-       "jalan raya",
-       "kelas"
+       "mendorong teman",
+       "merebut bola",
+       "mematuhi aturan wasit"
       ],
-      "j": 0,
-      "e": "Bermain bola sebaiknya di lapangan."
+      "j": 2,
+      "e": "Mematuhi aturan wasit menjaga keselamatan."
      },
      {
       "tipe": "isian",
-      "t": "Menendang bola menggunakan ....",
+      "t": "Dalam regu penjaga bola kasti, bola dihentikan dengan ....",
       "p": [
-       "tangan",
-       "kaki",
-       "kepala"
+       "menangkap dengan dua tangan",
+       "menendang",
+       "memantulkan"
       ],
-      "j": 1,
-      "e": "Menendang bola menggunakan kaki."
+      "j": 0,
+      "e": "Penjaga menangkap bola dengan kedua tangan di depan dada."
      },
      {
       "tipe": "bs",
-      "t": "Pendinginan dilakukan setelah olahraga.",
+      "t": "Kerja sama tim membuat permainan bola lebih aman dan menyenangkan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, pendinginan dilakukan setelah olahraga."
+      "e": "Benar, kerja sama dan aturan wasit penting."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alat yang dipakai!",
+      "t": "Pasangkan permainan dengan cara memainkannya!",
       "pasangan": [
        [
         "Sepak bola",
@@ -12015,7 +12015,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan posisi dengan arahnya!",
+      "t": "Pasangkan posisi benda dengan arah panahnya!",
       "pasangan": [
        [
         "Atas",
@@ -12060,14 +12060,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Dalam satu minggu ada ... hari.",
+      "t": "Hari setelah hari Sabtu adalah ....",
       "p": [
-       "7",
-       "6",
-       "5"
+       "Minggu",
+       "Jumat",
+       "Senin"
       ],
       "j": 0,
-      "e": "Dalam satu minggu ada 7 hari."
+      "e": "Hari setelah Sabtu adalah Minggu."
      },
      {
       "tipe": "pg",
@@ -12082,7 +12082,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan hari dengan urutannya!",
+      "t": "Pasangkan nama hari dengan nomor urutnya!",
       "pasangan": [
        [
         "Senin",
@@ -12148,7 +12148,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan waktu dengan keadaannya!",
+      "t": "Pasangkan bagian hari dengan keadaan matahari!",
       "pasangan": [
        [
         "Pagi",
@@ -12178,24 +12178,24 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Buku berada di atas meja. Meja berada di .... buku.",
+      "t": "Buku ada di depan kursi. Posisi buku adalah ....",
       "p": [
-       "atas",
-       "bawah",
-       "samping"
+       "di depan kursi",
+       "di belakang kursi",
+       "di bawah kursi"
       ],
-      "j": 1,
-      "e": "Jika buku di atas meja, maka meja berada di bawah buku."
+      "j": 0,
+      "e": "Di depan berarti in front of."
      },
      {
       "tipe": "bs",
-      "t": "Jarum pendek pada jam menunjukkan jam.",
+      "t": "Pictogram memakai gambar untuk menunjukkan data.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, jarum pendek menunjukkan jam."
+      "e": "Benar, pictogram memakai gambar untuk mewakili data."
      },
      {
       "tipe": "pg",
@@ -12221,7 +12221,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan posisi dengan arahnya!",
+      "t": "Pasangkan letak benda dengan arah yang sesuai!",
       "pasangan": [
        [
         "Atas",
@@ -12245,14 +12245,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Jarum panjang pada jam menunjukkan ....",
+      "t": "Pada pictogram, 1 gambar mewakili 1 siswa. Jika ada 6 gambar apel, jumlah siswa yang suka apel adalah ....",
       "p": [
-       "jam",
-       "hari",
-       "menit"
+       "6",
+       "5",
+       "7"
       ],
-      "j": 2,
-      "e": "Jarum panjang menunjukkan menit."
+      "j": 0,
+      "e": "Enam gambar berarti enam siswa."
      },
      {
       "tipe": "bs",
@@ -12266,14 +12266,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Dalam satu minggu ada ... hari.",
+      "t": "Bulan sebelum bulan December adalah ....",
       "p": [
-       "7",
-       "6",
-       "8"
+       "November",
+       "January",
+       "October"
       ],
       "j": 0,
-      "e": "Dalam satu minggu ada 7 hari."
+      "e": "November tepat sebelum December."
      },
      {
       "tipe": "pg",
@@ -12288,7 +12288,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan hari dengan urutannya!",
+      "t": "Pasangkan hari dalam seminggu dengan urutannya!",
       "pasangan": [
        [
         "Senin",
@@ -12322,14 +12322,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Bola berada di bawah kursi. Kursi berada di .... bola.",
+      "t": "Enam mainan berjajar. Mobil ada di urutan ke-2 dari kiri. Dari kanan, mobil ada di urutan ke-....",
       "p": [
-       "bawah",
-       "atas",
-       "samping"
+       "5",
+       "3",
+       "4"
       ],
-      "j": 1,
-      "e": "Jika bola di bawah kursi, maka kursi berada di atas bola."
+      "j": 0,
+      "e": "Dengan enam mainan, posisi ke-2 dari kiri berarti ke-5 dari kanan."
      },
      {
       "tipe": "isian",
@@ -12354,7 +12354,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan waktu dengan keadaannya!",
+      "t": "Pasangkan waktu dalam hari dengan kondisinya!",
       "pasangan": [
        [
         "Pagi",
@@ -12384,50 +12384,50 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Buku berada di atas meja. Meja berada di .... buku.",
+      "t": "Bola ada di antara dua kursi. Letak bola adalah ....",
       "p": [
-       "bawah",
-       "atas",
-       "samping"
+       "di antara dua kursi",
+       "di atas kursi",
+       "di samping meja"
       ],
       "j": 0,
-      "e": "Jika buku di atas meja, maka meja berada di bawah buku."
+      "e": "Di antara dua benda disebut between."
      },
      {
       "tipe": "bs",
-      "t": "Jarum panjang pada jam menunjukkan jam.",
+      "t": "Carroll diagram dipakai untuk mengelompokkan benda menurut dua ciri.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, jarum panjang menunjukkan menit."
+      "j": 0,
+      "e": "Benar, Carroll diagram mengelompokkan data berdasarkan dua kategori."
      },
      {
       "tipe": "pg",
-      "t": "Jika menghadap ke depan, tangan kanan berada di ....",
+      "t": "Jika menghadap ke depan, tangan kiri berada di ....",
       "p": [
        "kanan",
        "kiri",
        "belakang"
       ],
-      "j": 0,
-      "e": "Tangan kanan berada di sebelah kanan."
+      "j": 1,
+      "e": "Tangan kiri ada di sebelah kiri."
      },
      {
       "tipe": "isian",
-      "t": "Data yang paling banyak disebut data ....",
+      "t": "Dalam block graph, data yang paling sedikit disebut data ....",
       "p": [
-       "tersedikit",
        "terbanyak",
+       "tersedikit",
        "sama"
       ],
       "j": 1,
-      "e": "Data yang paling banyak disebut data terbanyak."
+      "e": "Paling sedikit disebut tersedikit (least)."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan posisi dengan arahnya!",
+      "t": "Pasangkan posisi dengan lambang arahnya!",
       "pasangan": [
        [
         "Atas",
@@ -12451,35 +12451,35 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Jarum pendek pada jam menunjukkan ....",
+      "t": "Pada block graph, batang tertinggi menunjukkan data yang ....",
       "p": [
-       "menit",
-       "detik",
-       "jam"
+       "paling banyak",
+       "paling sedikit",
+       "sama"
       ],
-      "j": 2,
-      "e": "Jarum pendek menunjukkan jam."
+      "j": 0,
+      "e": "Batang tertinggi berarti data paling banyak (most)."
      },
      {
       "tipe": "bs",
-      "t": "Satu minggu ada 5 hari.",
+      "t": "Hari sebelum hari Senin adalah Minggu.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, satu minggu ada 7 hari."
+      "j": 0,
+      "e": "Benar, hari sebelum Senin adalah Minggu."
      },
      {
       "tipe": "isian",
-      "t": "Dalam satu minggu ada ... hari.",
+      "t": "Bagian hari ketika matahari terbenam disebut ....",
       "p": [
-       "7",
-       "6",
-       "5"
+       "evening",
+       "morning",
+       "night"
       ],
       "j": 0,
-      "e": "Dalam satu minggu ada 7 hari."
+      "e": "Evening adalah waktu menjelang malam saat matahari terbenam."
      },
      {
       "tipe": "pg",
@@ -12494,7 +12494,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan hari dengan urutannya!",
+      "t": "Pasangkan hari dengan urutan angkanya!",
       "pasangan": [
        [
         "Senin",
@@ -12518,24 +12518,24 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Jam digunakan untuk mengetahui waktu.",
+      "t": "Pada Venn diagram, bagian tengah berisi benda yang memiliki kedua ciri.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, jam digunakan untuk mengetahui waktu."
+      "e": "Benar, irisan Venn berisi benda dengan kedua ciri."
      },
      {
       "tipe": "pg",
-      "t": "Bola berada di bawah kursi. Kursi berada di .... bola.",
+      "t": "Rani berdiri di depan Raka. Raka ada di urutan ke-2. Urutan Rani adalah ke-....",
       "p": [
-       "bawah",
-       "atas",
-       "samping"
+       "3",
+       "4",
+       "1"
       ],
-      "j": 1,
-      "e": "Jika bola di bawah kursi, maka kursi berada di atas bola."
+      "j": 2,
+      "e": "Jika Raka ke-2 dan Rani di depannya, Rani ke-1."
      },
      {
       "tipe": "isian",
@@ -12550,17 +12550,17 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Pagi hari matahari terbit.",
+      "t": "Afternoon adalah bagian hari sebelum night.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, pagi hari matahari terbit."
+      "e": "Benar, urutannya morning, afternoon, evening, night."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan waktu dengan keadaannya!",
+      "t": "Pasangkan pagi, siang, dan malam dengan keadaannya!",
       "pasangan": [
        [
         "Pagi",
@@ -12854,7 +12854,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan kegunaannya!",
+      "t": "Pasangkan alat berkarya dengan fungsinya!",
       "pasangan": [
        [
         "Pensil",
@@ -12921,7 +12921,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bahan dengan asalnya!",
+      "t": "Pasangkan bahan berkarya dengan sumbernya!",
       "pasangan": [
        [
         "Daun",
@@ -12987,7 +12987,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan fungsinya!",
+      "t": "Pasangkan alat seni dengan fungsi khususnya!",
       "pasangan": [
        [
         "Kuas",
@@ -13049,18 +13049,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Alat untuk memotong kertas adalah ....",
+      "t": "Alat yang dipakai untuk menyapukan cat air adalah ....",
       "p": [
-       "gunting",
-       "lem",
-       "kuas"
+       "kuas",
+       "penggaris",
+       "gunting"
       ],
       "j": 0,
-      "e": "Gunting digunakan untuk memotong kertas."
+      "e": "Kuas dipakai untuk menyapukan cat air."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan kegunaannya!",
+      "t": "Pasangkan alat gambar dengan kegunaan utamanya!",
       "pasangan": [
        [
         "Pensil",
@@ -13127,7 +13127,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bahan dengan asalnya!",
+      "t": "Pasangkan bahan dengan asal alam atau buatannya!",
       "pasangan": [
        [
         "Daun",
@@ -13183,17 +13183,17 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Kertas adalah bahan buatan.",
+      "t": "Krayon adalah pewarna kering yang praktis tanpa air dan palet.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kertas adalah bahan buatan."
+      "e": "Benar, krayon dipakai langsung tanpa air dan palet."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan fungsinya!",
+      "t": "Pasangkan alat dengan kegunaan sesuai tekniknya!",
       "pasangan": [
        [
         "Kuas",
@@ -13244,14 +13244,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Bahan alam di bawah ini adalah ....",
+      "t": "Contoh bahan alam untuk kolase adalah ....",
       "p": [
-       "daun",
-       "plastik",
-       "kertas"
+       "cangkang kerang",
+       "kertas origami",
+       "lem"
       ],
       "j": 0,
-      "e": "Daun adalah bahan alam."
+      "e": "Cangkang kerang berasal dari alam."
      },
      {
       "tipe": "isian",
@@ -13266,7 +13266,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan kegunaannya!",
+      "t": "Pasangkan alat dengan cara memakainya!",
       "pasangan": [
        [
         "Pensil",
@@ -13333,7 +13333,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bahan dengan asalnya!",
+      "t": "Pasangkan bahan dengan asalnya yang tepat!",
       "pasangan": [
        [
         "Daun",
@@ -13367,14 +13367,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Alat untuk menggaris lurus adalah ....",
+      "t": "Urutan kerja kolase yang rapi adalah ....",
       "p": [
-       "penggaris",
-       "kuas",
-       "krayon"
+       "sketsa, oles lem, tempel biji",
+       "tempel biji, gambar pola, oles lem",
+       "oles lem, potong kertas, sketsa"
       ],
       "j": 0,
-      "e": "Penggaris digunakan untuk menggaris lurus."
+      "e": "Buat sketsa dulu, lalu oles lem, lalu tempel biji."
      },
      {
       "tipe": "isian",
@@ -13399,7 +13399,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan fungsinya!",
+      "t": "Pasangkan alat dengan fungsi utamanya!",
       "pasangan": [
        [
         "Kuas",
@@ -13605,7 +13605,7 @@ window.KUIS = [
        "sekolah",
        "tetangga"
       ],
-      "j": 1,
+      "j": 0,
       "e": "Bapak, ibu, lan adhik kalebu kulawarga."
      },
      {
@@ -13693,7 +13693,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana tembung Jawa karo artine!",
+      "t": "Pasangana tembung Jawa karo tegese!",
       "pasangan": [
        [
         "Bapak",
@@ -13760,7 +13760,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana sebutan kulawarga karo artine!",
+      "t": "Pasangana sebutan kulawarga karo tegese!",
       "pasangan": [
        [
         "Mas",
@@ -13826,7 +13826,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana tembung kriya karo artine!",
+      "t": "Pasangana tembung kriya karo tegese!",
       "pasangan": [
        [
         "Mangan",
@@ -13877,14 +13877,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'kula' tegese ....",
+      "t": "Tembung 'kangmas' tegese ....",
       "p": [
-       "kowe",
-       "panjengan",
-       "aku"
+       "mas",
+       "adhik",
+       "mbakyu"
       ],
-      "j": 2,
-      "e": "Kula tegese aku."
+      "j": 0,
+      "e": "Kangmas tegese mas, kakak lanang."
      },
      {
       "tipe": "isian",
@@ -13894,12 +13894,12 @@ window.KUIS = [
        "simbah kakung",
        "pakdhe"
       ],
-      "j": 1,
+      "j": 0,
       "e": "Nenek diarani simbah putri."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana tembung Jawa karo artine!",
+      "t": "Pasangana tembung Jawa karo arti Indonesianya!",
       "pasangan": [
        [
         "Bapak",
@@ -13966,7 +13966,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana sebutan kulawarga karo artine!",
+      "t": "Pasangana jeneng kulawarga karo artine!",
       "pasangan": [
        [
         "Mas",
@@ -14032,7 +14032,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana tembung kriya karo artine!",
+      "t": "Pasangana tembung kriya karo padanan katane!",
       "pasangan": [
        [
         "Mangan",
@@ -14062,14 +14062,14 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Tembung 'adhik' tegese ....",
+      "t": "Tembung 'paklik' tegese ....",
       "p": [
-       "kakak",
-       "adik",
-       "ibu"
+       "adik bapak/ibu",
+       "kakak bapak/ibu",
+       "kakek"
       ],
-      "j": 1,
-      "e": "Adhik tegese adik."
+      "j": 0,
+      "e": "Paklik tegese adik lanang saka bapak utawa ibu."
      },
      {
       "tipe": "bs",
@@ -14083,14 +14083,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Sing diarani 'mbakyu' yaiku ....",
+      "t": "Tembung 'rama' ing basa Jawa tegese ....",
       "p": [
-       "kakak wadon",
-       "adik lanang",
-       "bapak"
+       "bapak",
+       "ibu",
+       "adik"
       ],
       "j": 0,
-      "e": "Mbakyu tegese kakak perempuan."
+      "e": "Rama tegese bapak."
      },
      {
       "tipe": "isian",
@@ -14105,7 +14105,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana tembung Jawa karo artine!",
+      "t": "Pasangana tembung Jawa karo padanan katane!",
       "pasangan": [
        [
         "Bapak",
@@ -14140,13 +14140,13 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Kula tegese kowe.",
+      "t": "Ungkapan 'kula nyuwun pamit' dipakai nalika mohon pamit.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, kula tegese aku."
+      "j": 0,
+      "e": "Kula nyuwun pamit iku unggah-ungguh nalika pamit."
      },
      {
       "tipe": "isian",
@@ -14161,18 +14161,18 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Wong tuwa wadon diarani ....",
+      "t": "Tembung 'dhik' tegese ....",
       "p": [
-       "mas",
-       "bapak",
+       "adik",
+       "kakak",
        "ibu"
       ],
-      "j": 2,
-      "e": "Wong tuwa wadon diarani ibu."
+      "j": 0,
+      "e": "Dhik utawa adhik tegese adik."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana sebutan kulawarga karo artine!",
+      "t": "Pasangana sebutan kulawarga karo arti Indonesianya!",
       "pasangan": [
        [
         "Mas",
@@ -14228,17 +14228,17 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Basa Jawa minangka basa daerah.",
+      "t": "Tembung 'matur nuwun' kalebu unggah-ungguh.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, basa Jawa minangka basa daerah."
+      "e": "Matur nuwun iku unggah-ungguh kanggo ngaturake panuwun."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana tembung kriya karo artine!",
+      "t": "Pasangana tembung kriya karo arti Indonesianya!",
       "pasangan": [
        [
         "Mangan",
@@ -14532,7 +14532,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan alat atau tempatnya!",
+      "t": "Pasangkan kegiatan dengan peralatan yang dipakai!",
       "pasangan": [
        [
         "Berenang",
@@ -14556,7 +14556,7 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Kalimat yang benar adalah ....",
+      "t": "Pilih kalimat dengan tanda baca yang tepat!",
       "p": [
        "Saya bisa membaca.",
        "Bisa saya membaca.",
@@ -14599,7 +14599,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan tempatnya!",
+      "t": "Pasangkan kegiatan dengan lokasinya!",
       "pasangan": [
        [
         "Berenang",
@@ -14665,7 +14665,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kata dengan artinya!",
+      "t": "Pasangkan kosakata dengan maknanya!",
       "pasangan": [
        [
         "Bisa",
@@ -14738,7 +14738,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan alat atau tempatnya!",
+      "t": "Pasangkan aktivitas dengan alat atau lokasinya!",
       "pasangan": [
        [
         "Berenang",
@@ -14762,7 +14762,7 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Kalimat yang benar adalah ....",
+      "t": "Kalimat yang ejaannya benar adalah ....",
       "p": [
        "Bisa aku menari.",
        "Aku menari bisa.",
@@ -14805,7 +14805,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan tempatnya!",
+      "t": "Pasangkan aktivitas dengan tempatnya!",
       "pasangan": [
        [
         "Berenang",
@@ -14871,7 +14871,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kata dengan artinya!",
+      "t": "Pasangkan kata dengan sinonimnya!",
       "pasangan": [
        [
         "Bisa",
@@ -14944,7 +14944,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan alat atau tempatnya!",
+      "t": "Pasangkan kegiatan dengan alat dan tempatnya!",
       "pasangan": [
        [
         "Berenang",
@@ -14968,7 +14968,7 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Kalimat yang benar adalah ....",
+      "t": "Kalimat yang ditulis dengan tepat adalah ....",
       "p": [
        "Aku menyanyi bisa.",
        "Bisa aku menyanyi.",
@@ -14989,14 +14989,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Berlatih supaya ....",
+      "t": "Kata tanya untuk menanyakan tempat adalah ....",
       "p": [
-       "bisa",
-       "malas",
-       "takut"
+       "di mana",
+       "kapan",
+       "siapa"
       ],
       "j": 0,
-      "e": "Kita berlatih supaya bisa."
+      "e": "Kata tanya 'di mana' dipakai untuk menanyakan tempat."
      },
      {
       "tipe": "pg",
@@ -15011,7 +15011,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan tempatnya!",
+      "t": "Pasangkan kegiatan dengan tempat pelaksanaannya!",
       "pasangan": [
        [
         "Berenang",
@@ -15077,7 +15077,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kata dengan artinya!",
+      "t": "Pasangkan kata dengan arti yang tepat!",
       "pasangan": [
        [
         "Bisa",
@@ -15360,18 +15360,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Penghapus terbuat dari ....",
+      "t": "Kunci pintu besi terbuat dari ....",
       "p": [
-       "kertas",
-       "kaca",
-       "karet"
+       "logam",
+       "kayu",
+       "kaca"
       ],
-      "j": 2,
-      "e": "Penghapus terbuat dari karet."
+      "j": 0,
+      "e": "Besi termasuk logam atau metal."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda dengan bahannya!",
+      "t": "Pasangkan benda di sekitar dengan bahan pembuatnya!",
       "pasangan": [
        [
         "Meja",
@@ -15438,7 +15438,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan sifat dengan bahannya!",
+      "t": "Pasangkan sifat bahan dengan contoh bahannya!",
       "pasangan": [
        [
         "Bening",
@@ -15504,7 +15504,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan barang dengan bahannya!",
+      "t": "Pasangkan barang sehari-hari dengan bahannya!",
       "pasangan": [
        [
         "Sendok",
@@ -15555,14 +15555,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Meja biasanya terbuat dari ....",
+      "t": "Sifat bahan karet yang bisa ditarik dan ditekuk disebut ....",
       "p": [
-       "kain",
-       "plastik",
-       "kayu"
+       "bendy (lentur)",
+       "rigid (kaku)",
+       "opaque"
       ],
-      "j": 2,
-      "e": "Meja biasanya terbuat dari kayu."
+      "j": 0,
+      "e": "Karet bersifat bendy atau flexible, mudah ditekuk."
      },
      {
       "tipe": "isian",
@@ -15577,7 +15577,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda dengan bahannya!",
+      "t": "Pasangkan barang dengan bahan yang tepat!",
       "pasangan": [
        [
         "Meja",
@@ -15644,7 +15644,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan sifat dengan bahannya!",
+      "t": "Pasangkan ciri fisik dengan nama sifatnya!",
       "pasangan": [
        [
         "Bening",
@@ -15710,7 +15710,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan barang dengan bahannya!",
+      "t": "Pasangkan benda dengan material yang sesuai!",
       "pasangan": [
        [
         "Sendok",
@@ -15761,29 +15761,29 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Penghapus terbuat dari ....",
+      "t": "Sifat kaca yang membuat cahaya masuk disebut ....",
       "p": [
-       "karet",
-       "kaca",
-       "logam"
+       "transparent",
+       "opaque",
+       "absorbent"
       ],
       "j": 0,
-      "e": "Penghapus terbuat dari karet."
+      "e": "Transparent artinya tembus pandang."
      },
      {
       "tipe": "isian",
-      "t": "Meja biasanya terbuat dari ....",
+      "t": "Lawan kata dari sifat rough (kasar) adalah ....",
       "p": [
-       "kain",
-       "kayu",
-       "kertas"
+       "hard (keras)",
+       "heavy (berat)",
+       "smooth (halus)"
       ],
-      "j": 1,
-      "e": "Meja biasanya terbuat dari kayu."
+      "j": 2,
+      "e": "Smooth artinya halus, lawan dari rough."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda dengan bahannya!",
+      "t": "Pasangkan benda dengan materialnya!",
       "pasangan": [
        [
         "Meja",
@@ -15807,14 +15807,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang lunak untuk baju adalah ....",
+      "t": "Bahan untuk jas hujan agar tetap kering adalah ....",
       "p": [
-       "kaca",
-       "batu",
-       "kain"
+       "plastik waterproof",
+       "kertas",
+       "kain biasa"
       ],
-      "j": 2,
-      "e": "Kain lunak untuk baju."
+      "j": 0,
+      "e": "Plastik bersifat waterproof atau tahan air."
      },
      {
       "tipe": "bs",
@@ -15828,29 +15828,29 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Buku terbuat dari ....",
+      "t": "Permukaan batu bata yang tidak rata disebut ....",
       "p": [
-       "kertas",
-       "kaca",
-       "logam"
+       "rough",
+       "smooth",
+       "transparent"
       ],
       "j": 0,
-      "e": "Buku terbuat dari kertas."
+      "e": "Rough artinya kasar."
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang tenggelam di air adalah ....",
+      "t": "Bahan yang bersifat absorbent adalah ....",
       "p": [
-       "kayu",
+       "kain",
        "plastik",
-       "batu"
+       "kaca"
       ],
-      "j": 2,
-      "e": "Batu tenggelam di air."
+      "j": 0,
+      "e": "Absorbent berarti menyerap air, seperti kain."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan sifat dengan bahannya!",
+      "t": "Pasangkan sifat material dengan bahan yang memilikinya!",
       "pasangan": [
        [
         "Bening",
@@ -15916,7 +15916,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan barang dengan bahannya!",
+      "t": "Pasangkan barang dengan bahan pembuatnya!",
       "pasangan": [
        [
         "Sendok",
@@ -16199,18 +16199,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "The color of the sun is ....",
+      "t": "The color of an orange fruit is ....",
       "p": [
+       "orange",
        "blue",
-       "green",
-       "yellow"
+       "black"
       ],
-      "j": 2,
-      "e": "Warna matahari adalah kuning (yellow)."
+      "j": 0,
+      "e": "An orange fruit is orange."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan pakaian dengan bagian tubuhnya!",
+      "t": "Pasangkan pakaian dengan bagian tubuh yang tepat!",
       "pasangan": [
        [
         "Hat",
@@ -16277,7 +16277,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan warna dengan benda!",
+      "t": "Pasangkan warna dengan benda contohnya!",
       "pasangan": [
        [
         "Red",
@@ -16322,14 +16322,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "I wear ... on my feet.",
+      "t": "I wear ... on my legs.",
       "p": [
+       "trousers",
        "hat",
-       "shirt",
-       "shoes"
+       "shirt"
       ],
-      "j": 2,
-      "e": "Di kaki kita memakai sepatu (shoes)."
+      "j": 0,
+      "e": "Trousers are worn on the legs."
      },
      {
       "tipe": "bs",
@@ -16343,7 +16343,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bentuk dengan cirinya!",
+      "t": "Pasangkan bentuk bangun datar dengan cirinya!",
       "pasangan": [
        [
         "Circle",
@@ -16373,14 +16373,14 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "I wear a ... on my head.",
+      "t": "What is she wearing? She is wearing a pink ....",
       "p": [
-       "hat",
-       "shoe",
-       "sock"
+       "dress",
+       "trousers",
+       "hat"
       ],
       "j": 0,
-      "e": "Kita memakai topi (hat) di kepala."
+      "e": "The pattern is 'She is wearing a pink dress'."
      },
      {
       "tipe": "bs",
@@ -16416,7 +16416,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan pakaian dengan bagian tubuhnya!",
+      "t": "Pasangkan pakaian dengan letak pemakaiannya!",
       "pasangan": [
        [
         "Hat",
@@ -16440,14 +16440,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "I wear ... when it is cold.",
+      "t": "I wear ... when it is raining.",
       "p": [
-       "a t-shirt",
-       "a skirt",
-       "a jacket"
+       "a raincoat",
+       "sunglasses",
+       "a skirt"
       ],
-      "j": 2,
-      "e": "Saat dingin kita memakai jaket (a jacket)."
+      "j": 0,
+      "e": "A raincoat keeps us dry when it rains."
      },
      {
       "tipe": "bs",
@@ -16461,29 +16461,29 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "The apple is ....",
+      "t": "The banana is ....",
       "p": [
+       "yellow",
        "blue",
-       "red",
-       "yellow"
+       "pink"
       ],
-      "j": 1,
-      "e": "Apel berwarna merah (red)."
+      "j": 0,
+      "e": "A banana is yellow."
      },
      {
       "tipe": "pg",
-      "t": "A shape with three sides is a ....",
+      "t": "A shape with four sides and four corners is a ....",
       "p": [
+       "rectangle",
        "circle",
-       "square",
        "triangle"
       ],
-      "j": 2,
-      "e": "Bentuk dengan tiga sisi adalah segitiga (triangle)."
+      "j": 0,
+      "e": "A rectangle has four sides and four corners."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan warna dengan benda!",
+      "t": "Pasangkan nama warna dengan benda di sekitar!",
       "pasangan": [
        [
         "Red",
@@ -16549,7 +16549,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bentuk dengan cirinya!",
+      "t": "Pasangkan nama bentuk dengan ciri fisiknya!",
       "pasangan": [
        [
         "Circle",
@@ -16579,14 +16579,14 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "I wear a ... on my feet.",
+      "t": "I wear ... to keep my head warm.",
       "p": [
-       "hat",
-       "shoe",
-       "shirt"
+       "a hat",
+       "socks",
+       "shoes"
       ],
-      "j": 1,
-      "e": "Kita memakai sepatu (shoe) di kaki."
+      "j": 0,
+      "e": "A hat is worn on the head."
      },
      {
       "tipe": "bs",
@@ -16622,7 +16622,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan pakaian dengan bagian tubuhnya!",
+      "t": "Pasangkan pakaian dengan bagian tubuhnya yang benar!",
       "pasangan": [
        [
         "Hat",
@@ -16646,50 +16646,50 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "I wear ... when it is hot.",
+      "t": "It is a ... triangle.",
       "p": [
-       "a jacket",
-       "a sweater",
-       "a t-shirt"
+       "blue",
+       "round",
+       "five"
       ],
-      "j": 2,
-      "e": "Saat panas kita memakai kaos (a t-shirt)."
+      "j": 0,
+      "e": "The pattern is Color + Shape: 'It is a blue triangle'."
      },
      {
       "tipe": "bs",
-      "t": "A square has three sides.",
+      "t": "A star has five points.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, persegi (square) punya empat sisi."
+      "j": 0,
+      "e": "Benar, a star has five points."
      },
      {
       "tipe": "isian",
-      "t": "The banana is ....",
+      "t": "The orange is ....",
       "p": [
-       "yellow",
-       "red",
-       "blue"
+       "blue",
+       "pink",
+       "orange"
       ],
-      "j": 0,
-      "e": "Pisang berwarna kuning (yellow)."
+      "j": 2,
+      "e": "An orange fruit is orange."
      },
      {
       "tipe": "pg",
-      "t": "A shape with four equal sides is a ....",
+      "t": "A shape with no sides and no corners is a ....",
       "p": [
-       "triangle",
        "circle",
-       "square"
+       "square",
+       "triangle"
       ],
-      "j": 2,
-      "e": "Bentuk dengan empat sisi sama adalah persegi (square)."
+      "j": 0,
+      "e": "A circle is round with no straight sides or corners."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan warna dengan benda!",
+      "t": "Pasangkan warna dengan benda yang sesuai!",
       "pasangan": [
        [
         "Red",
@@ -16755,7 +16755,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bentuk dengan cirinya!",
+      "t": "Pasangkan bentuk dengan sisi dan sudutnya!",
       "pasangan": [
        [
         "Circle",

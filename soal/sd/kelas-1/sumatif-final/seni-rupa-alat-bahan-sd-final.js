@@ -45,17 +45,17 @@ window.KUIS.push({
         {"tipe":"bs","t":"Pensil digunakan untuk memotong kertas.","p":["Benar","Salah"],"j":1,"e":"Salah, pensil untuk menggambar. Yang memotong adalah gunting."},
         {"tipe":"pg","t":"Bahan alam di bawah ini adalah ....","p":["kertas","ranting","plastik"],"j":1,"e":"Ranting adalah bahan alam."},
         {"tipe":"isian","t":"Alat untuk merekatkan kertas adalah ....","p":["gunting","kuas","lem"],"j":2,"e":"Lem digunakan untuk merekatkan kertas."},
-        {"tipe":"cocok","t":"Pasangkan alat dengan kegunaannya!","pasangan":[["Pensil","menggambar"],["Gunting","memotong"],["Lem","merekatkan"]],"urutKanan":["merekatkan","menggambar","memotong"],"e":"Pensil menggambar, gunting memotong, lem merekatkan."},
+        {"tipe":"cocok","t":"Pasangkan alat berkarya dengan fungsinya!","pasangan":[["Pensil","menggambar"],["Gunting","memotong"],["Lem","merekatkan"]],"urutKanan":["merekatkan","menggambar","memotong"],"e":"Pensil menggambar, gunting memotong, lem merekatkan."},
         {"tipe":"pg","t":"Cat air digunakan bersama ....","p":["kuas","gunting","lem"],"j":0,"e":"Cat air dipakai bersama kuas."},
         {"tipe":"bs","t":"Bersikap hati-hati saat menggunakan gunting.","p":["Benar","Salah"],"j":0,"e":"Benar, gunting harus dipakai dengan hati-hati."},
         {"tipe":"isian","t":"Plastik termasuk bahan ....","p":["buatan","alam","tumbuhan"],"j":0,"e":"Plastik adalah bahan buatan."},
         {"tipe":"pg","t":"Melipat kertas menjadi bentuk tertentu disebut ....","p":["origami","kolase","sketsa"],"j":0,"e":"Melipat kertas disebut origami."},
-        {"tipe":"cocok","t":"Pasangkan bahan dengan asalnya!","pasangan":[["Daun","tumbuhan"],["Batu","alam"],["Kertas","buatan"]],"urutKanan":["buatan","tumbuhan","alam"],"e":"Daun dari tumbuhan, batu dari alam, kertas buatan."},
+        {"tipe":"cocok","t":"Pasangkan bahan berkarya dengan sumbernya!","pasangan":[["Daun","tumbuhan"],["Batu","alam"],["Kertas","buatan"]],"urutKanan":["buatan","tumbuhan","alam"],"e":"Daun dari tumbuhan, batu dari alam, kertas buatan."},
         {"tipe":"bs","t":"Tanah liat termasuk bahan alam.","p":["Benar","Salah"],"j":0,"e":"Benar, tanah liat berasal dari alam."},
         {"tipe":"pg","t":"Alat untuk menggaris lurus adalah ....","p":["kuas","penggaris","krayon"],"j":1,"e":"Penggaris membantu menggaris lurus."},
         {"tipe":"isian","t":"Biji-bijian termasuk bahan ....","p":["buatan","logam","alam"],"j":2,"e":"Biji-bijian termasuk bahan alam."},
         {"tipe":"bs","t":"Gunting dipakai untuk merekatkan.","p":["Benar","Salah"],"j":1,"e":"Salah, gunting untuk memotong. Lem untuk merekatkan."},
-        {"tipe":"cocok","t":"Pasangkan alat dengan fungsinya!","pasangan":[["Kuas","melewati cat"],["Penggaris","menggaris lurus"],["Penghapus","menghapus"]],"urutKanan":["menghapus","melewati cat","menggaris lurus"],"e":"Kuas melewati cat, penggaris menggaris lurus, penghapus menghapus."}
+        {"tipe":"cocok","t":"Pasangkan alat seni dengan fungsi khususnya!","pasangan":[["Kuas","melewati cat"],["Penggaris","menggaris lurus"],["Penghapus","menghapus"]],"urutKanan":["menghapus","melewati cat","menggaris lurus"],"e":"Kuas melewati cat, penggaris menggaris lurus, penghapus menghapus."}
       ]
     },
     {
@@ -65,18 +65,18 @@ window.KUIS.push({
         {"tipe":"pg","t":"Contoh alat gambar adalah ....","p":["pensil","daun","batu"],"j":0,"e":"Pensil adalah alat gambar."},
         {"tipe":"bs","t":"Penggaris membantu menggaris lurus.","p":["Benar","Salah"],"j":0,"e":"Benar, penggaris membantu menggaris lurus."},
         {"tipe":"pg","t":"Yang termasuk bahan buatan adalah ....","p":["daun","batu","plastik"],"j":2,"e":"Plastik adalah bahan buatan."},
-        {"tipe":"isian","t":"Alat untuk memotong kertas adalah ....","p":["gunting","lem","kuas"],"j":0,"e":"Gunting digunakan untuk memotong kertas."},
-        {"tipe":"cocok","t":"Pasangkan alat dengan kegunaannya!","pasangan":[["Pensil","menggambar"],["Gunting","memotong"],["Lem","merekatkan"]],"urutKanan":["memotong","merekatkan","menggambar"],"e":"Pensil menggambar, gunting memotong, lem merekatkan."},
+        {"tipe":"isian","t":"Alat yang dipakai untuk menyapukan cat air adalah ....","p":["kuas","penggaris","gunting"],"j":0,"e":"Kuas dipakai untuk menyapukan cat air."},
+        {"tipe":"cocok","t":"Pasangkan alat gambar dengan kegunaan utamanya!","pasangan":[["Pensil","menggambar"],["Gunting","memotong"],["Lem","merekatkan"]],"urutKanan":["memotong","merekatkan","menggambar"],"e":"Pensil menggambar, gunting memotong, lem merekatkan."},
         {"tipe":"pg","t":"Krayon berfungsi untuk ....","p":["memotong","mewarnai","merekat"],"j":1,"e":"Krayon berfungsi untuk mewarnai."},
         {"tipe":"bs","t":"Bahan alam tidak ada di sekitar kita.","p":["Benar","Salah"],"j":1,"e":"Salah, banyak bahan alam di sekitar kita seperti daun dan batu."},
         {"tipe":"isian","t":"Tanah liat dapat dibentuk menjadi ....","p":["gambar","patung","warna"],"j":1,"e":"Tanah liat dapat dibentuk menjadi patung."},
         {"tipe":"pg","t":"Menempel potongan kertas disebut ....","p":["origami","lukisan","kolase"],"j":2,"e":"Menempel potongan kertas disebut kolase."},
-        {"tipe":"cocok","t":"Pasangkan bahan dengan asalnya!","pasangan":[["Daun","tumbuhan"],["Batu","alam"],["Kertas","buatan"]],"urutKanan":["tumbuhan","buatan","alam"],"e":"Daun dari tumbuhan, batu dari alam, kertas buatan."},
+        {"tipe":"cocok","t":"Pasangkan bahan dengan asal alam atau buatannya!","pasangan":[["Daun","tumbuhan"],["Batu","alam"],["Kertas","buatan"]],"urutKanan":["tumbuhan","buatan","alam"],"e":"Daun dari tumbuhan, batu dari alam, kertas buatan."},
         {"tipe":"bs","t":"Menggunting boleh sambil berlari.","p":["Benar","Salah"],"j":1,"e":"Salah, menggunting harus duduk tenang dan hati-hati."},
         {"tipe":"pg","t":"Alat untuk menghapus adalah ....","p":["penghapus","kuas","gunting"],"j":0,"e":"Penghapus digunakan untuk menghapus."},
         {"tipe":"isian","t":"Cat air dipakai dengan alat ....","p":["gunting","pensil","kuas"],"j":2,"e":"Cat air dipakai dengan kuas."},
-        {"tipe":"bs","t":"Kertas adalah bahan buatan.","p":["Benar","Salah"],"j":0,"e":"Benar, kertas adalah bahan buatan."},
-        {"tipe":"cocok","t":"Pasangkan alat dengan fungsinya!","pasangan":[["Kuas","melewati cat"],["Penggaris","menggaris lurus"],["Penghapus","menghapus"]],"urutKanan":["menghapus","menggaris lurus","melewati cat"],"e":"Kuas melewati cat, penggaris menggaris lurus, penghapus menghapus."}
+        {"tipe":"bs","t":"Krayon adalah pewarna kering yang praktis tanpa air dan palet.","p":["Benar","Salah"],"j":0,"e":"Benar, krayon dipakai langsung tanpa air dan palet."},
+        {"tipe":"cocok","t":"Pasangkan alat dengan kegunaan sesuai tekniknya!","pasangan":[["Kuas","melewati cat"],["Penggaris","menggaris lurus"],["Penghapus","menghapus"]],"urutKanan":["menghapus","menggaris lurus","melewati cat"],"e":"Kuas melewati cat, penggaris menggaris lurus, penghapus menghapus."}
       ]
     },
     {
@@ -85,19 +85,19 @@ window.KUIS.push({
       "soal": [
         {"tipe":"pg","t":"Alat untuk mewarnai adalah ....","p":["gunting","krayon","lem"],"j":1,"e":"Krayon adalah alat untuk mewarnai."},
         {"tipe":"bs","t":"Gunting dipakai untuk menggambar.","p":["Benar","Salah"],"j":1,"e":"Salah, gunting untuk memotong. Pensil untuk menggambar."},
-        {"tipe":"pg","t":"Bahan alam di bawah ini adalah ....","p":["daun","plastik","kertas"],"j":0,"e":"Daun adalah bahan alam."},
+        {"tipe":"pg","t":"Contoh bahan alam untuk kolase adalah ....","p":["cangkang kerang","kertas origami","lem"],"j":0,"e":"Cangkang kerang berasal dari alam."},
         {"tipe":"isian","t":"Alat untuk merekatkan adalah ....","p":["gunting","lem","kuas"],"j":1,"e":"Lem digunakan untuk merekatkan."},
-        {"tipe":"cocok","t":"Pasangkan alat dengan kegunaannya!","pasangan":[["Pensil","menggambar"],["Gunting","memotong"],["Lem","merekatkan"]],"urutKanan":["merekatkan","menggambar","memotong"],"e":"Pensil menggambar, gunting memotong, lem merekatkan."},
+        {"tipe":"cocok","t":"Pasangkan alat dengan cara memakainya!","pasangan":[["Pensil","menggambar"],["Gunting","memotong"],["Lem","merekatkan"]],"urutKanan":["merekatkan","menggambar","memotong"],"e":"Pensil menggambar, gunting memotong, lem merekatkan."},
         {"tipe":"pg","t":"Cat air dipakai dengan ....","p":["pensil","gunting","kuas"],"j":2,"e":"Cat air dipakai dengan kuas."},
         {"tipe":"bs","t":"Plastik adalah bahan alam.","p":["Benar","Salah"],"j":1,"e":"Salah, plastik adalah bahan buatan."},
         {"tipe":"isian","t":"Melipat kertas disebut ....","p":["origami","kolase","lukisan"],"j":0,"e":"Melipat kertas disebut origami."},
         {"tipe":"pg","t":"Membuat karya dari potongan kertas disebut ....","p":["origami","sketsa","kolase"],"j":2,"e":"Menempel potongan kertas disebut kolase."},
-        {"tipe":"cocok","t":"Pasangkan bahan dengan asalnya!","pasangan":[["Daun","tumbuhan"],["Batu","alam"],["Kertas","buatan"]],"urutKanan":["alam","buatan","tumbuhan"],"e":"Daun dari tumbuhan, batu dari alam, kertas buatan."},
+        {"tipe":"cocok","t":"Pasangkan bahan dengan asalnya yang tepat!","pasangan":[["Daun","tumbuhan"],["Batu","alam"],["Kertas","buatan"]],"urutKanan":["alam","buatan","tumbuhan"],"e":"Daun dari tumbuhan, batu dari alam, kertas buatan."},
         {"tipe":"bs","t":"Krayon termasuk alat mewarnai.","p":["Benar","Salah"],"j":0,"e":"Benar, krayon termasuk alat mewarnai."},
-        {"tipe":"pg","t":"Alat untuk menggaris lurus adalah ....","p":["penggaris","kuas","krayon"],"j":0,"e":"Penggaris digunakan untuk menggaris lurus."},
+        {"tipe":"pg","t":"Urutan kerja kolase yang rapi adalah ....","p":["sketsa, oles lem, tempel biji","tempel biji, gambar pola, oles lem","oles lem, potong kertas, sketsa"],"j":0,"e":"Buat sketsa dulu, lalu oles lem, lalu tempel biji."},
         {"tipe":"isian","t":"Batu termasuk bahan ....","p":["buatan","alam","logam"],"j":1,"e":"Batu termasuk bahan alam."},
         {"tipe":"bs","t":"Kita harus hati-hati memakai gunting.","p":["Benar","Salah"],"j":0,"e":"Benar, gunting harus dipakai dengan hati-hati."},
-        {"tipe":"cocok","t":"Pasangkan alat dengan fungsinya!","pasangan":[["Kuas","melewati cat"],["Penggaris","menggaris lurus"],["Penghapus","menghapus"]],"urutKanan":["melewati cat","menghapus","menggaris lurus"],"e":"Kuas melewati cat, penggaris menggaris lurus, penghapus menghapus."}
+        {"tipe":"cocok","t":"Pasangkan alat dengan fungsi utamanya!","pasangan":[["Kuas","melewati cat"],["Penggaris","menggaris lurus"],["Penghapus","menghapus"]],"urutKanan":["melewati cat","menghapus","menggaris lurus"],"e":"Kuas melewati cat, penggaris menggaris lurus, penghapus menghapus."}
       ]
     }
   ]
