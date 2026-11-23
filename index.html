@@ -153,7 +153,7 @@
 </div>
 
 <!-- Naikkan ?v= setiap data.js berubah supaya browser tidak pakai cache lama. -->
-<script src="data.js?v=20261123"></script>
+<script src="data.js?v=20261123b"></script>
 <script>
 const K = window.KUIS || [];
 const $ = id => document.getElementById(id);
@@ -221,7 +221,7 @@ function refresh(){
       </div>
       <p><b>${k.bab}</b><br>${k.deskripsi}</p>
       <div class="go">
-        <a class="btn main" href="kuis.html?id=${encodeURIComponent(k.id)}">Kerjakan ➡</a>
+        <a class="btn main" href="kuis.html?id=${encodeURIComponent(k.id)}&v=20261123b">Kerjakan ➡</a>
         <button class="btn key" onclick="kunci(${idx})">🔑 Kunci</button>
       </div>
     </div>`;
