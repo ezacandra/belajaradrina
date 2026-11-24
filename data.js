@@ -11766,203 +11766,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Buku ada di bawah meja. Meja berada .... buku.",
+      "t": "The ball sits under the chair. Where is the chair?",
       "p": [
-       "di atas",
-       "di samping",
-       "di depan"
+       "above the ball",
+       "beside the ball",
+       "behind the ball"
       ],
       "j": 0,
-      "e": "Buku di bawah meja, jadi meja ada di atas buku."
+      "e": "The chair is above the ball."
      },
      {
       "tipe": "bs",
-      "t": "Jarum yang lebih pendek pada jam disebut hour hand.",
+      "t": "A clock has a short hand and a long hand.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, jarum pendek disebut hour hand atau jarum jam."
+      "e": "True. Most clocks have two hands."
      },
      {
       "tipe": "pg",
-      "t": "Duduk menghadap papan, tangan kiri Raka ada di sebelah ....",
+      "t": "Rina faces the board. Which side is her left hand on?",
       "p": [
-       "kanan",
-       "kiri",
-       "belakang"
+       "right",
+       "left",
+       "back"
       ],
       "j": 1,
-      "e": "Saat menghadap papan, tangan kiri ada di sebelah kiri."
+      "e": "Her left hand is on the left."
      },
      {
       "tipe": "isian",
-      "t": "Pada pictogram bunga, mawar memiliki gambar paling banyak. Mawar termasuk data yang ....",
+      "t": "In the flower chart, roses have the tallest stack. Roses show the ...",
       "p": [
-       "sedikit",
-       "paling banyak",
-       "sama banyak"
+       "fewest",
+       "equal",
+       "most"
       ],
-      "j": 1,
-      "e": "Gambar paling banyak berarti mawar adalah data paling banyak."
+      "j": 2,
+      "e": "Roses show the most."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan setiap kata posisi dengan arti yang tepat!",
+      "t": "Draw a line from each word to its place.",
       "pasangan": [
        [
         "Behind",
-        "di belakang"
+        "at the back"
        ],
        [
         "Between",
-        "di antara"
+        "in the middle of two"
        ],
        [
         "Above",
-        "di atas"
+        "over something"
        ]
       ],
       "urutKanan": [
-       "di atas",
-       "di belakang",
-       "di antara"
+       "over something",
+       "at the back",
+       "in the middle of two"
       ],
-      "e": "Behind artinya di belakang, between di antara, above di atas."
+      "e": "Behind means at the back. Between means in the middle of two. Above means over something."
      },
      {
       "tipe": "pg",
-      "t": "Cahaya matahari mulai tampak pagi-pagi disebut ....",
+      "t": "The sun comes up. This part of day is called ...",
       "p": [
        "evening",
        "morning",
-       "night"
+       "midnight"
       ],
       "j": 1,
-      "e": "Pagi-pagi disebut morning."
+      "e": "The sun comes up in the morning."
      },
      {
       "tipe": "bs",
-      "t": "Bagian tengah yang bertemu pada Venn diagram berisi benda yang punya dua ciri.",
+      "t": "The middle part of two circles holds things with both features.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, irisan tengah Venn berisi benda yang memiliki dua ciri."
+      "e": "True. The middle part holds things with two features."
      },
      {
       "tipe": "isian",
-      "t": "Anak yang berdiri urutan kelima disebut urutan ....",
+      "t": "A child stands fifth in line. The word for number 5 is ...",
       "p": [
        "fourth",
        "fifth",
-       "sixth"
+       "eighth"
       ],
       "j": 1,
-      "e": "Urutan kelima dalam bahasa Inggris adalah fifth."
+      "e": "Number 5 is fifth."
      },
      {
       "tipe": "pg",
-      "t": "Kotak Merah isi 12 kancing, kotak Biru juga 12. Isi kedua kotak ....",
+      "t": "One box holds 12 buttons. Another box also holds 12. The boxes hold ...",
       "p": [
-       "lebih banyak",
-       "lebih sedikit",
-       "sama banyak"
+       "the same",
+       "more",
+       "less"
       ],
-      "j": 2,
-      "e": "Duanya berjumlah 12, jadi sama banyak."
+      "j": 0,
+      "e": "Both boxes hold the same."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bulan dengan urutannya!",
+      "t": "Match each month to its number in the year.",
       "pasangan": [
        [
         "January",
-        "1"
+        "first"
        ],
        [
         "February",
-        "2"
+        "second"
        ],
        [
         "March",
-        "3"
+        "third"
        ]
       ],
       "urutKanan": [
-       "3",
-       "1",
-       "2"
+       "third",
+       "first",
+       "second"
       ],
-      "e": "January urutan pertama, February kedua, March ketiga."
+      "e": "January is first, February is second, March is third."
      },
      {
       "tipe": "bs",
-      "t": "Kemarin terjadi sebelum hari ini.",
+      "t": "Yesterday happened before today.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kemarin datang sebelum hari ini."
+      "e": "True. Yesterday came before today."
      },
      {
       "tipe": "pg",
-      "t": "Gelas dan piring berdampingan di meja. Gelas ada .... piring.",
+      "t": "A cup and a plate sit side by side. The cup is ... the plate.",
       "p": [
-       "di antara",
-       "di samping",
-       "di bawah"
+       "under",
+       "next to",
+       "in front of"
       ],
       "j": 1,
-      "e": "Berdampingan berarti di samping, jadi gelas di samping piring."
+      "e": "The cup is next to the plate."
      },
      {
       "tipe": "isian",
-      "t": "Jarum pendek di angka 9 dan jarum panjang di angka 12. Pukul ....",
+      "t": "The short hand points to 9. The long hand points to 12. What time is it?",
       "p": [
-       "9",
-       "10",
-       "8"
+       "9 o'clock",
+       "10 o'clock",
+       "8 o'clock"
       ],
       "j": 0,
-      "e": "Jarum pendek di angka 9 berarti pukul 9 tepat."
+      "e": "It is 9 o'clock."
      },
      {
       "tipe": "bs",
-      "t": "Saat mengelompokkan, kita mencari benda yang memiliki kesamaan.",
+      "t": "When we sort things, we look for a shared trait.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, mengelompokkan berarti mencari ciri yang sama."
+      "e": "True. Sorting means finding a trait that is the same."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan jenis diagram dengan cirinya!",
+      "t": "Link each chart type to what it uses.",
       "pasangan": [
        [
         "Pictogram",
-        "pakai gambar"
+        "uses pictures"
        ],
        [
         "Block graph",
-        "pakai batang"
+        "uses bars"
        ],
        [
         "Venn",
-        "punya irisan"
+        "uses two circles"
        ]
       ],
       "urutKanan": [
-       "pakai batang",
-       "punya irisan",
-       "pakai gambar"
+       "uses bars",
+       "uses two circles",
+       "uses pictures"
       ],
-      "e": "Pictogram pakai gambar, block graph pakai batang, Venn punya irisan."
+      "e": "A pictogram uses pictures, a block graph uses bars, and Venn uses two circles."
      }
     ]
    },
@@ -11972,203 +11972,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Lampu ditempatkan di atas meja. Meja ada .... lampu.",
+      "t": "The lamp hangs over the desk. The desk is ... the lamp.",
       "p": [
-       "di bawah",
-       "di depan",
-       "di samping"
+       "below",
+       "in front of",
+       "beside"
       ],
       "j": 0,
-      "e": "Lampu di atas meja, jadi meja ada di bawah lampu."
+      "e": "The desk is below the lamp."
      },
      {
       "tipe": "bs",
-      "t": "Saat jarum panjang menunjuk angka 12, waktu disebut tepat.",
+      "t": "When the long hand points at 12, we say o'clock.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, jarum panjang di angka 12 menandakan waktu tepat."
+      "e": "True. The long hand at 12 means o'clock."
      },
      {
       "tipe": "pg",
-      "t": "Menghadap cermin, sisi kanan tubuh disebut ....",
+      "t": "Ali looks in a mirror. His right side is called ...",
       "p": [
        "left",
        "right",
-       "behind"
+       "under"
       ],
       "j": 1,
-      "e": "Sisi kanan tubuh disebut right."
+      "e": "His right side is called right."
      },
      {
       "tipe": "isian",
-      "t": "Di block graph, batang yang terpendek menandakan data yang ....",
+      "t": "On the bar chart, the shortest bar shows the ...",
       "p": [
-       "paling sedikit",
-       "paling banyak",
-       "sama"
+       "fewest",
+       "most",
+       "same"
       ],
       "j": 0,
-      "e": "Batang terpendek menandakan data paling sedikit."
+      "e": "The shortest bar shows the fewest."
      },
      {
       "tipe": "cocok",
-      "t": "Tentukan pasangan kata posisi dan lawannya!",
+      "t": "Pair each direction word with its opposite.",
       "pasangan": [
        [
-        "Depan",
-        "Belakang"
+        "Front",
+        "Back"
        ],
        [
-        "Atas",
-        "Bawah"
+        "Up",
+        "Down"
        ],
        [
-        "Kiri",
-        "Kanan"
+        "Left",
+        "Right"
        ]
       ],
       "urutKanan": [
-       "Bawah",
-       "Kanan",
-       "Belakang"
+       "Down",
+       "Right",
+       "Back"
       ],
-      "e": "Depan lawannya belakang, atas lawannya bawah, kiri lawannya kanan."
+      "e": "Front goes with Back. Up goes with Down. Left goes with Right."
      },
      {
       "tipe": "pg",
-      "t": "Pukul tiga sore termasuk bagian hari ....",
+      "t": "At three in the afternoon, it is still ...",
       "p": [
        "morning",
        "afternoon",
        "night"
       ],
       "j": 1,
-      "e": "Pukul tiga sore disebut afternoon."
+      "e": "Three in the afternoon is the afternoon."
      },
      {
       "tipe": "bs",
-      "t": "Delapan kelereng lebih banyak daripada lima kelereng.",
+      "t": "Eight marbles are more than five marbles.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, delapan lebih banyak daripada lima."
+      "e": "True. Eight is more than five."
      },
      {
       "tipe": "isian",
-      "t": "Peserta paling akhir dalam antrean sepuluh orang berada di urutan ....",
+      "t": "Ten kids stand in a row. The last one is number ...",
       "p": [
        "7th",
        "9th",
        "10th"
       ],
       "j": 2,
-      "e": "Urutan kesepuluh ditulis 10th."
+      "e": "The last of ten is 10th."
      },
      {
       "tipe": "pg",
-      "t": "Satu gambar apel mewakili 2 buah. Jika ada 5 gambar, jumlah apel ....",
+      "t": "One apple picture stands for 2 apples. Five pictures stand for ...",
       "p": [
-       "5",
+       "10",
        "7",
-       "10"
+       "5"
       ],
-      "j": 2,
-      "e": "5 gambar dikali 2 sama dengan 10 apel."
+      "j": 0,
+      "e": "Five pictures stand for 10 apples."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan kata waktu dengan artinya!",
+      "t": "Join each time word to its meaning.",
       "pasangan": [
        [
         "Yesterday",
-        "kemarin"
+        "the day before today"
        ],
        [
         "Today",
-        "hari ini"
+        "this day"
        ],
        [
         "Tomorrow",
-        "besok"
+        "the day after today"
        ]
       ],
       "urutKanan": [
-       "besok",
-       "kemarin",
-       "hari ini"
+       "the day after today",
+       "the day before today",
+       "this day"
       ],
-      "e": "Yesterday kemarin, today hari ini, tomorrow besok."
+      "e": "Yesterday is the day before today. Today is this day. Tomorrow is the day after today."
      },
      {
       "tipe": "bs",
-      "t": "Satu tahun terdiri dari dua belas bulan.",
+      "t": "One year has twelve months.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, satu tahun berisi dua belas bulan."
+      "e": "True. A year has twelve months."
      },
      {
       "tipe": "pg",
-      "t": "Rak sepatu bersebelahan dengan lemari. Rak sepatu ada .... lemari.",
+      "t": "The shoe rack sits beside the cupboard. The rack is ... the cupboard.",
       "p": [
-       "di belakang",
-       "di samping",
-       "di atas"
+       "behind",
+       "next to",
+       "over"
       ],
       "j": 1,
-      "e": "Bersebelahan berarti di samping, jadi rak di samping lemari."
+      "e": "The rack is next to the cupboard."
      },
      {
       "tipe": "isian",
-      "t": "Bulan terakhir dalam setahun adalah ....",
+      "t": "The last month of the year is ...",
       "p": [
        "October",
        "November",
        "December"
       ],
       "j": 2,
-      "e": "Bulan terakhir adalah December."
+      "e": "The last month is December."
      },
      {
       "tipe": "bs",
-      "t": "Matahari terbenam menandai mulanya evening.",
+      "t": "The sun goes down at evening time.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, matahari terbenam terjadi pada evening."
+      "e": "True. The sun goes down in the evening."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan istilah perbandingan dengan maknanya!",
+      "t": "Connect each comparing word to its meaning.",
       "pasangan": [
        [
         "More than",
-        "lebih banyak"
+        "greater in number"
        ],
        [
         "Fewer than",
-        "lebih sedikit"
+        "smaller in number"
        ],
        [
         "Equal",
-        "sama"
+        "the same in number"
        ]
       ],
       "urutKanan": [
-       "lebih sedikit",
-       "sama",
-       "lebih banyak"
+       "smaller in number",
+       "the same in number",
+       "greater in number"
       ],
-      "e": "More than lebih banyak, fewer than lebih sedikit, equal sama."
+      "e": "More than means greater in number. Fewer than means smaller in number. Equal means the same in number."
      }
     ]
    },
@@ -12178,50 +12178,50 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Nina duduk di depan Rendi. Rendi duduk .... Nina.",
+      "t": "Mia sits in front of Tom. Tom sits ... Mia.",
       "p": [
-       "di depan",
-       "di belakang",
-       "di samping"
+       "in front of",
+       "behind",
+       "next to"
       ],
       "j": 1,
-      "e": "Nina di depan Rendi, jadi Rendi duduk di belakang Nina."
+      "e": "Tom sits behind Mia."
      },
      {
       "tipe": "bs",
-      "t": "Pictogram memakai gambar untuk mewakili jumlah benda.",
+      "t": "A pictogram uses small drawings to show counts.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, pictogram memakai gambar sebagai pengganti angka."
+      "e": "True. A pictogram uses little drawings for counts."
      },
      {
       "tipe": "pg",
-      "t": "Saat berdiri menghadap utara, tangan kiri mengarah ke ....",
+      "t": "Sam faces north. Sam's left hand points to the ...",
       "p": [
-       "barat",
-       "timur",
-       "selatan"
+       "west",
+       "east",
+       "south"
       ],
       "j": 0,
-      "e": "Menghadap utara, tangan kiri mengarah ke barat."
+      "e": "Sam's left hand points west."
      },
      {
       "tipe": "isian",
-      "t": "Diagram yang dua lingkarannya saling berpotong disebut diagram ....",
+      "t": "A chart with two round loops that cross is a ... diagram.",
       "p": [
        "Venn",
-       "Carroll",
-       "batang"
+       "bar",
+       "dot"
       ],
       "j": 0,
-      "e": "Diagram dengan dua lingkaran yang berpotong disebut Venn."
+      "e": "It is a Venn diagram."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan urutan dengan sebutan bahasa Inggrisnya!",
+      "t": "Match each short form to the full word.",
       "pasangan": [
        [
         "1st",
@@ -12241,120 +12241,120 @@ window.KUIS = [
        "third",
        "first"
       ],
-      "e": "1st first, 2nd second, 3rd third."
+      "e": "1st is first, 2nd is second, 3rd is third."
      },
      {
       "tipe": "pg",
-      "t": "Pukul enam tepat ditunjukkan oleh jarum ....",
+      "t": "At six o'clock, the short hand rests on ...",
       "p": [
-       "panjang di angka 6",
-       "pendek di angka 6",
-       "pendek di angka 12"
+       "the 6 with the long hand at 12",
+       "the 12 with the long hand at 6",
+       "the 6 with the long hand at 6"
       ],
-      "j": 1,
-      "e": "Pukul 6 tepat: jarum pendek di angka 6 dan panjang di angka 12."
+      "j": 0,
+      "e": "At six o'clock the short hand is on the 6 with the long hand at 12."
      },
      {
       "tipe": "bs",
-      "t": "Bintang lebih mudah terlihat pada waktu night.",
+      "t": "Stars are easy to see at night.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, bintang tampak jelas pada malam atau night."
+      "e": "True. Stars show well at night."
      },
      {
       "tipe": "isian",
-      "t": "Dika punya 9 kelereng, Sinta punya 4. Dika punya kelereng .... dari Sinta.",
+      "t": "Kira has 9 shells. Ben has 4 shells. Kira has ... shells than Ben.",
       "p": [
-       "lebih sedikit",
-       "lebih banyak",
-       "sama"
+       "fewer",
+       "more",
+       "just as many"
       ],
       "j": 1,
-      "e": "9 lebih banyak daripada 4, jadi Dika punya lebih banyak."
+      "e": "Kira has more shells than Ben."
      },
      {
       "tipe": "pg",
-      "t": "Hari ketiga jika diawali Senin adalah ....",
+      "t": "If Monday is day one, day three is ...",
       "p": [
-       "Selasa",
-       "Rabu",
-       "Kamis"
+       "Tuesday",
+       "Wednesday",
+       "Thursday"
       ],
       "j": 1,
-      "e": "Senin pertama, Selasa kedua, Rabu ketiga."
+      "e": "Day three is Wednesday."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan kata posisi dengan terjemahannya!",
+      "t": "Draw lines to link the place word and its meaning.",
       "pasangan": [
        [
         "In front of",
-        "di depan"
+        "before something"
        ],
        [
         "Next to",
-        "di samping"
+        "beside something"
        ],
        [
         "Under",
-        "di bawah"
+        "below something"
        ]
       ],
       "urutKanan": [
-       "di samping",
-       "di bawah",
-       "di depan"
+       "beside something",
+       "below something",
+       "before something"
       ],
-      "e": "In front of di depan, next to di samping, under di bawah."
+      "e": "In front of means before something. Next to means beside something. Under means below something."
      },
      {
       "tipe": "bs",
-      "t": "Besok dalam bahasa Inggris disebut tomorrow.",
+      "t": "Tomorrow is the word for the day after today.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, besok disebut tomorrow."
+      "e": "True. Tomorrow means the day after today."
      },
      {
       "tipe": "pg",
-      "t": "Bantal ada di bawah ranjang. Kata 'di bawah' dalam bahasa Inggris ....",
+      "t": "A cat hides below the bed. Which word means below?",
       "p": [
        "above",
        "between",
        "under"
       ],
       "j": 2,
-      "e": "Di bawah diterjemahkan dengan under."
+      "e": "The word for below is under."
      },
      {
       "tipe": "isian",
-      "t": "Waktu sesudah afternoon sebelum night disebut ....",
+      "t": "After afternoon and before night comes the ...",
       "p": [
        "morning",
        "evening",
        "noon"
       ],
       "j": 1,
-      "e": "Urutannya afternoon, evening, lalu night."
+      "e": "Evening comes after afternoon."
      },
      {
       "tipe": "bs",
-      "t": "Dua kumpulan disebut equal apabila jumlahnya berbeda.",
+      "t": "Two groups are equal when their counts differ.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, equal berarti sama banyak, bukan berbeda."
+      "e": "False. Equal means the counts are the same."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bulan kesepuluh sampai keduabelas dengan nomornya!",
+      "t": "Link months ten through twelve to their numbers.",
       "pasangan": [
        [
         "October",
@@ -12374,7 +12374,7 @@ window.KUIS = [
        "10",
        "11"
       ],
-      "e": "October bulan ke-10, November ke-11, December ke-12."
+      "e": "October is month 10, November is month 11, December is month 12."
      }
     ]
    },
@@ -12384,50 +12384,50 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Gelas ditempatkan di antara piring dan sendok. Letak gelas ....",
+      "t": "The mug stands between the plate and the spoon. Where is the mug?",
       "p": [
-       "di antara piring dan sendok",
-       "di atas piring",
-       "di bawah sendok"
+       "between the plate and the spoon",
+       "on the plate",
+       "below the spoon"
       ],
       "j": 0,
-      "e": "Gelas berada di antara piring dan sendok."
+      "e": "The mug is between the plate and the spoon."
      },
      {
       "tipe": "bs",
-      "t": "Carroll diagram membantu mengelompokkan benda menurut dua ciri.",
+      "t": "A Carroll chart sorts things by two traits.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, Carroll diagram memakai dua ciri pengelompokan."
+      "e": "True. A Carroll chart uses two traits to sort."
      },
      {
       "tipe": "pg",
-      "t": "Jika memandang ke depan, sisi kiri tubuh disebut ....",
+      "t": "Look straight ahead. The side on your left is called ...",
       "p": [
        "right",
        "left",
        "above"
       ],
       "j": 1,
-      "e": "Sisi kiri tubuh disebut left."
+      "e": "The side on your left is left."
      },
      {
       "tipe": "isian",
-      "t": "Pada pictogram buah, apel punya 7 gambar dan pisang 3. Apel adalah buah yang ....",
+      "t": "In the fruit chart, apples have 7 drawings and pears have 3. Apples show the ...",
       "p": [
-       "paling sedikit",
-       "paling banyak",
-       "sama banyak"
+       "least",
+       "most",
+       "equal"
       ],
       "j": 1,
-      "e": "Apel punya gambar terbanyak, jadi apel paling banyak."
+      "e": "Apples show the most."
      },
      {
       "tipe": "cocok",
-      "t": "Samakan urutan keempat sampai keenam dengan sebutannya!",
+      "t": "Pair numbers four to six with their names.",
       "pasangan": [
        [
         "4th",
@@ -12447,140 +12447,140 @@ window.KUIS = [
        "sixth",
        "fourth"
       ],
-      "e": "4th fourth, 5th fifth, 6th sixth."
+      "e": "4th is fourth, 5th is fifth, 6th is sixth."
      },
      {
       "tipe": "pg",
-      "t": "Pukul enam petang termasuk waktu ....",
+      "t": "Six in the evening is time called ...",
       "p": [
        "afternoon",
-       "night",
+       "midnight",
        "evening"
       ],
       "j": 2,
-      "e": "Pukul enam petang disebut evening."
+      "e": "Six in the evening is the evening."
      },
      {
       "tipe": "bs",
-      "t": "Dalam setahun ada dua belas bulan.",
+      "t": "A week has seven days.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, setahun terdiri dari dua belas bulan."
+      "e": "True. A week has seven days."
      },
      {
       "tipe": "isian",
-      "t": "Saat langit gelap dan bintang tampak, keadaan itu disebut ....",
+      "t": "The sky turns dark and stars appear. It is ...",
       "p": [
        "night",
        "evening",
-       "dawn"
+       "sunrise"
       ],
       "j": 0,
-      "e": "Langit gelap berbintang terjadi pada night."
+      "e": "Dark sky with stars means night."
      },
      {
       "tipe": "pg",
-      "t": "Kotak A berisi 6 kancing, kotak B berisi 9. Kotak A berisi kancing .... dari kotak B.",
+      "t": "Box A holds 6 beads. Box B holds 9 beads. Box A holds ... beads than Box B.",
       "p": [
-       "lebih sedikit",
-       "sama banyaknya",
-       "lebih banyak"
+       "fewer",
+       "as many",
+       "more"
       ],
       "j": 0,
-      "e": "6 lebih sedikit daripada 9, jadi kotak A lebih sedikit."
+      "e": "Box A holds fewer beads than Box B."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan bagian hari dengan keterangannya!",
+      "t": "Join each part of the day to what the sun does.",
       "pasangan": [
        [
         "Morning",
-        "matahari terbit"
+        "sun comes up"
        ],
        [
         "Afternoon",
-        "matahari tinggi"
+        "sun is high"
        ],
        [
         "Evening",
-        "matahari terbenam"
+        "sun goes down"
        ]
       ],
       "urutKanan": [
-       "matahari terbenam",
-       "matahari terbit",
-       "matahari tinggi"
+       "sun goes down",
+       "sun comes up",
+       "sun is high"
       ],
-      "e": "Morning matahari terbit, afternoon matahari tinggi, evening matahari terbenam."
+      "e": "In the morning the sun comes up. In the afternoon the sun is high. In the evening the sun goes down."
      },
      {
       "tipe": "bs",
-      "t": "Kemarin, hari ini, dan besok merupakan tiga hari berurutan.",
+      "t": "The three words yesterday, today, and tomorrow follow one after another.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kemarin sebelum hari ini dan besok sesudahnya."
+      "e": "True. Yesterday comes first, then today, then tomorrow."
      },
      {
       "tipe": "pg",
-      "t": "Lemari bersebelahan dengan jendela. Letak lemari .... jendela.",
+      "t": "The wardrobe touches the window. The wardrobe is ... the window.",
       "p": [
-       "di samping",
-       "jauh dari",
-       "di atas"
+       "next to",
+       "far from",
+       "above"
       ],
       "j": 0,
-      "e": "Bersebelahan berarti di samping, jadi lemari di samping jendela."
+      "e": "The wardrobe is next to the window."
      },
      {
       "tipe": "isian",
-      "t": "Bulan sesudah September adalah ....",
+      "t": "The month right after September is ...",
       "p": [
        "August",
        "October",
        "December"
       ],
       "j": 1,
-      "e": "Bulan sesudah September adalah October."
+      "e": "October comes right after September."
      },
      {
       "tipe": "bs",
-      "t": "Pukul tujuh tepat berarti jarum pendek berada di angka tujuh.",
+      "t": "At seven, the short hand sits on the 7.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, pukul 7 tepat memakai jarum pendek di angka 7."
+      "e": "True. At seven o'clock the short hand is on the 7."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan Sunday, Monday, Tuesday dengan urutannya!",
+      "t": "Match Sunday, Monday, and Tuesday to their day numbers.",
       "pasangan": [
        [
         "Sunday",
-        "7"
+        "day 7"
        ],
        [
         "Monday",
-        "1"
+        "day 1"
        ],
        [
         "Tuesday",
-        "2"
+        "day 2"
        ]
       ],
       "urutKanan": [
-       "1",
-       "2",
-       "7"
+       "day 1",
+       "day 2",
+       "day 7"
       ],
-      "e": "Sunday urutan ke-7, Monday ke-1, Tuesday ke-2."
+      "e": "Sunday is day 7, Monday is day 1, Tuesday is day 2."
      }
     ]
    }
@@ -15123,203 +15123,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Panci dan kawat listrik terbuat dari logam karena ....",
+      "t": "A cooking pot and a wire both need this skill. Name it.",
       "p": [
-       "menghantar panas dan listrik",
-       "tembus pandang",
-       "menyerap air"
+       "carries heat and electric current",
+       "lets light pass",
+       "soaks up water"
       ],
       "j": 0,
-      "e": "Logam menghantar panas dan listrik, jadi dipakai untuk panci dan kawat."
+      "e": "Metal carries heat and electric current, which is why pots and wires use it."
      },
      {
       "tipe": "bs",
-      "t": "Kaca terbuat dari pasir.",
+      "t": "Glass starts out as sand.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kaca dibuat dari pasir."
+      "e": "True. Glass is made from sand."
      },
      {
       "tipe": "pg",
-      "t": "Logam digali dari tanah dalam bentuk ....",
+      "t": "Ore that holds metal is dug out of what?",
       "p": [
-       "bijih logam",
-       "pasir halus",
-       "getah"
+       "ground",
+       "tree sap",
+       "clay"
       ],
       "j": 0,
-      "e": "Logam berasal dari bijih logam yang digali dari tanah."
+      "e": "Metal comes from ore dug out of the ground."
      },
      {
       "tipe": "isian",
-      "t": "Sifat kain yang menyerap air disebut ....",
+      "t": "A towel takes in water fast. Name that quality.",
       "p": [
        "absorbent",
        "waterproof",
        "rigid"
       ],
       "j": 0,
-      "e": "Absorbent artinya bahan yang menyerap air."
+      "e": "Absorbent means it takes in water like a towel."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda dengan bahan pembuatnya!",
+      "t": "Link each thing to what it is built from.",
       "pasangan": [
        [
-        "Kunci",
-        "logam"
+        "Key",
+        "metal"
        ],
        [
-        "Buku",
-        "kertas"
+        "Storybook",
+        "paper"
        ],
        [
-        "Cermin",
-        "kaca"
+        "Mirror",
+        "glass"
        ]
       ],
       "urutKanan": [
-       "kaca",
-       "logam",
-       "kertas"
+       "glass",
+       "metal",
+       "paper"
       ],
-      "e": "Kunci logam, buku kertas, cermin kaca."
+      "e": "Key is metal, storybook is paper, and mirror is glass."
      },
      {
       "tipe": "pg",
-      "t": "Kaca bersifat kaku dan ....",
+      "t": "You can see a bird outside. Which quality lets that happen?",
       "p": [
-       "tembus pandang",
-       "menyerap air",
-       "rapuh"
+       "transparent",
+       "waterproof",
+       "brittle"
       ],
       "j": 0,
-      "e": "Kaca kaku dan tembus pandang."
+      "e": "Glass is transparent, so we can see through a window."
      },
      {
       "tipe": "bs",
-      "t": "Karet bisa diregangkan lalu kembali lagi.",
+      "t": "Rubber bounces back after you stretch it.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, karet lentur dan bisa stretch."
+      "e": "True. Rubber is flexible and returns to its shape."
      },
      {
       "tipe": "isian",
-      "t": "Sifat permukaan batu yang tidak rata adalah ....",
+      "t": "This rock face has bumps and dips. Name its feel.",
       "p": [
-       "halus",
-       "kasar",
-       "lentur"
+       "smooth",
+       "rough",
+       "flexible"
       ],
       "j": 1,
-      "e": "Permukaan tidak rata disebut kasar."
+      "e": "Rough describes a bumpy, uneven stone face."
      },
      {
       "tipe": "pg",
-      "t": "Plastik buatan manusia bersifat ....",
+      "t": "A factory makes this drink holder. Guess the stuff.",
       "p": [
-       "menyerap air",
-       "mudah pecah",
-       "tahan air"
+       "wood",
+       "clay",
+       "plastic"
       ],
       "j": 2,
-      "e": "Plastik tahan air dan dibuat oleh manusia."
+      "e": "Plastic is man-made and keeps water in."
      },
      {
       "tipe": "cocok",
-      "t": "Tentukan bahan untuk tiap barang ini!",
+      "t": "Match the item with its building stuff.",
       "pasangan": [
        [
-        "Meja",
-        "kayu"
+        "Chair",
+        "wood"
        ],
        [
-        "Kaos",
-        "kain"
+        "T-shirt",
+        "fabric"
        ],
        [
-        "Gelas",
-        "plastik"
+        "Cup",
+        "plastic"
        ]
       ],
       "urutKanan": [
-       "kain",
-       "plastik",
-       "kayu"
+       "fabric",
+       "plastic",
+       "wood"
       ],
-      "e": "Meja kayu, kaos kain, gelas plastik."
+      "e": "Chair uses wood; T-shirt uses fabric; cup uses plastic."
      },
      {
       "tipe": "bs",
-      "t": "Kertas menyerap air.",
+      "t": "Old paper can become new paper.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kertas bersifat absorbent."
+      "e": "True. Recycling turns old paper into fresh sheets."
      },
      {
       "tipe": "pg",
-      "t": "Sifat kayu yang sukar ditekuk disebut ....",
+      "t": "Try folding a thick branch. It resists. Name that trait.",
       "p": [
-       "lentur",
-       "kaku",
-       "tipis"
+       "flexible",
+       "rigid",
+       "soft"
       ],
       "j": 1,
-      "e": "Kayu kaku sehingga sukar ditekuk."
+      "e": "Rigid means stiff and hard to curve."
      },
      {
       "tipe": "isian",
-      "t": "Karet berasal dari getah pohon ....",
+      "t": "White sap is tapped from which growing plant?",
       "p": [
-       "karet",
-       "jati",
-       "kelapa"
+       "rubber tree",
+       "oak tree",
+       "pine tree"
       ],
       "j": 0,
-      "e": "Karet diambil dari getah pohon karet."
+      "e": "Rubber tree sap gives us rubber."
      },
      {
       "tipe": "bs",
-      "t": "Membuang sampah sembarangan membantu Bumi.",
+      "t": "Dropping trash helps the planet.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, membuang sampah merusak Bumi."
+      "e": "False. Litter hurts the Earth, so we should recycle."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan alat dengan materialnya!",
+      "t": "Draw lines: tool or page to its making stuff.",
       "pasangan": [
        [
-        "Gunting",
-        "logam"
+        "Scissors",
+        "metal"
        ],
        [
-        "Kalender",
-        "kertas"
+        "Calendar",
+        "paper"
        ],
        [
-        "Jendela",
-        "kaca"
+        "Windowpane",
+        "glass"
        ]
       ],
       "urutKanan": [
-       "kertas",
-       "kaca",
-       "logam"
+       "paper",
+       "glass",
+       "metal"
       ],
-      "e": "Gunting logam, kalender kertas, jendela kaca."
+      "e": "Scissors are metal, calendar is paper, and windowpane is glass."
      }
     ]
    },
@@ -15329,203 +15329,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Jendela kamar dibuat dari bahan yang bening, yaitu ....",
+      "t": "A bedroom pane is see-through. Name the stuff.",
       "p": [
-       "kayu",
-       "kaca",
-       "kertas"
+       "wood",
+       "glass",
+       "paper"
       ],
       "j": 1,
-      "e": "Jendela kamar memakai kaca yang tembus pandang."
+      "e": "Glass is see-through, so bedroom panes use it."
      },
      {
       "tipe": "bs",
-      "t": "Plastik dibuat oleh manusia.",
+      "t": "People create plastic in factories.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, plastik adalah bahan buatan."
+      "e": "True. Plastic is man-made, not found in nature."
      },
      {
       "tipe": "pg",
-      "t": "Sifat logam yang mengkilap disebut ....",
+      "t": "Some metal shines in the light. Say the trait.",
       "p": [
-       "kaku",
-       "mengkilap",
-       "menyerap"
+       "dull",
+       "shiny",
+       "rough"
       ],
       "j": 1,
-      "e": "Logam mengkilap atau berkilau."
+      "e": "Shiny metal reflects light and looks bright."
      },
      {
       "tipe": "isian",
-      "t": "Piring keramik mudah pecah karena bahannya ....",
+      "t": "A ceramic plate drops and cracks. Why?",
       "p": [
-       "rapuh",
-       "lentur",
-       "tahan air"
+       "brittle",
+       "flexible",
+       "waterproof"
       ],
       "j": 0,
-      "e": "Keramik rapuh sehingga mudah pecah."
+      "e": "Brittle things snap when they fall."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan tiap benda dengan materialnya!",
+      "t": "Pair the seat, the pane, and the key with their stuff.",
       "pasangan": [
        [
-        "Kursi",
-        "kayu"
+        "Stool",
+        "wood"
        ],
        [
-        "Jendela",
-        "kaca"
+        "Pane",
+        "glass"
        ],
        [
-        "Kunci",
-        "logam"
+        "Key",
+        "metal"
        ]
       ],
       "urutKanan": [
-       "logam",
-       "kayu",
-       "kaca"
+       "metal",
+       "wood",
+       "glass"
       ],
-      "e": "Kursi kayu, jendela kaca, kunci logam."
+      "e": "Stool is wood, pane is glass, and key is metal."
      },
      {
       "tipe": "pg",
-      "t": "Karet cocok untuk sepatu bot karena ....",
+      "t": "Rain boots keep feet dry. Which stuff?",
       "p": [
-       "tembus pandang",
-       "rapuh",
-       "tahan air"
+       "glass",
+       "ceramic",
+       "rubber"
       ],
       "j": 2,
-      "e": "Karet tahan air sehingga cocok untuk sepatu bot."
+      "e": "Rubber is waterproof, so rain boots keep feet dry."
      },
      {
       "tipe": "bs",
-      "t": "Kain tidak bisa menyerap air.",
+      "t": "Fabric never takes in water.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, kain bisa menyerap air."
+      "e": "False. Cloth can soak up water, as a towel does."
      },
      {
       "tipe": "isian",
-      "t": "Bahan yang bisa ditekuk disebut ....",
+      "t": "You can curve it and it stays bent. Name the word.",
       "p": [
        "rigid",
        "flexible",
        "opaque"
       ],
       "j": 1,
-      "e": "Flexible artinya lentur dan bisa ditekuk."
+      "e": "Flexible means easy to bend without snapping."
      },
      {
       "tipe": "pg",
-      "t": "Kain untuk handuk bisa menyerap air karena bersifat ....",
+      "t": "A drying cloth needs this power.",
       "p": [
        "waterproof",
        "absorbent",
        "transparent"
       ],
       "j": 1,
-      "e": "Kain handuk absorbent sehingga menyerap air."
+      "e": "Absorbent fabric pulls water in and dries hands."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda kecil dengan bahannya!",
+      "t": "Join the mirror, the eraser, and the reading page to what forms them.",
       "pasangan": [
        [
-        "Cermin",
-        "kaca"
+        "Mirror",
+        "glass"
        ],
        [
-        "Penghapus",
-        "karet"
+        "Eraser",
+        "rubber"
        ],
        [
-        "Buku",
-        "kertas"
+        "Page",
+        "paper"
        ]
       ],
       "urutKanan": [
-       "karet",
-       "kertas",
-       "kaca"
+       "rubber",
+       "paper",
+       "glass"
       ],
-      "e": "Cermin kaca, penghapus karet, buku kertas."
+      "e": "Mirror is glass, eraser is rubber, and page is paper."
      },
      {
       "tipe": "bs",
-      "t": "Kain wol berasal dari bulu domba.",
+      "t": "Wool coat comes from a sheep.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, wol berasal dari bulu domba."
+      "e": "True. Wool is sheep hair turned into yarn."
      },
      {
       "tipe": "pg",
-      "t": "Kayu diambil dari bagian pohon yang disebut ....",
+      "t": "Wood comes from this part of a tree.",
       "p": [
-       "daun",
-       "batang",
-       "akar"
+       "leaf",
+       "trunk",
+       "root"
       ],
       "j": 1,
-      "e": "Batang pohon menghasilkan kayu."
+      "e": "The trunk gives us wood for desks and pencils."
      },
      {
       "tipe": "isian",
-      "t": "Botol bekas bisa dipakai lagi sebagai pot bunga. Ini disebut ....",
+      "t": "An old jar used again as a pot. Say the act.",
       "p": [
        "reuse",
-       "buang",
-       "simpan"
+       "recycle",
+       "reject"
       ],
       "j": 0,
-      "e": "Reuse berarti memakai lagi botol bekas."
+      "e": "Reuse means using a jar again instead of tossing it."
      },
      {
       "tipe": "bs",
-      "t": "Daur ulang kertas disebut recycle.",
+      "t": "Recycling turns old sheets into new sheets.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, recycle mengubah kertas lama jadi baru."
+      "e": "True. Recycling makes fresh paper from used paper."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan barang dapur dengan bahannya!",
+      "t": "Link the cooking pot, the pail, and the plank to their stuff.",
       "pasangan": [
        [
-        "Panci",
-        "logam"
+        "Pot",
+        "metal"
        ],
        [
-        "Ember",
-        "plastik"
+        "Pail",
+        "plastic"
        ],
        [
-        "Papan",
-        "kayu"
+        "Plank",
+        "wood"
        ]
       ],
       "urutKanan": [
-       "plastik",
-       "kayu",
-       "logam"
+       "plastic",
+       "wood",
+       "metal"
       ],
-      "e": "Panci logam, ember plastik, papan kayu."
+      "e": "Pot is metal, pail is plastic, and plank is wood."
      }
     ]
    },
@@ -15535,203 +15535,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kain sintetis dibuat oleh ....",
+      "t": "Someone creates this cloth in a lab.",
       "p": [
-       "manusia",
-       "pohon",
-       "tanah"
+       "human",
+       "tree",
+       "rock"
       ],
       "j": 0,
-      "e": "Kain sintetis dibuat oleh manusia."
+      "e": "Human hands make synthetic cloth in a lab."
      },
      {
       "tipe": "bs",
-      "t": "Permukaan kaca halus dan licin.",
+      "t": "Glass feels even and slick.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kaca halus sehingga licin."
+      "e": "True. Smooth glass has no bumps."
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang tembus pandang disebut ....",
+      "t": "Light passes right through it. Name the kind.",
       "p": [
        "opaque",
        "transparent",
        "rigid"
       ],
       "j": 1,
-      "e": "Transparent artinya bisa dilihat tembus."
+      "e": "Transparent stuff lets light travel through."
      },
      {
       "tipe": "isian",
-      "t": "Rok dan dress dibuat dari ....",
+      "t": "A dress and a skirt need this soft stuff.",
       "p": [
-       "kain",
-       "karet",
-       "logam"
+       "fabric",
+       "rubber",
+       "metal"
       ],
       "j": 0,
-      "e": "Rok dan dress memakai kain."
+      "e": "Fabric is the soft stuff used for dresses and skirts."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan pakaian dengan bahannya!",
+      "t": "Pair the shirt, the key, and the storybook with their source stuff.",
       "pasangan": [
        [
-        "Kaos",
-        "kain"
+        "Shirt",
+        "fabric"
        ],
        [
-        "Kunci",
-        "logam"
+        "Key",
+        "metal"
        ],
        [
-        "Buku",
-        "kertas"
+        "Storybook",
+        "paper"
        ]
       ],
       "urutKanan": [
-       "logam",
-       "kertas",
-       "kain"
+       "metal",
+       "paper",
+       "fabric"
       ],
-      "e": "Kaos kain, kunci logam, buku kertas."
+      "e": "Shirt is fabric, key is metal, and storybook is paper."
      },
      {
       "tipe": "pg",
-      "t": "Gunting yang tajam terbuat dari ....",
+      "t": "Sharp blades are formed from this hard stuff.",
       "p": [
-       "logam",
-       "kayu",
-       "kain"
+       "metal",
+       "wood",
+       "fabric"
       ],
       "j": 0,
-      "e": "Gunting dibuat dari logam yang keras."
+      "e": "Metal forms sharp blades that cut well."
      },
      {
       "tipe": "bs",
-      "t": "Buku dan kalender terbuat dari kertas.",
+      "t": "Books and calendars use paper.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, buku dan kalender memakai kertas."
+      "e": "True. Paper sheets make books and calendars."
      },
      {
       "tipe": "isian",
-      "t": "Menekuk kawat sampai bengkok disebut ....",
+      "t": "Bending a wire is called this.",
       "p": [
        "twist",
        "stretch",
        "bend"
       ],
       "j": 2,
-      "e": "Bend artinya menekuk bahan."
+      "e": "Bend means to curve something into a new shape."
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang tidak menghantarkan panas disebut ....",
+      "t": "This stuff blocks heat instead of carrying it.",
       "p": [
-       "isolator",
-       "konduktor",
-       "transparan"
+       "insulator",
+       "conductor",
+       "transparent"
       ],
       "j": 0,
-      "e": "Isolator tidak menghantarkan panas dengan baik."
+      "e": "An insulator stops heat from moving through."
      },
      {
       "tipe": "cocok",
-      "t": "Tentukan material untuk benda ini!",
+      "t": "Find the stuff for the mirror, the stool, and the drink cup.",
       "pasangan": [
        [
-        "Cermin",
-        "kaca"
+        "Mirror",
+        "glass"
        ],
        [
-        "Kursi",
-        "kayu"
+        "Stool",
+        "wood"
        ],
        [
-        "Gelas",
-        "plastik"
+        "Cup",
+        "plastic"
        ]
       ],
       "urutKanan": [
-       "kayu",
-       "plastik",
-       "kaca"
+       "wood",
+       "plastic",
+       "glass"
       ],
-      "e": "Cermin kaca, kursi kayu, gelas plastik."
+      "e": "Mirror is glass, stool is wood, and cup is plastic."
      },
      {
       "tipe": "bs",
-      "t": "Kain tetap kering saat kena air.",
+      "t": "Cloth stays dry when rain falls on it.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, kain menyerap air lalu basah."
+      "e": "False. Cloth drinks in rain and gets wet."
      },
      {
       "tipe": "pg",
-      "t": "Benda yang bisa diregangkan disebut ....",
+      "t": "Pull a band wider. Name that move.",
       "p": [
        "stretch",
        "compress",
-       "bend"
+       "twist"
       ],
       "j": 0,
-      "e": "Stretch berarti meregangkan bahan."
+      "e": "Stretch means pulling something wider."
      },
      {
       "tipe": "isian",
-      "t": "Sampah kaca bisa diolah jadi kaca baru. Ini disebut ....",
+      "t": "Old glass jars become fresh jars again. Say the word.",
       "p": [
        "recycle",
-       "dibakar",
-       "ditimbun"
+       "bury",
+       "burn"
       ],
       "j": 0,
-      "e": "Recycle mengubah kaca lama jadi kaca baru."
+      "e": "Recycle turns old glass into new glass."
      },
      {
       "tipe": "bs",
-      "t": "Meja kayu bersifat keras.",
+      "t": "A wood desk is hard.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kayu keras dan kuat."
+      "e": "True. Wood is firm and strong for desks."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan benda tulis dengan bahannya!",
+      "t": "Hook the book, the rubber eraser, and the pencil to their stuff.",
       "pasangan": [
        [
-        "Buku",
-        "kertas"
+        "Book",
+        "paper"
        ],
        [
-        "Penghapus",
-        "karet"
+        "Eraser",
+        "rubber"
        ],
        [
-        "Pensil",
-        "kayu"
+        "Pencil",
+        "wood"
        ]
       ],
       "urutKanan": [
-       "karet",
-       "kayu",
-       "kertas"
+       "rubber",
+       "wood",
+       "paper"
       ],
-      "e": "Buku kertas, penghapus karet, pensil kayu."
+      "e": "Book is paper, eraser is rubber, and pencil is wood."
      }
     ]
    },
@@ -15741,203 +15741,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kalender dinding terbuat dari ....",
+      "t": "A wall calendar is printed on this.",
       "p": [
-       "kertas",
-       "plastik",
-       "kaca"
+       "paper",
+       "plastic",
+       "glass"
       ],
       "j": 0,
-      "e": "Kalender dicetak pada kertas."
+      "e": "Paper is what calendars are printed on."
      },
      {
       "tipe": "bs",
-      "t": "Kaca cermin memantulkan bayangan.",
+      "t": "A mirror sends back your picture.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, cermin kaca memantulkan bayangan."
+      "e": "True. Glass mirrors reflect what stands in front."
      },
      {
       "tipe": "pg",
-      "t": "Cincin berlian termasuk bahan ....",
+      "t": "A diamond ring comes from this hard stuff.",
       "p": [
-       "kaca",
-       "kain",
-       "batu"
+       "glass",
+       "fabric",
+       "rock"
       ],
       "j": 2,
-      "e": "Berlian adalah batu permata yang keras."
+      "e": "Rock holds diamonds, which are very hard."
      },
      {
       "tipe": "isian",
-      "t": "Kain yang tidak bisa ditembus air disebut ....",
+      "t": "Rain slides off this cloth. Say the word.",
       "p": [
        "waterproof",
        "absorbent",
        "flexible"
       ],
       "j": 0,
-      "e": "Waterproof artinya tahan air."
+      "e": "Waterproof means water cannot soak through."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan benda dengan material yang pas!",
+      "t": "Join the plank, the drinking glass, and the pot to what forms them.",
       "pasangan": [
        [
-        "Papan",
-        "kayu"
+        "Board",
+        "wood"
        ],
        [
-        "Gelas",
-        "kaca"
+        "Jar",
+        "glass"
        ],
        [
-        "Panci",
-        "logam"
+        "Saucepan",
+        "metal"
        ]
       ],
       "urutKanan": [
-       "logam",
-       "kayu",
-       "kaca"
+       "glass",
+       "metal",
+       "wood"
       ],
-      "e": "Papan kayu, gelas kaca, panci logam."
+      "e": "Board is wood, jar is glass, and saucepan is metal."
      },
      {
       "tipe": "pg",
-      "t": "Papan tulis di kelas terbuat dari ....",
+      "t": "The classroom writing board is made from this.",
       "p": [
-       "kayu",
-       "kertas",
-       "logam"
+       "wood",
+       "paper",
+       "metal"
       ],
       "j": 0,
-      "e": "Papan tulis memakai kayu."
+      "e": "Wood makes the writing board in class."
      },
      {
       "tipe": "bs",
-      "t": "Kayu bisa diolah menjadi kertas dan kardus.",
+      "t": "Wood can be turned into paper and cardboard.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kayu bisa dibuat kertas dan kardus."
+      "e": "True. Factories use wood pulp for paper and cardboard."
      },
      {
       "tipe": "isian",
-      "t": "Sifat karet yang bisa kembali ke bentuk awal disebut ....",
+      "t": "A rubber band snaps back. Name the trait.",
       "p": [
        "rigid",
        "flexible",
        "smooth"
       ],
       "j": 1,
-      "e": "Flexible membuat karet kembali ke bentuk awal."
+      "e": "Flexible stuff goes back to its first shape."
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang bisa diputar disebut ....",
+      "t": "Turn a knob this way. What is that called?",
       "p": [
        "twist",
        "bend",
        "compress"
       ],
       "j": 0,
-      "e": "Twist artinya memutar bahan."
+      "e": "Twist means to turn something around."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan barang dengan bahan utamanya!",
+      "t": "Match the skirt, the calendar, and the chair with their stuff.",
       "pasangan": [
        [
-        "Rok",
-        "kain"
+        "Skirt",
+        "fabric"
        ],
        [
-        "Kalender",
-        "kertas"
+        "Calendar",
+        "paper"
        ],
        [
-        "Kursi",
-        "kayu"
+        "Chair",
+        "wood"
        ]
       ],
       "urutKanan": [
-       "kertas",
-       "kayu",
-       "kain"
+       "paper",
+       "wood",
+       "fabric"
       ],
-      "e": "Rok kain, kalender kertas, kursi kayu."
+      "e": "Skirt is fabric, calendar is paper, and chair is wood."
      },
      {
       "tipe": "bs",
-      "t": "Batu bersifat lunak.",
+      "t": "A stone is soft.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, batu bersifat keras."
+      "e": "False. Stone is firm and does not squash easily."
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang ditekan sampai pipih disebut ....",
+      "t": "Press a sponge flat. Name the move.",
       "p": [
        "compress",
-       "stretch",
-       "twist"
+       "twist",
+       "roll"
       ],
       "j": 0,
-      "e": "Compress berarti menekan bahan."
+      "e": "Compress means pressing something into a small space."
      },
      {
       "tipe": "isian",
-      "t": "Botol plastik dipakai ulang sebagai wadah. Ini disebut ....",
+      "t": "A used bottle becomes a flower holder. Say the act.",
       "p": [
        "reuse",
-       "dibuang",
-       "dikubur"
+       "throw",
+       "hide"
       ],
       "j": 0,
-      "e": "Reuse berarti memakai botol lagi."
+      "e": "Reuse means a bottle gets a second job."
      },
      {
       "tipe": "bs",
-      "t": "Karet berasal dari getah, bukan dari pasir.",
+      "t": "Rubber comes from tree sap, not sand.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, karet berasal dari getah pohon karet."
+      "e": "True. Sap from rubber trees hardens into rubber."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan barang dengan bahan pembuatnya!",
+      "t": "Pair the dress, the window, and the pail with their stuff.",
       "pasangan": [
        [
         "Dress",
-        "kain"
+        "fabric"
        ],
        [
-        "Jendela",
-        "kaca"
+        "Window",
+        "glass"
        ],
        [
-        "Ember",
-        "plastik"
+        "Pail",
+        "plastic"
        ]
       ],
       "urutKanan": [
-       "plastik",
-       "kain",
-       "kaca"
+       "plastic",
+       "fabric",
+       "glass"
       ],
-      "e": "Dress kain, jendela kaca, ember plastik."
+      "e": "Dress is fabric, window is glass, and pail is plastic."
      }
     ]
    }
@@ -15969,17 +15969,17 @@ window.KUIS = [
        "scarf"
       ],
       "j": 0,
-      "e": "Socks dipakai di kaki."
+      "e": "You put on socks on your feet."
      },
      {
       "tipe": "bs",
       "t": "A dress can have stars on it.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, gaun (dress) boleh bermotif bintang (stars)."
+      "e": "Yes, a dress can show stars."
      },
      {
       "tipe": "pg",
@@ -15990,7 +15990,7 @@ window.KUIS = [
        "circles"
       ],
       "j": 0,
-      "e": "Bintang (stars) berbentuk titik kecil."
+      "e": "The little points are stars."
      },
      {
       "tipe": "isian",
@@ -16001,7 +16001,7 @@ window.KUIS = [
        "uniform"
       ],
       "j": 2,
-      "e": "Di sekolah Ana memakai seragam (uniform)."
+      "e": "Ana wears a uniform at school."
      },
      {
       "tipe": "cocok",
@@ -16025,7 +16025,7 @@ window.KUIS = [
        "Socks",
        "Dress"
       ],
-      "e": "Gaun bermotif bintang, syal bunga, kaus kaki kotak."
+      "e": "A dress shows stars, a scarf shows flowers, and socks show squares."
      },
      {
       "tipe": "pg",
@@ -16036,17 +16036,17 @@ window.KUIS = [
        "green"
       ],
       "j": 1,
-      "e": "Selendang Nina berwarna pink."
+      "e": "The color word is pink."
      },
      {
       "tipe": "bs",
       "t": "A scarf is worn on the head.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, scarf dipakai di leher, bukan di kepala."
+      "e": "No, a scarf goes around the neck."
      },
      {
       "tipe": "isian",
@@ -16057,7 +16057,7 @@ window.KUIS = [
        "stars"
       ],
       "j": 0,
-      "e": "Kaus kakinya bermotif kotak (squares)."
+      "e": "The pattern on the socks is squares."
      },
      {
       "tipe": "pg",
@@ -16068,7 +16068,7 @@ window.KUIS = [
        "with circles"
       ],
       "j": 0,
-      "e": "Kalimat lengkap: She is wearing a dress with stars."
+      "e": "She is wearing a dress with stars."
      },
      {
       "tipe": "cocok",
@@ -16092,17 +16092,17 @@ window.KUIS = [
        "Dress",
        "Scarf"
       ],
-      "e": "Ungu untuk gaun, hijau untuk syal, biru untuk kaus kaki."
+      "e": "The dress is purple, the scarf is green, and the socks are blue."
      },
      {
       "tipe": "bs",
       "t": "Socks and t-shirts are clothes.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, socks dan t-shirt termasuk pakaian."
+      "e": "Yes, socks and t-shirts are clothes."
      },
      {
       "tipe": "pg",
@@ -16113,7 +16113,7 @@ window.KUIS = [
        "socks"
       ],
       "j": 0,
-      "e": "Scarf melingkari leher."
+      "e": "A scarf goes around the neck."
      },
      {
       "tipe": "isian",
@@ -16124,17 +16124,17 @@ window.KUIS = [
        "black"
       ],
       "j": 0,
-      "e": "Gaun itu berwarna ungu (purple)."
+      "e": "The dress is purple."
      },
      {
       "tipe": "bs",
       "t": "She is wearing a dress with stars is a good sentence.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kalimat itu memakai pola She is wearing a dress with stars."
+      "e": "Yes, that is a good sentence."
      },
      {
       "tipe": "cocok",
@@ -16158,7 +16158,7 @@ window.KUIS = [
        "Flowers.",
        "She is wearing a dress."
       ],
-      "e": "Pertanyaan pakaian dijawab dengan kalimat wearing, motif dijawab flowers."
+      "e": "We answer clothing questions with wearing and name the scarf pattern as flowers."
      }
     ]
    },
@@ -16175,17 +16175,17 @@ window.KUIS = [
        "uniform"
       ],
       "j": 0,
-      "e": "Kaos (t-shirt) dipakai sehari-hari."
+      "e": "A t-shirt is a light top with short sleeves."
      },
      {
       "tipe": "bs",
       "t": "A t-shirt has sleeves.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kaos (t-shirt) memiliki lengan pendek."
+      "e": "Yes, a t-shirt has short sleeves."
      },
      {
       "tipe": "pg",
@@ -16196,7 +16196,7 @@ window.KUIS = [
        "squares"
       ],
       "j": 0,
-      "e": "Motif bunga disebut flowers."
+      "e": "Repeated blooms are flowers."
      },
      {
       "tipe": "isian",
@@ -16207,7 +16207,7 @@ window.KUIS = [
        "skirt"
       ],
       "j": 1,
-      "e": "Kaus kaki (socks) menutup kaki."
+      "e": "Sam covers his feet with socks."
      },
      {
       "tipe": "cocok",
@@ -16231,7 +16231,7 @@ window.KUIS = [
        "Dress",
        "T-shirt"
       ],
-      "e": "Bunga pada gaun, bintang pada kaos, segitiga pada kaus kaki."
+      "e": "The dress has flowers, the t-shirt has stars, and the socks have triangles."
      },
      {
       "tipe": "pg",
@@ -16242,17 +16242,17 @@ window.KUIS = [
        "blue"
       ],
       "j": 2,
-      "e": "Topi Tom berwarna biru (blue)."
+      "e": "Tom's cap is blue."
      },
      {
       "tipe": "bs",
       "t": "Flowers cannot be a pattern on clothes.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, bunga (flowers) bisa jadi motif pakaian."
+      "e": "No, flowers can be a pattern on clothes."
      },
      {
       "tipe": "isian",
@@ -16263,7 +16263,7 @@ window.KUIS = [
        "flowers"
       ],
       "j": 0,
-      "e": "Motif lingkaran disebut circles."
+      "e": "The round shapes are circles."
      },
      {
       "tipe": "pg",
@@ -16274,7 +16274,7 @@ window.KUIS = [
        "a green scarf"
       ],
       "j": 0,
-      "e": "Jawaban: He is wearing a blue shirt."
+      "e": "He is wearing a blue shirt."
      },
      {
       "tipe": "cocok",
@@ -16298,17 +16298,17 @@ window.KUIS = [
        "Scarf",
        "Dress"
       ],
-      "e": "Merah untuk gaun, kuning untuk kaos, coklat untuk syal."
+      "e": "Red is for the dress, yellow for the t-shirt, and brown for the scarf."
      },
      {
       "tipe": "bs",
       "t": "He is wearing a blue shirt is a correct sentence.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, pola He is wearing a blue shirt tersebut benar."
+      "e": "Yes, that sentence is correct."
      },
      {
       "tipe": "pg",
@@ -16319,7 +16319,7 @@ window.KUIS = [
        "dress"
       ],
       "j": 0,
-      "e": "Seragam sekolah disebut uniform."
+      "e": "Students wear a uniform to school."
      },
      {
       "tipe": "isian",
@@ -16330,17 +16330,17 @@ window.KUIS = [
        "brown"
       ],
       "j": 0,
-      "e": "Selendang itu putih (white), bukan pink."
+      "e": "The scarf is white."
      },
      {
       "tipe": "bs",
       "t": "A uniform is worn at school.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, seragam (uniform) dipakai di sekolah."
+      "e": "Yes, a uniform is worn at school."
      },
      {
       "tipe": "cocok",
@@ -16364,7 +16364,7 @@ window.KUIS = [
        "She is wearing socks.",
        "He is wearing a blue uniform."
       ],
-      "e": "Jawaban memakai pola wearing, sedangkan motif dijawab stars."
+      "e": "Wearing questions get full sentences and the pattern question gets stars."
      }
     ]
    },
@@ -16381,17 +16381,17 @@ window.KUIS = [
        "scarf"
       ],
       "j": 2,
-      "e": "Scarf menutup leher."
+      "e": "You wear a scarf around your neck."
      },
      {
       "tipe": "bs",
       "t": "Circles can be a pattern on socks.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, lingkaran (circles) boleh jadi motif kaus kaki."
+      "e": "Yes, socks can show circles."
      },
      {
       "tipe": "pg",
@@ -16402,7 +16402,7 @@ window.KUIS = [
        "stars"
       ],
       "j": 0,
-      "e": "Motif segitiga disebut triangles."
+      "e": "The word is triangles."
      },
      {
       "tipe": "isian",
@@ -16413,7 +16413,7 @@ window.KUIS = [
        "jacket"
       ],
       "j": 1,
-      "e": "Kaos (t-shirt) adalah pakaian sederhana."
+      "e": "Rani puts on a t-shirt before her jacket."
      },
      {
       "tipe": "cocok",
@@ -16437,7 +16437,7 @@ window.KUIS = [
        "Scarf",
        "Socks"
       ],
-      "e": "Kaus kaki bermotif lingkaran, gaun bunga, syal bintang."
+      "e": "Socks have circles, the dress has flowers, and the scarf has stars."
      },
      {
       "tipe": "pg",
@@ -16448,17 +16448,17 @@ window.KUIS = [
        "purple"
       ],
       "j": 1,
-      "e": "Kaos Mia berwarna jingga (orange)."
+      "e": "The color is orange."
      },
      {
       "tipe": "bs",
       "t": "A dress is worn on the feet.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, dress dipakai di badan, bukan di kaki."
+      "e": "No, a dress is worn on the body."
      },
      {
       "tipe": "isian",
@@ -16469,7 +16469,7 @@ window.KUIS = [
        "squares"
       ],
       "j": 1,
-      "e": "Bentuk lingkaran disebut circles."
+      "e": "A circle shape gives the pattern circles."
      },
      {
       "tipe": "pg",
@@ -16480,7 +16480,7 @@ window.KUIS = [
        "he is wearing a shirt"
       ],
       "j": 0,
-      "e": "Jawaban tepat: She is wearing socks."
+      "e": "She is wearing socks."
      },
      {
       "tipe": "cocok",
@@ -16504,17 +16504,17 @@ window.KUIS = [
        "Socks",
        "Dress"
       ],
-      "e": "Pink pada gaun, orange pada syal, black pada kaus kaki."
+      "e": "Pink is on the dress, orange on the scarf, and black on the socks."
      },
      {
       "tipe": "bs",
       "t": "What is she wearing? asks about clothes.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, pertanyaan itu menanyakan pakaian yang dipakai."
+      "e": "Yes, it asks about clothes."
      },
      {
       "tipe": "pg",
@@ -16525,28 +16525,28 @@ window.KUIS = [
        "uniform"
       ],
       "j": 1,
-      "e": "Socks menutup kaki."
+      "e": "Socks are worn on the legs."
      },
      {
       "tipe": "isian",
-      "t": "An apple is usually red. Fill the color: ....",
+      "t": "The hat is usually red. Fill the color: ....",
       "p": [
        "red",
        "yellow",
        "black"
       ],
       "j": 0,
-      "e": "Apel umumnya berwarna merah (red)."
+      "e": "The hat is red."
      },
      {
       "tipe": "bs",
       "t": "A scarf has squares, so we say a scarf with squares.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, pola a scarf with squares sesuai untuk motif kotak."
+      "e": "Yes, a scarf with squares is correct."
      },
      {
       "tipe": "cocok",
@@ -16570,7 +16570,7 @@ window.KUIS = [
        "Pink.",
        "She is wearing a scarf with flowers."
       ],
-      "e": "Jawaban wearing memakai kalimat, warna dan motif dijawab satu kata."
+      "e": "A wearing question gets a sentence, while color and pattern get short answers."
      }
     ]
    },
@@ -16587,17 +16587,17 @@ window.KUIS = [
        "uniform"
       ],
       "j": 2,
-      "e": "Seragam disebut uniform."
+      "e": "The special clothes are a uniform."
      },
      {
       "tipe": "bs",
       "t": "Squares are a kind of pattern.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kotak (squares) termasuk motif."
+      "e": "Yes, squares are a kind of pattern."
      },
      {
       "tipe": "pg",
@@ -16608,7 +16608,7 @@ window.KUIS = [
        "flowers"
       ],
       "j": 0,
-      "e": "Motif yang terbuat dari lingkaran adalah circles."
+      "e": "The pattern made of circles is circles."
      },
      {
       "tipe": "isian",
@@ -16619,7 +16619,7 @@ window.KUIS = [
        "shirt"
       ],
       "j": 1,
-      "e": "Gaun (dress) dipakai di badan."
+      "e": "She chooses a dress for the school party."
      },
      {
       "tipe": "cocok",
@@ -16643,7 +16643,7 @@ window.KUIS = [
        "T-shirt",
        "Dress"
       ],
-      "e": "Segitiga pada kaos, kotak pada gaun, lingkaran pada syal."
+      "e": "The t-shirt has triangles, the dress has squares, and the scarf shows circles."
      },
      {
       "tipe": "pg",
@@ -16654,17 +16654,17 @@ window.KUIS = [
        "white"
       ],
       "j": 0,
-      "e": "Seragam ini berwarna coklat (brown)."
+      "e": "The uniform is brown."
      },
      {
       "tipe": "bs",
       "t": "A shirt covers the head.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, shirt menutup badan, bukan kepala."
+      "e": "No, a shirt covers the body."
      },
      {
       "tipe": "isian",
@@ -16675,7 +16675,7 @@ window.KUIS = [
        "triangles"
       ],
       "j": 1,
-      "e": "Tiga motif pakaian: triangles, squares, circles."
+      "e": "The three patterns are triangles, squares, and circles."
      },
      {
       "tipe": "pg",
@@ -16686,7 +16686,7 @@ window.KUIS = [
        "with flowers"
       ],
       "j": 0,
-      "e": "Kalimat lengkap: He is wearing a t-shirt with triangles."
+      "e": "He is wearing a t-shirt with triangles."
      },
      {
       "tipe": "cocok",
@@ -16710,17 +16710,17 @@ window.KUIS = [
        "Shirt",
        "Socks"
       ],
-      "e": "Putih untuk kaus kaki, coklat untuk seragam, biru untuk baju."
+      "e": "White goes with socks, brown with the uniform, and blue with the shirt."
      },
      {
       "tipe": "bs",
       "t": "She is wearing socks uses the word wearing.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 0,
-      "e": "Benar, kalimat itu memakai kata wearing."
+      "e": "Yes, the sentence uses wearing."
      },
      {
       "tipe": "pg",
@@ -16731,28 +16731,28 @@ window.KUIS = [
        "t-shirt"
       ],
       "j": 0,
-      "e": "Kaus kaki (socks) dipakai sebelum sepatu."
+      "e": "Ana picks socks before her shoes."
      },
      {
       "tipe": "isian",
-      "t": "The black bag is dark. Write its color: ....",
+      "t": "The black hat is dark. Write its color: ....",
       "p": [
        "green",
        "black",
        "orange"
       ],
       "j": 1,
-      "e": "Tas hitam berwarna hitam (black)."
+      "e": "The hat is black."
      },
      {
       "tipe": "bs",
       "t": "Triangles are not found on clothes.",
       "p": [
-       "Benar",
-       "Salah"
+       "True",
+       "False"
       ],
       "j": 1,
-      "e": "Salah, segitiga (triangles) bisa jadi motif baju."
+      "e": "No, triangles can be found on clothes."
      },
      {
       "tipe": "cocok",
@@ -16776,7 +16776,7 @@ window.KUIS = [
        "Green.",
        "He is wearing a shirt with squares."
       ],
-      "e": "Kalimat wearing menjawab pakaian, motif dan warna dijawab singkat."
+      "e": "Wearing gets a full sentence, and color or pattern gets one word."
      }
     ]
    }
