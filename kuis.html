@@ -254,7 +254,7 @@
 </div>
 
 <!-- Naikkan ?v= setiap data.js berubah supaya browser tidak pakai cache lama. -->
-<script src="data.js?v=20261124b"></script>
+<script src="data.js?v=20261124c"></script>
 <script>
 const $ = id => document.getElementById(id);
 const param = new URLSearchParams(location.search);
@@ -474,11 +474,15 @@ $("btnBagikan").onclick = async ()=>{
 /* ---- kunci jawaban ---- */
 function kunci(){
   $("mSub").textContent = `${K.kategori} · ${K.mapel} · ${K.kelas} · ${K.bab}`;
-  $("mBody").innerHTML = K.versi.map(v=>{
-    const head = K.versi.length > 1 ? `<p style="font-weight:900;margin:14px 0 6px;color:#6d28d9">— ${v.nama} (${v.kode}) —</p>` : "";
-    return head + `<ol>${v.soal.map(s =>
-      `<li>${emo(s.t)}<br><span class="ok">✔ ${teksKunci(s)}</span></li>`).join("")}</ol>`;
-  }).join("");
+  try {
+    $("mBody").innerHTML = K.versi.map(v=>{
+      const head = K.versi.length > 1 ? `<p style="font-weight:900;margin:14px 0 6px;color:#6d28d9">— ${v.nama} (${v.kode}) —</p>` : "";
+      return head + `<ol>${v.soal.map(s =>
+        `<li>${emo(s.t)}<br><span class="ok">✔ ${teksKunci(s)}</span></li>`).join("")}</ol>`;
+    }).join("");
+  } catch(e) {
+    $("mBody").innerHTML = `<li style="color:#b91c1c">Kunci belum dapat dimuat: ${String(e.message)}</li>`;
+  }
   $("modal").style.display = "flex";
   window.scrollTo({top:0,behavior:"smooth"});
 }
