@@ -95,6 +95,13 @@
     border:2.5px solid var(--line);border-radius:11px;background:#fff;cursor:pointer}
   .cocokOpsi button.picked{background:var(--biru);color:#fff;border-color:var(--biru)}
 
+  /* tipe: essay tulis */
+  .essay{background:#f8fafc;border:2.5px solid var(--line);border-radius:14px;padding:14px}
+  .essayLabel{display:block;font-size:.86rem;font-weight:800;margin-bottom:8px;color:var(--ink)}
+  .essay textarea{width:100%;min-height:96px;font:inherit;line-height:1.5;padding:12px;
+    border:2.5px solid var(--line);border-radius:11px;background:#fff;color:var(--ink);resize:vertical}
+  .essay textarea:focus{outline:3px solid var(--biru);outline-offset:2px}
+  .essayHint{font-size:.78rem;color:var(--muted);margin:8px 0 0}
   .catatan{margin-top:12px;background:#fffbeb;border:2.5px solid #fde68a;border-radius:14px;
     padding:11px 14px;font-size:.86rem;font-weight:600;line-height:1.6;text-align:left}
 
@@ -190,6 +197,7 @@
       <span class="pill" id="pillVersi">—</span>
       <span class="pill" id="pillTerjawab">0 / 0 terjawab</span>
       <button class="pill" id="btnKunci2" style="cursor:pointer">🔑 Kunci Jawaban</button>
+      <button class="pill" id="btnCetakEssay" style="cursor:pointer">🖨 Cetak Essay</button>
     </div>
     <div class="dots" id="dots"></div>
 
@@ -246,7 +254,7 @@
 </div>
 
 <!-- Naikkan ?v= setiap data.js berubah supaya browser tidak pakai cache lama. -->
-<script src="data.js?v=20261123b"></script>
+<script src="data.js?v=20261124a"></script>
 <script>
 const $ = id => document.getElementById(id);
 const param = new URLSearchParams(location.search);
@@ -256,7 +264,10 @@ let versiIdx = 0, idx = 0, jawab = [];
 
 /* ---- tipe soal (default "pg" untuk kompatibilitas lama) ---- */
 const TIPE = s => s.tipe || "pg";
-const NAMA_TIPE = { pg:"pilihan ganda", bs:"benar/salah", isian:"isian kata pilihan", cocok:"cocokkan" };
+const NAMA_TIPE = { pg:"pilihan ganda", bs:"benar/salah", isian:"isian kata pilihan", cocok:"cocokkan",
+  essay_pendek:"essay jawab pendek", essay_kalimat:"essay satu kalimat", essay_daftar:"essay daftar tiga butir", essay_cerita:"essay cerita pendek" };
+const ESAI = t => String(t).startsWith("essay_");
+const esc = v => String(v).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 /* gambar pada soal: bungkus emoji jadi lebih besar + dukung field gambar (url) */
 const emo = t => String(t).replace(/(\p{Extended_Pictographic}(?:\uFE0F|\u200D|\p{Extended_Pictographic})*)+/gu,
   m => `<span class="emo">${m}</span>`);
@@ -264,11 +275,20 @@ const adaEmoji = t => /[\p{Extended_Pictographic}]/u.test(String(t));
 function tipesPaket(){
   return [...new Set(K.versi.flatMap(v => v.soal.map(TIPE)))];
 }
-function jawabKosong(s){ return TIPE(s) === "cocok" ? new Array(s.pasangan.length).fill(null) : null; }
+function jawabKosong(s){
+  if(ESAI(TIPE(s))) return "";
+  return TIPE(s) === "cocok" ? new Array(s.pasangan.length).fill(null) : null;
+}
 function terisi(s, jwb){
+  if(ESAI(TIPE(s))) return true;
   return TIPE(s) === "cocok" ? jwb.every(x => x !== null) : jwb !== null;
 }
+function sudahIsi(s, jwb){
+  if(ESAI(TIPE(s))) return typeof jwb === "string" && jwb.trim().length > 0;
+  return terisi(s, jwb);
+}
 function teksKunci(s){
+  if(ESAI(TIPE(s))) return `📝 Contoh: ${emo(s.e)}`;
   if(TIPE(s) === "cocok") return s.pasangan.map(p => `${emo(p[0])} ➡ <b>${emo(p[1])}</b>`).join("<br>");
   return `${String.fromCharCode(65 + s.j)}. ${emo(s.p[s.j])}`;
 }
@@ -292,7 +312,7 @@ function header(){
     ? `${K.versi.length} variasi soal (${K.versi.map(v=>v.kode).join("–")}), tiap variasi ${nSoal} butir`
     : `${nSoal} butir soal`;
   $("sub").textContent = `${K.deskripsi} · ${variasi} dengan ${tp.length} konsep soal ` +
-    `(${tp.map(t=>NAMA_TIPE[t]).join(", ")}) dan nilai otomatis.`;
+    `(${tp.map(t=>NAMA_TIPE[t]).join(", ")}) · pilihan dinilai otomatis, essay dinilai guru.`;
   $("badges").innerHTML = [
     "🏫 " + K.kelas, K.mapel, "📂 " + K.kategori,
     K.jadwal ? "📅 Ujian " + K.jadwal : null,
@@ -323,6 +343,7 @@ function mulai(i){
   const v = K.versi[i];
   jawab = v.soal.map(s => jawabKosong(s));
   $("pillVersi").textContent = (v.nama || "Versi " + v.kode);
+  $("btnCetakEssay").classList.toggle("hidden", !v.soal.some(s => ESAI(TIPE(s))));
   tampilkan("soal");
   renderSoal();
 }
@@ -352,6 +373,15 @@ function renderSoal(){
         renderSoal();
       };
     });
+  } else if(ESAI(t)){
+    const baris = s.baris || 2;
+    const val = typeof jawab[idx] === "string" ? jawab[idx] : "";
+    $("pil").innerHTML = `<div class="essay">
+      <label class="essayLabel" for="jawabEssay">Tulis jawabanmu</label>
+      <textarea id="jawabEssay" rows="${baris}" placeholder="Tulis jawabanmu di sini">${esc(val)}</textarea>
+      <p class="essayHint">${NAMA_TIPE[t]} · ${baris} baris tersedia · dinilai oleh guru</p>
+    </div>`;
+    $("jawabEssay").oninput = e => { jawab[idx] = e.target.value; renderDots(); };
   } else if(t === "bs"){
     $("pil").innerHTML = `<div class="bsPil">` + s.p.map((txt,k)=>`
       <label class="${jawab[idx]===k?"sel":""}"><span class="bsIc">${k===0?"✅":"❌"}</span><span>${emo(txt)}</span></label>`).join("") + `</div>`;
@@ -378,7 +408,7 @@ function renderSoal(){
 function renderDots(){
   const v = K.versi[versiIdx];
   const total = v.soal.length;
-  const terjawab = jawab.filter((jwb,k) => terisi(v.soal[k], jwb)).length;
+  const terjawab = jawab.filter((jwb,k) => sudahIsi(v.soal[k], jwb)).length;
   $("dots").innerHTML = jawab.map((jwb,k)=>{
     let c = "dot";
     if(k === idx) c += " now";
@@ -401,6 +431,30 @@ $("btnKirim").onclick = ()=>{
 $("btnUlang").onclick = ()=> mulai(versiIdx);
 $("btnMenu").onclick = ()=> location.href = "index.html";
 $("btnCetak").onclick = ()=> window.print();
+$("btnCetakEssay").onclick = ()=>{
+  const v = K.versi[versiIdx];
+  const es = v.soal.filter(x => ESAI(TIPE(x)));
+  if(!es.length) return;
+  const w = window.open("", "_blank");
+  const baris = x => Math.max(1, Math.min(4, x.baris || 2));
+  const isi = es.map((x,n) => `<li><b>${n+1}. ${emo(x.t)}</b> (${NAMA_TIPE[TIPE(x)]})
+    ${Array.from({length:baris(x)},()=>'<div class="garis"></div>').join("")}</li>`).join("");
+  const kunci = es.map((x,n) => `<li><b>${n+1}.</b> ${emo(x.e)}</li>`).join("");
+  w.document.write(`<!doctype html><html lang="id"><head><meta charset="utf-8"><title>Essay ${K.judul}</title>
+    <style>body{font-family:"Segoe UI",Arial,sans-serif;color:#111827;margin:0;padding:24px}
+    h1{font-size:20px;margin:0 0 4px}h2{font-size:15px;margin:20px 0 8px}
+    .sub{font-size:12px;color:#4b5565;margin-bottom:16px}
+    ol{padding-left:24px}li{margin-bottom:18px;break-inside:avoid}
+    .garis{height:26px;border-bottom:1px dashed #9ca3af;margin-top:6px}
+    .kunci{font-size:12px;color:#4b5565;border-top:1px solid #d1d5db;padding-top:12px}
+    @media print{body{padding:0}}</style></head><body>
+    <h1>${K.judul}</h1><div class="sub">${K.mapel} · ${v.nama || ("Versi "+v.kode)} · ${K.kelas} · Esai ditulis tangan, dinilai oleh guru</div>
+    <h2>Soal essay</h2><ol>${isi}</ol>
+    <div class="kunci"><h2>Kunci untuk guru</h2><ol>${kunci}</ol></div>
+    </body></html>`);
+  w.document.close();
+  setTimeout(()=>w.print(), 300);
+};
 $("btnBagikan").onclick = async ()=>{
   const v = K.versi[versiIdx];
   const teks =
@@ -438,6 +492,7 @@ function hitung(){
   const v = K.versi[versiIdx];
   let b = 0, s = 0, k = 0;
   v.soal.forEach((so,i)=>{
+    if(ESAI(TIPE(so))) return;
     if(TIPE(so) === "cocok"){
       so.pasangan.forEach((p,r)=>{
         const jwb = jawab[i][r];
@@ -492,6 +547,11 @@ function hitung(){
       }).join("");
       return `<li style="margin-bottom:9px">🔗 <b>Soal ${i+1}.</b> Cocokkan — benar ${benar} dari ${so.pasangan.length}<br>${rows}
         <br><span style="color:#7a7f95;font-size:.86rem">💡 ${so.e || ""}</span></li>`;
+    }
+    if(ESAI(TIPE(so))){
+      const jaw = typeof jawab[i] === "string" ? jawab[i].trim() : "";
+      return `<li style="margin-bottom:9px">📝 <b>Soal ${i+1}.</b> Essay<br>
+        <span class="benar">Contoh jawaban: ${emo(so.e)}</span>${jaw ? `<br><span style="color:#7a7f95;font-size:.86rem">Jawabanmu: ${esc(jaw)}</span>` : ""}</li>`;
     }
     const pilih = jawab[i];
     const tanda = pilih === so.j ? "✅" : "❌";

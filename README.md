@@ -10,14 +10,14 @@
 
 ### Untuk Siswa
 - **Navigasi hierarki**: Kategori (Sumatif 2 / Sumatif Final) → Mata Pelajaran → Kelas, dengan filter & chips.
-- **4 tipe soal** — semuanya tinggal pilih (tanpa mengetik):
+- **8 tipe soal**: 4 tipe pilihan + 4 tipe essay tulis.
   | Tipe | Label | Bentuk |
   |---|---|---|
   | `pg` | Pilihan Ganda | pertanyaan + 3–4 opsi |
   | `bs` | Benar / Salah | 2 opsi |
   | `isian` | Isian Singkat | pilih angka/kata yang tepat dari 3 opsi |
   | `cocok` | Pasangkan | 3 pasang kiri–kanan (urutan jawaban diacak) |
-- **15 soal per versi**, tombol **📤 Kirim Jawaban hanya muncul di soal terakhir (15)** — jawaban tersimpan sambil jalan (navigasi maju/mundur).
+- **30 soal per versi**: 15 pilihan + 15 essay. Pilihan dinilai otomatis, essay ditulis di textarea dan dinilai guru. Tombol **Cetak Essay** menghasilkan lembar cetak dengan ruang tulis dan kunci untuk guru.
 - **Nilai 0–100 + predikat**: 🌟🌟🌟 A (≥90) · 🌟🌟 B (≥75) · 🌟 C (≥60) · ✨ D (<60, belum tuntas).
 - **Kunci Jawaban & Pembahasan** terbuka setelah mengirim — tiap soal ada penjelasan ramah anak berbahasa Indonesia.
 - **📤 Bagikan Hasil** (teks siap salin) dan **🖨 Cetak / PDF** untuk lembar hasil.
@@ -32,7 +32,7 @@
 
 ## 📦 Daftar Paket Soal (Kelas 1 SD)
 
-**10 mata pelajaran × 2 kategori × 4 versi × 15 soal = 1200 soal.**
+**10 mapel × (Sumatif 2: 4×15 + Sumatif Final: 4×30) = 1800 soal.** Sumatif Final menyediakan 120 soal per mapel, 60 pilihan dan 60 essay.
 
 ### Sumatif 2
 
@@ -143,11 +143,17 @@ window.KUIS.push({
   "pasangan": [["An Naas", "manusia"], ["Ummul Kitab", "induk"], ["Makkiyah", "dari Makkah"]],
   "urutKanan": ["induk", "dari Makkah", "manusia"],
   "e": "…" }
+
+// Essay tulis — tanpa p/j; e = jawaban contoh untuk guru
+{ "tipe": "essay_pendek", "t": "Sebutkan arti Al-Falaq!", "e": "Waktu subuh.", "baris": 1 }
+{ "tipe": "essay_kalimat", "t": "Tulis satu kalimat!", "e": "…", "baris": 2 }
+{ "tipe": "essay_daftar", "t": "Sebutkan tiga benda!", "e": "…", "baris": 3 }
+{ "tipe": "essay_cerita", "t": "Tulis cerita singkat!", "e": "…", "baris": 4 }
 ```
 
 ### Aturan wajib (dicegah validator build)
 
-- **POLA 15 soal tetap**: `pg, bs, pg, isian, cocok, pg, bs, isian, pg, cocok, bs, pg, isian, bs, cocok`
+- **POLA 30 soal tetap**: 15 pilihan `pg, bs, pg, isian, cocok, pg, bs, isian, pg, cocok, bs, pg, isian, bs, cocok`, lalu 15 essay `essay_pendek`×4, `essay_kalimat`×4, `essay_daftar`×4, `essay_cerita`×3.
 - Tiap soal punya **label tipe** di UI.
 - `pg`/`isian`: minimal 3 opsi; `bs`: tepat `["Benar","Salah"]`.
 - `cocok`: 3 pasang, jawaban kanan unik; `urutKanan` = permutasi dari kanan `pasangan` dan **tidak sama** dengan urutan baris.
@@ -195,14 +201,14 @@ Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal
 | Hub (pilih paket) | `index.html` — bisa difilter: `?kelas=Kelas 1 SD&mapel=English&kat=Sumatif 2` |
 | Kerjakan kuis | `kuis.html?id=<id-paket>` — lalu pilih versi A/B/C/D |
 
-**Alur siswa:** pilih paket → pilih versi → jawab 15 soal (navigasi bebas) → **Kirim di soal 15** → lihat nilai, predikat, pembahasan → Bagikan / Cetak.
+**Alur siswa:** pilih paket → pilih versi → jawab 30 soal (navigasi bebas) → **Kirim di soal 30** → lihat nilai, predikat, pembahasan → Bagikan / Cetak. Essay bisa diketik dan dicetak lewat tombol Cetak Essay.
 
 ---
 
 ## 📊 Statistik
 
-- **20 paket** → **80 versi** → **1200 soal**
-- **4 tipe soal** tercampur di tiap versi
+- **20 paket** → **80 versi** → **1800 soal**
+- **8 tipe soal** per versi: 4 pilihan + 4 essay tulis
 - Bundle: `data.js` ±360 KB (1 request, tanpa server/API)
 - Stack: HTML + CSS + JS murni → di-serve gratis oleh **GitHub Pages**
 

@@ -34,7 +34,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Bacaan Tahmid dibaca ketika ....","p":["awal kegiatan","selesai kegiatan","saat shalat"],"j":1,"e":"Bacaan Tahmid dibaca ketika selesai kegiatan."},
         {"tipe":"isian","t":"Nabi Muhammad adalah utusan Allah. Kalimat itu berarti syahadat ....","p":["rasul","tauhid","haji"],"j":0,"e":"Kalimat itu adalah syahadat rasul."},
         {"tipe":"bs","t":"Orang yang rajin shalat mendapat pahala dari Allah.","p":["Benar","Salah"],"j":0,"e":"Benar, orang yang rajin shalat mendapat pahala dari Allah."},
-        {"tipe":"cocok","t":"Cocokkan rukun Islam pertama, kedua, dan ketiga dengan namanya!","pasangan":[["Pertama","Syahadat"],["Kedua","Shalat"],["Ketiga","Zakat"]],"urutKanan":["Zakat","Syahadat","Shalat"],"e":"Rukun pertama syahadat, kedua shalat, ketiga zakat."}
+        {"tipe":"cocok","t":"Cocokkan rukun Islam pertama, kedua, dan ketiga dengan namanya!","pasangan":[["Pertama","Syahadat"],["Kedua","Shalat"],["Ketiga","Zakat"]],"urutKanan":["Zakat","Syahadat","Shalat"],"e":"Rukun pertama syahadat, kedua shalat, ketiga zakat."},
+        {"tipe":"essay_pendek","t":"Sebutkan arti nama Al-Quddus!","e":"Al-Quddus artinya Allah Maha Suci.","baris":1},
+        {"tipe":"essay_pendek","t":"Apa bacaan yang dibaca sebelum makan?","e":"Sebelum makan kita membaca Basmalah, yaitu Bismillahirrahmanirrahim.","baris":1},
+        {"tipe":"essay_pendek","t":"Berapa jumlah rukun Islam?","e":"Rukun Islam ada lima perkara.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan satu jenis zakat yang kamu tahu!","e":"Satu jenis zakat adalah zakat fitrah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tuliskan kalimat syahadat tauhid!","e":"Kalimat syahadat tauhid bunyinya asyhadu alla ilaha illallah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelaskan arti syahadat rasul dengan kalimatmu!","e":"Syahadat rasul artinya saya bersaksi bahwa Nabi Muhammad adalah utusan Allah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulis satu kalimat tentang rakaat shalat Subuh!","e":"Shalat Subuh dikerjakan dua rakaat.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa yang kamu ucapkan setelah selesai belajar?","e":"Setelah selesai belajar saya mengucapkan Tahmid, yaitu Alhamdulillahirobbil alamin.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutkan lima rukun Islam!","e":"Lima rukun Islam: syahadat, shalat, zakat, puasa, haji.","baris":4},
+        {"tipe":"essay_daftar","t":"Tuliskan tiga shalat yang rakaatnya empat!","e":"Tiga shalat berakaat empat: Dzuhur, Ashar, Isya.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutkan dua macam zakat!","e":"Dua macam zakat: zakat fitrah dan zakat maal.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutkan nama-nama shalat wajib!","e":"Shalat wajib: Dzuhur, Ashar, Maghrib, Isya, Subuh.","baris":4},
+        {"tipe":"essay_cerita","t":"Ceritakan kegiatan pagimu dengan membaca Basmalah!","e":"Pagi ini saya bangun, lalu membaca Bismillahirrahmanirrahim sebelum sarapan.","baris":4},
+        {"tipe":"essay_cerita","t":"Ceritakan bagaimana kamu menunaikan zakat fitrah!","e":"Ibuku memberi beras, lalu kami menyerahkannya kepada orang yang tidak mampu sebelum shalat Idul Fitri.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulis cerita singkat tentang anak yang rajin shalat!","e":"Rani selalu shalat lima waktu, dan Allah memberinya pahala serta akhlak yang mulia.","baris":4}
       ]
     },
     {
@@ -55,7 +70,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Bentuk zakat fitrah yang biasa diberikan ialah ....","p":["beras","buku","mainan"],"j":0,"e":"Bentuk zakat fitrah yang biasa diberikan ialah beras."},
         {"tipe":"isian","t":"Haji dilaksanakan di kota suci Mekkah dan ....","p":["Jakarta","Bandung","Madinah"],"j":2,"e":"Haji dilaksanakan di kota suci Mekkah dan Madinah."},
         {"tipe":"bs","t":"Shalat menempati rukun Islam yang kedua.","p":["Benar","Salah"],"j":0,"e":"Benar, shalat menempati rukun Islam yang kedua."},
-        {"tipe":"cocok","t":"Tentukan pasangan syahadat tauhid dan syahadat rasul dengan artinya!","pasangan":[["Syahadat tauhid","tiada tuhan selain Allah"],["Syahadat rasul","Nabi Muhammad utusan Allah"],["Basmalah","awal kegiatan"]],"urutKanan":["awal kegiatan","tiada tuhan selain Allah","Nabi Muhammad utusan Allah"],"e":"Syahadat tauhid artinya tiada tuhan selain Allah, syahadat rasul artinya Nabi Muhammad utusan Allah, Basmalah dibaca di awal kegiatan."}
+        {"tipe":"cocok","t":"Tentukan pasangan syahadat tauhid dan syahadat rasul dengan artinya!","pasangan":[["Syahadat tauhid","tiada tuhan selain Allah"],["Syahadat rasul","Nabi Muhammad utusan Allah"],["Basmalah","awal kegiatan"]],"urutKanan":["awal kegiatan","tiada tuhan selain Allah","Nabi Muhammad utusan Allah"],"e":"Syahadat tauhid artinya tiada tuhan selain Allah, syahadat rasul artinya Nabi Muhammad utusan Allah, Basmalah dibaca di awal kegiatan."},
+        {"tipe":"essay_pendek","t":"Apa arti Asmaul Husna?","e":"Asmaul Husna artinya nama-nama Allah yang baik.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan bacaan pembuka kegiatan!","e":"Bacaan pembuka kegiatan ialah Basmalah.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan dua kota suci untuk haji!","e":"Dua kota suci untuk haji ialah Mekkah dan Madinah.","baris":1},
+        {"tipe":"essay_pendek","t":"Berapa rakaat shalat Maghrib?","e":"Shalat Maghrib terdiri atas tiga rakaat.","baris":1},
+        {"tipe":"essay_kalimat","t":"Tuliskan kalimat Tahmid dengan benar!","e":"Bacaan Tahmid ialah Alhamdulillahirobbil alamin.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelaskan mengapa Allah disebut Al-Quddus!","e":"Allah disebut Al-Quddus karena Allah Maha Suci.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulis kalimat tentang balasan orang yang rajin shalat!","e":"Allah memberi pahala kepada orang yang rajin mengerjakan shalat.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa yang dilakukan siswa sebelum memulai pelajaran?","e":"Siswa membaca Basmalah sebelum memulai pelajaran.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutkan bacaan-bacaan yang kamu ketahui!","e":"Bacaan yang saya tahu: Basmalah, Tahmid, syahadat tauhid, syahadat rasul.","baris":3},
+        {"tipe":"essay_daftar","t":"Tuliskan dua macam syahadat!","e":"Dua macam syahadat: syahadat tauhid dan syahadat rasul.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga hal yang dijaga dalam akhlak!","e":"Tiga hal yang dijaga: badan, lisan, hati.","baris":3},
+        {"tipe":"essay_daftar","t":"Tulis lima macam shalat wajib menurut urutannya!","e":"Shalat wajib: Subuh, Dzuhur, Ashar, Maghrib, Isya.","baris":4},
+        {"tipe":"essay_cerita","t":"Ceritakan hari pertamamu belajar syahadat!","e":"Hari itu saya belajar syahadat tauhid, lalu saya hafal asyhadu alla ilaha illallah.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulis cerita tentang anak yang membantu orang miskin!","e":"Aku memberi beras kepada fakir, dan ibuku memujiku karena aku menunaikan zakat.","baris":4},
+        {"tipe":"essay_cerita","t":"Ceritakan bagaimana kamu mengakhiri kegiatan!","e":"Usai belajar saya membaca Alhamdulillahirobbil alamin sebagai Tahmid.","baris":4}
       ]
     },
     {
@@ -76,7 +106,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Orang miskin yang berhak menerima zakat disebut ....","p":["fakir","kaya","pedagang"],"j":0,"e":"Orang miskin yang berhak menerima zakat disebut fakir."},
         {"tipe":"isian","t":"Rukun Islam nomor lima ialah ....","p":["puasa","umroh","haji"],"j":2,"e":"Rukun Islam nomor lima ialah haji."},
         {"tipe":"bs","t":"Shalat dilakukan hanya kepada Allah.","p":["Benar","Salah"],"j":0,"e":"Benar, shalat dilakukan hanya kepada Allah."},
-        {"tipe":"cocok","t":"Cocokkan menjaga badan, menjaga lisan, dan menjaga hati dengan caranya!","pasangan":[["Menjaga badan","mandi"],["Menjaga lisan","berkata jujur"],["Menjaga hati","tidak dengki"]],"urutKanan":["tidak dengki","mandi","berkata jujur"],"e":"Menjaga badan dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki."}
+        {"tipe":"cocok","t":"Cocokkan menjaga badan, menjaga lisan, dan menjaga hati dengan caranya!","pasangan":[["Menjaga badan","mandi"],["Menjaga lisan","berkata jujur"],["Menjaga hati","tidak dengki"]],"urutKanan":["tidak dengki","mandi","berkata jujur"],"e":"Menjaga badan dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki."},
+        {"tipe":"essay_pendek","t":"Apa nama baik Allah yang artinya Maha Suci?","e":"Nama baik Allah yang artinya Maha Suci ialah Al-Quddus.","baris":1},
+        {"tipe":"essay_pendek","t":"Kapan Basmalah dibaca?","e":"Basmalah dibaca di awal kegiatan.","baris":1},
+        {"tipe":"essay_pendek","t":"Berapa lama puasa Ramadhan dijalani?","e":"Puasa Ramadhan dijalani selama satu bulan.","baris":1},
+        {"tipe":"essay_pendek","t":"Ke mana orang berhaji pergi?","e":"Orang berhaji pergi ke Mekkah dan Madinah.","baris":1},
+        {"tipe":"essay_kalimat","t":"Tuliskan bunyi syahadat rasul!","e":"Bunyi syahadat rasul ialah wa asyhadu anna muhammadar rasulullah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelaskan arti syahadat tauhid!","e":"Syahadat tauhid artinya saya bersaksi bahwa tiada tuhan selain Allah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulis kalimat yang menjelaskan shalat!","e":"Shalat ialah ibadah kepada Allah yang diawali takbiratul ihram dan diakhiri salam.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa balasan bagi orang yang menunaikan shalat?","e":"Balasannya ialah pahala atau kebaikan dari Allah.","baris":2},
+        {"tipe":"essay_daftar","t":"Tuliskan urutan empat rukun Islam pertama!","e":"Empat rukun pertama: syahadat, shalat, zakat, puasa.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga shalat yang dikerjakan siang hingga senja!","e":"Shalat siang sampai senja: Dzuhur, Ashar, Maghrib.","baris":3},
+        {"tipe":"essay_daftar","t":"Tuliskan dua macam zakat beserta gunanya!","e":"Zakat fitrah untuk orang miskin, zakat maal dari harta yang berlebih.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga cara menjaga akhlak!","e":"Badan dijaga dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki.","baris":3},
+        {"tipe":"essay_cerita","t":"Ceritakan bagaimana Felix bersyahadat!","e":"Felix mengucapkan asyhadu alla ilaha illallah dan wa asyhadu anna muhammadar rasulullah.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulis kisah singkat tentang berbuka puasa!","e":"Saat berbuka, aku membaca Basmalah lalu makan, dan setelahnya aku mengucapkan Tahmid.","baris":4},
+        {"tipe":"essay_cerita","t":"Ceritakan pengalamanmu memberi zakat!","e":"Aku menyerahkan beras zakat fitrah sebelum shalat Idul Fitri kepada tetangga yang membutuhkan.","baris":4}
       ]
     },
     {
@@ -97,7 +142,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Bunyi salam penutup shalat ialah ....","p":["Assalamualaikum warahmatullahi wabarakatuh","Alhamdulillahirobbil alamin","Bismillahirrahmanirrahim"],"j":0,"e":"Bunyi salam penutup shalat ialah Assalamualaikum warahmatullahi wabarakatuh."},
         {"tipe":"isian","t":"Bunyi syahadat rasul diakhiri dengan kata ....","p":["rasulullah","illallah","alamin"],"j":0,"e":"Bunyi syahadat rasul diakhiri dengan kata rasulullah."},
         {"tipe":"bs","t":"Lima perkara membentuk rukun Islam.","p":["Benar","Salah"],"j":0,"e":"Benar, rukun Islam berjumlah lima perkara."},
-        {"tipe":"cocok","t":"Cocokkan Al-Quddus, Basmalah, dan Tahmid dengan maknanya!","pasangan":[["Al-Quddus","Allah Maha Suci"],["Basmalah","dibaca di awal"],["Tahmid","dibaca di akhir"]],"urutKanan":["dibaca di akhir","Allah Maha Suci","dibaca di awal"],"e":"Al-Quddus artinya Allah Maha Suci, Basmalah dibaca di awal, Tahmid dibaca di akhir."}
+        {"tipe":"cocok","t":"Cocokkan Al-Quddus, Basmalah, dan Tahmid dengan maknanya!","pasangan":[["Al-Quddus","Allah Maha Suci"],["Basmalah","dibaca di awal"],["Tahmid","dibaca di akhir"]],"urutKanan":["dibaca di akhir","Allah Maha Suci","dibaca di awal"],"e":"Al-Quddus artinya Allah Maha Suci, Basmalah dibaca di awal, Tahmid dibaca di akhir."},
+        {"tipe":"essay_pendek","t":"Sebutkan pengertian Asmaul Husna!","e":"Asmaul Husna ialah nama-nama Allah yang baik.","baris":1},
+        {"tipe":"essay_pendek","t":"Apa makna nama Al-Quddus?","e":"Makna Al-Quddus ialah Allah Maha Suci.","baris":1},
+        {"tipe":"essay_pendek","t":"Berapa jumlah seluruh asmaul husna?","e":"Jumlah seluruh asmaul husna ialah sembilan puluh sembilan.","baris":1},
+        {"tipe":"essay_pendek","t":"Apakah Tahmid dibaca di akhir kegiatan?","e":"Ya, Tahmid dibaca setelah selesai kegiatan.","baris":1},
+        {"tipe":"essay_kalimat","t":"Tulis bunyi syahadat tauhid!","e":"Bunyi syahadat tauhid ialah asyhadu alla ilaha illallah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa yang kamu ucapkan untuk membenarkan kerasulan Nabi Muhammad? Tulis kalimatnya!","e":"Saya bersaksi bahwa Nabi Muhammad adalah utusan Allah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulis kalimat tentang kewajiban shalat!","e":"Shalat wajib dikerjakan oleh setiap umat Islam.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa yang kamu ucapkan setelah makan?","e":"Setelah makan saya mengucapkan Alhamdulillahirobbil alamin.","baris":2},
+        {"tipe":"essay_daftar","t":"Tuliskan kelima rukun Islam!","e":"Kelima rukun Islam ialah syahadat, shalat, zakat, puasa, haji.","baris":4},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga shalat berakaat empat!","e":"Shalat berakaat empat ialah Dzuhur, Ashar, dan Isya.","baris":3},
+        {"tipe":"essay_daftar","t":"Jelaskan dua jenis zakat!","e":"Dua jenis zakat ialah zakat fitrah dan zakat maal.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga bacaan dalam ibadah!","e":"Tiga bacaan itu: Basmalah, Tahmid, syahadat tauhid.","baris":3},
+        {"tipe":"essay_cerita","t":"Ceritakan bagaimana kamu belajar Al-Quddus!","e":"Guruku menjelaskan Al-Quddus, lalu aku mengulang bahwa Allah Maha Suci.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulis cerita tentang anak yang menunaikan zakat!","e":"Dengan senang hati aku menyerahkan zakat fitrah kepada fakir sebelum shalat Idul Fitri.","baris":4},
+        {"tipe":"essay_cerita","t":"Ceritakan bagaimana orang berhaji!","e":"Ayah berangkat ke Mekkah dan Madinah untuk menunaikan haji.","baris":4}
       ]
     }
   ]

@@ -53,7 +53,10 @@ const validasi = KUIS.map(({ file, paket: k }) => {
   (k.versi || []).forEach(v => (v.soal || []).forEach((s, i) => {
     total++;
     const t = s.tipe || "pg";
-    if (t === "cocok") {
+    const essay = ["essay_pendek","essay_kalimat","essay_daftar","essay_cerita"].includes(t);
+    if (essay) {
+      if (!s.t) buruk.push(`${v.kode}#${i + 1}: soal essay tanpa teks`);
+    } else if (t === "cocok") {
       if (!Array.isArray(s.pasangan) || s.pasangan.length < 2) buruk.push(`${v.kode}#${i + 1}: pasangan cocok < 2`);
       else if (s.pasangan.some(p => !Array.isArray(p) || p.length !== 2 || !p[0] || !p[1]))
         buruk.push(`${v.kode}#${i + 1}: format pasangan salah (harus [kiri, kanan])`);

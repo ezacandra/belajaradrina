@@ -34,7 +34,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Penjaga gawang dalam sepak bola disebut ....","p":["wasit","pelatih","kiper"],"j":2,"e":"Penjaga gawang dalam sepak bola disebut kiper."},
         {"tipe":"isian","t":"Tujuan utama bermain sepak bola adalah memasukkan bola ke ....","p":["tangan wasit","saku baju","gawang lawan"],"j":2,"e":"Tujuan utama bermain sepak bola adalah memasukkan bola ke gawang lawan."},
         {"tipe":"bs","t":"Menggiring bola dalam sepak bola dilakukan dengan kaki.","p":["Benar","Salah"],"j":0,"e":"Benar, menggiring bola dalam sepak bola dilakukan dengan kaki."},
-        {"tipe":"cocok","t":"Pasangkan cabang olahraga dengan alat yang dipakai!","pasangan":[["Sepak bola","gawang"],["Bola basket","ring"],["Bulu tangkis","net"]],"urutKanan":["ring","net","gawang"],"e":"Sepak bola memakai gawang, bola basket memakai ring, bulu tangkis memakai net."}
+        {"tipe":"cocok","t":"Pasangkan cabang olahraga dengan alat yang dipakai!","pasangan":[["Sepak bola","gawang"],["Bola basket","ring"],["Bulu tangkis","net"]],"urutKanan":["ring","net","gawang"],"e":"Sepak bola memakai gawang, bola basket memakai ring, bulu tangkis memakai net."},
+         {"tipe":"essay_pendek","t":"Apa yang dimaksud bola yang tidak bisa digenggam satu tangan?","e":"Itu disebut bola besar, misalnya bola basket dan bola voli.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan satu contoh bola kecil yang dipakai dalam permainan kasti!","e":"Bola kasti memakai bola tenis yang muat digenggam satu tangan.","baris":1},
+         {"tipe":"essay_pendek","t":"Bagaimana arah lemparan bola mendatar?","e":"Lemparan mendatar arahnya sejajar dengan dada.","baris":1},
+         {"tipe":"essay_pendek","t":"Alat apa yang dipakai untuk memukul bola dalam kasti?","e":"Pemukul bola kasti disebut tongkat pemukul.","baris":1},
+         {"tipe":"essay_kalimat","t":"Jelaskan dengan satu kalimat mengapa kita perlu pemanasan sebelum latihan bola!","e":"Pemanasan membuat otot tubuh siap bergerak sebelum latihan bola dimulai.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tulis satu kalimat yang menjelaskan cara menangkap bola melambung!","e":"Saat menangkap bola melambung, mata harus menatap arah datangnya bola.","baris":2},
+         {"tipe":"essay_kalimat","t":"Rangkai kalimat singkat tentang kegunaan tongkat pemukul dalam kasti!","e":"Tongkat pemukul dipakai untuk memukul bola tenis dalam permainan kasti.","baris":2},
+         {"tipe":"essay_kalimat","t":"Buatlah satu kalimat tentang manfaat pendinginan setelah olahraga!","e":"Pendinginan setelah olahraga menenangkan tubuh dan memperlambat napas.","baris":2},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga contoh bola besar yang biasa dipakai berolahraga!","e":"Bola basket, bola voli, dan bola sepak termasuk contoh bola besar.","baris":3},
+         {"tipe":"essay_daftar","t":"Tuliskan empat teknik melempar dan menangkap bola yang dipelajari!","e":"Empat tekniknya adalah mendatar, ke bawah, melambung, dan menggelinding.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan alat-alat yang diperlukan untuk bermain kasti!","e":"Alat kasti adalah bola tenis dan tongkat pemukul.","baris":3},
+         {"tipe":"essay_daftar","t":"Daftarkan tiga contoh bola kecil selain bola tenis!","e":"Bola pingpong, satel kock, dan bola kasti adalah contoh bola kecil.","baris":3},
+         {"tipe":"essay_cerita","t":"Ceritalah pengalaman Andi yang berlatih menendang bola ke dinding!","e":"Andi menendang bola ke dinding lalu menghentikan bola yang memantul kembali.","baris":4},
+         {"tipe":"essay_cerita","t":"Tulis cerita singkat tentang dua teman yang bekerja sama bermain bola!","e":"Dua teman saling melempar dan menangkap bola sambil tertawa gembira.","baris":4},
+         {"tipe":"essay_cerita","t":"Buatlah cerita pendek tentang bermain bola di lapangan yang aman!","e":"Anak-anak bermain bola di lapangan lapang sehingga tidak menabrak benda.","baris":4}
       ]
     },
     {
@@ -55,7 +70,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Bulu tangkis memakai alat pemukul berupa ....","p":["tongkat kasti","raket","bet pingpong"],"j":1,"e":"Bulu tangkis memakai alat pemukul berupa raket."},
         {"tipe":"isian","t":"Gerak mengiring bola dalam sepak bola memakai ....","p":["siku","dada","kaki"],"j":2,"e":"Gerak mengiring bola dalam sepak bola memakai kaki."},
         {"tipe":"bs","t":"Lemparan bola ke bawah arahnya dekat lantai.","p":["Benar","Salah"],"j":0,"e":"Benar, lemparan bola ke bawah arahnya dekat lantai."},
-        {"tipe":"cocok","t":"Pasangkan teknik menangkap dengan arah datang bola!","pasangan":[["Menangkap bola melambung","mata menatap bola"],["Menangkap bola mendatar","sejajar dada"],["Menangkap bola menggelinding","dekat lantai"]],"urutKanan":["dekat lantai","mata menatap bola","sejajar dada"],"e":"Menangkap bola melambung dengan mata menatap bola, menangkap bola mendatar sejajar dada, menangkap bola menggelinding dekat lantai."}
+        {"tipe":"cocok","t":"Pasangkan teknik menangkap dengan arah datang bola!","pasangan":[["Menangkap bola melambung","mata menatap bola"],["Menangkap bola mendatar","sejajar dada"],["Menangkap bola menggelinding","dekat lantai"]],"urutKanan":["dekat lantai","mata menatap bola","sejajar dada"],"e":"Menangkap bola melambung dengan mata menatap bola, menangkap bola mendatar sejajar dada, menangkap bola menggelinding dekat lantai."},
+         {"tipe":"essay_pendek","t":"Seperti apa ciri-ciri bola kecil?","e":"Bola kecil berukuran sedang sehingga bisa digenggam satu tangan.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan satu olahraga yang memakai bola besar!","e":"Sepak bola memakai bola besar yang tidak muat digenggam satu tangan.","baris":1},
+         {"tipe":"essay_pendek","t":"Ke mana arah bola saat kita melakukan lemparan menggelinding?","e":"Bola menggelinding menyusur lantai dengan arah dekat permukaan lantai.","baris":1},
+         {"tipe":"essay_pendek","t":"Nama pemukul apa yang dipakai pemain kasti?","e":"Pemain kasti memakai tongkat pemukul untuk memukul bola.","baris":1},
+         {"tipe":"essay_kalimat","t":"Jelaskan satu kalimat sebab kita perlu melakukan pendinginan usai latihan!","e":"Pendinginan usai latihan membuat denyut jantung kembali tenang.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tuliskan kalimat yang menerangkan arah pandangan mata waktu menangkap bola!","e":"Mata hendaknya mengikuti arah datang bola agar tangkapan tidak meleset.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tulis kalimat singkat yang membedakan pemanasan dan pendinginan!","e":"Pemanasan dilakukan sebelum olahraga, pendinginan dilakukan sesudahnya.","baris":2},
+         {"tipe":"essay_kalimat","t":"Susun satu kalimat tentang cara menghentikan bola dengan telapak kaki!","e":"Telapak kaki dipakai untuk menghentikan bola yang datang ke arah kita.","baris":2},
+         {"tipe":"essay_daftar","t":"Tuliskan tiga contoh bola kecil yang sering dipakai di sekolah!","e":"Bola kasti, bola tenis, dan bola pingpong sering dipakai di sekolah.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan empat macam lemparan bola beserta arah gerakannya!","e":"Empat macam lemparan: mendatar, ke bawah, melambung, dan menggelinding.","baris":3},
+         {"tipe":"essay_daftar","t":"Daftarlah peralatan yang dibutuhkan saat bermain bola kasti!","e":"Peralatan kasti meliputi bola tenis dan tongkat pemukul.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga macam bola besar yang biasa dipakai dalam latihan!","e":"Bola basket, bola voli, dan bola sepak biasa dipakai dalam latihan.","baris":3},
+         {"tipe":"essay_cerita","t":"Tulis kisah singkat tentang anak yang berlatih menendang memakai dinding!","e":"Setiap sore anak itu menendang bola ke dinding dan menangkap pantulannya.","baris":4},
+         {"tipe":"essay_cerita","t":"Ceritakan kejadian ketika dua sahabat saling melempar bola dengan riang!","e":"Kedua sahabat itu bergantian melempar bola sambil tertawa riang.","baris":4},
+         {"tipe":"essay_cerita","t":"Buat cerita pendek yang mengajarkan bermain bola tanpa mendorong teman!","e":"Mereka bermain bola dengan tertib dan tidak mendorong teman yang berdiri.","baris":4}
       ]
     },
     {
@@ -76,7 +106,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Dalam bulu tangkis, bola kecil dipukul memakai alat bernama ....","p":["bet","raket","pemukul kasti"],"j":1,"e":"Dalam bulu tangkis, bola kecil dipukul memakai alat bernama raket."},
         {"tipe":"isian","t":"Bagian kaki untuk menghentikan bola yang datang dari samping adalah ....","p":["samping kaki","telapak kaki","punggung kaki"],"j":0,"e":"Bagian kaki untuk menghentikan bola yang datang dari samping adalah samping kaki."},
         {"tipe":"bs","t":"Mencetak gol berarti memasukkan bola ke gawang lawan.","p":["Benar","Salah"],"j":0,"e":"Benar, mencetak gol berarti memasukkan bola ke gawang lawan."},
-        {"tipe":"cocok","t":"Pasangkan peralatan dengan cabang olahraganya!","pasangan":[["Raket","bulu tangkis"],["Tongkat pemukul","kasti"],["Gawang","sepak bola"]],"urutKanan":["kasti","sepak bola","bulu tangkis"],"e":"Raket dipakai bulu tangkis, tongkat pemukul dipakai kasti, gawang dipakai sepak bola."}
+        {"tipe":"cocok","t":"Pasangkan peralatan dengan cabang olahraganya!","pasangan":[["Raket","bulu tangkis"],["Tongkat pemukul","kasti"],["Gawang","sepak bola"]],"urutKanan":["kasti","sepak bola","bulu tangkis"],"e":"Raket dipakai bulu tangkis, tongkat pemukul dipakai kasti, gawang dipakai sepak bola."},
+         {"tipe":"essay_pendek","t":"Apakah bola sepak termasuk bola besar? Jawab singkat!","e":"Ya, bola sepak termasuk bola besar karena ukurannya besar.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan bola kecil yang dipakai untuk permainan tenis meja!","e":"Tenis meja memakai bola pingpong yang termasuk bola kecil.","baris":1},
+         {"tipe":"essay_pendek","t":"Bagaimana gerakan tangan saat melempar bola melambung?","e":"Tangan diayunkan dari atas ke depan sehingga bola melambung ke udara.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan alat utama yang dipakai pemain bulu tangkis!","e":"Pemain bulu tangkis memakai raket untuk memukul kok.","baris":1},
+         {"tipe":"essay_kalimat","t":"Jelaskan dalam satu kalimat cara berlatih menendang ke dinding!","e":"Kita berlatih menendang bola ke dinding lalu menghentikan bola yang memantul.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tuliskan kalimat yang menjelaskan akibat memejamkan mata saat menangkap!","e":"Mata yang terpejam membuat bola sulit ditangkap dengan benar.","baris":2},
+         {"tipe":"essay_kalimat","t":"Buatlah kalimat yang membandingkan lemparan mendatar dan melambung!","e":"Lemparan mendatar sejajar dada, sedangkan lemparan melambung melalui udara.","baris":2},
+         {"tipe":"essay_kalimat","t":"Susun kalimat tentang manfaat kerja sama saat bermain bola bersama teman!","e":"Kerja sama membuat permainan bola lebih menyenangkan dan tertib.","baris":2},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga contoh bola berukuran besar!","e":"Bola basket, bola voli, dan bola sepak dipakai dalam permainan bola besar.","baris":3},
+         {"tipe":"essay_daftar","t":"Tuliskan empat cara menangkap bola sesuai arah datangnya!","e":"Empat cara menangkap: mendatar, ke bawah, melambung, dan menggelinding.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan dua alat yang dipakai dalam permainan kasti!","e":"Alat kasti itu bola tenis dan tongkat pemukul.","baris":3},
+         {"tipe":"essay_daftar","t":"Daftarkan tiga olahraga yang memakai bola kecil!","e":"Kasti, tenis meja, dan bulu tangkis memakai bola kecil.","baris":3},
+         {"tipe":"essay_cerita","t":"Ceritalah kisah Budi yang berlatih menghentikan bola yang memantul!","e":"Budi menghentikan bola yang memantul dari dinding dengan telapak kaki.","baris":4},
+         {"tipe":"essay_cerita","t":"Tulis cerita singkat tentang anak yang saling mengoper bola dengan rapi!","e":"Anak-anak saling mengoper bola dengan rapi sambil berteriak senang.","baris":4},
+         {"tipe":"essay_cerita","t":"Buatlah cerita tentang bermain bola di halaman yang tidak berbahaya!","e":"Mereka bermain di halaman yang lapang dan jauh dari jalan raya.","baris":4}
       ]
     },
     {
@@ -97,7 +142,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Bekerja sama dengan teman saat bermain bola termasuk sikap ....","p":["negatif","moril","positif"],"j":2,"e":"Bekerja sama dengan teman saat bermain bola termasuk sikap positif."},
         {"tipe":"isian","t":"Memejamkan mata ketika bola datang termasuk kesalahan saat ....","p":["menangkap","menendang","menggiring"],"j":0,"e":"Memejamkan mata ketika bola datang termasuk kesalahan saat menangkap."},
         {"tipe":"bs","t":"Pemanasan dan pendinginan sama saja gunanya.","p":["Benar","Salah"],"j":1,"e":"Salah, pemanasan dilakukan sebelum olahraga, sedangkan pendinginan setelah olahraga."},
-        {"tipe":"cocok","t":"Tentukan pasangan cabang olahraga dan bola yang cocok!","pasangan":[["Sepak bola","bola besar"],["Tenis meja","bola pingpong"],["Kasti","bola tenis"]],"urutKanan":["bola pingpong","bola tenis","bola besar"],"e":"Sepak bola memakai bola besar, tenis meja memakai bola pingpong, kasti memakai bola tenis."}
+        {"tipe":"cocok","t":"Tentukan pasangan cabang olahraga dan bola yang cocok!","pasangan":[["Sepak bola","bola besar"],["Tenis meja","bola pingpong"],["Kasti","bola tenis"]],"urutKanan":["bola pingpong","bola tenis","bola besar"],"e":"Sepak bola memakai bola besar, tenis meja memakai bola pingpong, kasti memakai bola tenis."},
+         {"tipe":"essay_pendek","t":"Apakah bola basket bisa digenggam satu tangan? Jawab singkat!","e":"Tidak, bola basket termasuk bola besar yang tidak muat digenggam.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan satu kegunaan tongkat pemukul dalam kasti!","e":"Tongkat pemukul dipakai untuk memukul bola tenis dalam kasti.","baris":1},
+         {"tipe":"essay_pendek","t":"Ke arah mana bola pergi jika kita melempar ke bawah?","e":"Bola bergerak dekat lantai karena tangan diayunkan dari bawah.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan bola yang dipukul dengan raket dalam bulu tangkis!","e":"Bulu tangkis memakai kok atau satel kock yang dipukul dengan raket.","baris":1},
+         {"tipe":"essay_kalimat","t":"Jelaskan satu kalimat mengapa kita dilarang bermain bola di jalan raya!","e":"Jalan raya berbahaya karena ada kendaraan yang lewat cepat.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tulis kalimat yang menerangkan cara menyundul bola dalam sepak bola!","e":"Kepala atau dahi dipakai untuk menyundul bola saat bermain sepak bola.","baris":2},
+         {"tipe":"essay_kalimat","t":"Susun satu kalimat yang menjelaskan tujuan bermain sepak bola!","e":"Tujuan sepak bola adalah memasukkan bola ke gawang lawan.","baris":2},
+         {"tipe":"essay_kalimat","t":"Buatlah kalimat tentang cara menggiring bola dengan kaki!","e":"Kaki digunakan untuk menggiring bola dengan pelan dan terkendali.","baris":2},
+         {"tipe":"essay_daftar","t":"Tuliskan tiga contoh bola yang bisa digenggam satu tangan!","e":"Bola kasti, bola tenis, dan bola pingpong bisa digenggam satu tangan.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan empat teknik lempar bola yang sudah dipelajari di kelas!","e":"Empat teknik lempar itu mendatar, ke bawah, melambung, dan menggelinding.","baris":3},
+         {"tipe":"essay_daftar","t":"Daftarlah dua benda yang dipakai saat bermain kasti!","e":"Benda yang dipakai adalah bola tenis dan tongkat pemukul.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga teknik menendang dan menghentikan bola dalam sepak bola!","e":"Tekniknya menendang ujung kaki, telapak kaki, dan samping kaki.","baris":3},
+         {"tipe":"essay_cerita","t":"Ceritalah pengalaman Siti yang berlatih menangkap bola melambung!","e":"Siti mematahkan pandangan ke arah bola sampai tangannya berhasil menangkap.","baris":4},
+         {"tipe":"essay_cerita","t":"Tulis cerita pendek tentang anak yang bekerja sama menjaga gawang!","e":"Satu anak menjadi kiper dan temannya menendang bola ke gawang.","baris":4},
+         {"tipe":"essay_cerita","t":"Buatlah kisah singkat tentang bermain bola dengan tertib di lapangan!","e":"Anak-anak bermain bola dengan tertib di lapangan yang luas dan aman.","baris":4}
       ]
     }
   ]

@@ -34,7 +34,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Tembung tulung digunakake nalika ....","p":["nyuwun pitulungan","ngongkon turu","takon jeneng"],"j":0,"e":"Tembung tulung digunakake nalika nyuwun pitulungan."},
         {"tipe":"isian","t":"Ukara Roni, aku njaluk permene! kalebu panyuwun ....","p":["tulung","barang","pamit"],"j":1,"e":"Ukara Roni aku njaluk permene kalebu panyuwun barang."},
         {"tipe":"bs","t":"Mbakyu iku sedulur wadon sing luwih enom.","p":["Benar","Salah"],"j":1,"e":"Salah, mbakyu iku sedulur wadon sing luwih tuwa."},
-        {"tipe":"cocok","t":"Gandhengna tembung Jawa karo artine!","pasangan":[["rama","bapak"],["kangmas","kakak lanang"],["adhik","adik"]],"urutKanan":["adik","bapak","kakak lanang"],"e":"Rama bapak, kangmas kakak lanang, adhik adik."}
+        {"tipe":"cocok","t":"Gandhengna tembung Jawa karo artine!","pasangan":[["rama","bapak"],["kangmas","kakak lanang"],["adhik","adik"]],"urutKanan":["adik","bapak","kakak lanang"],"e":"Rama bapak, kangmas kakak lanang, adhik adik."},
+        {"tipe":"essay_pendek","t":"Wong tuwa wadon kang nglairake Bima diarani ....","e":"Wong tuwa wadon yang melahirkan Bima disebut ibu.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutan kanggo sedulur lanang sing luwih tuwa yaiku mas utawa ....","e":"Sebutan untuk saudara laki-laki yang lebih tua adalah mas atau kangmas.","baris":1},
+        {"tipe":"essay_pendek","t":"Adhik tegese sedulur sing umure isih enom, yaiku ....","e":"Adhik berarti saudara yang lebih muda, disebut adik.","baris":1},
+        {"tipe":"essay_pendek","t":"Tanda seru ing pungkasaning ukara prentah ditulis nganggo ....","e":"Tanda seru di akhir kalimat perintah ditulis dengan tanda seru (!).","baris":1},
+        {"tipe":"essay_kalimat","t":"Gawea ukara prentah kanggo ngongkon adhik nutup lawang, kanthi tanda seru!","e":"Contoh kalimat perintah: Tutupen lawange, Dik!","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara panyuwun tulung marang mbakyu supaya ngresiki meja!","e":"Contoh kalimat permintaan tolong: Mbak, tulung piringe dikumbah!","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara panyuwun barang marang bapak kanggo njaluk buku tulis!","e":"Contoh kalimat permintaan barang: Pak, kula nyuwun buku tulis.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelasna bedane ukara prentah lan ukara panjaluk nganggo ukaramu dhewe!","e":"Kalimat perintah dipakai untuk memerintah, sedangkan kalimat permintaan dipakai untuk memohon dengan sopan.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutna telu anggota kulawarga inti sing ana ing omahmu!","e":"Tiga anggota keluarga inti di rumah saya adalah bapak, ibu, dan saya sebagai anak.","baris":3},
+        {"tipe":"essay_daftar","t":"Tulisen telu tuladha ukara prentah kang nggunakake tanda seru!","e":"Tiga contoh kalimat perintah: Tutupen lawange!, Lungguha sing bener!, Sapuen latare!","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu tembung Jawa sing tegese sedulur, yaiku ....","e":"Tiga kata Jawa yang berarti saudara adalah kangmas, mbakyu, dan adhik.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu ukara panyuwun tulung kang sopan marang wong tuwa!","e":"Tiga contoh kalimat minta tolong yang sopan kepada orang tua: Bu, tulung jupukna bukuku!, Pak, tulung gawakna tasku!, Mbak, tulung kumbahna piringe!","baris":3},
+        {"tipe":"essay_cerita","t":"Gawea crita cekak bab kulawarga inti: bapak, ibu, lan Rani ing omah!","e":"Cerita singkat: Bapak, ibu, dan Rani tinggal bersama di rumah. Mereka saling menyayangi.","baris":4},
+        {"tipe":"essay_cerita","t":"Critakna nalika Dhika nyuwun tulung marang kangmase ing dina Minggu!","e":"Dhika meminta tolong kepada kakak laki-lakinya pada hari Minggu. Kakaknya membantu Dhika dengan senang hati.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulisen crita cekak bab adhik sing njaluk permene marang mbakyu!","e":"Adik meminta permen kepada kakak perempuannya. Kakak memberikan permen itu dengan senyum.","baris":4}
       ]
     },
     {
@@ -55,7 +70,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Tembung lawang tegesipun ....","p":["meja","pintu","lemari"],"j":1,"e":"Lawang tegesipun pintu."},
         {"tipe":"isian","t":"Tuladha ukara prentah: Sapuen latare! Tembung sapuen tegese ....","p":["sapu","resik","sapuan"],"j":0,"e":"Tembung sapuen tegese sapu."},
         {"tipe":"bs","t":"Ukara Dik, aku njaluk rotine! kalebu panyuwun barang.","p":["Benar","Salah"],"j":0,"e":"Benar, ukara Dik aku njaluk rotine kalebu panyuwun barang."},
-        {"tipe":"cocok","t":"Temtokna tegese tembung Jawa iki!","pasangan":[["tulung","bantu"],["nyuwun","mohon"],["njaluk","minta"]],"urutKanan":["minta","bantu","mohon"],"e":"Tulung bantu, nyuwun mohon, njaluk minta."}
+        {"tipe":"cocok","t":"Temtokna tegese tembung Jawa iki!","pasangan":[["tulung","bantu"],["nyuwun","mohon"],["njaluk","minta"]],"urutKanan":["minta","bantu","mohon"],"e":"Tulung bantu, nyuwun mohon, njaluk minta."},
+        {"tipe":"essay_pendek","t":"Bapak lan ibune Nanda kalebu wong tuwa, dene Nanda diarani ....","e":"Bapak dan ibu Nanda termasuk orang tua, sedangkan Nanda disebut anak.","baris":1},
+        {"tipe":"essay_pendek","t":"Mbakyu iku sebutan kanggo sedulur wadon sing umure ngluwihi Yoga.","e":"Mbakyu adalah sebutan untuk saudara perempuan yang usianya lebih tua dari Yoga.","baris":1},
+        {"tipe":"essay_pendek","t":"Tembung biyung ing basa Jawa padha karo ....","e":"Tembung biyung dalam bahasa Jawa sama dengan ibu.","baris":1},
+        {"tipe":"essay_pendek","t":"Tanda seru ing ukara Sapuen latare! nuduhake jinise ukara ....","e":"Tanda seru pada kalimat Sapuen latare menunjukkan bahwa kalimat itu adalah kalimat perintah.","baris":1},
+        {"tipe":"essay_kalimat","t":"Gawea ukara prentah kanggo ngongkon Tono nyapu latar, nganggo tanda seru!","e":"Contoh kalimat perintah: Sapuen latare, Tono!","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara panyuwun tulung marang pakdhe supaya nggawa tasku!","e":"Contoh kalimat permintaan tolong: Pakdhe, tulung gawakna tasku!","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara panyuwun barang marang ibu kanggo nyuwun secangkir banyu!","e":"Contoh kalimat permintaan barang: Bu, kula nyuwun banyu segelas.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelasna apa bedane ukara prentah karo ukara panyuwun, nganggo tuladha!","e":"Kalimat perintah berisi perintah, sedangkan kalimat permintaan berisi permohonan yang sopan.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutna telu wong sing kalebu kulawarga inti ing crita Putri!","e":"Tiga orang yang termasuk keluarga inti dalam cerita Putri adalah bapak, ibu, dan Putri.","baris":3},
+        {"tipe":"essay_daftar","t":"Tulisen telu tuladha ukara prentah kang digunakake ibu ing omah!","e":"Tiga contoh kalimat perintah yang dipakai ibu di rumah: Resikana mejamu!, Tutupen lawange!, Lungguha sing bener!","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu tembung Jawa kang tegese wong tuwa lan sedulur!","e":"Tiga kata Jawa yang berarti orang tua dan saudara adalah rama, biyung, dan kangmas.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu ukara nyuwun barang marang kanca, kudu sopan!","e":"Tiga kalimat minta barang kepada teman yang sopan: Aku njaluk pulpen!, Kula nyuwun buku!, Aku njaluk penghapus!","baris":3},
+        {"tipe":"essay_cerita","t":"Critakna kulawargane Yoga: bapak, ibu, lan adhik ing dina Senin!","e":"Keluarga Yoga terdiri dari bapak, ibu, dan adik. Mereka sarapan bersama pada hari Senin.","baris":4},
+        {"tipe":"essay_cerita","t":"Gawea crita bab Sari nalika nyuwun tulung marang mbakyune!","e":"Sari meminta tolong kepada kakak perempuannya. Kakaknya membantu Sari merapikan meja.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulisen crita cekak bab kulawarga inti lan ukara prentah ing omah!","e":"Di rumah, keluarga inti saling membantu. Ibu mengatakan kalimat perintah kepada anaknya dengan ramah.","baris":4}
       ]
     },
     {
@@ -76,7 +106,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Tembung arta tegesipun ....","p":["duwit","banyu","roti"],"j":0,"e":"Arta tegesipun duwit."},
         {"tipe":"isian","t":"Sing dadi wong tuwa wadon yaiku ....","p":["bapak","ibu","mas"],"j":1,"e":"Sing dadi wong tuwa wadon yaiku ibu."},
         {"tipe":"bs","t":"Ukara nyuwun banyu marang ibu kalebu panjaluk.","p":["Benar","Salah"],"j":0,"e":"Benar, ukara nyuwun banyu marang ibu kalebu panjaluk."},
-        {"tipe":"cocok","t":"Gandhengna jeneng kulawarga karo tegese!","pasangan":[["kangmas","sedulur lanang tuwa"],["mbakyu","sedulur wadon tuwa"],["adik","sedulur enom"]],"urutKanan":["sedulur enom","sedulur wadon tuwa","sedulur lanang tuwa"],"e":"Kangmas sedulur lanang tuwa, mbakyu sedulur wadon tuwa, adik sedulur enom."}
+        {"tipe":"cocok","t":"Gandhengna jeneng kulawarga karo tegese!","pasangan":[["kangmas","sedulur lanang tuwa"],["mbakyu","sedulur wadon tuwa"],["adik","sedulur enom"]],"urutKanan":["sedulur enom","sedulur wadon tuwa","sedulur lanang tuwa"],"e":"Kangmas sedulur lanang tuwa, mbakyu sedulur wadon tuwa, adik sedulur enom."},
+        {"tipe":"essay_pendek","t":"Saliyane bapak lan ibu, anggota kulawarga inti sing kaping telu yaiku ....","e":"Selain bapak dan ibu, anggota keluarga inti yang ketiga adalah anak.","baris":1},
+        {"tipe":"essay_pendek","t":"Kangmas lan mbakyu padha disebut sedulur, nanging beda ....","e":"Kangmas dan mbakyu sama-sama disebut kakak, tetapi berbeda jenis kelamin: kangmas kakak laki-laki, mbakyu kakak perempuan.","baris":1},
+        {"tipe":"essay_pendek","t":"Tembung njaluk ing basa Jawa tegese ....","e":"Tembung njaluk dalam bahasa Jawa berarti meminta.","baris":1},
+        {"tipe":"essay_pendek","t":"Panyuwun marang ibu kudu nggunakake basa sing sopan, dudu ....","e":"Permintaan kepada ibu harus memakai bahasa yang sopan, bukan bahasa yang kasar.","baris":1},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara prentah marang adhik supaya mangan, wenehana tanda seru!","e":"Contoh kalimat perintah: Mangan, Dik! Kalimat itu ditulis dengan tanda seru.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara nyuwun tulung marang bapak nalika kunci ilang!","e":"Contoh kalimat minta tolong: Pak, tulung golekna kunciku sing ilang!","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara nyuwun barang marang adhik kanthi basa sing sopan!","e":"Contoh kalimat minta barang dengan sopan: Dik, kula nyuwun penghapusmu.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelasna kenapa ukara prentah kudu diwenehi tanda seru!","e":"Kalimat perintah memakai tanda seru supaya terdengar tegas dan jelas sebagai perintah.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutna telu sebutan kanggo sedulur ing basa Jawa!","e":"Tiga sebutan untuk saudara dalam bahasa Jawa adalah kangmas, mbakyu, dan adhik.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu dhawuh sing kerep diucapake guru nalika pelajaran!","e":"Tiga perintah yang sering diucapkan guru: Bukaken bukumu!, Rungokna sing sregep!, Tulisen jawabanmu!","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu tembung Jawa sing artine barang, tuladha ....","e":"Tiga kata Jawa yang berarti benda adalah buku, meja, dan lawang.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu ukara panyuwun tulung sing bisa diucapake marang kangmas!","e":"Tiga kalimat minta tolong kepada kakak laki-laki: Mas, tulung gawakna tasku!, Mas, tulung bukaken lawange!, Mas, tulung jupukna bukuku!","baris":3},
+        {"tipe":"essay_cerita","t":"Gawea crita cekak bab kulawarga intine Adit nalika sarapan!","e":"Keluarga inti Adit sarapan bersama. Bapak dan ibu makan dengan Adit di meja.","baris":4},
+        {"tipe":"essay_cerita","t":"Critakna lelakone Dhika ing pasar nalika nyuwun pitulungan marang mbakyune!","e":"Dhika meminta pertolongan kepada kakak perempuannya di pasar. Kakaknya menemani Dhika mencari mainan.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulisen crita bab adhik sing njaluk barang marang ibu ing wayah sore!","e":"Adik meminta barang kepada ibu pada sore hari. Ibu memberikan barang itu dengan senyum.","baris":4}
       ]
     },
     {
@@ -97,7 +142,22 @@ window.KUIS.push({
         {"tipe":"pg","t":"Tembung meja ing basa Indonesia tegesipun ....","p":["meja","kursi","lawang"],"j":0,"e":"Tembung meja ing basa Indonesia tegesipun meja."},
         {"tipe":"isian","t":"Keluarga inti dumadi saka bapak, ibu, lan ....","p":["simbah","anak","pakdhe"],"j":1,"e":"Keluarga inti dumadi saka bapak, ibu, lan anak."},
         {"tipe":"bs","t":"Ukara Dik, nyuwun tulung tukokno roti! kalebu panyuwun tulung.","p":["Benar","Salah"],"j":0,"e":"Benar, Dik nyuwun tulung tukokno roti kalebu panyuwun tulung."},
-        {"tipe":"cocok","t":"Cocokna tembung karo arti Indonesianya!","pasangan":[["nyuwun","minta"],["tulung","bantu"],["njaluk","mohon"]],"urutKanan":["bantu","mohon","minta"],"e":"Nyuwun minta, tulung bantu, njaluk mohon."}
+        {"tipe":"cocok","t":"Cocokna tembung karo arti Indonesianya!","pasangan":[["nyuwun","minta"],["tulung","bantu"],["njaluk","mohon"]],"urutKanan":["bantu","mohon","minta"],"e":"Nyuwun minta, tulung bantu, njaluk mohon."},
+        {"tipe":"essay_pendek","t":"Wong tuwa lanang kang nyambut gawe ing kantor diarani ....","e":"Orang tua laki-laki yang bekerja di kantor disebut bapak.","baris":1},
+        {"tipe":"essay_pendek","t":"Sedulur enom ing kulawargane Rizky sing umure paling cilik diarani ....","e":"Saudara termuda dalam keluarga Rizky disebut adik.","baris":1},
+        {"tipe":"essay_pendek","t":"Tembung adhik ing ukara kula tegesipun ....","e":"Tembung adhik dalam kalimat saya berarti adik.","baris":1},
+        {"tipe":"essay_pendek","t":"Ukara Resikana mejamu! dipungkasi tanda ....","e":"Kalimat Resikana mejamu diakhiri dengan tanda seru.","baris":1},
+        {"tipe":"essay_kalimat","t":"Dhawuhna marang adhik supaya turu nganggo ukara prentah!","e":"Contoh kalimat perintah: Cepet turu, Dik! Kalimat itu memakai tanda seru.","baris":2},
+        {"tipe":"essay_kalimat","t":"Gawea ukara nyuwun tulung marang simbah nalika listrik mati!","e":"Contoh kalimat minta tolong: Simbah, tulung takokna sakelar listrik!","baris":2},
+        {"tipe":"essay_kalimat","t":"Tulisen ukara nyuwun barang marang kanca, aja nganti kasar!","e":"Contoh kalimat minta barang dengan sopan: Aku njaluk penghapusmu, ya!","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelasna carane nulis ukara prentah sing bener nganggo tanda seru!","e":"Kalimat perintah ditulis diawali huruf kapital dan diakhiri tanda seru.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutna telu wongtuwa sing kalebu ing crita kulawargane Farhan!","e":"Tiga orang tua yang termasuk dalam cerita keluarga Farhan adalah bapak, ibu, dan simbah.","baris":3},
+        {"tipe":"essay_daftar","t":"Tulisen telu tuladha ukara prentah sing diucapake bapak ing omah!","e":"Tiga contoh kalimat perintah yang diucapkan bapak: Tutupen lawange!, Jupuken bukuku!, Sapuen latare!","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu tembung Jawa kang artine bapak, ibu, lan adhik!","e":"Tiga kata Jawa untuk bapak, ibu, dan adik adalah rama, biyung, dan adhik.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutna telu ukara panyuwun barang marang ibu, kudu nggunakake tembung nyuwun!","e":"Tiga kalimat permintaan barang kepada ibu: Bu, kula nyuwun banyu!, Bu, nyuwun arta!, Bu, kula nyuwun roti!","baris":3},
+        {"tipe":"essay_cerita","t":"Critakna kulawarga intine Nabila nalika mbakyu mulih saka sekolah!","e":"Keluarga inti Nabila menyambut kakak perempuan yang pulang dari sekolah. Ibu menyiapkan minuman.","baris":4},
+        {"tipe":"essay_cerita","t":"Gawea crita cekak nalika adhik njaluk permene marang mbakyu ing omah!","e":"Adik meminta permen kepada kakak perempuannya di rumah. Kakaknya memberikan satu permen.","baris":4},
+        {"tipe":"essay_cerita","t":"Tulisen crita bab Bima nalika nyuwun tulung marang kangmase ing kebon!","e":"Bima meminta tolong kepada kakak laki-lakinya di kebun. Kakaknya membantu Bima mengambil buah.","baris":4}
       ]
     }
   ]
