@@ -8410,117 +8410,117 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Dalam Al-Qur'an, Surat Al-Falaq menempati urutan nomor berapa?",
+      "t": "Nomor berapa surat Al-Falaq dalam mushaf?",
       "p": [
        "113",
-       "115",
+       "111",
        "114"
       ],
       "j": 0,
-      "e": "Surat Al-Falaq berada pada urutan ke-113 dalam Al-Qur'an."
+      "e": "Nomor surat Al-Falaq dalam mushaf adalah 113."
      },
      {
       "tipe": "bs",
-      "t": "Surat Al-Ikhlas tersusun atas empat ayat.",
+      "t": "Al-Ikhlas tersusun dari empat ayat.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Itu benar: Al-Ikhlas memiliki empat ayat."
+      "e": "Tepat, Al-Ikhlas memang berisi empat ayat."
      },
      {
       "tipe": "pg",
-      "t": "Arti dari Al-Ikhlas adalah keesaan, yakni memurnikan ketaatan hanya kepada Allah. Isi itu disebut ....",
+      "t": "Nama Al-Ikhlas membawa arti ....",
       "p": [
-       "keesaan",
        "waktu subuh",
-       "manusia"
+       "memurnikan keesaan",
+       "tiga"
       ],
-      "j": 0,
-      "e": "Al-Ikhlas artinya keesaan, yakni memurnikan ketaatan hanya kepada Allah."
+      "j": 1,
+      "e": "Al-Ikhlas berarti memurnikan keesaan Allah."
      },
      {
       "tipe": "isian",
-      "t": "Ayat kedua Al-Ikhlas diawali dengan 'Allahush ....'",
+      "t": "Banyak ayat dalam Al-Ikhlas ada ....",
       "p": [
-       "shamad",
-       "ahad",
-       "falaq"
-      ],
-      "j": 0,
-      "e": "Allahush shamad adalah awal ayat kedua Al-Ikhlas."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan nama surah dengan artinya yang tepat!",
-      "pasangan": [
-       [
-        "Al-Falaq",
-        "Waktu Subuh"
-       ],
-       [
-        "Al-Ikhlas",
-        "Memurnikan Keesaan Allah"
-       ],
-       [
-        "An-Nas",
-        "Manusia"
-       ]
-      ],
-      "urutKanan": [
-       "Manusia",
-       "Waktu Subuh",
-       "Memurnikan Keesaan Allah"
-      ],
-      "e": "Al-Falaq berarti Waktu Subuh, Al-Ikhlas Memurnikan Keesaan Allah, dan An-Nas Manusia."
-     },
-     {
-      "tipe": "pg",
-      "t": "Berapakah jumlah ayat Surat Al-Falaq?",
-      "p": [
-       "3",
+       "4",
        "7",
        "5"
       ],
+      "j": 0,
+      "e": "Empat ayat membentuk Al-Ikhlas, jadi jawabannya 4."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tarik garis dari nama surat ke artinya!",
+      "pasangan": [
+       [
+        "Al-Falaq",
+        "waktu subuh"
+       ],
+       [
+        "Al-Ikhlas",
+        "keesaan"
+       ],
+       [
+        "Mu'awwidzatain",
+        "dua surat perlindungan"
+       ]
+      ],
+      "urutKanan": [
+       "dua surat perlindungan",
+       "waktu subuh",
+       "keesaan"
+      ],
+      "e": "Al-Falaq artinya waktu subuh, Al-Ikhlas keesaan, dan Mu'awwidzatain dua surat perlindungan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ayat pertama Al-Falaq diawali 'Qul a'uudzu birabbil ....'",
+      "p": [
+       "shamad",
+       "ikhlas",
+       "falaq"
+      ],
       "j": 2,
-      "e": "Jumlah ayat Surat Al-Falaq adalah 5."
+      "e": "Kata penutup ayat pertama itu falaq."
      },
      {
       "tipe": "bs",
-      "t": "Al-Falaq diterjemahkan sebagai keesaan.",
+      "t": "Al-Falaq bermakna keesaan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Pernyataan itu keliru; yang bermakna keesaan adalah Al-Ikhlas."
+      "e": "Itu keliru. Keesaan adalah makna Al-Ikhlas."
      },
      {
       "tipe": "isian",
-      "t": "Al-Falaq bermakna waktu ....",
+      "t": "Al-Falaq berarti waktu ....",
       "p": [
-       "fajar",
        "subuh",
-       "senja"
+       "senja",
+       "siang"
       ],
-      "j": 1,
-      "e": "Kata Falaq berarti waktu subuh atau fajar."
+      "j": 0,
+      "e": "Falaq bermakna subuh."
      },
      {
       "tipe": "pg",
-      "t": "Menurut ayat terakhir Al-Ikhlas, Allah tidak ada yang ....",
+      "t": "Lafal 'ahad' muncul berapa kali dalam Al-Ikhlas?",
       "p": [
-       "setara",
-       "sama",
-       "tunggal"
+       "dua",
+       "satu",
+       "empat"
       ],
       "j": 0,
-      "e": "Ayat terakhir Al-Ikhlas menegaskan tidak ada yang setara dengan Allah."
+      "e": "Lafal ahad muncul dua kali dalam Al-Ikhlas."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan potongan ayat Al-Ikhlas dengan potongannya!",
+      "t": "Hubungkan potongan bacaan dengan sambungannya!",
       "pasangan": [
        [
         "Qul huwallahu",
@@ -8540,73 +8540,73 @@ window.KUIS = [
        "ahad",
        "shamad"
       ],
-      "e": "Rangkaian ayatnya: Qul huwallahu ahad, Allahush shamad, Lam yalid wa lam yulad."
+      "e": "Sambungannya berurutan: ahad, shamad, dan yulad."
      },
      {
       "tipe": "bs",
-      "t": "Lima ayat terkandung dalam Surat Al-Falaq.",
+      "t": "Al-Falaq dan An-Nas disebut Mu'awwidzatain.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Al-Falaq berisi lima ayat."
+      "e": "Benar, keduanya dijuluki Mu'awwidzatain, dua surat perlindungan."
      },
      {
       "tipe": "pg",
-      "t": "Surat pembuka Al-Qur'an bernomor ....",
+      "t": "Surat yang turun di Makkah disebut surat ....",
       "p": [
-       "1",
-       "2",
-       "5"
+       "Makkiyah",
+       "Madaniyah",
+       "Makkah"
       ],
       "j": 0,
-      "e": "Surat Al-Fatihah adalah surat pertama, bernomor 1."
+      "e": "Surat yang turun di Makkah disebut Makkiyah."
      },
      {
       "tipe": "isian",
-      "t": "Ayat keempat Al-Ikhlas diakhiri 'wa lam yakul lahu kufuwan ....'",
+      "t": "Ayat terakhir Al-Ikhlas ditutup 'kufuwan ....'",
       "p": [
        "ahad",
-       "naas",
+       "shamad",
        "falaq"
       ],
       "j": 0,
-      "e": "Potongan ayat itu diakhiri kufuwan ahad."
+      "e": "Ayat itu ditutup dengan kufuwan ahad."
      },
      {
       "tipe": "bs",
-      "t": "Jumlah ayat Al-Ikhlas adalah lima.",
+      "t": "Surat Al-Ikhlas bernomor 113.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Tidak tepat; Al-Ikhlas hanya memiliki empat ayat."
+      "e": "Salah, nomor Al-Ikhlas adalah 112."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan surah dengan nomor urutnya!",
+      "t": "Pasangkan bilangan dengan keterangannya!",
       "pasangan": [
        [
-        "Al-Fatihah",
-        "1"
+        "113",
+        "nomor Al-Falaq"
        ],
        [
-        "Al-Ikhlas",
-        "112"
+        "112",
+        "nomor Al-Ikhlas"
        ],
        [
-        "Al-Falaq",
-        "113"
+        "4",
+        "jumlah ayat Al-Ikhlas"
        ]
       ],
       "urutKanan": [
-       "113",
-       "1",
-       "112"
+       "jumlah ayat Al-Ikhlas",
+       "nomor Al-Ikhlas",
+       "nomor Al-Falaq"
       ],
-      "e": "Al-Fatihah nomor 1, Al-Ikhlas nomor 112, dan Al-Falaq nomor 113."
+      "e": "Nomor 113 milik Al-Falaq, 112 milik Al-Ikhlas, dan 4 adalah jumlah ayat Al-Ikhlas."
      }
     ]
    },
@@ -8616,50 +8616,256 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Nama Al-Ikhlas berarti ....",
+      "t": "Berapa ayatkah isi surat Al-Falaq?",
       "p": [
-       "Memurnikan Keesaan Allah",
-       "Waktu Subuh",
-       "Manusia"
+       "5",
+       "3",
+       "7"
       ],
       "j": 0,
-      "e": "Al-Ikhlas berarti Memurnikan Keesaan Allah."
+      "e": "Lima ayat membentuk Al-Falaq, jadi jawabannya 5."
      },
      {
       "tipe": "bs",
-      "t": "Surat Al-Falaq bernomor 112.",
+      "t": "Al-Falaq berada di urutan ke-113.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, urutannya memang 113."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata Al-Ikhlas bermakna ....",
+      "p": [
+       "tulus dan murni",
+       "marah dan bohong",
+       "lelah dan lapar"
+      ],
+      "j": 0,
+      "e": "Artinya tulus dan murni."
+     },
+     {
+      "tipe": "isian",
+      "t": "Dalam daftar surat, Al-Ikhlas berada di nomor ....",
+      "p": [
+       "112",
+       "113",
+       "110"
+      ],
+      "j": 0,
+      "e": "Nomor urut Al-Ikhlas adalah 112."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Sambungkan kata dengan maknanya!",
+      "pasangan": [
+       [
+        "falaq",
+        "subuh"
+       ],
+       [
+        "ahad",
+        "satu"
+       ],
+       [
+        "kufuwan",
+        "setara"
+       ]
+      ],
+      "urutKanan": [
+       "setara",
+       "subuh",
+       "satu"
+      ],
+      "e": "Falaq berarti subuh, ahad satu, dan kufuwan setara."
+     },
+     {
+      "tipe": "pg",
+      "t": "Allahush shamad memberi tahu bahwa Allah adalah ....",
+      "p": [
+       "tempat meminta",
+       "jauh dari kita",
+       "mulai beranak"
+      ],
+      "j": 0,
+      "e": "Shamad berarti Allah tempat meminta segala sesuatu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Surat Al-Ikhlas turun di Madinah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Keliru, nomor Al-Falaq adalah 113."
-     },
-     {
-      "tipe": "pg",
-      "t": "Ayat perdana Surat Al-Falaq berbunyi 'Qul a'udzu birabbil ....'",
-      "p": [
-       "falaq",
-       "naas",
-       "shamad"
-      ],
-      "j": 0,
-      "e": "Bacaan ayat perdana Al-Falaq adalah Qul a'udzu birabbil falaq."
+      "e": "Tidak benar. Al-Ikhlas tergolong Makkiyah."
      },
      {
       "tipe": "isian",
-      "t": "Al-Ikhlas terdiri atas .... ayat.",
+      "t": "Ayat ketiga Al-Ikhlas berbunyi 'Lam yalid wa lam ....'",
       "p": [
-       "3",
-       "5",
-       "4"
+       "yulad",
+       "ahad",
+       "falaq"
+      ],
+      "j": 0,
+      "e": "Bacaan lengkapnya lam yalid wa lam yulad."
+     },
+     {
+      "tipe": "pg",
+      "t": "Julukan untuk Al-Falaq dan An-Nas: ....",
+      "p": [
+       "Makkiyah",
+       "Al-Ikhlas",
+       "Mu'awwidzatain"
       ],
       "j": 2,
-      "e": "Surat Al-Ikhlas terdiri atas 4 ayat."
+      "e": "Kedua surat itu disebut Mu'awwidzatain, dua surat perlindungan."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan surah dengan jumlah ayatnya!",
+      "t": "Cocokkan isi ayat dengan penjelasannya!",
+      "pasangan": [
+       [
+        "Allahush shamad",
+        "tempat meminta"
+       ],
+       [
+        "Lam yalid wa lam yulad",
+        "tidak beranak"
+       ],
+       [
+        "Wa lam yakul lahu kufuwan ahad",
+        "tidak ada yang setara"
+       ]
+      ],
+      "urutKanan": [
+       "tidak ada yang setara",
+       "tidak beranak",
+       "tempat meminta"
+      ],
+      "e": "Allahush shamad berarti tempat meminta, lam yalid wa lam yulad tidak beranak, dan wa lam yakul lahu kufuwan ahad tidak ada yang setara."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bacaan pembuka Al-Falaq: 'Qul a'uudzu birobbil falaq'.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, itulah bunyi ayat pembuka Al-Falaq."
+     },
+     {
+      "tipe": "pg",
+      "t": "Mendapat nikmat sebaiknya kita ....",
+      "p": [
+       "mengeluh",
+       "bersyukur",
+       "menyimpan"
+      ],
+      "j": 1,
+      "e": "Mendapat nikmat sebaiknya dibalas dengan bersyukur."
+     },
+     {
+      "tipe": "isian",
+      "t": "Al-Ikhlas mengajarkan Allah itu Maha ....",
+      "p": [
+       "Esa",
+       "ramai",
+       "dua"
+      ],
+      "j": 0,
+      "e": "Allah Maha Esa, artinya satu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kita boleh menyembah selain Allah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Tidak boleh. Kita menyembah Allah saja."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tentukan pasangan perilaku berikut!",
+      "pasangan": [
+       [
+        "berdoa",
+        "meminta pertolongan"
+       ],
+       [
+        "bersyukur",
+        "mengucap hamdalah"
+       ],
+       [
+        "jujur",
+        "berkata benar"
+       ]
+      ],
+      "urutKanan": [
+       "berkata benar",
+       "meminta pertolongan",
+       "mengucap hamdalah"
+      ],
+      "e": "Berdoa berarti meminta pertolongan, bersyukur dengan mengucap hamdalah, dan jujur berarti berkata benar."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Surat yang menjelaskan keesaan Allah adalah ....",
+      "p": [
+       "Al-Ikhlas",
+       "Al-Falaq",
+       "Al-Qur'an"
+      ],
+      "j": 0,
+      "e": "Surat yang menjelaskan keesaan Allah adalah Al-Ikhlas."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al-Ikhlas terdiri dari lima ayat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, jumlahnya empat ayat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ayat Qul huwallahu ahad mengajarkan bahwa ....",
+      "p": [
+       "Allah itu satu",
+       "Allah itu banyak",
+       "Allah itu dua"
+      ],
+      "j": 0,
+      "e": "Ayat itu menyatakan Allah itu satu."
+     },
+     {
+      "tipe": "isian",
+      "t": "Ayat kedua Al-Ikhlas diawali 'Allahush ....'",
+      "p": [
+       "shamad",
+       "ahad",
+       "yulad"
+      ],
+      "j": 0,
+      "e": "Awal ayat kedua adalah Allahush shamad."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan surat dengan keterangan yang cocok!",
       "pasangan": [
        [
         "Al-Falaq",
@@ -8670,335 +8876,63 @@ window.KUIS = [
         "empat ayat"
        ],
        [
-        "Al-Fatihah",
-        "tujuh ayat"
+        "Mu'awwidzatain",
+        "dua surat perlindungan"
        ]
       ],
       "urutKanan": [
+       "dua surat perlindungan",
        "empat ayat",
-       "tujuh ayat",
        "lima ayat"
       ],
-      "e": "Al-Falaq lima ayat, Al-Ikhlas empat ayat, Al-Fatihah tujuh ayat."
+      "e": "Al-Falaq lima ayat, Al-Ikhlas empat ayat, dan Mu'awwidzatain dua surat perlindungan."
      },
      {
       "tipe": "pg",
-      "t": "Allah Yang Maha Esa berarti Allah itu ....",
+      "t": "Dalam Al-Falaq kita meminta perlindungan hanya kepada ....",
       "p": [
-       "dua",
-       "satu",
-       "tiga"
+       "teman",
+       "Allah",
+       "benda"
       ],
       "j": 1,
-      "e": "Maha Esa berarti Allah itu satu."
+      "e": "Perlindungan diminta hanya kepada Allah."
      },
      {
       "tipe": "bs",
-      "t": "Al-Ikhlas merupakan surat ke-112.",
+      "t": "Membaca Al-Falaq berarti memohon perlindungan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Tepat, Al-Ikhlas berada di urutan 112."
+      "e": "Benar, Al-Falaq berisi permohonan perlindungan kepada Allah."
      },
      {
       "tipe": "isian",
-      "t": "Ungkapan .... menjelaskan Allah sebagai tumpuan segala permintaan.",
+      "t": "Banyaknya ayat Al-Falaq ada ....",
       "p": [
-       "Allahush shamad",
-       "Allahush ahad",
-       "Lam yalid"
+       "5",
+       "4",
+       "6"
       ],
       "j": 0,
-      "e": "Ungkapan Allahush shamad menjelaskan Allah sebagai tumpuan segala permintaan."
+      "e": "Surat Al-Falaq berisi 5 ayat."
      },
      {
       "tipe": "pg",
-      "t": "Doa dalam Al-Falaq memohon agar kita terhindar dari ....",
+      "t": "Kata falaq dekat maknanya dengan ....",
       "p": [
-       "kebaikan",
-       "hadiah",
-       "kejahatan"
+       "fajar",
+       "shamad",
+       "kufuwan"
       ],
-      "j": 2,
-      "e": "Doa Al-Falaq dipanjatkan agar terlindung dari kejahatan."
+      "j": 0,
+      "e": "Falaq juga berarti fajar."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan lafal dengan maknanya!",
-      "pasangan": [
-       [
-        "Ahad",
-        "satu"
-       ],
-       [
-        "Shamad",
-        "tumpuan"
-       ],
-       [
-        "Falaq",
-        "subuh"
-       ]
-      ],
-      "urutKanan": [
-       "tumpuan",
-       "subuh",
-       "satu"
-      ],
-      "e": "Ahad berarti satu, Shamad tumpuan, dan Falaq subuh."
-     },
-     {
-      "tipe": "bs",
-      "t": "Al-Falaq dan Al-Ikhlas terdapat di juz 30.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, kedua surat ini masuk juz 'amma yaitu juz 30."
-     },
-     {
-      "tipe": "pg",
-      "t": "Nomor surat Al-Ikhlas dalam mushaf adalah ....",
-      "p": [
-       "112",
-       "111",
-       "113"
-      ],
-      "j": 0,
-      "e": "Nomor surat Al-Ikhlas dalam mushaf adalah 112."
-     },
-     {
-      "tipe": "isian",
-      "t": "Al-Falaq tercatat sebagai surat ke-....",
-      "p": [
-       "112",
-       "113",
-       "114"
-      ],
-      "j": 1,
-      "e": "Al-Falaq tercatat sebagai surat ke-113."
-     },
-     {
-      "tipe": "bs",
-      "t": "Arti Al-Ikhlas adalah waktu subuh.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, waktu subuh adalah arti Al-Falaq."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan ayat pembuka dengan surahnya!",
-      "pasangan": [
-       [
-        "Qul huwallahu ahad",
-        "Al-Ikhlas"
-       ],
-       [
-        "Qul a'udzu birabbil falaq",
-        "Al-Falaq"
-       ],
-       [
-        "Alhamdulillahi rabbil 'alamin",
-        "Al-Fatihah"
-       ]
-      ],
-      "urutKanan": [
-       "Al-Falaq",
-       "Al-Fatihah",
-       "Al-Ikhlas"
-      ],
-      "e": "Qul huwallahu ahad milik Al-Ikhlas, Qul a'udzu birabbil falaq milik Al-Falaq, sedangkan Alhamdulillahi rabbil 'alamin milik Al-Fatihah."
-     }
-    ]
-   },
-   {
-    "kode": "C",
-    "nama": "Variasi C",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Surat Al-Falaq mengajarkan umat untuk memohon ....",
-      "p": [
-       "perlindungan",
-       "rezeki",
-       "ilmu"
-      ],
-      "j": 0,
-      "e": "Surat Al-Falaq mengajarkan memohon perlindungan hanya kepada Allah."
-     },
-     {
-      "tipe": "bs",
-      "t": "Surat Al-Ikhlas adalah surat ke-113.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Tidak benar; Al-Ikhlas bernomor 112."
-     },
-     {
-      "tipe": "pg",
-      "t": "Allahush shamad bermakna Allah menjadi ....",
-      "p": [
-       "musuh",
-       "tumpuan",
-       "teman"
-      ],
-      "j": 1,
-      "e": "Allahush shamad bermakna Allah menjadi tumpuan makhluk."
-     },
-     {
-      "tipe": "isian",
-      "t": "Dalam Al-Falaq, kejahatan orang dengki disebut ....",
-      "p": [
-       "haasidin",
-       "ghaasiqin",
-       "naffaatsaati"
-      ],
-      "j": 0,
-      "e": "Kata haasidin merujuk pada orang yang dengki."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan lafal Al-Falaq dengan artinya!",
-      "pasangan": [
-       [
-        "ghaasiqin idzaa waqab",
-        "kegelapan malam"
-       ],
-       [
-        "naffaatsaati fil-'uqad",
-        "tukang sihir"
-       ],
-       [
-        "haasidin idzaa hasad",
-        "orang dengki"
-       ]
-      ],
-      "urutKanan": [
-       "orang dengki",
-       "kegelapan malam",
-       "tukang sihir"
-      ],
-      "e": "Ghaasiqin idzaa waqab berarti kegelapan malam, naffaatsaati fil-'uqad tukang sihir, haasidin idzaa hasad orang dengki."
-     },
-     {
-      "tipe": "pg",
-      "t": "Bacaan 'Wa min syarrin-naffaatsaati fil-'uqad' menggambarkan kejahatan ....",
-      "p": [
-       "tukang sihir",
-       "orang dengki",
-       "kegelapan malam"
-      ],
-      "j": 0,
-      "e": "Naffaatsaati fil-'uqad menggambarkan kejahatan tukang sihir."
-     },
-     {
-      "tipe": "bs",
-      "t": "Isi Al-Falaq meliputi perlindungan dari makhluk, gelap malam, dan dengki.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, ketiga perkara itu disebut dalam Al-Falaq."
-     },
-     {
-      "tipe": "isian",
-      "t": "Ayat ketiga Al-Ikhlas menyebut Allah tidak beranak dan tidak ....",
-      "p": [
-       "dilihat",
-       "diperanakkan",
-       "didengar"
-      ],
-      "j": 1,
-      "e": "Ayat itu menyatakan Allah tidak beranak dan tidak diperanakkan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Al-Falaq serta Al-Ikhlas termasuk golongan surah ....",
-      "p": [
-       "Madaniyah",
-       "panjang",
-       "Makkiyah"
-      ],
-      "j": 2,
-      "e": "Al-Falaq dan Al-Ikhlas masuk golongan Makkiyah."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan surah dengan ciri khasnya!",
-      "pasangan": [
-       [
-        "Al-Ikhlas",
-        "terdiri dari empat ayat"
-       ],
-       [
-        "Al-Falaq",
-        "terdiri dari lima ayat"
-       ],
-       [
-        "Al-Fatihah",
-        "terdiri dari tujuh ayat"
-       ]
-      ],
-      "urutKanan": [
-       "terdiri dari lima ayat",
-       "terdiri dari tujuh ayat",
-       "terdiri dari empat ayat"
-      ],
-      "e": "Al-Ikhlas terdiri dari empat ayat, Al-Falaq lima ayat, dan Al-Fatihah tujuh ayat."
-     },
-     {
-      "tipe": "bs",
-      "t": "Allah mempunyai anak.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Tidak benar; Allah tidak beranak dan tidak diperanakkan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Urutan Al-Falaq dalam daftar surah adalah ....",
-      "p": [
-       "113",
-       "110",
-       "115"
-      ],
-      "j": 0,
-      "e": "Urutan Al-Falaq setelah Al-Ikhlas adalah 113."
-     },
-     {
-      "tipe": "isian",
-      "t": "Ayat keempat Al-Ikhlas menegaskan bahwa Allah ....",
-      "p": [
-       "tidak ada yang setara",
-       "beranak",
-       "tumpuan"
-      ],
-      "j": 0,
-      "e": "Ayat keempat Al-Ikhlas menyatakan tidak ada yang setara dengan-Nya."
-     },
-     {
-      "tipe": "bs",
-      "t": "Al-Ikhlas memuat tauhid atau keesaan Allah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, seluruh ayat Al-Ikhlas menegaskan keesaan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Cocokkan ayat Al-Ikhlas dengan nomornya!",
+      "t": "Hubungkan ayat Al-Ikhlas dengan nomornya!",
       "pasangan": [
        [
         "Qul huwallahu ahad",
@@ -9018,7 +8952,73 @@ window.KUIS = [
        "ayat pertama",
        "ayat kedua"
       ],
-      "e": "Qul huwallahu ahad pada ayat pertama, Allahush shamad ayat kedua, Lam yalid wa lam yulad ayat ketiga."
+      "e": "Ayat pertama berbunyi qul huwallahu ahad, ayat kedua allahush shamad, dan ayat ketiga lam yalid wa lam yulad."
+     },
+     {
+      "tipe": "bs",
+      "t": "Allah memiliki anak.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Tidak benar. Allah tidak beranak dan tidak diperanakkan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ayat keempat Al-Ikhlas menyatakan tidak ada yang ....",
+      "p": [
+       "beranak",
+       "berdoa",
+       "setara"
+      ],
+      "j": 2,
+      "e": "Ayat keempat menegaskan tidak ada yang setara dengan Allah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Golongan Al-Ikhlas adalah surat ....",
+      "p": [
+       "Makkiyah",
+       "Madaniyah",
+       "Mu'awwidzatain"
+      ],
+      "j": 0,
+      "e": "Al-Ikhlas tergolong Makkiyah karena turun di Makkah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Rajin ibadah termasuk perilaku baik menurut Al-Ikhlas.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, rajin ibadah adalah salah satu perilaku baik."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokkan potongan akhir dengan suratnya!",
+      "pasangan": [
+       [
+        "kufuwan ahad",
+        "ayat terakhir Al-Ikhlas"
+       ],
+       [
+        "birobbil falaq",
+        "ayat pertama Al-Falaq"
+       ],
+       [
+        "huwallahu ahad",
+        "ayat pertama Al-Ikhlas"
+       ]
+      ],
+      "urutKanan": [
+       "ayat pertama Al-Ikhlas",
+       "ayat terakhir Al-Ikhlas",
+       "ayat pertama Al-Falaq"
+      ],
+      "e": "Potongan kufuwan ahad menutup Al-Ikhlas, birobbil falaq membuka Al-Falaq, dan huwallahu ahad membuka Al-Ikhlas."
      }
     ]
    },
@@ -9028,203 +9028,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Nama surah Al-Ikhlas mengandung makna ....",
+      "t": "Yang bernomor 113 dalam mushaf: ....",
       "p": [
-       "keesaan",
-       "manusia",
-       "cahaya"
+       "Al-Falaq",
+       "Al-Ikhlas",
+       "Mu'awwidzatain"
       ],
       "j": 0,
-      "e": "Nama Al-Ikhlas mengandung makna keesaan Allah."
+      "e": "Surat bernomor 113 adalah Al-Falaq."
      },
      {
       "tipe": "bs",
-      "t": "Surat Al-Falaq hanya memiliki empat ayat.",
+      "t": "Nama Al-Falaq diambil dari ayat terakhir.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, Al-Falaq terdiri dari lima ayat."
+      "e": "Keliru. Nama itu diambil dari ayat pertama."
      },
      {
       "tipe": "pg",
-      "t": "Kita dianjurkan berlindung hanya kepada ....",
+      "t": "Al-Falaq dinamai dari bunyi ....",
       "p": [
-       "Allah",
-       "manusia",
-       "hewan"
+       "ayat pertama",
+       "ayat terakhir",
+       "nama Allah"
       ],
       "j": 0,
-      "e": "Kita dianjurkan berlindung hanya kepada Allah."
+      "e": "Nama surat ini diambil dari bunyi ayat pertama."
      },
      {
       "tipe": "isian",
-      "t": "Al-Ikhlas berarti keesaan dan bukan waktu ....",
+      "t": "Kata Al-Ikhlas berarti ....",
       "p": [
        "subuh",
-       "keesaan",
-       "manusia"
+       "murni",
+       "ramai"
       ],
-      "j": 0,
-      "e": "Al-Ikhlas berarti keesaan dan bukan waktu subuh."
+      "j": 1,
+      "e": "Al-Ikhlas berarti murni."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan istilah dengan terjemahannya!",
+      "t": "Tarik garis lafal ke terjemahannya!",
       "pasangan": [
        [
-        "Ahad",
-        "Maha Esa"
+        "a'uudzu",
+        "berlindung"
        ],
        [
-        "Shamad",
-        "tempat bergantung"
+        "shamad",
+        "tempat meminta"
        ],
        [
-        "Kufuwan",
-        "setara"
+        "yulad",
+        "diperanakkan"
        ]
       ],
       "urutKanan": [
-       "setara",
-       "Maha Esa",
-       "tempat bergantung"
+       "diperanakkan",
+       "berlindung",
+       "tempat meminta"
       ],
-      "e": "Ahad berarti Maha Esa, Shamad tempat bergantung, Kufuwan setara."
+      "e": "A'uudzu berarti berlindung, shamad tempat meminta, dan yulad diperanakkan."
      },
      {
       "tipe": "pg",
-      "t": "Allah Maha Esa, sehingga tidak ada yang ....",
+      "t": "Potongan 'wa lam yakul lahu kufuwan ahad' berarti tidak ada yang ....",
       "p": [
-       "melihat",
-       "mendengar",
+       "tahu",
+       "datang",
        "setara"
       ],
       "j": 2,
-      "e": "Allah Maha Esa, sehingga tidak ada yang setara dengan-Nya."
+      "e": "Potongan ayat itu berarti tidak ada yang setara."
      },
      {
       "tipe": "bs",
-      "t": "Al-Falaq artinya fajar atau waktu subuh.",
+      "t": "Allah tempat kita meminta segala sesuatu.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Al-Falaq berarti waktu subuh."
+      "e": "Benar, itulah makna Allahush shamad."
      },
      {
       "tipe": "isian",
-      "t": "Ayat pertama Al-Falaq diawali 'Qul a'udzu birabbil ....'",
+      "t": "Allah tidak beranak dan tidak pula ....",
       "p": [
-       "falaq",
-       "naas",
-       "subuh"
+       "diperanakkan",
+       "dilihat",
+       "didengar"
       ],
       "j": 0,
-      "e": "Kalimat pembuka Al-Falaq diakhiri kata falaq."
+      "e": "Ayat ketiga menyebut Allah tidak beranak dan tidak diperanakkan."
      },
      {
       "tipe": "pg",
-      "t": "Membaca Al-Falaq berarti meminta .... dari kejahatan.",
+      "t": "Mengucap hamdalah adalah tanda ....",
       "p": [
-       "hadiah",
-       "uang",
-       "perlindungan"
+       "bersyukur",
+       "terima kasih",
+       "maaf"
       ],
-      "j": 2,
-      "e": "Membaca Al-Falaq berarti meminta perlindungan dari kejahatan."
+      "j": 0,
+      "e": "Mengucap hamdalah berarti bersyukur."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan pernyataan dengan surah yang tepat!",
+      "t": "Pasangkan bagian ayat dengan isinya!",
       "pasangan": [
        [
-        "Memohon perlindungan dari kejahatan",
-        "Al-Falaq"
-       ],
-       [
-        "Menegaskan Allah Maha Esa",
-        "Al-Ikhlas"
-       ],
-       [
-        "Dibaca dalam shalat sebagai pembuka",
-        "Al-Fatihah"
-       ]
-      ],
-      "urutKanan": [
-       "Al-Ikhlas",
-       "Al-Fatihah",
-       "Al-Falaq"
-      ],
-      "e": "Memohon perlindungan dari kejahatan adalah Al-Falaq, menegaskan Allah Maha Esa adalah Al-Ikhlas, sedangkan pembuka shalat adalah Al-Fatihah."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kedua surat ini tergolong Makkiyah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, keduanya turun di Makkah sebelum hijrah."
-     },
-     {
-      "tipe": "pg",
-      "t": "Lima ditambah empat menghasilkan .... ayat gabungan.",
-      "p": [
-       "9",
-       "8",
-       "10"
-      ],
-      "j": 0,
-      "e": "Lima ayat ditambah empat ayat menghasilkan 9 ayat."
-     },
-     {
-      "tipe": "isian",
-      "t": "Allah Maha .... dan tidak ada yang setara dengan-Nya.",
-      "p": [
-       "Besar",
-       "Esa",
-       "Tinggi"
-      ],
-      "j": 1,
-      "e": "Allah Maha Esa dan tidak ada yang setara."
-     },
-     {
-      "tipe": "bs",
-      "t": "Keesaan adalah arti dari Al-Falaq.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Keliru; keesaan adalah arti Al-Ikhlas."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan potongan ayat dengan keterangannya!",
-      "pasangan": [
-       [
-        "Wa lam yakul lahu kufuwan ahad",
-        "ayat keempat Al-Ikhlas"
-       ],
-       [
-        "Qul a'udzu birabbil falaq",
-        "ayat pertama Al-Falaq"
+        "Qul huwallahu ahad",
+        "Allah Yang Maha Esa"
        ],
        [
         "Allahush shamad",
-        "ayat kedua Al-Ikhlas"
+        "Allah tempat meminta"
+       ],
+       [
+        "Lam yalid wa lam yulad",
+        "Allah tidak beranak"
        ]
       ],
       "urutKanan": [
-       "ayat kedua Al-Ikhlas",
-       "ayat keempat Al-Ikhlas",
-       "ayat pertama Al-Falaq"
+       "Allah tidak beranak",
+       "Allah Yang Maha Esa",
+       "Allah tempat meminta"
       ],
-      "e": "Wa lam yakul lahu kufuwan ahad adalah ayat keempat Al-Ikhlas, Qul a'udzu birabbil falaq ayat pertama Al-Falaq, dan Allahush shamad ayat kedua Al-Ikhlas."
+      "e": "Bagian itu berisi Allah Yang Maha Esa, Allah tempat meminta, dan Allah tidak beranak."
+     },
+     {
+      "tipe": "bs",
+      "t": "Berkata benar meski sulit disebut jujur.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, sikap itu bernama jujur."
+     },
+     {
+      "tipe": "pg",
+      "t": "Teman menjatuhkan pensil. Sikap yang baik adalah ....",
+      "p": [
+       "menertawakannya",
+       "membantu mengambilnya",
+       "berlari"
+      ],
+      "j": 1,
+      "e": "Membantu mengambilnya adalah sikap yang baik."
+     },
+     {
+      "tipe": "isian",
+      "t": "Ayat Al-Falaq berjumlah ....",
+      "p": [
+       "lima",
+       "empat",
+       "enam"
+      ],
+      "j": 0,
+      "e": "Ayat Al-Falaq berjumlah lima."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al-Ikhlas dan Al-Falaq termasuk surat Makkiyah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, keduanya tergolong surat Makkiyah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokkan ciri dengan surat yang tepat!",
+      "pasangan": [
+       [
+        "Makkiyah",
+        "Al-Ikhlas"
+       ],
+       [
+        "waktu subuh",
+        "Al-Falaq"
+       ],
+       [
+        "dua surat perlindungan",
+        "Mu'awwidzatain"
+       ]
+      ],
+      "urutKanan": [
+       "Mu'awwidzatain",
+       "Al-Ikhlas",
+       "Al-Falaq"
+      ],
+      "e": "Ciri Makkiyah milik Al-Ikhlas, waktu subuh milik Al-Falaq, dan dua surat perlindungan milik Mu'awwidzatain."
      }
     ]
    }
@@ -9249,35 +9249,91 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Nama-nama Allah yang baik dan indah disebut ....",
+      "t": "Nama-nama baik milik Allah disebut ....",
       "p": [
        "Asmaul Husna",
        "Rukun Islam",
        "Nabi"
       ],
       "j": 0,
-      "e": "Nama-nama Allah yang baik dan indah disebut Asmaul Husna."
+      "e": "Nama-nama baik milik Allah disebut Asmaul Husna."
      },
      {
       "tipe": "bs",
-      "t": "Sifat Allah yang disebut Al-Quddus berarti Maha Suci.",
+      "t": "Al-Quddus artinya Allah Maha Suci.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Al-Quddus menyatakan Allah Maha Suci dari kekurangan."
+      "e": "Pernyataan itu benar karena Al-Quddus artinya Allah Maha Suci."
      },
      {
       "tipe": "pg",
-      "t": "Islam didirikan di atas lima perkara; yang pertama ialah ....",
+      "t": "Rukun Islam yang pertama adalah ....",
       "p": [
+       "Haji",
        "Zakat",
-       "Shalat",
        "Syahadat"
       ],
       "j": 2,
-      "e": "Yang pertama dari lima perkara Islam ialah syahadat."
+      "e": "Rukun Islam yang pertama adalah Syahadat."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bacaan yang dibaca saat memulai kegiatan disebut ....",
+      "p": [
+       "Basmalah",
+       "Tahmid",
+       "Syahadat"
+      ],
+      "j": 0,
+      "e": "Bacaan saat memulai kegiatan disebut Basmalah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan Asmaul Husna, Al-Quddus, dan Basmalah dengan artinya!",
+      "pasangan": [
+       [
+        "Asmaul Husna",
+        "nama baik Allah"
+       ],
+       [
+        "Al-Quddus",
+        "Maha Suci"
+       ],
+       [
+        "Basmalah",
+        "baca awal kegiatan"
+       ]
+      ],
+      "urutKanan": [
+       "Maha Suci",
+       "baca awal kegiatan",
+       "nama baik Allah"
+      ],
+      "e": "Asmaul Husna artinya nama baik Allah, Al-Quddus Maha Suci, Basmalah dibaca di awal kegiatan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Rukun keempat dalam Islam ialah ....",
+      "p": [
+       "Puasa",
+       "Shalat",
+       "Syahadat"
+      ],
+      "j": 0,
+      "e": "Rukun keempat dalam Islam ialah Puasa."
+     },
+     {
+      "tipe": "bs",
+      "t": "Shalat lima waktu dikerjakan setiap hari.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, umat Islam mengerjakan shalat lima waktu setiap hari."
      },
      {
       "tipe": "isian",
@@ -9291,75 +9347,19 @@ window.KUIS = [
       "e": "Shalat Subuh terdiri dari 2 rakaat."
      },
      {
-      "tipe": "cocok",
-      "t": "Hubungkan syahadat, shalat, dan zakat dengan nomor rukun Islamnya!",
-      "pasangan": [
-       [
-        "Syahadat",
-        "1"
-       ],
-       [
-        "Shalat",
-        "2"
-       ],
-       [
-        "Zakat",
-        "3"
-       ]
-      ],
-      "urutKanan": [
-       "2",
-       "3",
-       "1"
-      ],
-      "e": "Syahadat menempati rukun pertama, shalat kedua, zakat ketiga."
-     },
-     {
       "tipe": "pg",
-      "t": "Ibadah yang berupa pembagian harta kepada yang berhak disebut ....",
+      "t": "Kota suci tempat haji ialah ....",
       "p": [
-       "Zakat",
-       "Puasa",
-       "Haji"
+       "Mekkah",
+       "Jakarta",
+       "Surabaya"
       ],
       "j": 0,
-      "e": "Pembagian sebagian harta kepada yang berhak disebut zakat."
-     },
-     {
-      "tipe": "bs",
-      "t": "Dalam ajaran Islam, shalat disebut sebagai tiang agama.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, shalat merupakan tiang agama dalam Islam."
-     },
-     {
-      "tipe": "isian",
-      "t": "Sehari semalam, shalat wajib berjumlah ... rakaat.",
-      "p": [
-       "17",
-       "15",
-       "14"
-      ],
-      "j": 0,
-      "e": "Shalat wajib lima waktu berjumlah 17 rakaat sehari semalam."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kata Al-Quddus bermakna Allah Maha ....",
-      "p": [
-       "Suci",
-       "Kaya",
-       "Tahu"
-      ],
-      "j": 0,
-      "e": "Al-Quddus bermakna Allah Maha Suci."
+      "e": "Kota suci tempat haji ialah Mekkah."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan shalat Subuh, Maghrib, dan Dzuhur dengan jumlah rakaatnya!",
+      "t": "Pasangkan shalat Subuh, Maghrib, dan Dzuhur dengan banyak rakaatnya!",
       "pasangan": [
        [
         "Subuh",
@@ -9383,667 +9383,49 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Allah tidak memiliki sifat buruk.",
+      "t": "Zakat fitrah diberikan kepada orang yang tidak mampu.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Allah Maha Suci sehingga tidak memiliki sifat buruk."
+      "e": "Benar, zakat fitrah disalurkan kepada orang yang tidak mampu."
      },
      {
       "tipe": "pg",
-      "t": "Jika rakaat Maghrib dan Isya dijumlahkan, hasilnya ....",
+      "t": "Bacaan Tahmid dibaca ketika ....",
       "p": [
-       "6",
-       "7",
-       "8"
+       "awal kegiatan",
+       "selesai kegiatan",
+       "saat shalat"
       ],
       "j": 1,
-      "e": "Maghrib 3 rakaat dan Isya 4 rakaat, dijumlahkan menjadi 7."
+      "e": "Bacaan Tahmid dibaca ketika selesai kegiatan."
      },
      {
       "tipe": "isian",
-      "t": "Menjaga kebersihan diri dengan mandi dan gosok gigi termasuk teladan ....",
+      "t": "Nabi Muhammad adalah utusan Allah. Kalimat itu berarti syahadat ....",
       "p": [
-       "Al-Quddus",
-       "Rukun Islam",
-       "Zakat"
+       "rasul",
+       "tauhid",
+       "haji"
       ],
       "j": 0,
-      "e": "Mandi dan gosok gigi adalah cara meneladani Al-Quddus."
+      "e": "Kalimat itu adalah syahadat rasul."
      },
      {
       "tipe": "bs",
-      "t": "Haji menempati rukun Islam yang kelima.",
+      "t": "Orang yang rajin shalat mendapat pahala dari Allah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, haji adalah rukun Islam kelima."
+      "e": "Benar, orang yang rajin shalat mendapat pahala dari Allah."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan shalat, zakat, dan puasa dengan pengertian masing-masing!",
-      "pasangan": [
-       [
-        "Shalat",
-        "tiang agama"
-       ],
-       [
-        "Zakat",
-        "mengeluarkan harta"
-       ],
-       [
-        "Puasa",
-        "menahan lapar"
-       ]
-      ],
-      "urutKanan": [
-       "mengeluarkan harta",
-       "menahan lapar",
-       "tiang agama"
-      ],
-      "e": "Shalat adalah tiang agama, zakat mengeluarkan harta, puasa menahan lapar."
-     }
-    ]
-   },
-   {
-    "kode": "B",
-    "nama": "Variasi B",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Berapakah jumlah seluruh nama indah milik Allah?",
-      "p": [
-       "99",
-       "50",
-       "33"
-      ],
-      "j": 0,
-      "e": "Jumlah seluruh nama indah milik Allah adalah 99."
-     },
-     {
-      "tipe": "bs",
-      "t": "Al-Quddus adalah nama Allah yang artinya Maha Kaya.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, Al-Quddus artinya Maha Suci, bukan Maha Kaya."
-     },
-     {
-      "tipe": "pg",
-      "t": "Setelah syahadat, perkara Islam yang mengikutinya adalah ....",
-      "p": [
-       "Zakat",
-       "Shalat",
-       "Puasa"
-      ],
-      "j": 1,
-      "e": "Setelah syahadat, yang mengikuti ialah shalat."
-     },
-     {
-      "tipe": "isian",
-      "t": "Shalat Dzuhur memiliki ... rakaat.",
-      "p": [
-       "4",
-       "5",
-       "6"
-      ],
-      "j": 0,
-      "e": "Shalat Dzuhur memiliki 4 rakaat."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan zakat, puasa, dan haji dengan nomor urut rukun Islamnya!",
-      "pasangan": [
-       [
-        "Zakat",
-        "3"
-       ],
-       [
-        "Puasa",
-        "4"
-       ],
-       [
-        "Haji",
-        "5"
-       ]
-      ],
-      "urutKanan": [
-       "4",
-       "5",
-       "3"
-      ],
-      "e": "Zakat rukun ketiga, puasa keempat, haji kelima."
-     },
-     {
-      "tipe": "pg",
-      "t": "Menahan lapar dan haus disebut ibadah ....",
-      "p": [
-       "Puasa",
-       "Zakat",
-       "Syahadat"
-      ],
-      "j": 0,
-      "e": "Menahan lapar dan haus disebut puasa."
-     },
-     {
-      "tipe": "bs",
-      "t": "Syahadat merupakan rukun Islam yang pertama.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, syahadat merupakan rukun Islam yang pertama."
-     },
-     {
-      "tipe": "isian",
-      "t": "Shalat Subuh dilaksanakan pada waktu ....",
-      "p": [
-       "pagi",
-       "siang",
-       "malam"
-      ],
-      "j": 0,
-      "e": "Shalat Subuh dilaksanakan pada waktu pagi."
-     },
-     {
-      "tipe": "pg",
-      "t": "Allah Maha Suci disebut dengan nama ....",
-      "p": [
-       "Al-Quddus",
-       "Al-Malik",
-       "Al-Alim"
-      ],
-      "j": 0,
-      "e": "Allah Maha Suci disebut dengan nama Al-Quddus."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Serangkaikan shalat Subuh, Dzuhur, dan Maghrib dengan waktunya!",
-      "pasangan": [
-       [
-        "Subuh",
-        "pagi"
-       ],
-       [
-        "Dzuhur",
-        "siang"
-       ],
-       [
-        "Maghrib",
-        "senja"
-       ]
-      ],
-      "urutKanan": [
-       "siang",
-       "senja",
-       "pagi"
-      ],
-      "e": "Subuh dilakukan pagi, Dzuhur siang, Maghrib senja."
-     },
-     {
-      "tipe": "bs",
-      "t": "Zakat diambil dari sebagian harta orang yang mampu.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, zakat diambil dari sebagian harta orang yang mampu."
-     },
-     {
-      "tipe": "pg",
-      "t": "Bentuk zakat fitrah yang umum diberikan adalah ....",
-      "p": [
-       "pakaian baru",
-       "buku cerita",
-       "beras sekitar 2,5 kg"
-      ],
-      "j": 2,
-      "e": "Zakat fitrah umumnya berupa beras sekitar 2,5 kg."
-     },
-     {
-      "tipe": "isian",
-      "t": "Rukun Islam setelah zakat ialah ....",
-      "p": [
-       "puasa",
-       "haji",
-       "shalat"
-      ],
-      "j": 0,
-      "e": "Rukun Islam setelah zakat ialah puasa."
-     },
-     {
-      "tipe": "bs",
-      "t": "Shalat menempati rukun pertama dalam Islam.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, yang pertama adalah syahadat; shalat menempati rukun kedua."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Tentukan pasangan yang tepat antara urutan rukun dan nama ibadahnya!",
-      "pasangan": [
-       [
-        "Rukun pertama",
-        "Syahadat"
-       ],
-       [
-        "Rukun kedua",
-        "Shalat"
-       ],
-       [
-        "Rukun ketiga",
-        "Zakat"
-       ]
-      ],
-      "urutKanan": [
-       "Shalat",
-       "Zakat",
-       "Syahadat"
-      ],
-      "e": "Rukun pertama syahadat, kedua shalat, ketiga zakat."
-     }
-    ]
-   },
-   {
-    "kode": "C",
-    "nama": "Variasi C",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Arti sebutan Al-Quddus bagi Allah ialah ....",
-      "p": [
-       "Maha Suci",
-       "Maha Kuasa",
-       "Maha Kaya"
-      ],
-      "j": 0,
-      "e": "Arti sebutan Al-Quddus bagi Allah ialah Maha Suci."
-     },
-     {
-      "tipe": "bs",
-      "t": "Asmaul Husna merupakan nama-nama Allah yang indah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, Asmaul Husna adalah nama-nama Allah yang indah."
-     },
-     {
-      "tipe": "pg",
-      "t": "Berapa perkara yang membentuk rukun Islam?",
-      "p": [
-       "3",
-       "5",
-       "6"
-      ],
-      "j": 1,
-      "e": "Rukun Islam terbentuk dari 5 perkara."
-     },
-     {
-      "tipe": "isian",
-      "t": "Shalat disebut tiang agama karena menempati rukun Islam ke-....",
-      "p": [
-       "1",
-       "2",
-       "3"
-      ],
-      "j": 1,
-      "e": "Shalat adalah tiang agama dan menempati rukun Islam ke-2."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan shalat, zakat, dan puasa dengan nomor rukun yang tepat!",
-      "pasangan": [
-       [
-        "Shalat",
-        "2"
-       ],
-       [
-        "Zakat",
-        "3"
-       ],
-       [
-        "Puasa",
-        "4"
-       ]
-      ],
-      "urutKanan": [
-       "4",
-       "2",
-       "3"
-      ],
-      "e": "Shalat rukun kedua, zakat ketiga, puasa keempat."
-     },
-     {
-      "tipe": "pg",
-      "t": "Banyak rakaat dalam shalat Isya adalah ....",
-      "p": [
-       "3",
-       "4",
-       "5"
-      ],
-      "j": 1,
-      "e": "Banyak rakaat dalam shalat Isya adalah 4."
-     },
-     {
-      "tipe": "bs",
-      "t": "Zakat berada pada rukun Islam ketiga.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, zakat berada pada rukun Islam ketiga."
-     },
-     {
-      "tipe": "isian",
-      "t": "Shalat Maghrib dilakukan ketika ....",
-      "p": [
-       "senja",
-       "pagi",
-       "siang"
-      ],
-      "j": 0,
-      "e": "Shalat Maghrib dilakukan ketika senja."
-     },
-     {
-      "tipe": "pg",
-      "t": "Allah Maha Suci dan terbebas dari segala ....",
-      "p": [
-       "kekurangan",
-       "pujian",
-       "nikmat"
-      ],
-      "j": 0,
-      "e": "Allah Maha Suci dan terbebas dari segala kekurangan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan Dzuhur, Maghrib, dan Isya dengan waktu pelaksanaannya!",
-      "pasangan": [
-       [
-        "Dzuhur",
-        "siang"
-       ],
-       [
-        "Maghrib",
-        "senja"
-       ],
-       [
-        "Isya",
-        "malam"
-       ]
-      ],
-      "urutKanan": [
-       "malam",
-       "siang",
-       "senja"
-      ],
-      "e": "Dzuhur siang, Maghrib senja, Isya malam."
-     },
-     {
-      "tipe": "bs",
-      "t": "Jumlah rukun Islam bukan enam, melainkan lima.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, jumlah rukun Islam lima, bukan enam."
-     },
-     {
-      "tipe": "pg",
-      "t": "Penerima zakat yang berhak adalah ....",
-      "p": [
-       "fakir miskin",
-       "orang kaya",
-       "pedagang"
-      ],
-      "j": 0,
-      "e": "Zakat berhak diterima oleh fakir miskin."
-     },
-     {
-      "tipe": "isian",
-      "t": "Ibadah haji merupakan rukun Islam yang ke-....",
-      "p": [
-       "2",
-       "4",
-       "5"
-      ],
-      "j": 2,
-      "e": "Haji merupakan rukun Islam yang ke-5."
-     },
-     {
-      "tipe": "bs",
-      "t": "Shalat adalah ibadah yang ditujukan hanya kepada Allah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, shalat ditujukan hanya kepada Allah."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan bagian tubuh atau lingkungan dengan cara menjaga kesuciannya!",
-      "pasangan": [
-       [
-        "Menjaga badan",
-        "mandi dan wudu"
-       ],
-       [
-        "Menjaga pakaian",
-        "mencuci baju"
-       ],
-       [
-        "Menjaga hati",
-        "berkata jujur"
-       ]
-      ],
-      "urutKanan": [
-       "mencuci baju",
-       "berkata jujur",
-       "mandi dan wudu"
-      ],
-      "e": "Menjaga badan dengan mandi dan wudu, pakaian dengan mencuci baju, hati dengan berkata jujur."
-     }
-    ]
-   },
-   {
-    "kode": "D",
-    "nama": "Variasi D",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Zakat Fitrah wajib ditunaikan pada bulan ....",
-      "p": [
-       "Ramadhan",
-       "Rajab",
-       "Muharram"
-      ],
-      "j": 0,
-      "e": "Zakat Fitrah ditunaikan pada bulan Ramadhan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Al-Quddus berarti Allah Maha Besar.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, Al-Quddus berarti Allah Maha Suci."
-     },
-     {
-      "tipe": "pg",
-      "t": "Shalat dikerjakan lima waktu sehari, sedangkan zakat menyalurkan ....",
-      "p": [
-       "harta",
-       "makanan ringan",
-       "pakaian"
-      ],
-      "j": 0,
-      "e": "Shalat dikerjakan lima waktu sehari, sedangkan zakat menyalurkan harta."
-     },
-     {
-      "tipe": "isian",
-      "t": "Banyak rakaat shalat Ashar adalah ....",
-      "p": [
-       "3",
-       "4",
-       "6"
-      ],
-      "j": 1,
-      "e": "Shalat Ashar terdiri dari 4 rakaat."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Cocokkan shalat Subuh, Maghrib, dan Isya dengan banyak rakaatnya!",
-      "pasangan": [
-       [
-        "Subuh",
-        "2"
-       ],
-       [
-        "Maghrib",
-        "3"
-       ],
-       [
-        "Isya",
-        "4"
-       ]
-      ],
-      "urutKanan": [
-       "3",
-       "4",
-       "2"
-      ],
-      "e": "Subuh 2 rakaat, Maghrib 3 rakaat, Isya 4 rakaat."
-     },
-     {
-      "tipe": "pg",
-      "t": "Shalat yang pelaksanaannya pagi ialah ....",
-      "p": [
-       "Isya",
-       "Dzuhur",
-       "Subuh"
-      ],
-      "j": 2,
-      "e": "Shalat yang pelaksanaannya pagi ialah Subuh."
-     },
-     {
-      "tipe": "bs",
-      "t": "Zakat menduduki rukun Islam yang kedua.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, zakat menduduki rukun Islam yang ketiga."
-     },
-     {
-      "tipe": "isian",
-      "t": "Rukun Islam keempat adalah ibadah ....",
-      "p": [
-       "haji",
-       "puasa",
-       "syahadat"
-      ],
-      "j": 1,
-      "e": "Rukun Islam keempat adalah ibadah puasa."
-     },
-     {
-      "tipe": "pg",
-      "t": "Mengeluarkan sebagian harta bagi orang miskin disebut ....",
-      "p": [
-       "Zakat",
-       "Shalat",
-       "Haji"
-      ],
-      "j": 0,
-      "e": "Mengeluarkan sebagian harta bagi orang miskin disebut zakat."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Serangkai nama shalat dengan waktu shalat: Subuh, Isya, Maghrib!",
-      "pasangan": [
-       [
-        "Subuh",
-        "pagi"
-       ],
-       [
-        "Isya",
-        "malam"
-       ],
-       [
-        "Maghrib",
-        "senja"
-       ]
-      ],
-      "urutKanan": [
-       "malam",
-       "senja",
-       "pagi"
-      ],
-      "e": "Subuh pagi, Isya malam, Maghrib senja."
-     },
-     {
-      "tipe": "bs",
-      "t": "Zakat Fitrah ditunaikan setelah shalat Idul Fitri.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, Zakat Fitrah ditunaikan sebelum shalat Idul Fitri."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tiang agama berada di rukun Islam nomor ....",
-      "p": [
-       "1",
-       "2",
-       "4"
-      ],
-      "j": 1,
-      "e": "Tiang agama, yaitu shalat, berada di rukun Islam nomor 2."
-     },
-     {
-      "tipe": "isian",
-      "t": "Menjaga kesucian lisan dilakukan dengan berkata ....",
-      "p": [
-       "jujur",
-       "pedas",
-       "keras"
-      ],
-      "j": 0,
-      "e": "Menjaga kesucian lisan dilakukan dengan berkata jujur dan sopan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Rukun Islam berjumlah lima perkara.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, rukun Islam berjumlah lima perkara."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Cocokkan urutan pertama, kedua, dan ketiga dengan nama rukun Islamnya!",
+      "t": "Cocokkan rukun Islam pertama, kedua, dan ketiga dengan namanya!",
       "pasangan": [
        [
         "Pertama",
@@ -10063,7 +9445,625 @@ window.KUIS = [
        "Syahadat",
        "Shalat"
       ],
-      "e": "Pertama syahadat, kedua shalat, ketiga zakat."
+      "e": "Rukun pertama syahadat, kedua shalat, ketiga zakat."
+     }
+    ]
+   },
+   {
+    "kode": "B",
+    "nama": "Variasi B",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Jumlah seluruh nama indah Allah adalah ....",
+      "p": [
+       "33",
+       "99",
+       "100"
+      ],
+      "j": 1,
+      "e": "Jumlah seluruh nama indah Allah adalah 99."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al-Quddus berarti Allah Maha Kaya.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, Al-Quddus berarti Allah Maha Suci."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ibadah yang diawali takbir dan diakhiri salam ialah ....",
+      "p": [
+       "Shalat",
+       "Zakat",
+       "Puasa"
+      ],
+      "j": 0,
+      "e": "Ibadah yang diawali takbir dan diakhiri salam ialah Shalat."
+     },
+     {
+      "tipe": "isian",
+      "t": "Rukun Islam setelah syahadat ialah ....",
+      "p": [
+       "shalat",
+       "puasa",
+       "haji"
+      ],
+      "j": 0,
+      "e": "Rukun Islam setelah syahadat ialah shalat."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan zakat, puasa, dan haji dengan nomor rukun Islamnya!",
+      "pasangan": [
+       [
+        "Zakat",
+        "3"
+       ],
+       [
+        "Puasa",
+        "4"
+       ],
+       [
+        "Haji",
+        "5"
+       ]
+      ],
+      "urutKanan": [
+       "5",
+       "3",
+       "4"
+      ],
+      "e": "Zakat rukun ketiga, puasa keempat, haji kelima."
+     },
+     {
+      "tipe": "pg",
+      "t": "Menahan lapar dan haus pada Ramadhan disebut ....",
+      "p": [
+       "Puasa",
+       "Zakat",
+       "Haji"
+      ],
+      "j": 0,
+      "e": "Menahan lapar dan haus pada Ramadhan disebut Puasa."
+     },
+     {
+      "tipe": "bs",
+      "t": "Syahadat tauhid berbunyi asyhadu alla ilaha illallah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, itu bunyi syahadat tauhid."
+     },
+     {
+      "tipe": "isian",
+      "t": "Shalat Dzuhur mempunyai ... rakaat.",
+      "p": [
+       "3",
+       "4",
+       "5"
+      ],
+      "j": 1,
+      "e": "Shalat Dzuhur mempunyai 4 rakaat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Allah Maha Suci disebut dengan nama ....",
+      "p": [
+       "Al-Malik",
+       "Al-Quddus",
+       "Al-Alim"
+      ],
+      "j": 1,
+      "e": "Allah Maha Suci disebut dengan nama Al-Quddus."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Serangkaikan Dzuhur, Ashar, dan Isya dengan jumlah rakaatnya!",
+      "pasangan": [
+       [
+        "Dzuhur",
+        "siang"
+       ],
+       [
+        "Ashar",
+        "sore"
+       ],
+       [
+        "Isya",
+        "malam"
+       ]
+      ],
+      "urutKanan": [
+       "malam",
+       "siang",
+       "sore"
+      ],
+      "e": "Dzuhur waktu siang, Ashar sore, Isya malam."
+     },
+     {
+      "tipe": "bs",
+      "t": "Zakat diambil dari sebagian harta orang yang mampu.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, zakat diambil dari sebagian harta orang yang mampu."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bentuk zakat fitrah yang biasa diberikan ialah ....",
+      "p": [
+       "beras",
+       "buku",
+       "mainan"
+      ],
+      "j": 0,
+      "e": "Bentuk zakat fitrah yang biasa diberikan ialah beras."
+     },
+     {
+      "tipe": "isian",
+      "t": "Haji dilaksanakan di kota suci Mekkah dan ....",
+      "p": [
+       "Jakarta",
+       "Bandung",
+       "Madinah"
+      ],
+      "j": 2,
+      "e": "Haji dilaksanakan di kota suci Mekkah dan Madinah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Shalat menempati rukun Islam yang kedua.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, shalat menempati rukun Islam yang kedua."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tentukan pasangan syahadat tauhid dan syahadat rasul dengan artinya!",
+      "pasangan": [
+       [
+        "Syahadat tauhid",
+        "tiada tuhan selain Allah"
+       ],
+       [
+        "Syahadat rasul",
+        "Nabi Muhammad utusan Allah"
+       ],
+       [
+        "Basmalah",
+        "awal kegiatan"
+       ]
+      ],
+      "urutKanan": [
+       "awal kegiatan",
+       "tiada tuhan selain Allah",
+       "Nabi Muhammad utusan Allah"
+      ],
+      "e": "Syahadat tauhid artinya tiada tuhan selain Allah, syahadat rasul artinya Nabi Muhammad utusan Allah, Basmalah dibaca di awal kegiatan."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Arti Al-Quddus ialah Allah Maha ....",
+      "p": [
+       "Kuasa",
+       "Suci",
+       "Kaya"
+      ],
+      "j": 1,
+      "e": "Arti Al-Quddus ialah Allah Maha Suci."
+     },
+     {
+      "tipe": "bs",
+      "t": "Nama indah Allah disebut Asmaul Husna.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, nama indah Allah disebut Asmaul Husna."
+     },
+     {
+      "tipe": "pg",
+      "t": "Rukun Islam berjumlah .... perkara.",
+      "p": [
+       "3",
+       "5",
+       "6"
+      ],
+      "j": 1,
+      "e": "Rukun Islam berjumlah 5 perkara."
+     },
+     {
+      "tipe": "isian",
+      "t": "Zakat ada dua macam, yaitu zakat fitrah dan zakat ....",
+      "p": [
+       "maal",
+       "haji",
+       "puasa"
+      ],
+      "j": 0,
+      "e": "Zakat ada dua macam, yaitu zakat fitrah dan zakat maal."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan Basmalah, Tahmid, dan syahadat tauhid dengan kegunaannya!",
+      "pasangan": [
+       [
+        "Basmalah",
+        "dibaca awal kegiatan"
+       ],
+       [
+        "Tahmid",
+        "dibaca akhir kegiatan"
+       ],
+       [
+        "Syahadat tauhid",
+        "bersaksi tiada tuhan selain Allah"
+       ]
+      ],
+      "urutKanan": [
+       "dibaca akhir kegiatan",
+       "bersaksi tiada tuhan selain Allah",
+       "dibaca awal kegiatan"
+      ],
+      "e": "Basmalah dibaca di awal kegiatan, Tahmid di akhir kegiatan, syahadat tauhid untuk bersaksi."
+     },
+     {
+      "tipe": "pg",
+      "t": "Shalat Isya terdiri atas ... rakaat.",
+      "p": [
+       "2",
+       "4",
+       "7"
+      ],
+      "j": 1,
+      "e": "Shalat Isya terdiri atas 4 rakaat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Zakat berada pada rukun Islam ketiga.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, zakat berada pada rukun Islam ketiga."
+     },
+     {
+      "tipe": "isian",
+      "t": "Shalat Maghrib dikerjakan pada waktu ....",
+      "p": [
+       "senja",
+       "pagi",
+       "siang"
+      ],
+      "j": 0,
+      "e": "Shalat Maghrib dikerjakan pada waktu senja."
+     },
+     {
+      "tipe": "pg",
+      "t": "Allah terbebas dari segala kekurangan karena bersifat ....",
+      "p": [
+       "Maha Suci",
+       "Maha Kaya",
+       "Maha Kuasa"
+      ],
+      "j": 0,
+      "e": "Allah terbebas dari segala kekurangan karena bersifat Maha Suci."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan Ashar, Maghrib, dan Subuh dengan waktu pelaksanaannya!",
+      "pasangan": [
+       [
+        "Ashar",
+        "sore"
+       ],
+       [
+        "Maghrib",
+        "senja"
+       ],
+       [
+        "Subuh",
+        "pagi"
+       ]
+      ],
+      "urutKanan": [
+       "pagi",
+       "sore",
+       "senja"
+      ],
+      "e": "Ashar dikerjakan sore, Maghrib senja, Subuh pagi."
+     },
+     {
+      "tipe": "bs",
+      "t": "Puasa umat Islam dilaksanakan pada bulan Ramadhan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, puasa dilaksanakan pada bulan Ramadhan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Orang miskin yang berhak menerima zakat disebut ....",
+      "p": [
+       "fakir",
+       "kaya",
+       "pedagang"
+      ],
+      "j": 0,
+      "e": "Orang miskin yang berhak menerima zakat disebut fakir."
+     },
+     {
+      "tipe": "isian",
+      "t": "Rukun Islam nomor lima ialah ....",
+      "p": [
+       "puasa",
+       "umroh",
+       "haji"
+      ],
+      "j": 2,
+      "e": "Rukun Islam nomor lima ialah haji."
+     },
+     {
+      "tipe": "bs",
+      "t": "Shalat dilakukan hanya kepada Allah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, shalat dilakukan hanya kepada Allah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokkan menjaga badan, menjaga lisan, dan menjaga hati dengan caranya!",
+      "pasangan": [
+       [
+        "Menjaga badan",
+        "mandi"
+       ],
+       [
+        "Menjaga lisan",
+        "berkata jujur"
+       ],
+       [
+        "Menjaga hati",
+        "tidak dengki"
+       ]
+      ],
+      "urutKanan": [
+       "tidak dengki",
+       "mandi",
+       "berkata jujur"
+      ],
+      "e": "Menjaga badan dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki."
+     }
+    ]
+   },
+   {
+    "kode": "D",
+    "nama": "Variasi D",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Zakat fitrah ditunaikan pada bulan ....",
+      "p": [
+       "Ramadhan",
+       "Rajab",
+       "Muharram"
+      ],
+      "j": 0,
+      "e": "Zakat fitrah ditunaikan pada bulan Ramadhan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Al-Quddus bermakna Allah Maha Besar.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, Al-Quddus bermakna Allah Maha Suci."
+     },
+     {
+      "tipe": "pg",
+      "t": "Rukun Islam yang kedua ialah ....",
+      "p": [
+       "Haji",
+       "Shalat",
+       "Zakat"
+      ],
+      "j": 1,
+      "e": "Rukun Islam yang kedua ialah Shalat."
+     },
+     {
+      "tipe": "isian",
+      "t": "Banyak rakaat shalat Ashar ialah ....",
+      "p": [
+       "4",
+       "3",
+       "8"
+      ],
+      "j": 0,
+      "e": "Shalat Ashar terdiri dari 4 rakaat."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan nama shalat dengan jumlah rakaatnya: Maghrib, Isya, Subuh!",
+      "pasangan": [
+       [
+        "Maghrib",
+        "tiga"
+       ],
+       [
+        "Isya",
+        "empat"
+       ],
+       [
+        "Subuh",
+        "dua"
+       ]
+      ],
+      "urutKanan": [
+       "empat",
+       "dua",
+       "tiga"
+      ],
+      "e": "Maghrib tiga rakaat, Isya empat rakaat, Subuh dua rakaat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Shalat yang dikerjakan pagi ialah ....",
+      "p": [
+       "Isya",
+       "Dzuhur",
+       "Subuh"
+      ],
+      "j": 2,
+      "e": "Shalat yang dikerjakan pagi ialah Subuh."
+     },
+     {
+      "tipe": "bs",
+      "t": "Zakat menempati rukun Islam nomor tiga.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, zakat menempati rukun Islam nomor tiga."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bacaan yang dibaca setelah selesai kegiatan disebut ....",
+      "p": [
+       "Tahmid",
+       "Basmalah",
+       "Takbir"
+      ],
+      "j": 0,
+      "e": "Bacaan yang dibaca setelah selesai kegiatan disebut Tahmid."
+     },
+     {
+      "tipe": "pg",
+      "t": "Mengeluarkan sebagian harta untuk orang miskin disebut ....",
+      "p": [
+       "Zakat",
+       "Shalat",
+       "Umroh"
+      ],
+      "j": 0,
+      "e": "Mengeluarkan sebagian harta untuk orang miskin disebut Zakat."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan rukun Islam keempat, kelima, dan pertama dengan ibadahnya!",
+      "pasangan": [
+       [
+        "Keempat",
+        "Puasa"
+       ],
+       [
+        "Kelima",
+        "Haji"
+       ],
+       [
+        "Pertama",
+        "Syahadat"
+       ]
+      ],
+      "urutKanan": [
+       "Syahadat",
+       "Puasa",
+       "Haji"
+      ],
+      "e": "Rukun keempat puasa, kelima haji, pertama syahadat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Zakat fitrah ditunaikan sebelum shalat Idul Fitri.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, zakat fitrah ditunaikan sebelum shalat Idul Fitri."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bunyi salam penutup shalat ialah ....",
+      "p": [
+       "Assalamualaikum warahmatullahi wabarakatuh",
+       "Alhamdulillahirobbil alamin",
+       "Bismillahirrahmanirrahim"
+      ],
+      "j": 0,
+      "e": "Bunyi salam penutup shalat ialah Assalamualaikum warahmatullahi wabarakatuh."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bunyi syahadat rasul diakhiri dengan kata ....",
+      "p": [
+       "rasulullah",
+       "illallah",
+       "alamin"
+      ],
+      "j": 0,
+      "e": "Bunyi syahadat rasul diakhiri dengan kata rasulullah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Lima perkara membentuk rukun Islam.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, rukun Islam berjumlah lima perkara."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokkan Al-Quddus, Basmalah, dan Tahmid dengan maknanya!",
+      "pasangan": [
+       [
+        "Al-Quddus",
+        "Allah Maha Suci"
+       ],
+       [
+        "Basmalah",
+        "dibaca di awal"
+       ],
+       [
+        "Tahmid",
+        "dibaca di akhir"
+       ]
+      ],
+      "urutKanan": [
+       "dibaca di akhir",
+       "Allah Maha Suci",
+       "dibaca di awal"
+      ],
+      "e": "Al-Quddus artinya Allah Maha Suci, Basmalah dibaca di awal, Tahmid dibaca di akhir."
      }
     ]
    }
@@ -10088,203 +10088,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Tata tertib keluarga wajib ....",
+      "t": "Kesepakatan di rumah yang harus ditaati bersama disebut ....",
       "p": [
-       "ditaati",
-       "dilanggar",
-       "diabaikan"
+       "aturan keluarga",
+       "kebetulan",
+       "paksaan"
       ],
       "j": 0,
-      "e": "Tata tertib keluarga wajib ditaati semua orang."
+      "e": "Kesepakatan di rumah yang ditaati bersama disebut aturan keluarga."
      },
      {
       "tipe": "bs",
-      "t": "Sepatu disimpan di rak setelah pulang sekolah.",
+      "t": "Semua anggota keluarga ikut mematuhi aturan yang sudah disepakati.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, sepatu disimpan di rak setelah pulang sekolah."
+      "e": "Benar, aturan yang disepakati berlaku untuk semua orang di rumah."
      },
      {
       "tipe": "pg",
-      "t": "Contoh aturan di rumah ialah merapikan ....",
+      "t": "Rumah terasa tertib dan nyaman bila anggota keluarga ....",
+      "p": [
+       "berteriak",
+       "mematuhi aturan",
+       "melanggar aturan"
+      ],
+      "j": 1,
+      "e": "Rumah menjadi tertib dan nyaman bila anggota keluarga mematuhi aturan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Setelah bangun pagi, sebaiknya kita merapikan ....",
       "p": [
        "tempat tidur",
-       "mainan",
-       "halaman"
+       "meja makan",
+       "rak sepatu"
       ],
       "j": 0,
-      "e": "Merapikan tempat tidur termasuk aturan di rumah."
-     },
-     {
-      "tipe": "isian",
-      "t": "Kebersihan rumah terjaga bila semua ....",
-      "p": [
-       "patuh",
-       "lupa",
-       "malas"
-      ],
-      "j": 0,
-      "e": "Kebersihan rumah terjaga bila semua patuh."
+      "e": "Setelah bangun pagi kita merapikan tempat tidur sendiri."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan rutinitas pagi dengan hasilnya!",
+      "t": "Pasangkan kegiatan pagi dengan sikap yang sesuai aturan!",
       "pasangan": [
        [
-        "Bangun tidur",
-        "tempat tidur rapi"
+        "Waktu bangun",
+        "Bangun tepat waktu"
        ],
        [
-        "Sarapan",
-        "perut kenyang"
+        "Waktu belajar",
+        "Mematikan televisi"
        ],
        [
-        "Berpamitan",
-        "izin didapat"
+        "Waktu bermain",
+        "Berhenti saat waktu habis"
        ]
       ],
       "urutKanan": [
-       "izin didapat",
-       "tempat tidur rapi",
-       "perut kenyang"
+       "Mematikan televisi",
+       "Berhenti saat waktu habis",
+       "Bangun tepat waktu"
       ],
-      "e": "Bangun tidur tempat tidur rapi, sarapan perut kenyang, berpamitan izin didapat."
+      "e": "Waktu bangun diisi bangun tepat waktu, waktu belajar mematikan televisi, waktu bermain berhenti saat waktu habis."
      },
      {
       "tipe": "pg",
-      "t": "Sikap terpuji kepada orang tua adalah ....",
+      "t": "Contoh sikap disiplin di rumah adalah ....",
       "p": [
-       "mendengarkan nasihat",
-       "membantah",
-       "berteriak"
-      ],
-      "j": 0,
-      "e": "Mendengarkan nasihat orang tua adalah sikap terpuji."
-     },
-     {
-      "tipe": "bs",
-      "t": "Membuang sampah di lantai dibenarkan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, sampah harus masuk ke tempat sampah."
-     },
-     {
-      "tipe": "isian",
-      "t": "Sebelum pergi bermain, kita wajib ....",
-      "p": [
-       "pamit",
-       "lari",
-       "teriak"
-      ],
-      "j": 0,
-      "e": "Sebelum pergi bermain kita wajib pamit."
-     },
-     {
-      "tipe": "pg",
-      "t": "Alasan aturan dibuat bersama ialah agar ....",
-      "p": [
-       "sebagian untung",
-       "tidak jelas",
-       "semua merasa adil"
+       "menunda tugas",
+       "tidur larut",
+       "bangun tepat waktu"
       ],
       "j": 2,
-      "e": "Aturan dibuat bersama agar semua merasa adil."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan kegiatan dengan manfaatnya!",
-      "pasangan": [
-       [
-        "Mencuci tangan",
-        "kuman hilang"
-       ],
-       [
-        "Tidur tepat waktu",
-        "bangun segar"
-       ],
-       [
-        "Membantu ibu",
-        "kerja ringan"
-       ]
-      ],
-      "urutKanan": [
-       "kerja ringan",
-       "kuman hilang",
-       "bangun segar"
-      ],
-      "e": "Mencuci tangan kuman hilang, tidur tepat waktu bangun segar, membantu ibu kerja ringan."
+      "e": "Bangun tepat waktu adalah contoh sikap disiplin di rumah."
      },
      {
       "tipe": "bs",
-      "t": "Anggota keluarga tak perlu ikut aturan.",
+      "t": "Kakak mengingatkan adik dengan kata-kata yang lembut.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, semua anggota keluarga ikut aturan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Jika ibu memanggil, sebaiknya kita ....",
-      "p": [
-       "menyahut",
-       "berpura-pura tidur",
-       "lari"
-      ],
       "j": 0,
-      "e": "Sebaiknya kita menyahut panggilan ibu."
+      "e": "Benar, kata yang lembut membuat adik mau mendengarkan pengingat."
      },
      {
       "tipe": "isian",
-      "t": "Kurang tidur membuat badan terasa ....",
+      "t": "Anak boleh menyampaikan pendapat kepada orang tua dengan cara ....",
       "p": [
-       "bugar",
-       "mengantuk",
-       "kuat"
+       "sopan",
+       "berteriak",
+       "memotong pembicaraan"
       ],
-      "j": 1,
-      "e": "Kurang tidur membuat badan terasa mengantuk."
+      "j": 0,
+      "e": "Pendapat kepada orang tua sebaiknya disampaikan dengan cara sopan."
      },
      {
-      "tipe": "bs",
-      "t": "Aturan hanya berlaku saat ada orang tua di rumah.",
+      "tipe": "pg",
+      "t": "Jika aturan dilanggar, orang lain bisa merasa ....",
       "p": [
-       "Benar",
-       "Salah"
+       "senang",
+       "kecewa",
+       "bugar"
       ],
       "j": 1,
-      "e": "Salah, aturan tetap berlaku kapan saja."
+      "e": "Melanggar aturan membuat orang lain merasa kecewa."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan perbuatan dengan akibatnya!",
+      "t": "Hubungkan pelanggaran dengan akibatnya!",
       "pasangan": [
        [
-        "Membiarkan tempat tidur berantakan",
-        "kamar kotor"
+        "Meninggalkan mainan",
+        "lantai menjadi berantakan"
        ],
        [
-        "Tidur larut",
-        "mengantuk di kelas"
+        "Tidur melewati kesepakatan",
+        "bangun terlambat"
        ],
        [
         "Membuang sampah sembarangan",
-        "rumah kotor"
+        "rumah menjadi kotor"
        ]
       ],
       "urutKanan": [
-       "rumah kotor",
-       "kamar kotor",
-       "mengantuk di kelas"
+       "rumah menjadi kotor",
+       "lantai menjadi berantakan",
+       "bangun terlambat"
       ],
-      "e": "Membiarkan tempat tidur berantakan kamar kotor, tidur larut mengantuk di kelas, membuang sampah sembarangan rumah kotor."
+      "e": "Mainan ditinggal membuat lantai berantakan, tidur melewati kesepakatan membuat bangun terlambat, sampah sembarangan membuat rumah kotor."
+     },
+     {
+      "tipe": "bs",
+      "t": "Ayah dan ibu memberi teladan dengan mematuhi aturan di rumah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, teladan orang tua adalah contoh perilaku baik yang bisa ditiru anak."
+     },
+     {
+      "tipe": "pg",
+      "t": "Saat waktu belajar tiba, kita sebaiknya ....",
+      "p": [
+       "mematikan televisi",
+       "menyalakan televisi",
+       "bermain di luar"
+      ],
+      "j": 0,
+      "e": "Saat waktu belajar kita mematikan televisi agar bisa fokus."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kesalahan yang sudah dibuat sebaiknya kita ....",
+      "p": [
+       "diakui jujur",
+       "disembunyikan",
+       "dipindahkan"
+      ],
+      "j": 0,
+      "e": "Kesalahan sebaiknya diakui jujur dan diminta maaf."
+     },
+     {
+      "tipe": "bs",
+      "t": "Mengejek orang yang lupa aturan adalah cara mengingatkan yang baik.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, mengejek menyakiti perasaan. Ingatkanlah dengan ramah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokkan sikap dengan nilainya!",
+      "pasangan": [
+       [
+        "Mengerjakan tugas sendiri",
+        "tanggung jawab"
+       ],
+       [
+        "Menepati waktu tidur",
+        "disiplin"
+       ],
+       [
+        "Bicara tidak berteriak",
+        "sopan"
+       ]
+      ],
+      "urutKanan": [
+       "disiplin",
+       "sopan",
+       "tanggung jawab"
+      ],
+      "e": "Tugas dikerjakan sendiri berarti tanggung jawab, waktu tidur ditepati berarti disiplin, bicara pelan berarti sopan."
      }
     ]
    },
@@ -10294,203 +10294,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kesepakatan bersama di keluarga disebut ....",
+      "t": "Kesepakatan anggota keluarga tentang apa yang boleh dan harus dilakukan disebut ....",
       "p": [
-       "aturan",
-       "kebetulan",
-       "paksaan"
+       "aturan rumah",
+       "peraturan desa",
+       "keinginan tetangga"
       ],
       "j": 0,
-      "e": "Kesepakatan bersama di keluarga disebut aturan."
+      "e": "Kesepakatan itu disebut aturan rumah."
      },
      {
       "tipe": "bs",
-      "t": "Cuci tangan sebelum makan termasuk aturan.",
+      "t": "Ibu mencontohkan cara merapikan tempat tidur setiap pagi.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, cuci tangan sebelum makan termasuk aturan."
+      "e": "Benar, ibu memberi teladan dengan merapikan tempat tidur lebih dulu."
      },
      {
       "tipe": "pg",
-      "t": "Manfaat mematuhi aturan bagi rumah adalah ....",
+      "t": "Tanggung jawab anak di rumah terlihat dari ....",
       "p": [
-       "ribut",
+       "menunggu disuruh",
+       "menyiapkan buku sendiri",
+       "meninggalkan tugas"
+      ],
+      "j": 1,
+      "e": "Menyiapkan buku sendiri menunjukkan sikap tanggung jawab."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sebelum bermain di luar, kita perlu meminta ....",
+      "p": [
+       "izin",
+       "uang",
+       "hadiah"
+      ],
+      "j": 0,
+      "e": "Sebelum bermain di luar rumah kita meminta izin lebih dulu."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tentukan pasangan yang tepat antara waktu dan aturannya!",
+      "pasangan": [
+       [
+        "Waktu tidur",
+        "Tidur sesuai kesepakatan"
+       ],
+       [
+        "Waktu kebersihan",
+        "Membuang sampah ke tempatnya"
+       ],
+       [
+        "Waktu bicara",
+        "Berbicara dengan suara pelan"
+       ]
+      ],
+      "urutKanan": [
+       "Berbicara dengan suara pelan",
+       "Tidur sesuai kesepakatan",
+       "Membuang sampah ke tempatnya"
+      ],
+      "e": "Saat tidur kita tidur sesuai kesepakatan, saat kebersihan sampah masuk tempatnya, saat bicara suara dipelankan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bila semua mematuhi aturan, keluarga menjadi ....",
+      "p": [
        "rukun",
-       "kacau"
-      ],
-      "j": 1,
-      "e": "Mematuhi aturan membuat rumah menjadi rukun."
-     },
-     {
-      "tipe": "isian",
-      "t": "Tangan kanan dipakai saat ....",
-      "p": [
-       "makan",
-       "berlari",
-       "menendang"
+       "ribut",
+       "bingung"
       ],
       "j": 0,
-      "e": "Saat makan kita memakai tangan kanan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Tentukan pasangan yang tepat untuk tiap kebiasaan!",
-      "pasangan": [
-       [
-        "Sebelum makan",
-        "berdoa"
-       ],
-       [
-        "Sesudah bangun",
-        "merapikan tempat tidur"
-       ],
-       [
-        "Pulang sekolah",
-        "menyimpan sepatu"
-       ]
-      ],
-      "urutKanan": [
-       "menyimpan sepatu",
-       "berdoa",
-       "merapikan tempat tidur"
-      ],
-      "e": "Sebelum makan berdoa, sesudah bangun merapikan tempat tidur, pulang sekolah menyimpan sepatu."
-     },
-     {
-      "tipe": "pg",
-      "t": "Perbuatan yang mencerminkan ketaatan ialah ....",
-      "p": [
-       "berpamitan",
-       "berbohong",
-       "memukul"
-      ],
-      "j": 0,
-      "e": "Berpamitan mencerminkan ketaatan kepada orang tua."
+      "e": "Keluarga menjadi rukun bila semua anggota mematuhi aturan."
      },
      {
       "tipe": "bs",
-      "t": "Melanggar aturan tidur membuat kita segar.",
+      "t": "Anak dilarang mengemukakan pendapat di rumah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, tidur larut membuat kita mengantuk."
+      "e": "Salah, anak boleh berpendapat asal dengan cara yang sopan."
      },
      {
       "tipe": "isian",
-      "t": "Sikap saat dinasihati ayah adalah ....",
+      "t": "Saat ada yang lupa aturan, ajaklah ia dengan suara ....",
       "p": [
-       "mendengar",
-       "memotong",
-       "menertawakan"
+       "lembut",
+       "keras",
+       "berteriak"
       ],
       "j": 0,
-      "e": "Sikap saat dinasihati ayah adalah mendengar dengan baik."
+      "e": "Ajaklah dengan suara lembut ketika ada yang lupa aturan."
      },
      {
       "tipe": "pg",
-      "t": "Rumah menjadi berantakan apabila ....",
+      "t": "Yang bukan contoh aturan waktu bermain adalah ....",
       "p": [
-       "aturan diabaikan",
-       "aturan dijalankan",
-       "barang dirapikan"
-      ],
-      "j": 0,
-      "e": "Rumah menjadi berantakan apabila aturan diabaikan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Carilah hubungan yang benar di bawah ini!",
-      "pasangan": [
-       [
-        "Belajar",
-        "pintar"
-       ],
-       [
-        "Mandi",
-        "badan bersih"
-       ],
-       [
-        "Merapikan buku",
-        "meja rapi"
-       ]
-      ],
-      "urutKanan": [
-       "badan bersih",
-       "meja rapi",
-       "pintar"
-      ],
-      "e": "Belajar pintar, mandi badan bersih, merapikan buku meja rapi."
-     },
-     {
-      "tipe": "bs",
-      "t": "Membantu pekerjaan rumah membuat beban ibu ringan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, membantu pekerjaan rumah meringankan beban ibu."
-     },
-     {
-      "tipe": "pg",
-      "t": "Contoh sikap hormat adalah ....",
-      "p": [
-       "mengejek",
-       "berpaling",
-       "mengucapkan salam"
+       "berhenti saat waktu selesai",
+       "merapikan mainan",
+       "bermain sampai larut"
       ],
       "j": 2,
-      "e": "Mengucapkan salam adalah contoh sikap hormat."
+      "e": "Bermain sampai larut bukan aturan waktu bermain yang baik."
      },
      {
-      "tipe": "isian",
-      "t": "Barang yang usai dipakai sebaiknya ....",
-      "p": [
-       "disimpan",
-       "dibiarkan",
-       "dilempar"
+      "tipe": "cocok",
+      "t": "Hubungkan perilaku dengan akibat yang wajar!",
+      "pasangan": [
+       [
+        "Mematikan televisi saat belajar",
+        "belajar lebih tenang"
+       ],
+       [
+        "Merapikan mainan",
+        "mainan mudah dicari"
+       ],
+       [
+        "Menunda-nunda tugas",
+        "tugas menumpuk"
+       ]
       ],
-      "j": 0,
-      "e": "Barang yang usai dipakai sebaiknya disimpan."
+      "urutKanan": [
+       "tugas menumpuk",
+       "belajar lebih tenang",
+       "mainan mudah dicari"
+      ],
+      "e": "Televisi dimatikan saat belajar membuat kegiatan lebih tenang, mainan dirapikan memudahkan pencarian, tugas ditunda membuat tugas menumpuk."
      },
      {
       "tipe": "bs",
-      "t": "Kita boleh membiarkan kran air menyala terus.",
+      "t": "Meminta maaf setelah berbuat salah termasuk perbaikan.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, kran air harus ditutup setelah dipakai."
+      "j": 0,
+      "e": "Benar, meminta maaf dengan tulus adalah cara memperbaiki kesalahan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Teladan dari orang tua terlihat saat mereka ....",
+      "p": [
+       "mematuhi aturan yang dibuat",
+       "melanggar aturan",
+       "berteriak"
+      ],
+      "j": 0,
+      "e": "Orang tua memberi teladan dengan mematuhi aturan yang dibuat bersama."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kegiatan di rumah berjalan teratur bila aturan ....",
+      "p": [
+       "dijalankan",
+       "diabaikan",
+       "ditunda"
+      ],
+      "j": 0,
+      "e": "Kegiatan di rumah berjalan teratur bila aturan dijalankan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Tidur sesuai kesepakatan membantu kita tidak terlambat ke sekolah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, tidur sesuai kesepakatan membuat bangun pagi lebih mudah."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan tindakan berikut dengan dampaknya!",
+      "t": "Pasangkan kata-kata pengingat dengan situasinya!",
       "pasangan": [
        [
-        "Membantah nasihat",
-        "ibu sedih"
+        "Kak, mainannya dirapikan ya",
+        "selesai bermain"
        ],
        [
-        "Meninggalkan mainan",
-        "lantai penuh"
+        "Ibu, kita sepakat tidur pukul delapan, ya",
+        "waktu tidur"
        ],
        [
-        "Berpamitan",
-        "orang tua senang"
+        "Ayah, waktunya belajar",
+        "televisi menyala"
        ]
       ],
       "urutKanan": [
-       "orang tua senang",
-       "ibu sedih",
-       "lantai penuh"
+       "waktu tidur",
+       "televisi menyala",
+       "selesai bermain"
       ],
-      "e": "Membantah nasihat ibu sedih, meninggalkan mainan lantai penuh, berpamitan orang tua senang."
+      "e": "Pengingat dirapikan disampaikan usai bermain, pengingat tidur disampaikan menjelang tidur, pengingat belajar disampaikan saat televisi menyala."
      }
     ]
    },
@@ -10500,203 +10500,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Aturan keluarga berisi ....",
+      "t": "Aturan di keluarga dibuat agar semua anggota hidup ....",
       "p": [
-       "tata tertib rumah",
-       "cerita lucu",
-       "lagu baru"
+       "aman dan nyaman",
+       "ribut",
+       "sembarangan"
       ],
       "j": 0,
-      "e": "Aturan keluarga berisi tata tertib rumah."
+      "e": "Aturan dibuat agar keluarga hidup aman dan nyaman."
      },
      {
       "tipe": "bs",
-      "t": "Semua anggota rumah mengikuti aturan yang sama.",
+      "t": "Setiap keluarga memiliki aturan yang sama persis.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, semua anggota rumah mengikuti aturan yang sama."
+      "j": 1,
+      "e": "Salah, tiap keluarga bisa punya aturan berbeda sesuai kebutuhan."
      },
      {
       "tipe": "pg",
-      "t": "Akibat tidur terlalu malam adalah ....",
+      "t": "Disiplin berarti melakukan sesuatu ....",
       "p": [
-       "bangun kesiangan",
-       "bangun lebih awal",
-       "tidak mengantuk"
+       "sesuai kemauan",
+       "tepat pada waktunya",
+       "kapan saja"
       ],
-      "j": 0,
-      "e": "Tidur terlalu malam membuat kita bangun kesiangan."
+      "j": 1,
+      "e": "Disiplin berarti melakukan sesuatu tepat pada waktunya."
      },
      {
       "tipe": "isian",
-      "t": "Kamar tetap rapi jika tempat tidur ....",
+      "t": "Setelah selesai bermain, mainan sebaiknya ....",
       "p": [
        "dirapikan",
        "dibiarkan",
-       "ditumpuk"
+       "dilempar"
       ],
       "j": 0,
-      "e": "Kamar tetap rapi jika tempat tidur dirapikan."
+      "e": "Mainan sebaiknya dirapikan setelah selesai bermain."
      },
      {
       "tipe": "cocok",
-      "t": "Tentukan kebiasaan yang sesuai dengan waktunya!",
+      "t": "Cocokkan kebiasaan dengan manfaatnya!",
       "pasangan": [
        [
-        "Mencuci tangan",
-        "saat sebelum makan"
+        "Menyiapkan keperluan sekolah",
+        "siap sebelum tidur"
        ],
        [
-        "Menyimpan sepatu",
-        "sepulang sekolah"
+        "Membuang sampah pada tempatnya",
+        "rumah bersih"
        ],
        [
-        "Mengucapkan salam",
-        "waktu masuk rumah"
+        "Menjaga titipan",
+        "amanah terjaga"
        ]
       ],
       "urutKanan": [
-       "waktu masuk rumah",
-       "saat sebelum makan",
-       "sepulang sekolah"
+       "rumah bersih",
+       "amanah terjaga",
+       "siap sebelum tidur"
       ],
-      "e": "Mencuci tangan saat sebelum makan, menyimpan sepatu sepulang sekolah, mengucapkan salam waktu masuk rumah."
+      "e": "Keperluan sekolah disiapkan sebelum tidur, sampah pada tempatnya membuat rumah bersih, titipan yang dijaga membuat amanah terjaga."
      },
      {
       "tipe": "pg",
-      "t": "Kedisiplinan melatih diri untuk ....",
+      "t": "Cara yang sopan saat mengingatkan orang tua ialah ....",
       "p": [
-       "terlambat",
-       "tepat waktu",
-       "seenaknya"
-      ],
-      "j": 1,
-      "e": "Kedisiplinan melatih diri untuk tepat waktu."
-     },
-     {
-      "tipe": "bs",
-      "t": "Mengantuk di kelas boleh saja terjadi.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, mengantuk di kelas merugikan diri sendiri."
-     },
-     {
-      "tipe": "isian",
-      "t": "Nasihat orang tua sebaiknya ....",
-      "p": [
-       "didengarkan",
-       "diabaikan",
-       "ditertawakan"
-      ],
-      "j": 0,
-      "e": "Nasihat orang tua sebaiknya didengarkan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Suasana keluarga menjadi rukun apabila ....",
-      "p": [
-       "saling menghormati",
-       "saling membentak",
-       "saling mengabaikan"
-      ],
-      "j": 0,
-      "e": "Keluarga menjadi rukun apabila saling menghormati."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan sikap dengan pahalanya!",
-      "pasangan": [
-       [
-        "Bantu orang tua",
-        "pekerjaan cepat selesai"
-       ],
-       [
-        "Patuh pada nasihat",
-        "disayangi orang tua"
-       ],
-       [
-        "Jaga kebersihan",
-        "rumah nyaman"
-       ]
-      ],
-      "urutKanan": [
-       "rumah nyaman",
-       "pekerjaan cepat selesai",
-       "disayangi orang tua"
-      ],
-      "e": "Bantu orang tua pekerjaan cepat selesai, patuh pada nasihat disayangi orang tua, jaga kebersihan rumah nyaman."
-     },
-     {
-      "tipe": "bs",
-      "t": "Membiarkan sampah berserakan membuat rumah kotor.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, sampah berserakan membuat rumah kotor."
-     },
-     {
-      "tipe": "pg",
-      "t": "Yang termasuk aturan di rumah ialah ....",
-      "p": [
-       "mencuci tangan sebelum makan",
-       "berteriak di rumah",
-       "tidur siang terus"
-      ],
-      "j": 0,
-      "e": "Mencuci tangan sebelum makan termasuk aturan di rumah."
-     },
-     {
-      "tipe": "isian",
-      "t": "Orang tua akan senang bila anaknya ....",
-      "p": [
-       "membantah",
-       "bermain terus",
-       "membantu"
+       "berteriak",
+       "menghina",
+       "berkata lembut"
       ],
       "j": 2,
-      "e": "Orang tua senang bila anaknya membantu."
+      "e": "Berkata lembut adalah cara sopan mengingatkan orang tua."
      },
      {
       "tipe": "bs",
-      "t": "Aturan di keluarga hanya untuk anak besar.",
+      "t": "Melanggar aturan tidak perlu diminta maaf.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, aturan berlaku untuk semua usia."
+      "e": "Salah, setelah melanggar aturan sebaiknya meminta maaf."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kesepakatan bersama harus dihormati dengan cara ....",
+      "p": [
+       "dipatuhi",
+       "dilanggar",
+       "diabaikan"
+      ],
+      "j": 0,
+      "e": "Kesepakatan bersama dihormati dengan cara dipatuhi."
+     },
+     {
+      "tipe": "pg",
+      "t": "Orang lain merasa sedih bila kita ....",
+      "p": [
+       "menepati janji",
+       "menghargai orang lain",
+       "mengejeknya"
+      ],
+      "j": 2,
+      "e": "Mengejeknya membuat orang lain merasa sedih."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan pelanggaran dengan akibatnya!",
+      "t": "Hubungkan tindakan dengan nama sikapnya!",
       "pasangan": [
        [
-        "Tidak merapikan tempat tidur",
-        "kamar berantakan"
+        "Mengerjakan tugas tanpa disuruh",
+        "tanggung jawab"
        ],
        [
-        "Tidak berpamitan",
-        "orang tua khawatir"
+        "Bangun sesuai jadwal",
+        "disiplin"
        ],
        [
-        "Tidak cuci tangan",
-        "kuman masuk"
+        "Berbicara pelan",
+        "tertib"
        ]
       ],
       "urutKanan": [
-       "kuman masuk",
-       "kamar berantakan",
-       "orang tua khawatir"
+       "disiplin",
+       "tertib",
+       "tanggung jawab"
       ],
-      "e": "Tidak merapikan tempat tidur kamar berantakan, tidak berpamitan orang tua khawatir, tidak cuci tangan kuman masuk."
+      "e": "Tugas tanpa disuruh menunjukkan tanggung jawab, bangun sesuai jadwal menunjukkan disiplin, bicara pelan menunjukkan tertib."
+     },
+     {
+      "tipe": "bs",
+      "t": "Ayah dan ibu tidak perlu memberi contoh.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, orang tua memberi teladan yang bisa ditiru anak."
+     },
+     {
+      "tipe": "pg",
+      "t": "Contoh aturan kebersihan di rumah adalah ....",
+      "p": [
+       "membuang sampah sembarangan",
+       "merapikan barang setelah dipakai",
+       "membiarkan kotor"
+      ],
+      "j": 1,
+      "e": "Merapikan barang setelah dipakai adalah contoh aturan kebersihan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Jika kita berjanji tidak mengulang kesalahan, kita harus ....",
+      "p": [
+       "berusaha menepatinya",
+       "mengulanginya",
+       "menyalahkan orang"
+      ],
+      "j": 0,
+      "e": "Janji itu diwujudkan dengan berusaha menepatinya."
+     },
+     {
+      "tipe": "bs",
+      "t": "Anak boleh berpendapat walau dengan kata-kata kasar.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, pendapat boleh disampaikan dengan sopan, bukan dengan kata kasar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan pelanggaran dengan perbaikannya!",
+      "pasangan": [
+       [
+        "Lupa merapikan mainan",
+        "merapikan kembali"
+       ],
+       [
+        "Membuang sampah sembarangan",
+        "memungut dan membuang ke tempatnya"
+       ],
+       [
+        "Berteriak kepada ibu",
+        "minta maaf dan bicara pelan"
+       ]
+      ],
+      "urutKanan": [
+       "minta maaf dan bicara pelan",
+       "merapikan kembali",
+       "memungut dan membuang ke tempatnya"
+      ],
+      "e": "Mainan yang lupa dirapikan dikembalikan, sampah dipungut lalu dibuang ke tempatnya, berteriak diikuti maaf dan suara pelan."
      }
     ]
    },
@@ -10706,203 +10706,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Aturan yang disepakati bersama harus ....",
+      "t": "Aturan keluarga berlaku untuk ....",
       "p": [
-       "ditaati",
-       "ditawar",
-       "diubah sendiri"
+       "semua anggota keluarga",
+       "ibu saja",
+       "anak saja"
       ],
       "j": 0,
-      "e": "Aturan yang disepakati bersama harus ditaati."
+      "e": "Aturan keluarga berlaku untuk semua anggota keluarga."
      },
      {
       "tipe": "bs",
-      "t": "Doa sebelum makan memakai tangan kiri.",
+      "t": "Televisi boleh menyala terus saat waktu belajar.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, doa dan makan memakai tangan kanan."
+      "e": "Salah, televisi dimatikan saat waktu belajar sudah tiba."
      },
      {
       "tipe": "pg",
-      "t": "Contoh aturan keluarga yang baik adalah ....",
+      "t": "Nilai baik yang dipelajari saat mematuhi aturan adalah ....",
       "p": [
-       "tidur tepat waktu",
-       "begadang",
-       "makan sembarangan"
+       "malas",
+       "disiplin",
+       "bising"
       ],
-      "j": 0,
-      "e": "Tidur tepat waktu adalah contoh aturan keluarga yang baik."
+      "j": 1,
+      "e": "Dengan mematuhi aturan kita belajar nilai disiplin."
      },
      {
       "tipe": "isian",
-      "t": "Sebelum berangkat sekolah, kita perlu ....",
+      "t": "Waktu tidur yang baik ialah sesuai ....",
       "p": [
-       "berpamitan",
-       "berlari",
-       "bersembunyi"
+       "kesepakatan keluarga",
+       "keinginan sendiri",
+       "jam bermain"
       ],
       "j": 0,
-      "e": "Sebelum berangkat sekolah kita perlu berpamitan."
+      "e": "Waktu tidur sebaiknya sesuai kesepakatan keluarga."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan aturan dengan tujuannya!",
+      "t": "Tentukan pasangan antara situasi dan sikap yang benar!",
+      "pasangan": [
+       [
+        "Ingin bermain di luar",
+        "meminta izin"
+       ],
+       [
+        "Teman menitipkan barang",
+        "menjaganya baik"
+       ],
+       [
+        "Waktu belajar tiba",
+        "mematikan televisi"
+       ]
+      ],
+      "urutKanan": [
+       "mematikan televisi",
+       "meminta izin",
+       "menjaganya baik"
+      ],
+      "e": "Sebelum bermain di luar kita minta izin, titipan teman dijaga dengan baik, televisi dimatikan saat belajar dimulai."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sikap bertanggung jawab tampak pada anak yang ....",
+      "p": [
+       "menyiapkan buku sendiri",
+       "menunggu ibu",
+       "menyalahkan adik"
+      ],
+      "j": 0,
+      "e": "Anak yang bertanggung jawab menyiapkan buku sendiri."
+     },
+     {
+      "tipe": "bs",
+      "t": "Mengingatkan dengan mengejek membuat teman senang.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, mengejek menyakiti perasaan. Gunakan kata yang lembut."
+     },
+     {
+      "tipe": "isian",
+      "t": "Aturan dibuat agar kegiatan di rumah berjalan ....",
+      "p": [
+       "teratur",
+       "kacau",
+       "lambat"
+      ],
+      "j": 0,
+      "e": "Aturan membuat kegiatan di rumah berjalan teratur."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kalimat pengingat yang sopan adalah ....",
+      "p": [
+       "Ibu, kamu telat terus!",
+       "Ibu, jangan atur aku!",
+       "Ibu, kita sepakat tidur pukul delapan, ya"
+      ],
+      "j": 2,
+      "e": "Kalimat pengingat yang sopan berbunyi Ibu, kita sepakat tidur pukul delapan, ya."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Padankan aturan dengan alasan pembuatannya!",
+      "pasangan": [
+       [
+        "Bangun tepat waktu",
+        "badan siap belajar"
+       ],
+       [
+        "Meminta izin sebelum bermain",
+        "orang tua tahu"
+       ],
+       [
+        "Tidur sesuai kesepakatan",
+        "tidak terlambat sekolah"
+       ]
+      ],
+      "urutKanan": [
+       "tidak terlambat sekolah",
+       "badan siap belajar",
+       "orang tua tahu"
+      ],
+      "e": "Bangun tepat waktu menyiapkan badan belajar, izin membuat orang tua tahu, tidur sesuai kesepakatan mencegah keterlambatan sekolah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Rumah menjadi nyaman bila aturan ditaati bersama.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, ketaatan bersama membuat rumah tertib dan nyaman."
+     },
+     {
+      "tipe": "pg",
+      "t": "Yang termasuk aturan waktu belajar adalah ....",
+      "p": [
+       "bermain terus",
+       "belajar sesuai jadwal",
+       "menonton televisi"
+      ],
+      "j": 1,
+      "e": "Belajar sesuai jadwal termasuk aturan waktu belajar."
+     },
+     {
+      "tipe": "isian",
+      "t": "Orang tua memberi .... dengan mematuhi aturan lebih dulu.",
+      "p": [
+       "teladan",
+       "hadiah",
+       "peringatan"
+      ],
+      "j": 0,
+      "e": "Orang tua memberi teladan dengan mematuhi aturan lebih dulu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kesalahan yang ditutup-tutupi tidak perlu diperbaiki.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, kesalahan harus diakui dan akibatnya diperbaiki."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan aturan dengan contohnya di rumah!",
       "pasangan": [
        [
         "Merapikan tempat tidur",
-        "kamar rapi"
+        "setelah bangun pagi"
        ],
        [
-        "Menyimpan sepatu",
-        "lorong tidak penuh"
+        "Mematikan televisi",
+        "saat belajar"
        ],
        [
-        "Mencuci tangan",
-        "tangan bersih"
+        "Membuang sampah",
+        "ke tempat sampah"
        ]
       ],
       "urutKanan": [
-       "tangan bersih",
-       "kamar rapi",
-       "lorong tidak penuh"
+       "saat belajar",
+       "ke tempat sampah",
+       "setelah bangun pagi"
       ],
-      "e": "Merapikan tempat tidur kamar rapi, menyimpan sepatu lorong tidak penuh, mencuci tangan tangan bersih."
-     },
-     {
-      "tipe": "pg",
-      "t": "Saat orang tua sakit, sikap kita yang baik ....",
-      "p": [
-       "menjaganya",
-       "bermain keras",
-       "acuh tak acuh"
-      ],
-      "j": 0,
-      "e": "Sikap baik saat orang tua sakit adalah menjaganya."
-     },
-     {
-      "tipe": "bs",
-      "t": "Membiarkan mainan berserakan boleh jika lelah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, mainan tetap harus dirapikan."
-     },
-     {
-      "tipe": "isian",
-      "t": "Nama lain untuk tata tertib adalah ....",
-      "p": [
-       "aturan",
-       "keramaian",
-       "kebetulan"
-      ],
-      "j": 0,
-      "e": "Tata tertib juga disebut aturan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Rugi bagi diri sendiri jika kita ....",
-      "p": [
-       "mematuhi aturan",
-       "melanggar aturan",
-       "merapikan barang"
-      ],
-      "j": 1,
-      "e": "Kita rugi jika melanggar aturan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kebiasaan baik dengan hasilnya!",
-      "pasangan": [
-       [
-        "Berpamitan",
-        "izin diberikan"
-       ],
-       [
-        "Membantu ibu",
-        "ibu terbantu"
-       ],
-       [
-        "Tidur awal",
-        "bangun segar"
-       ]
-      ],
-      "urutKanan": [
-       "bangun segar",
-       "izin diberikan",
-       "ibu terbantu"
-      ],
-      "e": "Berpamitan izin diberikan, membantu ibu ibu terbantu, tidur awal bangun segar."
-     },
-     {
-      "tipe": "bs",
-      "t": "Aturan di rumah tidak perlu ditaati adik.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, adik juga wajib mematuhi aturan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Cara menghormati ayah ialah ....",
-      "p": [
-       "menyapa saat pulang",
-       "memalingkan muka",
-       "berteriak"
-      ],
-      "j": 0,
-      "e": "Menyapa saat pulang adalah cara menghormati ayah."
-     },
-     {
-      "tipe": "isian",
-      "t": "Tangan kita harus dicuci sebelum ....",
-      "p": [
-       "berlari",
-       "tidur",
-       "menyantap"
-      ],
-      "j": 2,
-      "e": "Tangan harus dicuci sebelum menyantap makanan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bangun kesiangan pertanda aturan tidur dilanggar.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, bangun kesiangan pertanda aturan tidur dilanggar."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan perbuatan dengan akibat yang timbul!",
-      "pasangan": [
-       [
-        "Tidak menyimpan sepatu",
-        "sepatu berantakan"
-       ],
-       [
-        "Tidak berdoa",
-        "makan tergesa"
-       ],
-       [
-        "Tidur larut",
-        "badan lemas"
-       ]
-      ],
-      "urutKanan": [
-       "badan lemas",
-       "sepatu berantakan",
-       "makan tergesa"
-      ],
-      "e": "Tidak menyimpan sepatu sepatu berantakan, tidak berdoa makan tergesa, tidur larut badan lemas."
+      "e": "Tempat tidur dirapikan setelah bangun pagi, televisi dimatikan saat belajar, sampah dibuang ke tempat sampah."
      }
     ]
    }
@@ -10927,137 +10927,426 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Bola berukuran besar disebut bola ....",
+      "t": "Bola basket, bola voli, dan bola sepak termasuk jenis bola ....",
       "p": [
        "kecil",
        "besar",
        "tipis"
       ],
       "j": 1,
-      "e": "Bola berukuran besar disebut bola besar."
+      "e": "Bola basket, bola voli, dan bola sepak termasuk jenis bola besar."
      },
      {
       "tipe": "bs",
-      "t": "Sepak bola dimainkan dengan bola besar.",
+      "t": "Bola kasti bisa dipegang dengan satu tangan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, sepak bola dimainkan dengan bola besar."
+      "e": "Benar, bola kasti bisa digenggam dengan satu tangan karena termasuk bola kecil."
      },
      {
       "tipe": "pg",
-      "t": "Permainan yang memakai bola kasti termasuk bola ....",
+      "t": "Bola yang muat digenggam dengan satu tangan disebut bola ....",
       "p": [
        "besar",
-       "panjang",
-       "kecil"
+       "kecil",
+       "panjang"
       ],
-      "j": 2,
-      "e": "Permainan kasti memakai bola kecil."
+      "j": 1,
+      "e": "Bola yang muat digenggam dengan satu tangan disebut bola kecil."
      },
      {
       "tipe": "isian",
-      "t": "Sebelum berolahraga sebaiknya melakukan ....",
+      "t": "Sebelum latihan bola, tubuh perlu dicairkan dengan ....",
       "p": [
        "pemanasan",
        "pendinginan",
-       "istirahat tidur"
+       "makan"
       ],
       "j": 0,
-      "e": "Sebelum berolahraga sebaiknya melakukan pemanasan."
+      "e": "Sebelum latihan bola, tubuh perlu dicairkan dengan pemanasan."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alat atau bola yang dipakai!",
+      "t": "Pasangkan permainan dengan bola yang dipakai!",
       "pasangan": [
        [
-        "Sepak bola",
+        "Bola voli",
         "bola besar"
        ],
        [
-        "Tenis meja",
+        "Bola kasti",
+        "bola tenis"
+       ],
+       [
+        "Bulu tangkis",
+        "kok"
+       ]
+      ],
+      "urutKanan": [
+       "kok",
+       "bola besar",
+       "bola tenis"
+      ],
+      "e": "Bola voli memakai bola besar, bola kasti memakai bola tenis, bulu tangkis memakai kok."
+     },
+     {
+      "tipe": "pg",
+      "t": "Alat pemukul yang dipakai dalam permainan kasti disebut ....",
+      "p": [
+       "tongkat",
+       "raket",
+       "bet"
+      ],
+      "j": 0,
+      "e": "Alat pemukul yang dipakai dalam permainan kasti disebut tongkat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Dalam permainan kasti, bola yang dipakai adalah bola tenis.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, dalam permainan kasti bola yang dipakai adalah bola tenis."
+     },
+     {
+      "tipe": "isian",
+      "t": "Saat menangkap bola melambung, mata sebaiknya menatap ....",
+      "p": [
+       "arah datang bola",
+       "kaki teman",
+       "langit"
+      ],
+      "j": 0,
+      "e": "Saat menangkap bola melambung, mata sebaiknya menatap arah datang bola."
+     },
+     {
+      "tipe": "pg",
+      "t": "Teknik melempar bola yang sejajar dengan dada disebut lemparan ....",
+      "p": [
+       "mendatar",
+       "melambung",
+       "menggelinding"
+      ],
+      "j": 0,
+      "e": "Teknik melempar bola yang sejajar dengan dada disebut lemparan mendatar."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan cara melempar dengan arah bola!",
+      "pasangan": [
+       [
+        "Lemparan mendatar",
+        "sejajar dada"
+       ],
+       [
+        "Lemparan ke bawah",
+        "dekat lantai"
+       ],
+       [
+        "Lemparan melambung",
+        "melalui udara"
+       ]
+      ],
+      "urutKanan": [
+       "melalui udara",
+       "sejajar dada",
+       "dekat lantai"
+      ],
+      "e": "Lemparan mendatar sejajar dada, lemparan ke bawah dekat lantai, lemparan melambung melalui udara."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bermain bola di jalan raya termasuk perbuatan yang aman.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, bermain bola di jalan raya berbahaya karena ada kendaraan lewat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Penjaga gawang dalam sepak bola disebut ....",
+      "p": [
+       "wasit",
+       "pelatih",
+       "kiper"
+      ],
+      "j": 2,
+      "e": "Penjaga gawang dalam sepak bola disebut kiper."
+     },
+     {
+      "tipe": "isian",
+      "t": "Tujuan utama bermain sepak bola adalah memasukkan bola ke ....",
+      "p": [
+       "tangan wasit",
+       "saku baju",
+       "gawang lawan"
+      ],
+      "j": 2,
+      "e": "Tujuan utama bermain sepak bola adalah memasukkan bola ke gawang lawan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Menggiring bola dalam sepak bola dilakukan dengan kaki.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, menggiring bola dalam sepak bola dilakukan dengan kaki."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan cabang olahraga dengan alat yang dipakai!",
+      "pasangan": [
+       [
+        "Sepak bola",
+        "gawang"
+       ],
+       [
+        "Bola basket",
+        "ring"
+       ],
+       [
+        "Bulu tangkis",
+        "net"
+       ]
+      ],
+      "urutKanan": [
+       "ring",
+       "net",
+       "gawang"
+      ],
+      "e": "Sepak bola memakai gawang, bola basket memakai ring, bulu tangkis memakai net."
+     }
+    ]
+   },
+   {
+    "kode": "B",
+    "nama": "Variasi B",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Permainan kasti, tenis, dan pingpong memakai bola jenis ....",
+      "p": [
+       "besar",
+       "kecil",
+       "berat"
+      ],
+      "j": 1,
+      "e": "Permainan kasti, tenis, dan pingpong memakai bola jenis kecil."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bola voli tergolong bola besar.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, bola voli tergolong bola besar karena tidak muat digenggam satu tangan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bola satel kock dipakai dalam permainan ....",
+      "p": [
+       "baseball",
+       "sepak bola",
+       "bola voli"
+      ],
+      "j": 0,
+      "e": "Bola satel kock dipakai dalam permainan baseball."
+     },
+     {
+      "tipe": "isian",
+      "t": "Setelah selesai berolahraga, kita sebaiknya melakukan ....",
+      "p": [
+       "pendinginan",
+       "pemanasan",
+       "lari"
+      ],
+      "j": 0,
+      "e": "Setelah selesai berolahraga, kita sebaiknya melakukan pendinginan."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan macam bola dengan kelompoknya!",
+      "pasangan": [
+       [
+        "Bola basket",
+        "bola besar"
+       ],
+       [
+        "Bola pingpong",
         "bola kecil"
        ],
        [
-        "Kasti",
-        "pemukul kayu"
+        "Bola kasti",
+        "bola tenis"
        ]
       ],
       "urutKanan": [
        "bola kecil",
-       "pemukul kayu",
+       "bola tenis",
        "bola besar"
       ],
-      "e": "Sepak bola memakai bola besar, tenis meja memakai bola kecil, kasti memakai pemukul kayu."
+      "e": "Bola basket termasuk bola besar, bola pingpong termasuk bola kecil, bola kasti memakai bola tenis."
      },
      {
       "tipe": "pg",
-      "t": "Menendang bola dalam sepak bola memakai ....",
+      "t": "Menendang bola dengan ujung sepatu disebut tendangan ....",
+      "p": [
+       "ujung kaki",
+       "punggung kaki",
+       "samping kaki"
+      ],
+      "j": 0,
+      "e": "Menendang bola dengan ujung sepatu disebut tendangan ujung kaki."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kiper bertugas menjaga gawang dalam sepak bola.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kiper bertugas menjaga gawang dalam sepak bola."
+     },
+     {
+      "tipe": "isian",
+      "t": "Untuk menghentikan bola, kita bisa memakai telapak ....",
       "p": [
        "kaki",
        "tangan",
        "dada"
       ],
       "j": 0,
-      "e": "Menendang bola dalam sepak bola memakai kaki."
+      "e": "Untuk menghentikan bola, kita bisa memakai telapak kaki."
+     },
+     {
+      "tipe": "pg",
+      "t": "Gerak menyundul bola dalam sepak bola dilakukan dengan ....",
+      "p": [
+       "kepala",
+       "tangan",
+       "pinggang"
+      ],
+      "j": 0,
+      "e": "Gerak menyundul bola dalam sepak bola dilakukan dengan kepala."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan gerakan dengan bagian tubuh atau alatnya!",
+      "pasangan": [
+       [
+        "Menendang bola",
+        "kaki"
+       ],
+       [
+        "Menyundul bola",
+        "kepala"
+       ],
+       [
+        "Memukul kok",
+        "raket"
+       ]
+      ],
+      "urutKanan": [
+       "kepala",
+       "raket",
+       "kaki"
+      ],
+      "e": "Menendang bola memakai kaki, menyundul bola memakai kepala, memukul kok memakai raket."
      },
      {
       "tipe": "bs",
-      "t": "Menggiring bola dalam sepak bola dilakukan dengan tangan.",
+      "t": "Kerja sama antar teman membuat permainan bola lebih seru.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, menggiring bola dalam sepak bola dilakukan dengan kaki."
-     },
-     {
-      "tipe": "isian",
-      "t": "Dribel dalam permainan basket dilakukan dengan ....",
-      "p": [
-       "tangan",
-       "kaki",
-       "punggung"
-      ],
       "j": 0,
-      "e": "Dribel dalam permainan basket dilakukan dengan tangan."
+      "e": "Benar, kerja sama antar teman membuat permainan bola lebih seru."
      },
      {
       "tipe": "pg",
-      "t": "Gerak memvoli bola dilakukan pada permainan ....",
+      "t": "Bulu tangkis memakai alat pemukul berupa ....",
       "p": [
-       "bola voli",
-       "sepak bola",
-       "tenis meja"
+       "tongkat kasti",
+       "raket",
+       "bet pingpong"
+      ],
+      "j": 1,
+      "e": "Bulu tangkis memakai alat pemukul berupa raket."
+     },
+     {
+      "tipe": "isian",
+      "t": "Gerak mengiring bola dalam sepak bola memakai ....",
+      "p": [
+       "siku",
+       "dada",
+       "kaki"
+      ],
+      "j": 2,
+      "e": "Gerak mengiring bola dalam sepak bola memakai kaki."
+     },
+     {
+      "tipe": "bs",
+      "t": "Lemparan bola ke bawah arahnya dekat lantai.",
+      "p": [
+       "Benar",
+       "Salah"
       ],
       "j": 0,
-      "e": "Gerak memvoli bola dilakukan pada permainan bola voli."
+      "e": "Benar, lemparan bola ke bawah arahnya dekat lantai."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan contoh gerak dengan jenis geraknya!",
+      "t": "Pasangkan teknik menangkap dengan arah datang bola!",
       "pasangan": [
        [
-        "Melompat",
-        "lokomotor"
+        "Menangkap bola melambung",
+        "mata menatap bola"
        ],
        [
-        "Membungkuk",
-        "nonlokomotor"
+        "Menangkap bola mendatar",
+        "sejajar dada"
        ],
        [
-        "Melempar",
-        "manipulatif"
+        "Menangkap bola menggelinding",
+        "dekat lantai"
        ]
       ],
       "urutKanan": [
-       "manipulatif",
-       "lokomotor",
-       "nonlokomotor"
+       "dekat lantai",
+       "mata menatap bola",
+       "sejajar dada"
       ],
-      "e": "Melompat adalah gerak lokomotor, membungkuk gerak nonlokomotor, melempar gerak manipulatif."
+      "e": "Menangkap bola melambung dengan mata menatap bola, menangkap bola mendatar sejajar dada, menangkap bola menggelinding dekat lantai."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Teknik melempar bola yang arahnya menyusur lantai disebut lemparan ....",
+      "p": [
+       "menggelinding",
+       "mendatar",
+       "mengayun"
+      ],
+      "j": 0,
+      "e": "Teknik melempar bola yang arahnya menyusur lantai disebut lemparan menggelinding."
      },
      {
       "tipe": "bs",
@@ -11071,471 +11360,182 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Setelah selesai olahraga kita melakukan ....",
+      "t": "Permainan yang memakai bola pingpong disebut ....",
       "p": [
-       "pendinginan",
-       "pemanasan",
-       "sarapan"
-      ],
-      "j": 0,
-      "e": "Setelah selesai olahraga kita melakukan pendinginan."
-     },
-     {
-      "tipe": "isian",
-      "t": "Tempat bermain bola yang aman adalah ....",
-      "p": [
-       "lapangan",
-       "jalan raya",
-       "lorong sempit"
-      ],
-      "j": 0,
-      "e": "Tempat bermain bola yang aman adalah lapangan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bermain bola di jalan raya termasuk kegiatan yang aman.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, bermain bola di jalan raya tidak aman karena ada kendaraan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan olahraga dengan alat penting yang dipakai!",
-      "pasangan": [
-       [
-        "Sepak bola",
-        "kaki"
-       ],
-       [
-        "Bola voli",
-        "tangan"
-       ],
-       [
-        "Bulu tangkis",
-        "raket"
-       ]
-      ],
-      "urutKanan": [
-       "raket",
-       "kaki",
-       "tangan"
-      ],
-      "e": "Sepak bola memakai kaki, bola voli memakai tangan, bulu tangkis memakai raket."
-     }
-    ]
-   },
-   {
-    "kode": "B",
-    "nama": "Variasi B",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Contoh permainan bola besar adalah ....",
-      "p": [
-       "kasti",
        "tenis meja",
-       "bola basket"
+       "kasti",
+       "sepak bola"
       ],
-      "j": 2,
-      "e": "Contoh permainan bola besar adalah bola basket."
-     },
-     {
-      "tipe": "bs",
-      "t": "Tenis meja memakai bola berukuran besar.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, tenis meja memakai bola berukuran kecil."
-     },
-     {
-      "tipe": "pg",
-      "t": "Permainan bola voli dimainkan dengan ....",
-      "p": [
-       "kaki",
-       "tangan",
-       "dahi"
-      ],
-      "j": 1,
-      "e": "Permainan bola voli dimainkan dengan tangan."
+      "j": 0,
+      "e": "Permainan yang memakai bola pingpong disebut tenis meja."
      },
      {
       "tipe": "isian",
-      "t": "Sebelum bermain bola kita perlu ....",
+      "t": "Saat menangkap bola, pandangan mata hendaknya mengikuti ....",
       "p": [
-       "tidur",
-       "pemanasan",
-       "makan berat"
+       "arah datangnya bola",
+       "gerak tangan",
+       "bayangan teman"
       ],
-      "j": 1,
-      "e": "Sebelum bermain bola kita perlu pemanasan."
+      "j": 0,
+      "e": "Saat menangkap bola, pandangan mata hendaknya mengikuti arah datangnya bola."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan olahraga dengan bola yang sesuai!",
+      "t": "Pasangkan jenis bola kecil dengan olahraga yang memakainya!",
       "pasangan": [
        [
-        "Sepak bola",
-        "bola besar"
+        "Bola tenis",
+        "kasti"
        ],
        [
-        "Tenis meja",
-        "bola kecil"
+        "Bola pingpong",
+        "tenis meja"
        ],
        [
-        "Golf",
-        "bola golf"
+        "Satel kock",
+        "baseball"
        ]
       ],
       "urutKanan": [
-       "bola golf",
-       "bola besar",
-       "bola kecil"
+       "baseball",
+       "kasti",
+       "tenis meja"
       ],
-      "e": "Sepak bola memakai bola besar, tenis meja memakai bola kecil, golf memakai bola golf."
+      "e": "Bola tenis dipakai kasti, bola pingpong dipakai tenis meja, satel kock dipakai baseball."
      },
      {
       "tipe": "pg",
-      "t": "Dalam sepak bola, penggiringan bola dilakukan dengan ....",
+      "t": "Latihan menendang ke dinding dilakukan dengan cara ....",
       "p": [
-       "tangan",
-       "kepala",
-       "kaki"
+       "berteriak",
+       "mendekati dinding",
+       "memantulkan bola ke dinding"
       ],
       "j": 2,
-      "e": "Dalam sepak bola, penggiringan bola dilakukan dengan kaki."
+      "e": "Latihan menendang ke dinding dilakukan dengan cara memantulkan bola ke dinding."
      },
      {
       "tipe": "bs",
-      "t": "Bola basket tergolong bola kecil.",
+      "t": "Bola kecil bisa digenggam dengan satu tangan.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, bola basket tergolong bola besar."
+      "j": 0,
+      "e": "Benar, bola kecil bisa digenggam dengan satu tangan."
      },
      {
       "tipe": "isian",
-      "t": "Bagian tubuh untuk menendang bola adalah ....",
+      "t": "Pemukul dalam permainan kasti terbuat dari ....",
       "p": [
-       "kaki",
-       "siku",
-       "punggung"
-      ],
-      "j": 0,
-      "e": "Bagian tubuh untuk menendang bola adalah kaki."
-     },
-     {
-      "tipe": "pg",
-      "t": "Permainan yang memakai raket dan bola kecil adalah ....",
-      "p": [
-       "tenis lapangan",
-       "sepak bola",
-       "bola voli"
-      ],
-      "j": 0,
-      "e": "Permainan yang memakai raket dan bola kecil adalah tenis lapangan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan gerak tubuh dengan kelompoknya!",
-      "pasangan": [
-       [
-        "Berlari",
-        "lokomotor"
-       ],
-       [
-        "Memutar",
-        "nonlokomotor"
-       ],
-       [
-        "Menangkap",
-        "manipulatif"
-       ]
-      ],
-      "urutKanan": [
-       "nonlokomotor",
-       "manipulatif",
-       "lokomotor"
-      ],
-      "e": "Berlari termasuk lokomotor, memutar nonlokomotor, menangkap manipulatif."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bermain bola sebaiknya dilakukan di lapangan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, bermain bola sebaiknya dilakukan di lapangan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Sebelum latihan bola, kita wajib ....",
-      "p": [
-       "tidur siang",
-       "pemanasan",
-       "makan berat"
-      ],
-      "j": 1,
-      "e": "Sebelum latihan bola, kita wajib pemanasan."
-     },
-     {
-      "tipe": "isian",
-      "t": "Melempar bola melatih kekuatan ....",
-      "p": [
-       "kaki",
-       "mata",
-       "tangan"
-      ],
-      "j": 2,
-      "e": "Melempar bola melatih kekuatan tangan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Pendinginan sebaiknya dilakukan lebih dulu sebelum latihan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, pendinginan dilakukan setelah latihan, bukan lebih dulu."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan permainan dengan anggota tubuh atau alatnya!",
-      "pasangan": [
-       [
-        "Sepak bola",
-        "kaki"
-       ],
-       [
-        "Bola basket",
-        "jari"
-       ],
-       [
-        "Bulu tangkis",
-        "raket"
-       ]
-      ],
-      "urutKanan": [
-       "jari",
-       "raket",
-       "kaki"
-      ],
-      "e": "Sepak bola memakai kaki, basket memakai jari, bulu tangkis memakai raket."
-     }
-    ]
-   },
-   {
-    "kode": "C",
-    "nama": "Variasi C",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Bola voli memakai bola ukuran ....",
-      "p": [
-       "besar",
-       "kecil",
-       "sangat kecil"
-      ],
-      "j": 0,
-      "e": "Bola voli memakai bola ukuran besar."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bola golf termasuk permainan bola kecil.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, bola golf termasuk permainan bola kecil."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tenis lapangan menggunakan bola jenis ....",
-      "p": [
-       "besar",
        "karet",
-       "kecil"
+       "kayu",
+       "logam"
       ],
-      "j": 2,
-      "e": "Tenis lapangan menggunakan bola jenis kecil."
-     },
-     {
-      "tipe": "isian",
-      "t": "Gerak dasar bola voli adalah memvoli bola dengan ....",
-      "p": [
-       "tangan",
-       "kaki",
-       "jempol"
-      ],
-      "j": 0,
-      "e": "Gerak dasar bola voli adalah memvoli bola dengan tangan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan nama bola dengan keterangannya!",
-      "pasangan": [
-       [
-        "Bola basket",
-        "bola besar"
-       ],
-       [
-        "Bola kasti",
-        "bola kecil"
-       ],
-       [
-        "Bola golf",
-        "alat pemukul"
-       ]
-      ],
-      "urutKanan": [
-       "bola kecil",
-       "alat pemukul",
-       "bola besar"
-      ],
-      "e": "Bola basket memakai bola besar, kasti memakai bola kecil, golf memakai alat pemukul."
+      "j": 1,
+      "e": "Pemukul dalam permainan kasti terbuat dari kayu."
      },
      {
       "tipe": "pg",
-      "t": "Menendang bola dengan kaki merupakan gerak dasar ....",
+      "t": "Teknik lemparan bola ke bawah dilakukan dengan mengayunkan tangan dari ....",
       "p": [
-       "sepak bola",
-       "bola basket",
-       "kasti"
+       "bawah",
+       "atas",
+       "samping"
       ],
       "j": 0,
-      "e": "Menendang bola dengan kaki merupakan gerak dasar sepak bola."
+      "e": "Teknik lemparan bola ke bawah dilakukan dengan mengayunkan tangan dari bawah."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan macam lemparan dengan gerakan tangannya!",
+      "pasangan": [
+       [
+        "Melempar mendatar",
+        "tangan sejajar dada"
+       ],
+       [
+        "Melempar melambung",
+        "tangan dari atas"
+       ],
+       [
+        "Melempar menggelinding",
+        "tangan menyusur lantai"
+       ]
+      ],
+      "urutKanan": [
+       "tangan dari atas",
+       "tangan menyusur lantai",
+       "tangan sejajar dada"
+      ],
+      "e": "Melempar mendatar dengan tangan sejajar dada, melempar melambung dengan tangan dari atas, melempar menggelinding dengan tangan menyusur lantai."
      },
      {
       "tipe": "bs",
-      "t": "Bola voli termasuk bola kecil.",
+      "t": "Mendorong teman saat bermain bola boleh dilakukan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, bola voli termasuk bola besar."
-     },
-     {
-      "tipe": "isian",
-      "t": "Dalam bola basket, bola dipantulkan atau didribel dengan ....",
-      "p": [
-       "tangan",
-       "kaki",
-       "pinggang"
-      ],
-      "j": 0,
-      "e": "Dalam bola basket, bola dipantulkan atau didribel dengan tangan."
+      "e": "Salah, mendorong teman saat bermain bola tidak boleh karena bisa membuat teman jatuh."
      },
      {
       "tipe": "pg",
-      "t": "Bola basket dimainkan dengan memakai ....",
+      "t": "Dalam bulu tangkis, bola kecil dipukul memakai alat bernama ....",
       "p": [
-       "tangan",
-       "kaki",
-       "siku"
-      ],
-      "j": 0,
-      "e": "Bola basket dimainkan dengan memakai tangan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan gerak dasar dengan contohnya!",
-      "pasangan": [
-       [
-        "Meloncat",
-        "lokomotor"
-       ],
-       [
-        "Mengayun",
-        "nonlokomotor"
-       ],
-       [
-        "Memukul",
-        "manipulatif"
-       ]
-      ],
-      "urutKanan": [
-       "manipulatif",
-       "nonlokomotor",
-       "lokomotor"
-      ],
-      "e": "Meloncat adalah lokomotor, mengayun nonlokomotor, memukul manipulatif."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kita boleh bermain bola di pinggir jalan raya.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, bermain bola di pinggir jalan raya berbahaya."
-     },
-     {
-      "tipe": "pg",
-      "t": "Latihan pemanasan sebaiknya dikerjakan .... latihan utama.",
-      "p": [
-       "sesudah",
-       "sebelum",
-       "saat"
-      ],
-      "j": 1,
-      "e": "Latihan pemanasan sebaiknya dikerjakan sebelum latihan utama."
-     },
-     {
-      "tipe": "isian",
-      "t": "Bermain bola secara beregu harus ....",
-      "p": [
-       "bekerja sama",
-       "sendiri-sendiri",
-       "mendorong teman"
-      ],
-      "j": 0,
-      "e": "Bermain bola secara beregu harus bekerja sama."
-     },
-     {
-      "tipe": "bs",
-      "t": "Pendinginan dilakukan setelah olahraga.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, pendinginan dilakukan setelah olahraga."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan permainan dengan alat utamanya!",
-      "pasangan": [
-       [
-        "Sepak bola",
-        "kaki"
-       ],
-       [
-        "Bola basket",
-        "bola ring"
-       ],
-       [
-        "Bulu tangkis",
-        "raket"
-       ]
-      ],
-      "urutKanan": [
-       "bola ring",
+       "bet",
        "raket",
-       "kaki"
+       "pemukul kasti"
       ],
-      "e": "Sepak bola memakai kaki, basket memakai bola ring, bulu tangkis memakai raket."
+      "j": 1,
+      "e": "Dalam bulu tangkis, bola kecil dipukul memakai alat bernama raket."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bagian kaki untuk menghentikan bola yang datang dari samping adalah ....",
+      "p": [
+       "samping kaki",
+       "telapak kaki",
+       "punggung kaki"
+      ],
+      "j": 0,
+      "e": "Bagian kaki untuk menghentikan bola yang datang dari samping adalah samping kaki."
+     },
+     {
+      "tipe": "bs",
+      "t": "Mencetak gol berarti memasukkan bola ke gawang lawan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, mencetak gol berarti memasukkan bola ke gawang lawan."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan peralatan dengan cabang olahraganya!",
+      "pasangan": [
+       [
+        "Raket",
+        "bulu tangkis"
+       ],
+       [
+        "Tongkat pemukul",
+        "kasti"
+       ],
+       [
+        "Gawang",
+        "sepak bola"
+       ]
+      ],
+      "urutKanan": [
+       "kasti",
+       "sepak bola",
+       "bulu tangkis"
+      ],
+      "e": "Raket dipakai bulu tangkis, tongkat pemukul dipakai kasti, gawang dipakai sepak bola."
      }
     ]
    },
@@ -11545,203 +11545,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Permainan yang memakai bola pingpong adalah ....",
+      "t": "Dalam kasti, bola yang dipukul adalah bola ....",
       "p": [
-       "tenis meja",
-       "bola kasti",
-       "sepak bola"
+       "tenis",
+       "voli",
+       "sepak"
       ],
       "j": 0,
-      "e": "Permainan yang memakai bola pingpong adalah tenis meja."
+      "e": "Dalam kasti, bola yang dipukul adalah bola tenis."
      },
      {
       "tipe": "bs",
-      "t": "Bola pingpong dipakai dalam tenis meja.",
+      "t": "Bola pingpong tergolong bola kecil.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, bola pingpong dipakai dalam tenis meja dan berukuran kecil."
+      "e": "Benar, bola pingpong tergolong bola kecil karena muat digenggam."
      },
      {
       "tipe": "pg",
-      "t": "Bola kecil berukuran ....",
+      "t": "Bola besar tidak bisa dipegang dengan ....",
       "p": [
-       "kecil",
-       "besar",
-       "tebal"
-      ],
-      "j": 0,
-      "e": "Bola kecil berukuran kecil."
-     },
-     {
-      "tipe": "isian",
-      "t": "Lemparan bola dari atas kepala disebut lemparan ....",
-      "p": [
-       "melambung",
-       "mendatar",
-       "menyusur tanah"
-      ],
-      "j": 0,
-      "e": "Lemparan bola dari atas kepala disebut lemparan melambung."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan jenis lemparan dengan arahnya!",
-      "pasangan": [
-       [
-        "Lemparan melambung",
-        "dari atas kepala"
-       ],
-       [
-        "Lemparan mendatar",
-        "sejajar dada"
-       ],
-       [
-        "Lemparan menyusur tanah",
-        "dari bawah"
-       ]
-      ],
-      "urutKanan": [
-       "sejajar dada",
-       "dari bawah",
-       "dari atas kepala"
-      ],
-      "e": "Lemparan melambung dari atas kepala, mendatar sejajar dada, menyusur tanah dari bawah."
-     },
-     {
-      "tipe": "pg",
-      "t": "Saat menangkap bola, pandangan mata sebaiknya ....",
-      "p": [
-       "tertuju pada bola",
-       "ke arah teman",
-       "terpejam"
-      ],
-      "j": 0,
-      "e": "Saat menangkap bola, pandangan mata sebaiknya tertuju pada bola."
-     },
-     {
-      "tipe": "bs",
-      "t": "Permainan voli menggunakan bola berukuran besar.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, permainan voli menggunakan bola berukuran besar."
-     },
-     {
-      "tipe": "isian",
-      "t": "Memukul bola kasti dilakukan dengan ....",
-      "p": [
-       "kaki",
-       "alat pemukul",
-       "siku"
+       "dua tangan",
+       "satu tangan",
+       "jari"
       ],
       "j": 1,
-      "e": "Memukul bola kasti dilakukan dengan alat pemukul."
-     },
-     {
-      "tipe": "pg",
-      "t": "Jenis lemparan bola kecil yang sejajar dada disebut ....",
-      "p": [
-       "mendatar",
-       "melambung",
-       "mengayun bawah"
-      ],
-      "j": 0,
-      "e": "Jenis lemparan bola kecil yang sejajar dada disebut mendatar."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan gerakan dengan contoh yang tepat!",
-      "pasangan": [
-       [
-        "Berjalan",
-        "lokomotor"
-       ],
-       [
-        "Menekuk",
-        "nonlokomotor"
-       ],
-       [
-        "Melempar",
-        "manipulatif"
-       ]
-      ],
-      "urutKanan": [
-       "nonlokomotor",
-       "manipulatif",
-       "lokomotor"
-      ],
-      "e": "Berjalan adalah lokomotor, menekuk nonlokomotor, melempar manipulatif."
-     },
-     {
-      "tipe": "bs",
-      "t": "Lemparan menyusur tanah dilakukan dengan mengayunkan tangan dari bawah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, lemparan menyusur tanah dilakukan dengan mengayunkan tangan dari bawah."
-     },
-     {
-      "tipe": "pg",
-      "t": "Saat bermain bola, sikap yang aman adalah ....",
-      "p": [
-       "mendorong teman",
-       "merebut bola",
-       "mematuhi aturan wasit"
-      ],
-      "j": 2,
-      "e": "Saat bermain bola, sikap yang aman adalah mematuhi aturan wasit."
+      "e": "Bola besar tidak bisa dipegang dengan satu tangan."
      },
      {
       "tipe": "isian",
-      "t": "Dalam regu penjaga bola kasti, bola dihentikan dengan ....",
+      "t": "Kegiatan yang dilakukan untuk menenangkan tubuh setelah olahraga disebut ....",
       "p": [
-       "menangkap dengan dua tangan",
-       "menendang",
-       "memantulkan"
+       "pendinginan",
+       "pemanasan",
+       "peregangan awal"
       ],
       "j": 0,
-      "e": "Dalam regu penjaga bola kasti, bola dihentikan dengan menangkap dengan dua tangan."
+      "e": "Kegiatan yang dilakukan untuk menenangkan tubuh setelah olahraga disebut pendinginan."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan bola dengan alat atau olahraganya!",
+      "pasangan": [
+       [
+        "Bola basket",
+        "bola besar"
+       ],
+       [
+        "Bola kasti",
+        "bola tenis"
+       ],
+       [
+        "Bola pingpong",
+        "tenis meja"
+       ]
+      ],
+      "urutKanan": [
+       "bola tenis",
+       "tenis meja",
+       "bola besar"
+      ],
+      "e": "Bola basket termasuk bola besar, bola kasti memakai bola tenis, bola pingpong dipakai tenis meja."
+     },
+     {
+      "tipe": "pg",
+      "t": "Teknik menangkap bola yang datang mendatar dilakukan dengan ....",
+      "p": [
+       "tangan sejajar dada",
+       "tangan di atas kepala",
+       "tangan di lantai"
+      ],
+      "j": 0,
+      "e": "Teknik menangkap bola yang datang mendatar dilakukan dengan tangan sejajar dada."
      },
      {
       "tipe": "bs",
-      "t": "Kerja sama tim membuat permainan bola lebih aman.",
+      "t": "Lemparan melambung arahnya melalui udara.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kerja sama tim membuat permainan bola lebih aman."
+      "e": "Benar, lemparan melambung arahnya melalui udara."
+     },
+     {
+      "tipe": "isian",
+      "t": "Nama lain bola pingpong adalah bola ....",
+      "p": [
+       "kasti",
+       "satel",
+       "tenis meja"
+      ],
+      "j": 2,
+      "e": "Nama lain bola pingpong adalah bola tenis meja."
+     },
+     {
+      "tipe": "pg",
+      "t": "Cara menghentikan bola dengan samping kaki dilakukan pada permainan ....",
+      "p": [
+       "sepak bola",
+       "kasti",
+       "bulu tangkis"
+      ],
+      "j": 0,
+      "e": "Cara menghentikan bola dengan samping kaki dilakukan pada permainan sepak bola."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan olahraga dengan cara memainkannya!",
+      "t": "Pasangkan gerak sepak bola dengan bagian kaki atau kepala!",
+      "pasangan": [
+       [
+        "Menendang bola",
+        "ujung kaki"
+       ],
+       [
+        "Menghentikan bola",
+        "telapak kaki"
+       ],
+       [
+        "Menyundul bola",
+        "dahi"
+       ]
+      ],
+      "urutKanan": [
+       "telapak kaki",
+       "dahi",
+       "ujung kaki"
+      ],
+      "e": "Menendang bola memakai ujung kaki, menghentikan bola memakai telapak kaki, menyundul bola memakai dahi."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kita sebaiknya bermain bola di lapangan yang lapang.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kita sebaiknya bermain bola di lapangan yang lapang agar tidak menabrak benda."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bekerja sama dengan teman saat bermain bola termasuk sikap ....",
+      "p": [
+       "negatif",
+       "moril",
+       "positif"
+      ],
+      "j": 2,
+      "e": "Bekerja sama dengan teman saat bermain bola termasuk sikap positif."
+     },
+     {
+      "tipe": "isian",
+      "t": "Memejamkan mata ketika bola datang termasuk kesalahan saat ....",
+      "p": [
+       "menangkap",
+       "menendang",
+       "menggiring"
+      ],
+      "j": 0,
+      "e": "Memejamkan mata ketika bola datang termasuk kesalahan saat menangkap."
+     },
+     {
+      "tipe": "bs",
+      "t": "Pemanasan dan pendinginan sama saja gunanya.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, pemanasan dilakukan sebelum olahraga, sedangkan pendinginan setelah olahraga."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tentukan pasangan cabang olahraga dan bola yang cocok!",
       "pasangan": [
        [
         "Sepak bola",
-        "kaki"
-       ],
-       [
-        "Bola voli",
-        "tangan"
+        "bola besar"
        ],
        [
         "Tenis meja",
-        "bet"
+        "bola pingpong"
+       ],
+       [
+        "Kasti",
+        "bola tenis"
        ]
       ],
       "urutKanan": [
-       "bet",
-       "tangan",
-       "kaki"
+       "bola pingpong",
+       "bola tenis",
+       "bola besar"
       ],
-      "e": "Sepak bola dimainkan dengan kaki, voli dengan tangan, tenis meja dengan bet."
+      "e": "Sepak bola memakai bola besar, tenis meja memakai bola pingpong, kasti memakai bola tenis."
      }
     ]
    }
@@ -11766,117 +11766,117 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kucing tidur di atas sofa. Sofa berada .... kucing.",
+      "t": "Buku ada di bawah meja. Meja berada .... buku.",
       "p": [
-       "bawah",
-       "depan",
-       "samping"
+       "di atas",
+       "di samping",
+       "di depan"
       ],
       "j": 0,
-      "e": "Karena kucing di atas sofa, maka sofa berada di bawah kucing."
+      "e": "Buku di bawah meja, jadi meja ada di atas buku."
      },
      {
       "tipe": "bs",
-      "t": "Jarum panjang yang menunjuk angka 12 menandakan waktu tepat.",
+      "t": "Jarum yang lebih pendek pada jam disebut hour hand.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, jarum panjang di angka 12 berarti jam tepat."
+      "e": "Benar, jarum pendek disebut hour hand atau jarum jam."
      },
      {
       "tipe": "pg",
-      "t": "Dina berdiri di belakang Budi. Budi berdiri .... Dina.",
+      "t": "Duduk menghadap papan, tangan kiri Raka ada di sebelah ....",
       "p": [
-       "depan",
-       "belakang",
-       "kanan"
+       "kanan",
+       "kiri",
+       "belakang"
       ],
-      "j": 0,
-      "e": "Jika Dina di belakang Budi, maka Budi ada di depan Dina."
+      "j": 1,
+      "e": "Saat menghadap papan, tangan kiri ada di sebelah kiri."
      },
      {
       "tipe": "isian",
-      "t": "Pada block graph, batang yang tertinggi menandakan kategori yang ....",
+      "t": "Pada pictogram bunga, mawar memiliki gambar paling banyak. Mawar termasuk data yang ....",
       "p": [
-       "terendah",
-       "terbanyak",
-       "sama"
+       "sedikit",
+       "paling banyak",
+       "sama banyak"
       ],
       "j": 1,
-      "e": "Batang tertinggi menandakan data terbanyak."
+      "e": "Gambar paling banyak berarti mawar adalah data paling banyak."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan arah tubuh dengan lambang panah yang tepat!",
+      "t": "Hubungkan setiap kata posisi dengan arti yang tepat!",
       "pasangan": [
        [
-        "Kiri",
-        "←"
+        "Behind",
+        "di belakang"
        ],
        [
-        "Kanan",
-        "→"
+        "Between",
+        "di antara"
        ],
        [
-        "Bawah",
-        "↓"
+        "Above",
+        "di atas"
        ]
       ],
       "urutKanan": [
-       "↓",
-       "←",
-       "→"
+       "di atas",
+       "di belakang",
+       "di antara"
       ],
-      "e": "Kiri memakai panah kiri, kanan panah kanan, bawah panah bawah."
+      "e": "Behind artinya di belakang, between di antara, above di atas."
      },
      {
       "tipe": "pg",
-      "t": "Bagian hari saat matahari baru terbit disebut ....",
+      "t": "Cahaya matahari mulai tampak pagi-pagi disebut ....",
       "p": [
-       "night",
+       "evening",
        "morning",
-       "evening"
+       "night"
       ],
       "j": 1,
-      "e": "Matahari terbit terjadi pada morning."
+      "e": "Pagi-pagi disebut morning."
      },
      {
       "tipe": "bs",
-      "t": "Bagian irisan Venn diagram berisi benda yang memiliki kedua ciri.",
+      "t": "Bagian tengah yang bertemu pada Venn diagram berisi benda yang punya dua ciri.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, irisan Venn memuat benda yang memiliki kedua ciri sekaligus."
+      "e": "Benar, irisan tengah Venn berisi benda yang memiliki dua ciri."
      },
      {
       "tipe": "isian",
-      "t": "Anak ke-4 dalam antrean disebut urutan ....",
+      "t": "Anak yang berdiri urutan kelima disebut urutan ....",
       "p": [
-       "third",
        "fourth",
-       "fifth"
+       "fifth",
+       "sixth"
       ],
       "j": 1,
-      "e": "Urutan ke-4 dalam bahasa Inggris adalah fourth."
+      "e": "Urutan kelima dalam bahasa Inggris adalah fifth."
      },
      {
       "tipe": "pg",
-      "t": "Kelas 1A dan 1B masing-masing memiliki 20 siswa. Jumlah siswa kedua kelas adalah ....",
+      "t": "Kotak Merah isi 12 kancing, kotak Biru juga 12. Isi kedua kotak ....",
       "p": [
        "lebih banyak",
        "lebih sedikit",
        "sama banyak"
       ],
       "j": 2,
-      "e": "Keduanya berjumlah 20, jadi sama banyak."
+      "e": "Duanya berjumlah 12, jadi sama banyak."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bulan dengan nomor urutnya!",
+      "t": "Pasangkan bulan dengan urutannya!",
       "pasangan": [
        [
         "January",
@@ -11896,73 +11896,73 @@ window.KUIS = [
        "1",
        "2"
       ],
-      "e": "January bulan pertama, February kedua, March ketiga."
+      "e": "January urutan pertama, February kedua, March ketiga."
      },
      {
       "tipe": "bs",
-      "t": "Hari sebelum hari ini disebut kemarin.",
+      "t": "Kemarin terjadi sebelum hari ini.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kemarin adalah hari sebelum hari ini."
+      "e": "Benar, kemarin datang sebelum hari ini."
      },
      {
       "tipe": "pg",
-      "t": "Pen dan penghapus diletakkan berdampingan. Pen ada .... penghapus.",
+      "t": "Gelas dan piring berdampingan di meja. Gelas ada .... piring.",
       "p": [
        "di antara",
        "di samping",
        "di bawah"
       ],
       "j": 1,
-      "e": "Berdampingan berarti di samping, jadi pen ada di samping penghapus."
+      "e": "Berdampingan berarti di samping, jadi gelas di samping piring."
      },
      {
       "tipe": "isian",
-      "t": "Jarum pendek menunjuk angka 8, jarum panjang ke angka 12. Pukul ....",
+      "t": "Jarum pendek di angka 9 dan jarum panjang di angka 12. Pukul ....",
       "p": [
-       "7",
-       "8",
-       "9"
+       "9",
+       "10",
+       "8"
       ],
-      "j": 1,
-      "e": "Jarum pendek di angka 8 berarti pukul 8."
+      "j": 0,
+      "e": "Jarum pendek di angka 9 berarti pukul 9 tepat."
      },
      {
       "tipe": "bs",
-      "t": "Carroll diagram hanya memakai satu ciri untuk mengelompokkan benda.",
+      "t": "Saat mengelompokkan, kita mencari benda yang memiliki kesamaan.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, Carroll diagram memakai dua ciri."
+      "j": 0,
+      "e": "Benar, mengelompokkan berarti mencari ciri yang sama."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan jenis grafik dengan cara membacanya!",
+      "t": "Hubungkan jenis diagram dengan cirinya!",
       "pasangan": [
        [
         "Pictogram",
-        "memakai gambar"
+        "pakai gambar"
        ],
        [
         "Block graph",
-        "memakai batang"
+        "pakai batang"
        ],
        [
-        "Carroll",
-        "memakai dua ciri"
+        "Venn",
+        "punya irisan"
        ]
       ],
       "urutKanan": [
-       "memakai batang",
-       "memakai dua ciri",
-       "memakai gambar"
+       "pakai batang",
+       "punya irisan",
+       "pakai gambar"
       ],
-      "e": "Pictogram memakai gambar, block graph memakai batang, Carroll memakai dua ciri."
+      "e": "Pictogram pakai gambar, block graph pakai batang, Venn punya irisan."
      }
     ]
    },
@@ -11972,50 +11972,50 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Buku rainbow diletakkan di bawah tas. Tas berada .... buku.",
+      "t": "Lampu ditempatkan di atas meja. Meja ada .... lampu.",
       "p": [
-       "atas",
-       "bawah",
-       "belakang"
+       "di bawah",
+       "di depan",
+       "di samping"
       ],
       "j": 0,
-      "e": "Jika buku di bawah tas, maka tas berada di atas buku."
+      "e": "Lampu di atas meja, jadi meja ada di bawah lampu."
      },
      {
       "tipe": "bs",
-      "t": "Pada jam dinding, jarum yang pendek menunjukkan angka jam.",
+      "t": "Saat jarum panjang menunjuk angka 12, waktu disebut tepat.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, jarum pendek menunjukkan jam."
+      "e": "Benar, jarum panjang di angka 12 menandakan waktu tepat."
      },
      {
       "tipe": "pg",
-      "t": "Saat menghadap papan tulis, tangan kiri siswa ada di sebelah ....",
+      "t": "Menghadap cermin, sisi kanan tubuh disebut ....",
       "p": [
-       "kanan",
-       "kiri",
-       "belakang"
+       "left",
+       "right",
+       "behind"
       ],
       "j": 1,
-      "e": "Tangan kiri ada di sebelah kiri."
+      "e": "Sisi kanan tubuh disebut right."
      },
      {
       "tipe": "isian",
-      "t": "Di pictogram, gambar yang paling sedikit disebut data ....",
+      "t": "Di block graph, batang yang terpendek menandakan data yang ....",
       "p": [
-       "terbanyak",
-       "tersedikit",
+       "paling sedikit",
+       "paling banyak",
        "sama"
       ],
-      "j": 1,
-      "e": "Paling sedikit disebut data tersedikit."
+      "j": 0,
+      "e": "Batang terpendek menandakan data paling sedikit."
      },
      {
       "tipe": "cocok",
-      "t": "Tentukan pasangan posisi dan lawan katanya!",
+      "t": "Tentukan pasangan kata posisi dan lawannya!",
       "pasangan": [
        [
         "Depan",
@@ -12039,50 +12039,50 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Pukul 15.00 termasuk bagian hari ....",
+      "t": "Pukul tiga sore termasuk bagian hari ....",
       "p": [
        "morning",
        "afternoon",
        "night"
       ],
       "j": 1,
-      "e": "Pukul 15.00 masih terang, disebut afternoon."
+      "e": "Pukul tiga sore disebut afternoon."
      },
      {
       "tipe": "bs",
-      "t": "Jika kelereng Rani 8 dan Raka 5, maka Rani memiliki lebih banyak.",
+      "t": "Delapan kelereng lebih banyak daripada lima kelereng.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, 8 lebih banyak daripada 5."
+      "e": "Benar, delapan lebih banyak daripada lima."
      },
      {
       "tipe": "isian",
-      "t": "Posisi terakhir dalam lomba 10 peserta disebut urutan ke-....",
+      "t": "Peserta paling akhir dalam antrean sepuluh orang berada di urutan ....",
       "p": [
-       "9",
-       "10",
-       "8"
+       "7th",
+       "9th",
+       "10th"
       ],
-      "j": 1,
+      "j": 2,
       "e": "Urutan kesepuluh ditulis 10th."
      },
      {
       "tipe": "pg",
-      "t": "Pada pictogram, satu gambar setara dengan 2 buah. Jika ada 4 gambar, jumlah buahnya ....",
+      "t": "Satu gambar apel mewakili 2 buah. Jika ada 5 gambar, jumlah apel ....",
       "p": [
-       "4",
-       "6",
-       "8"
+       "5",
+       "7",
+       "10"
       ],
       "j": 2,
-      "e": "4 gambar dikali 2 sama dengan 8 buah."
+      "e": "5 gambar dikali 2 sama dengan 10 apel."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan istilah waktu dengan artinya!",
+      "t": "Pasangkan kata waktu dengan artinya!",
       "pasangan": [
        [
         "Yesterday",
@@ -12106,39 +12106,39 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Satu tahun terdiri dari 12 bulan.",
+      "t": "Satu tahun terdiri dari dua belas bulan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, satu tahun ada 12 bulan."
+      "e": "Benar, satu tahun berisi dua belas bulan."
      },
      {
       "tipe": "pg",
-      "t": "Meja dan kursi berdampingan. Posisi kursi adalah .... meja.",
+      "t": "Rak sepatu bersebelahan dengan lemari. Rak sepatu ada .... lemari.",
       "p": [
-       "jauh dari",
+       "di belakang",
        "di samping",
-       "di depan"
+       "di atas"
       ],
       "j": 1,
-      "e": "Berdampingan berarti di samping, jadi kursi di samping meja."
+      "e": "Bersebelahan berarti di samping, jadi rak di samping lemari."
      },
      {
       "tipe": "isian",
-      "t": "Bulan ke-12 dalam setahun adalah ....",
+      "t": "Bulan terakhir dalam setahun adalah ....",
       "p": [
        "October",
        "November",
        "December"
       ],
       "j": 2,
-      "e": "Bulan keduabelas adalah December."
+      "e": "Bulan terakhir adalah December."
      },
      {
       "tipe": "bs",
-      "t": "Matahari terbenam menandai awal malam.",
+      "t": "Matahari terbenam menandai mulanya evening.",
       "p": [
        "Benar",
        "Salah"
@@ -12148,7 +12148,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan kata perbandingan dengan maknanya!",
+      "t": "Hubungkan istilah perbandingan dengan maknanya!",
       "pasangan": [
        [
         "More than",
@@ -12160,15 +12160,15 @@ window.KUIS = [
        ],
        [
         "Equal",
-        "sama banyak"
+        "sama"
        ]
       ],
       "urutKanan": [
        "lebih sedikit",
-       "sama banyak",
+       "sama",
        "lebih banyak"
       ],
-      "e": "More than lebih banyak, fewer than lebih sedikit, equal sama banyak."
+      "e": "More than lebih banyak, fewer than lebih sedikit, equal sama."
      }
     ]
    },
@@ -12178,46 +12178,46 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Raka duduk di depan Sari. Sari duduk .... Raka.",
+      "t": "Nina duduk di depan Rendi. Rendi duduk .... Nina.",
       "p": [
        "di depan",
        "di belakang",
        "di samping"
       ],
       "j": 1,
-      "e": "Jika Raka di depan Sari, maka Sari di belakang Raka."
+      "e": "Nina di depan Rendi, jadi Rendi duduk di belakang Nina."
      },
      {
       "tipe": "bs",
-      "t": "Pictogram menggunakan gambar sebagai pengganti angka.",
+      "t": "Pictogram memakai gambar untuk mewakili jumlah benda.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, pictogram memakai gambar untuk mewakili jumlah."
+      "e": "Benar, pictogram memakai gambar sebagai pengganti angka."
      },
      {
       "tipe": "pg",
-      "t": "Saat berdiri menghadap utara, tangan kanan mengarah ke ....",
+      "t": "Saat berdiri menghadap utara, tangan kiri mengarah ke ....",
       "p": [
        "barat",
        "timur",
        "selatan"
       ],
-      "j": 1,
-      "e": "Menghadap utara, tangan kanan mengarah ke timur."
+      "j": 0,
+      "e": "Menghadap utara, tangan kiri mengarah ke barat."
      },
      {
       "tipe": "isian",
-      "t": "Diagram yang dua lingkarannya bertemu di tengah disebut diagram ....",
+      "t": "Diagram yang dua lingkarannya saling berpotong disebut diagram ....",
       "p": [
        "Venn",
        "Carroll",
-       "block"
+       "batang"
       ],
       "j": 0,
-      "e": "Diagram dengan irisan tengah disebut diagram Venn."
+      "e": "Diagram dengan dua lingkaran yang berpotong disebut Venn."
      },
      {
       "tipe": "cocok",
@@ -12256,28 +12256,28 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Bintang biasanya terlihat pada saat night.",
+      "t": "Bintang lebih mudah terlihat pada waktu night.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, bintang terlihat pada malam hari (night)."
+      "e": "Benar, bintang tampak jelas pada malam atau night."
      },
      {
       "tipe": "isian",
-      "t": "Adi punya 9 permen, Budi punya 4. Adi punya permen .... dari Budi.",
+      "t": "Dika punya 9 kelereng, Sinta punya 4. Dika punya kelereng .... dari Sinta.",
       "p": [
        "lebih sedikit",
        "lebih banyak",
        "sama"
       ],
       "j": 1,
-      "e": "9 lebih banyak daripada 4, jadi Adi punya lebih banyak."
+      "e": "9 lebih banyak daripada 4, jadi Dika punya lebih banyak."
      },
      {
       "tipe": "pg",
-      "t": "Hari ketiga dalam seminggu mulai Senin adalah ....",
+      "t": "Hari ketiga jika diawali Senin adalah ....",
       "p": [
        "Selasa",
        "Rabu",
@@ -12288,73 +12288,73 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan kata posisi dengan lawan maknanya!",
+      "t": "Hubungkan kata posisi dengan terjemahannya!",
       "pasangan": [
        [
-        "Di depan",
-        "in front of"
+        "In front of",
+        "di depan"
        ],
        [
-        "Di belakang",
-        "behind"
+        "Next to",
+        "di samping"
        ],
        [
-        "Di samping",
-        "next to"
+        "Under",
+        "di bawah"
        ]
       ],
       "urutKanan": [
-       "behind",
-       "next to",
-       "in front of"
+       "di samping",
+       "di bawah",
+       "di depan"
       ],
-      "e": "Di depan in front of, di belakang behind, di samping next to."
+      "e": "In front of di depan, next to di samping, under di bawah."
      },
      {
       "tipe": "bs",
-      "t": "Besok disebut juga tomorrow dalam bahasa Inggris.",
+      "t": "Besok dalam bahasa Inggris disebut tomorrow.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, besok adalah tomorrow."
+      "e": "Benar, besok disebut tomorrow."
      },
      {
       "tipe": "pg",
-      "t": "Bantal ada di bawah tempat tidur. 'Di bawah' dalam bahasa Inggris adalah ....",
+      "t": "Bantal ada di bawah ranjang. Kata 'di bawah' dalam bahasa Inggris ....",
       "p": [
        "above",
        "between",
        "under"
       ],
       "j": 2,
-      "e": "Di bawah diterjemahkan menjadi under."
+      "e": "Di bawah diterjemahkan dengan under."
      },
      {
       "tipe": "isian",
-      "t": "Waktu antara afternoon dan night disebut ....",
+      "t": "Waktu sesudah afternoon sebelum night disebut ....",
       "p": [
        "morning",
        "evening",
        "noon"
       ],
       "j": 1,
-      "e": "Urutannya afternoon, evening, night."
+      "e": "Urutannya afternoon, evening, lalu night."
      },
      {
       "tipe": "bs",
-      "t": "Dua kumpulan dikatakan equal bila jumlahnya berbeda.",
+      "t": "Dua kumpulan disebut equal apabila jumlahnya berbeda.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, equal berarti sama banyak."
+      "e": "Salah, equal berarti sama banyak, bukan berbeda."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bulan ke-10 sampai ke-12 dengan nomornya!",
+      "t": "Pasangkan bulan kesepuluh sampai keduabelas dengan nomornya!",
       "pasangan": [
        [
         "October",
@@ -12384,7 +12384,7 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Gelas ditempatkan di antara piring dan sendok. Letak gelas adalah ....",
+      "t": "Gelas ditempatkan di antara piring dan sendok. Letak gelas ....",
       "p": [
        "di antara piring dan sendok",
        "di atas piring",
@@ -12395,39 +12395,39 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Carroll diagram membantu mengelompokkan benda menurut dua sifat.",
+      "t": "Carroll diagram membantu mengelompokkan benda menurut dua ciri.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, Carroll diagram memakai dua sifat pengelompokan."
+      "e": "Benar, Carroll diagram memakai dua ciri pengelompokan."
      },
      {
       "tipe": "pg",
-      "t": "Jika kita memandang ke depan, sisi kiri tubuh disebut ....",
+      "t": "Jika memandang ke depan, sisi kiri tubuh disebut ....",
       "p": [
        "right",
        "left",
-       "behind"
+       "above"
       ],
       "j": 1,
       "e": "Sisi kiri tubuh disebut left."
      },
      {
       "tipe": "isian",
-      "t": "Pada pictogram buah, apel memiliki 7 gambar sedangkan pisang 3. Apel adalah buah yang ....",
+      "t": "Pada pictogram buah, apel punya 7 gambar dan pisang 3. Apel adalah buah yang ....",
       "p": [
        "paling sedikit",
        "paling banyak",
        "sama banyak"
       ],
       "j": 1,
-      "e": "Apel memiliki gambar terbanyak, jadi apel paling banyak."
+      "e": "Apel punya gambar terbanyak, jadi apel paling banyak."
      },
      {
       "tipe": "cocok",
-      "t": "Samakan urutan ke-4 sampai ke-6 dengan sebutannya!",
+      "t": "Samakan urutan keempat sampai keenam dengan sebutannya!",
       "pasangan": [
        [
         "4th",
@@ -12451,18 +12451,18 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Pukul 18.30 termasuk waktu ....",
+      "t": "Pukul enam petang termasuk waktu ....",
       "p": [
        "afternoon",
        "night",
        "evening"
       ],
       "j": 2,
-      "e": "Pukul 18.30 disebut evening."
+      "e": "Pukul enam petang disebut evening."
      },
      {
       "tipe": "bs",
-      "t": "Dalam setahun terdapat dua belas bulan.",
+      "t": "Dalam setahun ada dua belas bulan.",
       "p": [
        "Benar",
        "Salah"
@@ -12472,18 +12472,18 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Saat langit masih gelap dan bintang tampak, keadaan itu disebut ....",
+      "t": "Saat langit gelap dan bintang tampak, keadaan itu disebut ....",
       "p": [
        "night",
        "evening",
        "dawn"
       ],
       "j": 0,
-      "e": "Langit gelap dan berbintang terjadi pada night."
+      "e": "Langit gelap berbintang terjadi pada night."
      },
      {
       "tipe": "pg",
-      "t": "Kotak A berisi 6 kelereng, kotak B berisi 9. Kotak A berisi kelereng .... dari kotak B.",
+      "t": "Kotak A berisi 6 kancing, kotak B berisi 9. Kotak A berisi kancing .... dari kotak B.",
       "p": [
        "lebih sedikit",
        "sama banyaknya",
@@ -12505,20 +12505,20 @@ window.KUIS = [
         "matahari tinggi"
        ],
        [
-        "Night",
-        "bintang muncul"
+        "Evening",
+        "matahari terbenam"
        ]
       ],
       "urutKanan": [
-       "bintang muncul",
+       "matahari terbenam",
        "matahari terbit",
        "matahari tinggi"
       ],
-      "e": "Morning matahari terbit, afternoon matahari tinggi, night bintang muncul."
+      "e": "Morning matahari terbit, afternoon matahari tinggi, evening matahari terbenam."
      },
      {
       "tipe": "bs",
-      "t": "Kemarin, hari ini, dan besok merupakan tiga hari yang berurutan.",
+      "t": "Kemarin, hari ini, dan besok merupakan tiga hari berurutan.",
       "p": [
        "Benar",
        "Salah"
@@ -12528,29 +12528,29 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Rak buku bersebelahan dengan lemari. Rak buku ada .... lemari.",
+      "t": "Lemari bersebelahan dengan jendela. Letak lemari .... jendela.",
       "p": [
        "di samping",
-       "di belakang",
+       "jauh dari",
        "di atas"
       ],
       "j": 0,
-      "e": "Bersebelahan berarti di samping, jadi rak ada di samping lemari."
+      "e": "Bersebelahan berarti di samping, jadi lemari di samping jendela."
      },
      {
       "tipe": "isian",
-      "t": "Bulan setelah September adalah ....",
+      "t": "Bulan sesudah September adalah ....",
       "p": [
        "August",
        "October",
        "December"
       ],
       "j": 1,
-      "e": "Bulan setelah September adalah October."
+      "e": "Bulan sesudah September adalah October."
      },
      {
       "tipe": "bs",
-      "t": "Pukul 7 tepat berarti jarum pendek berada di angka tujuh.",
+      "t": "Pukul tujuh tepat berarti jarum pendek berada di angka tujuh.",
       "p": [
        "Benar",
        "Salah"
@@ -12560,7 +12560,7 @@ window.KUIS = [
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan hari Minggu, Senin, Selasa dengan urutannya!",
+      "t": "Pasangkan Sunday, Monday, Tuesday dengan urutannya!",
       "pasangan": [
        [
         "Sunday",
@@ -12580,7 +12580,7 @@ window.KUIS = [
        "2",
        "7"
       ],
-      "e": "Minggu urutan ke-7, Senin ke-1, Selasa ke-2."
+      "e": "Sunday urutan ke-7, Monday ke-1, Tuesday ke-2."
      }
     ]
    }
@@ -12605,203 +12605,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Alat tulis untuk menggambar adalah ....",
+      "t": "Rani menuangkan cat air ke wadah kecil. Alat berbulu halus yang ia pakai untuk mengoles warna adalah ....",
       "p": [
-       "penghapus",
-       "pensil",
+       "kuas",
+       "gunting",
+       "penggaris"
+      ],
+      "j": 0,
+      "e": "Kuas berbulu halus dipakai Rani untuk mengoles cat air."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kanvas sering dipakai sebagai tempat melukis.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kanvas memang media tempat melukis."
+     },
+     {
+      "tipe": "pg",
+      "t": "Adit menarik garis lurus di atas kertas sebelum membuat bentuk rumah. Alat yang ia gunakan adalah ....",
+      "p": [
+       "krayon",
+       "penggaris",
        "lem"
       ],
       "j": 1,
-      "e": "Pensil adalah alat tulis untuk menggambar."
+      "e": "Penggaris dipakai Adit untuk menarik garis lurus."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bu Guru memberi Rina alat lengket untuk menempel daun pada karton. Alat itu adalah ....",
+      "p": [
+       "kuas",
+       "pensil",
+       "lem"
+      ],
+      "j": 2,
+      "e": "Lem adalah alat lengket yang dipakai Rina."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan tiap media dengan kegunaan utamanya!",
+      "pasangan": [
+       [
+        "Kertas",
+        "tempat menggambar"
+       ],
+       [
+        "Kanvas",
+        "tempat melukis"
+       ],
+       [
+        "Kain",
+        "bahan untuk kolase"
+       ]
+      ],
+      "urutKanan": [
+       "bahan untuk kolase",
+       "tempat menggambar",
+       "tempat melukis"
+      ],
+      "e": "Kertas untuk menggambar, kanvas untuk melukis, kain menjadi bahan kolase."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sinta mengumpulkan daun kering di halaman. Bahan alam itu akan ia tempel dalam karya ....",
+      "p": [
+       "kolase",
+       "origami",
+       "lukisan"
+      ],
+      "j": 0,
+      "e": "Daun kering ditempel Sinta dalam karya kolase."
      },
      {
       "tipe": "bs",
-      "t": "Krayon dipakai untuk mewarnai gambar.",
+      "t": "Gunting boleh diarahkan ke wajah teman saat dipakai.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, krayon memang dipakai mewarnai gambar."
-     },
-     {
-      "tipe": "pg",
-      "t": "Contoh bahan alam adalah ....",
-      "p": [
-       "daun kering",
-       "kertas gambar",
-       "plastik"
-      ],
-      "j": 0,
-      "e": "Daun kering termasuk contoh bahan alam."
+      "j": 1,
+      "e": "Salah, gunting tidak boleh diarahkan ke teman."
      },
      {
       "tipe": "isian",
-      "t": "Alat yang bisa memotong kertas adalah ....",
+      "t": "Duduk yang benar saat menggambar adalah dengan badan ....",
       "p": [
-       "lem",
-       "kuas",
-       "gunting"
+       "miring",
+       "tegak",
+       "berbaring"
+      ],
+      "j": 1,
+      "e": "Badan tegak saat duduk menggambar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Pensil warna dan krayon termasuk golongan ....",
+      "p": [
+       "alat pemotong",
+       "media gambar",
+       "bahan pewarna"
       ],
       "j": 2,
-      "e": "Gunting bisa memotong kertas dengan rapi."
+      "e": "Pensil warna dan krayon termasuk bahan pewarna."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat menggambar dengan fungsinya!",
+      "t": "Hubungkan cara memegang alat dengan alatnya!",
       "pasangan": [
        [
         "Pensil",
-        "menggambar"
+        "dipegang dengan tiga jari"
        ],
        [
         "Gunting",
-        "memotong"
+        "dipegang pada gagang"
        ],
-       [
-        "Lem",
-        "merekatkan"
-       ]
-      ],
-      "urutKanan": [
-       "merekatkan",
-       "menggambar",
-       "memotong"
-      ],
-      "e": "Pensil menggambar, gunting memotong, lem merekatkan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Cairan pewarna yang dipakai bersama kuas adalah ....",
-      "p": [
-       "cat air",
-       "pensil",
-       "gunting"
-      ],
-      "j": 0,
-      "e": "Cat air adalah cairan pewarna yang dipakai bersama kuas."
-     },
-     {
-      "tipe": "bs",
-      "t": "Gunting boleh digunakan sembarangan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, gunting wajib dipakai dengan hati-hati."
-     },
-     {
-      "tipe": "isian",
-      "t": "Daun kering tergolong bahan ....",
-      "p": [
-       "buatan",
-       "logam",
-       "alam"
-      ],
-      "j": 2,
-      "e": "Daun kering tergolong bahan alam."
-     },
-     {
-      "tipe": "pg",
-      "t": "Menempel potongan kertas disebut teknik ....",
-      "p": [
-       "origami",
-       "kolase",
-       "sketsa"
-      ],
-      "j": 1,
-      "e": "Teknik menempel potongan kertas disebut kolase."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan bahan alam dengan sumbernya!",
-      "pasangan": [
-       [
-        "Daun kering",
-        "tumbuhan"
-       ],
-       [
-        "Batu",
-        "alam"
-       ],
-       [
-        "Kertas",
-        "buatan"
-       ]
-      ],
-      "urutKanan": [
-       "buatan",
-       "tumbuhan",
-       "alam"
-      ],
-      "e": "Daun kering dari tumbuhan, batu dari alam, kertas buatan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kertas gambar termasuk bahan buatan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, kertas gambar dibuat oleh manusia."
-     },
-     {
-      "tipe": "pg",
-      "t": "Penghapus berguna untuk ....",
-      "p": [
-       "menghapus tulisan",
-       "memotong kertas",
-       "menggaris lurus"
-      ],
-      "j": 0,
-      "e": "Penghapus berguna untuk menghapus tulisan pensil."
-     },
-     {
-      "tipe": "isian",
-      "t": "Bahan lunak yang dibentuk menjadi patung adalah ....",
-      "p": [
-       "tanah liat",
-       "kertas",
-       "batu"
-      ],
-      "j": 0,
-      "e": "Tanah liat dibentuk menjadi patung."
-     },
-     {
-      "tipe": "bs",
-      "t": "Krayon tergolong pewarna alami.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, krayon adalah pewarna buatan."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kuas, penggaris, penghapus dengan kegunaannya!",
-      "pasangan": [
        [
         "Kuas",
-        "menyapu cat"
-       ],
-       [
-        "Penggaris",
-        "menggaris lurus"
-       ],
-       [
-        "Penghapus",
-        "menghapus"
+        "dipegang seperti pensil"
        ]
       ],
       "urutKanan": [
-       "menghapus",
-       "menyapu cat",
-       "menggaris lurus"
+       "dipegang seperti pensil",
+       "dipegang dengan tiga jari",
+       "dipegang pada gagang"
       ],
-      "e": "Kuas menyapu cat, penggaris menggaris lurus, penghapus menghapus."
+      "e": "Pensil dipegang tiga jari, gunting pada gagang, kuas seperti pensil."
+     },
+     {
+      "tipe": "bs",
+      "t": "Cat minyak dipakai bersama kuas untuk melukis.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, cat minyak dioles dengan kuas saat melukis."
+     },
+     {
+      "tipe": "pg",
+      "t": "Setelah selesai menggunting, Tono menutup gunting dan menyimpannya. Tindakan Tono menunjukkan ....",
+      "p": [
+       "kehati-hatian",
+       "kecepatan",
+       "keheranan"
+      ],
+      "j": 0,
+      "e": "Menutup gunting menunjukkan kehati-hatian."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kain potong-potong ditempel Bu Guru ke kertas bersama daun. Teknik itu disebut ....",
+      "p": [
+       "sketsa",
+       "kolase",
+       "patung"
+      ],
+      "j": 1,
+      "e": "Teknik menempel kain dan daun disebut kolase."
+     },
+     {
+      "tipe": "bs",
+      "t": "Penggaris dipakai untuk memotong kertas.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, penggaris untuk menggaris, gunting untuk memotong."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokkan tiga bahan gambar dengan hasil yang dibuatnya!",
+      "pasangan": [
+       [
+        "Krayon",
+        "mewarnai tanpa air"
+       ],
+       [
+        "Cat air",
+        "mewarnai dengan air"
+       ],
+       [
+        "Cat minyak",
+        "melukis dengan kuas"
+       ]
+      ],
+      "urutKanan": [
+       "melukis dengan kuas",
+       "mewarnai tanpa air",
+       "mewarnai dengan air"
+      ],
+      "e": "Krayon tanpa air, cat air dengan air, cat minyak untuk melukis."
      }
     ]
    },
@@ -12811,203 +12811,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Alat penggaris membantu membuat ....",
+      "t": "Kinan mencelup kuas ke cat air, lalu mengoleskannya pada kertas gambar. Kuas termasuk ....",
       "p": [
-       "gambar miring",
-       "garis lurus",
-       "warna"
+       "alat",
+       "bahan",
+       "media"
       ],
-      "j": 1,
-      "e": "Penggaris membantu membuat garis lurus."
+      "j": 0,
+      "e": "Kuas termasuk alat, bukan bahan atau media."
      },
      {
       "tipe": "bs",
-      "t": "Pensil dapat menggambar di atas kertas.",
+      "t": "Kain termasuk salah satu media untuk berkarya.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, pensil biasa menggambar di kertas."
+      "e": "Benar, kain bisa menjadi media karya seni."
      },
      {
       "tipe": "pg",
-      "t": "Ranting termasuk contoh ....",
+      "t": "Di meja seni ada gunting tajam. Sebelum memotong, Nia sebaiknya ....",
       "p": [
-       "bahan alam",
-       "bahan buatan",
-       "alat gambar"
+       "berlari membawanya",
+       "mengarahkan ke teman",
+       "menggunting dengan hati-hati"
       ],
-      "j": 0,
-      "e": "Ranting termasuk contoh bahan alam."
+      "j": 2,
+      "e": "Nia sebaiknya menggunting dengan hati-hati."
      },
      {
       "tipe": "isian",
-      "t": "Lem berfungsi untuk ....",
+      "t": "Budi membuat pola gambar dengan alat berujung grafit. Alat itu adalah ....",
       "p": [
-       "memotong kertas",
-       "menghapus tulisan",
-       "merekatkan kertas"
+       "pensil",
+       "krayon",
+       "cat air"
       ],
-      "j": 2,
-      "e": "Lem berfungsi untuk merekatkan kertas."
+      "j": 0,
+      "e": "Pensil dipakai Budi untuk membuat pola gambar."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat dengan hasil kerjanya!",
+      "t": "Tentukan pasangan alat dengan hasil kerja yang benar!",
       "pasangan": [
        [
         "Pensil",
-        "sketsa"
-       ],
-       [
-        "Krayon",
-        "warna"
+        "pola gambar"
        ],
        [
         "Gunting",
-        "potongan"
+        "potongan rapi"
+       ],
+       [
+        "Lem",
+        "kertas menempel"
        ]
       ],
       "urutKanan": [
-       "potongan",
-       "sketsa",
-       "warna"
+       "kertas menempel",
+       "pola gambar",
+       "potongan rapi"
       ],
-      "e": "Pensil menghasilkan sketsa, krayon menghasilkan warna, gunting menghasilkan potongan."
+      "e": "Pensil membuat pola, gunting memotong rapi, lem menempelkan kertas."
      },
      {
       "tipe": "pg",
-      "t": "Cat air diencerkan dengan ....",
+      "t": "Daun kering yang jatuh di halaman dikumpulkan Lina untuk karya tempel. Bahan itu berasal dari ....",
       "p": [
-       "air",
-       "lem",
-       "pasir"
+       "tumbuhan",
+       "pabrik",
+       "toko"
       ],
       "j": 0,
-      "e": "Cat air diencerkan dengan air."
+      "e": "Daun kering berasal dari tumbuhan."
      },
      {
       "tipe": "bs",
-      "t": "Penggaris terbuat dari kayu atau plastik.",
+      "t": "Duduk berbaring saat menggambar membuat tangan lebih nyaman.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, penggaris biasanya dari kayu atau plastik."
+      "j": 1,
+      "e": "Salah, duduk harus tegak agar tangan mudah bergerak."
      },
      {
       "tipe": "isian",
-      "t": "Plastik termasuk golongan bahan ....",
+      "t": "Penghapus berguna untuk membersihkan bekas goresan ....",
       "p": [
-       "alam",
-       "buatan",
-       "kain"
+       "pensil",
+       "cat minyak",
+       "krayon"
       ],
-      "j": 1,
-      "e": "Plastik termasuk golongan bahan buatan."
+      "j": 0,
+      "e": "Penghapus membersihkan bekas goresan pensil."
      },
      {
       "tipe": "pg",
-      "t": "Teknik melipat kertas disebut ....",
+      "t": "Saat melukis bunga, Kinan memakai kuas dan cat air. Cat air berfungsi untuk ....",
       "p": [
-       "patung",
-       "origami",
-       "sketsa"
+       "memotong kertas",
+       "menggaris tepi",
+       "memberi warna"
       ],
-      "j": 1,
-      "e": "Melipat kertas disebut teknik origami."
+      "j": 2,
+      "e": "Cat air berfungsi memberi warna pada lukisan."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan bahan buatan dengan ciri khasnya!",
+      "t": "Hubungkan bahan pewarna dengan cara menggunakannya!",
       "pasangan": [
        [
-        "Kertas origami",
-        "dilipat"
+        "Krayon",
+        "digoreskan langsung"
        ],
        [
         "Cat air",
-        "dicampur air"
+        "dicelup dengan kuas"
        ],
        [
-        "Krayon",
-        "pewarna kering"
+        "Pensil warna",
+        "dipakai seperti pensil"
        ]
       ],
       "urutKanan": [
-       "pewarna kering",
-       "dilipat",
-       "dicampur air"
+       "dipakai seperti pensil",
+       "digoreskan langsung",
+       "dicelup dengan kuas"
       ],
-      "e": "Kertas origami dilipat, cat air dicampur air, krayon pewarna kering."
+      "e": "Krayon digoreskan, cat air dicelup kuas, pensil warna seperti pensil."
      },
      {
       "tipe": "bs",
-      "t": "Tanah liat berasal dari alam.",
+      "t": "Kertas, kanvas, dan kain disebut media dalam karya seni.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, tanah liat diambil dari alam."
+      "e": "Benar, ketiganya termasuk media berkarya."
      },
      {
       "tipe": "pg",
-      "t": "Bahan alam yang keras adalah ....",
+      "t": "Tangan Rania terlalu dekat ujung gunting saat memotong. Agar aman, ia harus ....",
       "p": [
-       "batu",
-       "daun",
-       "kapas"
+       "memegang pada gagang",
+       "membuka gunting lebar-lebar",
+       "menutup mata"
       ],
       "j": 0,
-      "e": "Batu adalah bahan alam yang keras."
+      "e": "Rania harus memegang pada gagang gunting."
      },
      {
       "tipe": "isian",
-      "t": "Wadah untuk menampung cat air adalah ....",
+      "t": "Bahan yang dipakai untuk merekatkan potongan kertas adalah ....",
       "p": [
-       "palet",
-       "gunting",
-       "pensil"
+       "pensil warna",
+       "lem",
+       "krayon"
       ],
-      "j": 0,
-      "e": "Palet dipakai untuk menampung cat air."
+      "j": 1,
+      "e": "Lem dipakai untuk merekatkan potongan kertas."
      },
      {
       "tipe": "bs",
-      "t": "Menggunting sambil berlari boleh saja.",
+      "t": "Memegang pensil terlalu dekat ujungnya dianjurkan.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, menggunting harus duduk tenang."
+      "e": "Salah, pensil sebaiknya dipegang agak jauh dari ujung."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan teknik berkarya dengan gerakannya!",
+      "t": "Pasangkan alat gambar dengan kegunaan yang tepat!",
       "pasangan": [
        [
-        "Kolase",
-        "menempel"
+        "Penggaris",
+        "membuat garis lurus"
        ],
        [
-        "Origami",
-        "melipat"
+        "Kuas",
+        "mengoles cat"
        ],
        [
-        "Mewarnai",
-        "mengoles"
+        "Gunting",
+        "memotong kertas"
        ]
       ],
       "urutKanan": [
-       "mengoles",
-       "menempel",
-       "melipat"
+       "memotong kertas",
+       "membuat garis lurus",
+       "mengoles cat"
       ],
-      "e": "Kolase dengan menempel, origami dengan melipat, mewarnai dengan mengoles."
+      "e": "Penggaris menggaris, kuas mengoles cat, gunting memotong kertas."
      }
     ]
    },
@@ -13017,203 +13017,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Benda bantu berkarya yang tidak habis disebut ....",
+      "t": "Kertas gambar, kanvas, dan kain termasuk ....",
       "p": [
+       "media",
        "alat",
-       "bahan",
-       "warna"
+       "bahan pewarna"
       ],
       "j": 0,
-      "e": "Benda bantu yang tidak habis disebut alat."
+      "e": "Kertas gambar, kanvas, dan kain termasuk media."
      },
      {
       "tipe": "bs",
-      "t": "Palet dipakai sebagai wadah pencampur warna.",
+      "t": "Krayon dipakai dengan cara dicelup ke air dulu.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, palet menjadi wadah mencampur cat."
+      "j": 1,
+      "e": "Salah, krayon digoreskan langsung tanpa dicelup."
      },
      {
       "tipe": "pg",
-      "t": "Yang termasuk karya buatan manusia adalah ....",
+      "t": "Alya akan menggambar rumah. Sebelum mewarnai, ia membuat bentuk rumah memakai ....",
       "p": [
-       "kertas origami",
-       "daun kering",
-       "ranting"
-      ],
-      "j": 0,
-      "e": "Kertas origami dibuat manusia."
-     },
-     {
-      "tipe": "isian",
-      "t": "Bahan keras yang bisa dipahat adalah ....",
-      "p": [
-       "daun",
-       "kain",
-       "kayu"
+       "cat air",
+       "lem",
+       "pensil"
       ],
       "j": 2,
-      "e": "Kayu bisa dipahat menjadi karya."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan nama alat dengan kegunaan utamanya!",
-      "pasangan": [
-       [
-        "Penghapus",
-        "menghapus"
-       ],
-       [
-        "Penggaris",
-        "menggaris"
-       ],
-       [
-        "Palet",
-        "wadah cat"
-       ]
-      ],
-      "urutKanan": [
-       "wadah cat",
-       "menghapus",
-       "menggaris"
-      ],
-      "e": "Penghapus menghapus, penggaris menggaris, palet wadah cat."
-     },
-     {
-      "tipe": "pg",
-      "t": "Menyapukan cat ke kertas memakai ....",
-      "p": [
-       "kuas",
-       "gunting",
-       "penghapus"
-      ],
-      "j": 0,
-      "e": "Kuas dipakai menyapukan cat ke kertas."
-     },
-     {
-      "tipe": "bs",
-      "t": "Gunting harus dipakai dengan hati-hati.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, gunting tajam jadi perlu hati-hati."
+      "e": "Alya membuat bentuk rumah memakai pensil."
      },
      {
       "tipe": "isian",
-      "t": "Biji-bijian termasuk bahan ....",
+      "t": "Untuk meratakan cat di kanvas, Farhan memakai alat berbulu bernama ....",
       "p": [
-       "buatan",
-       "alam",
-       "kayu"
-      ],
-      "j": 1,
-      "e": "Biji-bijian termasuk bahan alam."
-     },
-     {
-      "tipe": "pg",
-      "t": "Mengoles warna pada gambar disebut ....",
-      "p": [
-       "mewarnai",
-       "melipat",
-       "menempel"
+       "kuas",
+       "krayon",
+       "gunting"
       ],
       "j": 0,
-      "e": "Mengoles warna pada gambar disebut mewarnai."
+      "e": "Farhan memakai kuas untuk meratakan cat di kanvas."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan hasil hutan dengan cirinya!",
+      "t": "Hubungkan bahan kolase dengan asal potongannya!",
       "pasangan": [
        [
-        "Biji-bijian",
-        "bulat kecil"
+        "Potongan kertas",
+        "dari kertas bekas"
        ],
        [
-        "Cangkang kerang",
-        "keras"
+        "Daun kering",
+        "dari pohon"
        ],
        [
-        "Ranting",
-        "panjang"
+        "Potongan kain",
+        "dari kain perca"
        ]
       ],
       "urutKanan": [
-       "panjang",
-       "bulat kecil",
-       "keras"
+       "dari kain perca",
+       "dari kertas bekas",
+       "dari pohon"
       ],
-      "e": "Biji-bijian bulat kecil, cangkang kerang keras, ranting panjang."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bahan alam hanya berupa daun saja.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, bahan alam juga batu, ranting, biji, kerang."
+      "e": "Potongan kertas dari kertas bekas, daun dari pohon, kain dari perca."
      },
      {
       "tipe": "pg",
-      "t": "Alat untuk menggaris pinggir kertas adalah ....",
+      "t": "Tempat melukis yang terbuat dari kain disebut ....",
       "p": [
-       "penggaris",
-       "kuas",
-       "lem"
-      ],
-      "j": 0,
-      "e": "Penggaris dipakai menggaris pinggir kertas."
-     },
-     {
-      "tipe": "isian",
-      "t": "Cangkang kerang termasuk golongan bahan ....",
-      "p": [
-       "buatan",
-       "alam",
-       "plastik"
+       "krayon",
+       "kanvas",
+       "kertas"
       ],
       "j": 1,
-      "e": "Cangkang kerang termasuk golongan bahan alam."
+      "e": "Kanvas terbuat dari kain untuk tempat melukis."
      },
      {
       "tipe": "bs",
-      "t": "Krayon dipakai tanpa campuran air dan palet.",
+      "t": "Lem dipakai untuk menggunting kertas.",
       "p": [
        "Benar",
        "Salah"
       ],
+      "j": 1,
+      "e": "Salah, lem untuk merekatkan, gunting untuk memotong."
+     },
+     {
+      "tipe": "isian",
+      "t": "Budi memastikan ujung gunting tidak menghadap teman. Sikap ini disebut ....",
+      "p": [
+       "hati-hati",
+       "terburu-buru",
+       "sembarangan"
+      ],
       "j": 0,
-      "e": "Benar, krayon pewarna kering tanpa air dan palet."
+      "e": "Sikap Budi disebut hati-hati."
+     },
+     {
+      "tipe": "pg",
+      "t": "Warna yang digoreskan langsung dari batangnya tanpa air adalah ....",
+      "p": [
+       "cat air",
+       "cat minyak",
+       "krayon"
+      ],
+      "j": 2,
+      "e": "Krayon digoreskan langsung tanpa air."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat gambar dengan cara memakainya!",
+      "t": "Pasangkan alat dengan gerakan yang benar saat menggambar!",
       "pasangan": [
        [
         "Pensil",
-        "dipegang tangan"
+        "dipegang tiga jari"
+       ],
+       [
+        "Penggaris",
+        "diletakkan di kertas"
        ],
        [
         "Kuas",
-        "dicelup cat"
-       ],
-       [
-        "Gunting",
-        "dibuka tutup"
+        "dicelup ke cat"
        ]
       ],
       "urutKanan": [
-       "dibuka tutup",
-       "dipegang tangan",
-       "dicelup cat"
+       "dicelup ke cat",
+       "dipegang tiga jari",
+       "diletakkan di kertas"
       ],
-      "e": "Pensil dipegang tangan, kuas dicelup cat, gunting dibuka tutup."
+      "e": "Pensil dipegang tiga jari, penggaris diletak di kertas, kuas dicelup cat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Duduk tegak dan kaki menempel lantai membantu tangan lebih stabil.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, duduk tegak membuat tangan lebih mudah menggambar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Setelah menempel daun, Rizky merapikan meja. Tindakan itu disebut ....",
+      "p": [
+       "membersihkan tempat kerja",
+       "menggaris kertas",
+       "mencampur cat"
+      ],
+      "j": 0,
+      "e": "Merapikan meja disebut membersihkan tempat kerja."
+     },
+     {
+      "tipe": "isian",
+      "t": "Bahan yang ditempel Beni pada gambar kupu-kupu adalah daun ....",
+      "p": [
+       "basah",
+       "kering",
+       "baru"
+      ],
+      "j": 1,
+      "e": "Beni menempelkan daun kering pada gambar kupu-kupu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Menggunting sambil berlari di kelas diperbolehkan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, gunting harus dipakai duduk dan hati-hati."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan tiap teknik dengan bahan yang dipakainya!",
+      "pasangan": [
+       [
+        "Kolase",
+        "potongan kertas"
+       ],
+       [
+        "Melukis",
+        "cat air"
+       ],
+       [
+        "Mewarnai",
+        "krayon"
+       ]
+      ],
+      "urutKanan": [
+       "krayon",
+       "potongan kertas",
+       "cat air"
+      ],
+      "e": "Kolase memakai potongan kertas, melukis cat air, mewarnai krayon."
      }
     ]
    },
@@ -13223,203 +13223,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Alat untuk menyapu cat adalah ....",
+      "t": "Alat yang dipakai untuk menggaris tepi kertas dengan rapi adalah ....",
       "p": [
+       "penggaris",
        "kuas",
-       "pensil",
-       "gunting"
+       "lem"
       ],
       "j": 0,
-      "e": "Kuas menyapu cat di atas kertas."
+      "e": "Penggaris dipakai untuk menggaris tepi kertas."
      },
      {
       "tipe": "bs",
-      "t": "Pensil bukan alat untuk menulis.",
+      "t": "Pensil warna termasuk alat untuk memotong.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, pensil justru dipakai menulis dan menggambar."
+      "e": "Salah, pensil warna untuk mewarnai, bukan memotong."
      },
      {
       "tipe": "pg",
-      "t": "Bahan alam untuk kolase adalah ....",
+      "t": "Di sudut kelas, Salsa mengambil kain perca untuk ditempel. Kain perca termasuk ....",
       "p": [
-       "cangkang kerang",
-       "kertas origami",
-       "cat air"
+       "bahan kolase",
+       "alat gambar",
+       "media cat"
       ],
       "j": 0,
-      "e": "Cangkang kerang dipakai untuk kolase."
+      "e": "Kain perca termasuk bahan kolase."
      },
      {
       "tipe": "isian",
-      "t": "Gunting berguna untuk ....",
+      "t": "Gunting dipegang pada bagian .... agar jari aman.",
       "p": [
-       "menghapus tulisan",
-       "merekatkan lembar",
-       "memotong kertas"
+       "gagang",
+       "ujung",
+       "mata"
+      ],
+      "j": 0,
+      "e": "Gunting dipegang pada gagang agar jari aman."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tentukan pasangan media dengan contoh benda di sekitar kita!",
+      "pasangan": [
+       [
+        "Kertas",
+        "buku gambar"
+       ],
+       [
+        "Kanvas",
+        "lukisan"
+       ],
+       [
+        "Kain",
+        "perca"
+       ]
+      ],
+      "urutKanan": [
+       "perca",
+       "buku gambar",
+       "lukisan"
+      ],
+      "e": "Kertas ada pada buku gambar, kanvas pada lukisan, kain pada perca."
+     },
+     {
+      "tipe": "pg",
+      "t": "Saat menggambar, punggung Rendi sebaiknya ....",
+      "p": [
+       "membungkuk",
+       "tegak",
+       "miring"
+      ],
+      "j": 1,
+      "e": "Punggung Rendi sebaiknya tegak saat menggambar."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kanvas dan kain adalah dua contoh media.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kanvas dan kain termasuk media."
+     },
+     {
+      "tipe": "isian",
+      "t": "Karya yang dibuat dengan menempel potongan daun dan kertas disebut ....",
+      "p": [
+       "gambar",
+       "lukisan",
+       "kolase"
       ],
       "j": 2,
-      "e": "Gunting berguna untuk memotong kertas."
+      "e": "Karya tempelan itu disebut kolase."
+     },
+     {
+      "tipe": "pg",
+      "t": "Potongan kertas ditempel memakai lem oleh Dimas. Bahan yang ia pakai sebagai perekat adalah ....",
+      "p": [
+       "lem",
+       "cat air",
+       "krayon"
+      ],
+      "j": 0,
+      "e": "Dimas memakai lem sebagai perekat potongan kertas."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat seni dengan manfaatnya!",
+      "t": "Cocokkan kegiatan seni dengan alat yang paling cocok!",
       "pasangan": [
        [
-        "Kuas",
-        "mewarnai"
+        "Membuat garis lurus",
+        "penggaris"
        ],
        [
-        "Palet",
-        "menampung cat"
+        "Menempel daun",
+        "lem"
        ],
        [
-        "Penggaris",
-        "merapikan garis"
+        "Mengoles cat",
+        "kuas"
        ]
       ],
       "urutKanan": [
-       "merapikan garis",
-       "mewarnai",
-       "menampung cat"
+       "kuas",
+       "penggaris",
+       "lem"
       ],
-      "e": "Kuas mewarnai, palet menampung cat, penggaris merapikan garis."
-     },
-     {
-      "tipe": "pg",
-      "t": "Air dicampur dengan cat supaya ....",
-      "p": [
-       "lebih encer",
-       "lebih kering",
-       "lebih keras"
-      ],
-      "j": 0,
-      "e": "Air membuat cat menjadi lebih encer."
+      "e": "Garis lurus dengan penggaris, daun ditempel lem, cat dioles kuas."
      },
      {
       "tipe": "bs",
-      "t": "Kertas origami berasal dari pabrik.",
+      "t": "Krayon dipakai untuk mengoles cat air.",
       "p": [
        "Benar",
        "Salah"
       ],
+      "j": 1,
+      "e": "Salah, krayon digoreskan, kuas yang mengoles cat air."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bahan yang biasa dipakai bersama kuas untuk melukis adalah ....",
+      "p": [
+       "cat minyak",
+       "krayon",
+       "pensil warna"
+      ],
       "j": 0,
-      "e": "Benar, kertas origami dibuat di pabrik."
+      "e": "Cat minyak dioles bersama kuas saat melukis."
      },
      {
       "tipe": "isian",
-      "t": "Teknik menempel daun kering disebut ....",
+      "t": "Untuk membuat garis lurus, Anisa meletakkan .... di atas kertas.",
       "p": [
-       "lukisan",
-       "kolase",
-       "patung"
-      ],
-      "j": 1,
-      "e": "Menempel daun kering disebut kolase."
-     },
-     {
-      "tipe": "pg",
-      "t": "Lipatan kertas hingga berbentuk burung disebut ....",
-      "p": [
-       "origami",
-       "kolase",
-       "patung"
+       "penggaris",
+       "gunting",
+       "krayon"
       ],
       "j": 0,
-      "e": "Melipat kertas menjadi burung disebut origami."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan karya seni dengan bahan bakunya!",
-      "pasangan": [
-       [
-        "Kolase",
-        "kertas bekas"
-       ],
-       [
-        "Origami",
-        "kertas lipat"
-       ],
-       [
-        "Patung",
-        "tanah liat"
-       ]
-      ],
-      "urutKanan": [
-       "tanah liat",
-       "kertas bekas",
-       "kertas lipat"
-      ],
-      "e": "Kolase dari kertas bekas, origami dari kertas lipat, patung dari tanah liat."
+      "e": "Anisa meletakkan penggaris untuk membuat garis lurus."
      },
      {
       "tipe": "bs",
-      "t": "Krayon termasuk pewarna basah.",
+      "t": "Gunting disimpan setelah dipakai tanpa ditutup.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, krayon pewarna kering."
-     },
-     {
-      "tipe": "pg",
-      "t": "Alat yang dipakai untuk menghapus adalah ....",
-      "p": [
-       "penghapus",
-       "spidol",
-       "gunting"
-      ],
-      "j": 0,
-      "e": "Penghapus dipakai untuk menghapus."
-     },
-     {
-      "tipe": "isian",
-      "t": "Hasil akhir tempelan kertas disebut ....",
-      "p": [
-       "kolase",
-       "patung",
-       "sketsa"
-      ],
-      "j": 0,
-      "e": "Hasil tempelan kertas disebut kolase."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kertas gambar berasal dari alam.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, kertas buatan manusia."
+      "e": "Salah, gunting sebaiknya ditutup setelah dipakai."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda dengan kelompok bahannya!",
+      "t": "Hubungkan potongan bahan dengan teknik kolase yang benar!",
       "pasangan": [
-       [
-        "Plastik",
-        "buatan"
-       ],
        [
         "Daun kering",
-        "alam"
+        "ditempel dengan lem"
        ],
        [
-        "Kertas gambar",
-        "pabrik"
+        "Kain perca",
+        "dipotong gunting"
+       ],
+       [
+        "Kertas bekas",
+        "dilem pada kertas"
        ]
       ],
       "urutKanan": [
-       "pabrik",
-       "buatan",
-       "alam"
+       "dilem pada kertas",
+       "ditempel dengan lem",
+       "dipotong gunting"
       ],
-      "e": "Plastik buatan, daun kering alam, kertas gambar pabrik."
+      "e": "Daun ditempel lem, kain dipotong gunting, kertas dilem."
      }
     ]
    }
@@ -13444,203 +13444,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kepala kulawarga ing basa Jawa diarani ....",
+      "t": "Bapak, ibu, lan anak kalebu kulawarga ....",
       "p": [
-       "ibu",
-       "rama",
-       "adhi"
+       "adoh",
+       "inti",
+       "gedhe"
       ],
       "j": 1,
-      "e": "Sing dadi kepala kulawarga diarani rama (bapak)."
+      "e": "Bapak, ibu, lan anak kalebu kulawarga inti."
      },
      {
       "tipe": "bs",
-      "t": "Rama lan ibu golongane kulawarga inti.",
+      "t": "Kangmas iku sedulur lanang sing luwih tuwa.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, rama lan ibu kalebu kulawarga inti."
+      "e": "Benar, kangmas iku sedulur lanang sing luwih tuwa."
      },
      {
       "tipe": "pg",
-      "t": "Mbakyu iku sebutan kanggo ....",
+      "t": "Tembung mbakyu tegese ....",
       "p": [
-       "adik lanang",
-       "kakak wadon",
-       "ibu"
+       "ibu",
+       "adik",
+       "kakak wadon"
       ],
-      "j": 1,
-      "e": "Mbakyu iku sebutan kanggo kakak wadon."
+      "j": 2,
+      "e": "Mbakyu tegese kakak wadon."
      },
      {
       "tipe": "isian",
-      "t": "Kakak wadon kasebut ....",
+      "t": "Sedulur wadon sing luwih tuwa diarani ....",
       "p": [
-       "mas",
+       "adik",
        "mbakyu",
-       "dhik"
+       "ibu"
       ],
       "j": 1,
-      "e": "Kakak wadon kasebut mbakyu."
+      "e": "Sedulur wadon sing luwih tuwa diarani mbakyu."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangana jenenge kulawarga karo tegesipun!",
+      "t": "Pasangna sedulur karo tegese!",
       "pasangan": [
        [
-        "Rama",
+        "Kangmas",
+        "kakak lanang"
+       ],
+       [
+        "Mbakyu",
+        "kakak wadon"
+       ],
+       [
+        "Adik",
+        "sedulur enom"
+       ]
+      ],
+      "urutKanan": [
+       "sedulur enom",
+       "kakak lanang",
+       "kakak wadon"
+      ],
+      "e": "Kangmas kakak lanang, mbakyu kakak wadon, adik sedulur enom."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ukara Tutupen lawange! kalebu ukara ....",
+      "p": [
+       "pitakon",
+       "prentah",
+       "carita"
+      ],
+      "j": 1,
+      "e": "Ukara Tutupen lawange kalebu ukara prentah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Ukara prentah nggunakake tanda seru.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, ukara prentah nggunakake tanda seru."
+     },
+     {
+      "tipe": "isian",
+      "t": "Ukara kanggo ngongkon diarani ukara ....",
+      "p": [
+       "panyuwun",
+       "prentah",
+       "pitakon"
+      ],
+      "j": 1,
+      "e": "Ukara kanggo ngongkon diarani ukara prentah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ukara Bu, nyuwun banyue. kalebu ukara ....",
+      "p": [
+       "prentah",
+       "panjaluk",
+       "pitakon"
+      ],
+      "j": 1,
+      "e": "Ukara Bu nyuwun banyue kalebu ukara panjaluk."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokna ukara karo jinise!",
+      "pasangan": [
+       [
+        "Resikana mejamu!",
+        "ukara prentah"
+       ],
+       [
+        "Mas, tulung mejae dilapi!",
+        "ukara panyuwun tulung"
+       ],
+       [
+        "Dik, aku njaluk rotine!",
+        "ukara panyuwun barang"
+       ]
+      ],
+      "urutKanan": [
+       "ukara panyuwun barang",
+       "ukara prentah",
+       "ukara panyuwun tulung"
+      ],
+      "e": "Resikana mejamu ukara prentah, Mas tulung mejae dilapi ukara panyuwun tulung, Dik aku njaluk rotine ukara panyuwun barang."
+     },
+     {
+      "tipe": "bs",
+      "t": "Nyuwun tulung marang wong liya kalebu ukara panyuwun.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, nyuwun tulung marang wong liya kalebu ukara panyuwun."
+     },
+     {
+      "tipe": "pg",
+      "t": "Tembung tulung digunakake nalika ....",
+      "p": [
+       "nyuwun pitulungan",
+       "ngongkon turu",
+       "takon jeneng"
+      ],
+      "j": 0,
+      "e": "Tembung tulung digunakake nalika nyuwun pitulungan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Ukara Roni, aku njaluk permene! kalebu panyuwun ....",
+      "p": [
+       "tulung",
+       "barang",
+       "pamit"
+      ],
+      "j": 1,
+      "e": "Ukara Roni aku njaluk permene kalebu panyuwun barang."
+     },
+     {
+      "tipe": "bs",
+      "t": "Mbakyu iku sedulur wadon sing luwih enom.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, mbakyu iku sedulur wadon sing luwih tuwa."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Gandhengna tembung Jawa karo artine!",
+      "pasangan": [
+       [
+        "rama",
         "bapak"
        ],
        [
-        "Ibu",
-        "wong tuwa wadon"
+        "kangmas",
+        "kakak lanang"
        ],
        [
-        "Adhi",
+        "adhik",
         "adik"
        ]
       ],
       "urutKanan": [
        "adik",
        "bapak",
-       "wong tuwa wadon"
+       "kakak lanang"
       ],
-      "e": "Rama bapak, ibu wong tuwa wadon, adhi adik."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'simbah kakung' tegesipun ....",
-      "p": [
-       "nenek",
-       "bibi",
-       "kakek"
-      ],
-      "j": 2,
-      "e": "Simbah kakung tegesipun kakek."
-     },
-     {
-      "tipe": "bs",
-      "t": "Simbah putri iku nenek.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, simbah putri iku nenek."
-     },
-     {
-      "tipe": "isian",
-      "t": "Kakek diarani ....",
-      "p": [
-       "simbah putri",
-       "simbah kakung",
-       "pakdhe"
-      ],
-      "j": 1,
-      "e": "Kakek diarani simbah kakung."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'nyuwun pangapunten' dipakai nalika ....",
-      "p": [
-       "minta maaf",
-       "mohon pamit",
-       "terima kasih"
-      ],
-      "j": 0,
-      "e": "Nyuwun pangapunten dipakai nalika minta maaf."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Cocokna tembung kriya karo padanane!",
-      "pasangan": [
-       [
-        "Mangan",
-        "makan"
-       ],
-       [
-        "Turu",
-        "tidur"
-       ],
-       [
-        "Maca",
-        "membaca"
-       ]
-      ],
-      "urutKanan": [
-       "tidur",
-       "membaca",
-       "makan"
-      ],
-      "e": "Mangan makan, turu tidur, maca membaca."
-     },
-     {
-      "tipe": "bs",
-      "t": "Basa Jawa iku basa manca.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, basa Jawa iku basa daerah ing Indonesia."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kula ing basa Jawa tegese ....",
-      "p": [
-       "kowe",
-       "aku",
-       "panjengan"
-      ],
-      "j": 1,
-      "e": "Kula ing basa Jawa tegese aku."
-     },
-     {
-      "tipe": "isian",
-      "t": "Tembung 'omah' tegesipun ....",
-      "p": [
-       "rumah",
-       "sekolah",
-       "kebun"
-      ],
-      "j": 0,
-      "e": "Omah tegesipun rumah."
-     },
-     {
-      "tipe": "bs",
-      "t": "Pakdhe iku adik lanang saka bapak.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, pakdhe iku kakak saka bapak utawa ibu."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Gandhengna unggah-ungguh karo gunane!",
-      "pasangan": [
-       [
-        "Matur nuwun",
-        "terima kasih"
-       ],
-       [
-        "Nyuwun pangapunten",
-        "minta maaf"
-       ],
-       [
-        "Kula nyuwun pamit",
-        "mohon pamit"
-       ]
-      ],
-      "urutKanan": [
-       "minta maaf",
-       "mohon pamit",
-       "terima kasih"
-      ],
-      "e": "Matur nuwun terima kasih, nyuwun pangapunten minta maaf, kula nyuwun pamit mohon pamit."
+      "e": "Rama bapak, kangmas kakak lanang, adhik adik."
      }
     ]
    },
@@ -13650,203 +13650,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Wong tuwa wadon ing omah diarani ....",
+      "t": "Wong tuwa lanang diarani ....",
       "p": [
-       "bapak",
        "ibu",
-       "mas"
+       "adik",
+       "bapak"
       ],
-      "j": 1,
-      "e": "Wong tuwa wadon diarani ibu."
+      "j": 2,
+      "e": "Wong tuwa lanang diarani bapak."
      },
      {
       "tipe": "bs",
-      "t": "Adhi kalebu kulawarga inti.",
+      "t": "Ibu kalebu anggota kulawarga inti.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, adhi kalebu kulawarga inti."
+      "e": "Benar, ibu kalebu anggota kulawarga inti."
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'kangmas' tegesipun ....",
+      "t": "Tembung kangmas padha karo ....",
       "p": [
-       "adik",
+       "adhik",
        "mas",
        "mbakyu"
       ],
       "j": 1,
-      "e": "Kangmas tegesipun mas (kakak lanang)."
+      "e": "Kangmas padha karo mas."
      },
      {
       "tipe": "isian",
-      "t": "Adik diarani ....",
+      "t": "Sedulur sing luwih enom diarani ....",
       "p": [
-       "kakak",
+       "kangmas",
        "adik",
        "ibu"
       ],
       "j": 1,
-      "e": "Adik diarani dhik."
+      "e": "Sedulur sing luwih enom diarani adik."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangna tembung karo arti Indonesianya!",
+      "t": "Pasangna sebutan karo wong sing ditunjuk!",
       "pasangan": [
        [
         "Bapak",
-        "ayah"
+        "wong tuwa lanang"
        ],
        [
         "Ibu",
-        "ibu"
+        "wong tuwa wadon"
        ],
        [
-        "Simbah",
-        "kakek/nenek"
+        "Adik",
+        "sedulur enom"
        ]
       ],
       "urutKanan": [
-       "ibu",
-       "kakek/nenek",
-       "ayah"
+       "sedulur enom",
+       "wong tuwa lanang",
+       "wong tuwa wadon"
       ],
-      "e": "Bapak ayah, ibu ibu, simbah kakek/nenek."
+      "e": "Bapak wong tuwa lanang, ibu wong tuwa wadon, adik sedulur enom."
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'panjengan' tegesipun ....",
+      "t": "Ukara Jupukna buku ing lemari! kalebu ....",
       "p": [
-       "kowe",
-       "aku",
-       "kula"
+       "panjaluk",
+       "prentah",
+       "carita"
       ],
-      "j": 0,
-      "e": "Panjengan tegesipun kowe (krama)."
+      "j": 1,
+      "e": "Ukara Jupukna buku ing lemari kalebu prentah."
      },
      {
       "tipe": "bs",
-      "t": "Kula tegese kowe.",
+      "t": "Ukara Lungguha sing bener! nduweni tanda seru.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, kula tegese aku."
+      "j": 0,
+      "e": "Benar, ukara Lungguha sing bener nduweni tanda seru."
      },
      {
       "tipe": "isian",
-      "t": "Wong tuwa lanang kasebut ....",
+      "t": "Tanda seru dipakai ing ukara ....",
       "p": [
-       "ibu",
-       "rama",
-       "mas"
+       "pitakon",
+       "prentah",
+       "pawarta"
       ],
       "j": 1,
-      "e": "Wong tuwa lanang kasebut rama (bapak)."
+      "e": "Tanda seru dipakai ing ukara prentah."
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'paklik' tegesipun ....",
+      "t": "Ukara Mas, tulung mejae dilapi! kalebu ....",
       "p": [
-       "kakek",
-       "kakak bapak/ibu",
-       "adik bapak/ibu"
+       "panyuwun tulung",
+       "prentah",
+       "pitakon"
       ],
-      "j": 2,
-      "e": "Paklik tegesipun adik bapak/ibu."
+      "j": 0,
+      "e": "Ukara Mas tulung mejae dilapi kalebu panyuwun tulung."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokna sebutan kulawarga karo artine!",
+      "t": "Gandhengna ukara ing ngisor karo golongane!",
       "pasangan": [
        [
-        "Mas",
-        "kakak lanang"
+        "Tutupen lawange!",
+        "ukara prentah"
        ],
        [
-        "Mbakyu",
-        "kakak wadon"
+        "Bu, nyuwun arta.",
+        "ukara panyuwun barang"
        ],
        [
-        "Adhik",
-        "adik"
+        "Mbak, tulung omahe diresiki!",
+        "ukara panyuwun tulung"
        ]
       ],
       "urutKanan": [
-       "kakak wadon",
-       "adik",
-       "kakak lanang"
+       "ukara panyuwun tulung",
+       "ukara prentah",
+       "ukara panyuwun barang"
       ],
-      "e": "Mas kakak lanang, mbakyu kakak wadon, adhik adik."
+      "e": "Tutupen lawange ukara prentah, Bu nyuwun arta ukara panyuwun barang, Mbak tulung omahe diresiki ukara panyuwun tulung."
      },
      {
       "tipe": "bs",
-      "t": "Matur nuwun kalebu unggah-ungguh.",
+      "t": "Ukara panjaluk digawe kanggo njaluk barang.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, matur nuwun kalebu unggah-ungguh."
+      "e": "Benar, ukara panjaluk digawe kanggo njaluk barang."
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'budhe' tegesipun ....",
+      "t": "Tembung lawang tegesipun ....",
       "p": [
-       "paman",
-       "bibi",
-       "kakek"
+       "meja",
+       "pintu",
+       "lemari"
       ],
       "j": 1,
-      "e": "Budhe tegesipun bibi."
+      "e": "Lawang tegesipun pintu."
      },
      {
       "tipe": "isian",
-      "t": "Terima kasih ing basa Jawa diarani ....",
+      "t": "Tuladha ukara prentah: Sapuen latare! Tembung sapuen tegese ....",
       "p": [
-       "matur nuwun",
-       "nyuwun pangapunten",
-       "kula nyuwun pamit"
+       "sapu",
+       "resik",
+       "sapuan"
       ],
       "j": 0,
-      "e": "Terima kasih diarani matur nuwun."
+      "e": "Tembung sapuen tegese sapu."
      },
      {
       "tipe": "bs",
-      "t": "Basa Jawa dudu basa daerah.",
+      "t": "Ukara Dik, aku njaluk rotine! kalebu panyuwun barang.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, basa Jawa iku basa daerah."
+      "j": 0,
+      "e": "Benar, ukara Dik aku njaluk rotine kalebu panyuwun barang."
      },
      {
       "tipe": "cocok",
-      "t": "Gandhengna tembung kriya karo tegese!",
+      "t": "Temtokna tegese tembung Jawa iki!",
       "pasangan": [
        [
-        "Mangan",
-        "makan"
+        "tulung",
+        "bantu"
        ],
        [
-        "Turu",
-        "tidur"
+        "nyuwun",
+        "mohon"
        ],
        [
-        "Omah",
-        "rumah"
+        "njaluk",
+        "minta"
        ]
       ],
       "urutKanan": [
-       "rumah",
-       "makan",
-       "tidur"
+       "minta",
+       "bantu",
+       "mohon"
       ],
-      "e": "Mangan makan, turu tidur, omah rumah."
+      "e": "Tulung bantu, nyuwun mohon, njaluk minta."
      }
     ]
    },
@@ -13856,203 +13856,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Ibu lan bapak kalebu ....",
+      "t": "Bu, nyuwun tulung tumbasno roti! Iku ukara ....",
       "p": [
-       "kulawarga inti",
-       "tetangga",
-       "kanca"
+       "panyuwun tulung",
+       "prentah",
+       "pawarta"
       ],
       "j": 0,
-      "e": "Ibu lan bapak kalebu kulawarga inti."
+      "e": "Ukara Bu nyuwun tulung tumbasno roti kalebu panyuwun tulung."
      },
      {
       "tipe": "bs",
-      "t": "Mas iku kakak wadon.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, mas iku kakak lanang."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'mbak' tegesipun ....",
-      "p": [
-       "mbakyu",
-       "adhik",
-       "mas"
-      ],
-      "j": 0,
-      "e": "Mbak tegesipun mbakyu."
-     },
-     {
-      "tipe": "isian",
-      "t": "Kakak lanang ing basa Jawa kasebut ....",
-      "p": [
-       "mbakyu",
-       "kangmas",
-       "adhik"
-      ],
-      "j": 1,
-      "e": "Kakak lanang kasebut kangmas."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangna jeneng kulawarga karo tegesipun!",
-      "pasangan": [
-       [
-        "Simbah kakung",
-        "kakek"
-       ],
-       [
-        "Simbah putri",
-        "nenek"
-       ],
-       [
-        "Pakdhe",
-        "paman"
-       ]
-      ],
-      "urutKanan": [
-       "nenek",
-       "paman",
-       "kakek"
-      ],
-      "e": "Simbah kakung kakek, simbah putri nenek, pakdhe paman."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'kowe' tegesipun ....",
-      "p": [
-       "aku",
-       "dia",
-       "kamu"
-      ],
-      "j": 2,
-      "e": "Kowe tegesipun kamu."
-     },
-     {
-      "tipe": "bs",
-      "t": "Nyuwun pangapunten iku cara njaluk maaf.",
+      "t": "Njaluk barang marang liyan iku sinebut panjaluk.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, nyuwun pangapunten iku cara njaluk maaf."
-     },
-     {
-      "tipe": "isian",
-      "t": "Mohon pamit ing basa Jawa kasebut ....",
-      "p": [
-       "pamit",
-       "matur nuwun",
-       "nyuwun pangapunten"
-      ],
-      "j": 0,
-      "e": "Mohon pamit kasebut kula nyuwun pamit."
+      "e": "Benar, njaluk barang marang liyan iku sinebut panjaluk."
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'turu' padha karo ....",
+      "t": "Ukara Bapak kula nyuwun arta. kalebu ....",
       "p": [
-       "makan",
-       "tidur",
-       "membaca"
+       "panyuwun barang",
+       "prentah",
+       "pitakon"
       ],
-      "j": 1,
-      "e": "Turu padha karo tidur."
+      "j": 0,
+      "e": "Bapak kula nyuwun arta kalebu panyuwun barang."
+     },
+     {
+      "tipe": "isian",
+      "t": "Cara sopan njaluk tulung marang ibu nganggo tembung ....",
+      "p": [
+       "tulung",
+       "lunga",
+       "mlayu"
+      ],
+      "j": 0,
+      "e": "Cara sopan njaluk tulung nganggo tembung tulung."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokna tembung kriya karo arti Indonesianya!",
+      "t": "Pasangna tembung kriya karo tegesipun!",
       "pasangan": [
        [
-        "Maca",
-        "membaca"
+        "mangan",
+        "makan"
        ],
        [
-        "Turu",
+        "turu",
         "tidur"
        ],
        [
-        "Kula",
-        "aku"
+        "maca",
+        "membaca"
        ]
       ],
       "urutKanan": [
-       "aku",
        "membaca",
+       "makan",
        "tidur"
       ],
-      "e": "Maca membaca, turu tidur, kula aku."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kulawarga inti isine simbah.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, simbah kalebu kulawarga besar."
+      "e": "Mangan makan, turu tidur, maca membaca."
      },
      {
       "tipe": "pg",
-      "t": "Tembung 'omah' tegese ....",
+      "t": "Tuladha ukara prentah yaiku ....",
       "p": [
-       "rumah",
-       "kamar",
-       "halaman"
+       "Bu, nyuwun banyu.",
+       "Sapa jenengmu?",
+       "Jupuken bukuku!"
       ],
-      "j": 0,
-      "e": "Omah tegese rumah."
-     },
-     {
-      "tipe": "isian",
-      "t": "Bapak, ibu, lan adhik kalebu kulawarga inti.",
-      "p": [
-       "kulawarga",
-       "sekolah",
-       "tetangga"
-      ],
-      "j": 0,
-      "e": "Bapak, ibu, lan adhik kalebu kulawarga inti."
+      "j": 2,
+      "e": "Tuladha ukara prentah yaiku Jupuken bukuku."
      },
      {
       "tipe": "bs",
-      "t": "Budi iku kanca, dudu kulawarga.",
+      "t": "Ukara Resikana mejamu! iku ukara prentah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kanca dudu kulawarga."
+      "e": "Benar, Resikana mejamu iku ukara prentah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Nalika nyuwun barang marang adhik, ukara bisa diwiwiti kanthi ....",
+      "p": [
+       "Dik, aku njaluk roti",
+       "Resikana mejamu",
+       "Sapa jenengmu"
+      ],
+      "j": 0,
+      "e": "Nalika nyuwun barang marang adhik, ukara bisa diwiwiti kanthi Dik aku njaluk roti."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sapa sing diarani adik ing kulawarga?",
+      "p": [
+       "sedulur tuwa",
+       "sedulur enom",
+       "wong tuwa"
+      ],
+      "j": 1,
+      "e": "Adik yaiku sedulur enom."
      },
      {
       "tipe": "cocok",
-      "t": "Gandhengna tembung karo padanane!",
+      "t": "Cocokna ukara prentah karo isine!",
       "pasangan": [
        [
-        "Rama",
-        "bapak"
+        "Tutupen lawange!",
+        "nutup lawang"
        ],
        [
-        "Ibu",
-        "ibu"
+        "Lungguha sing bener!",
+        "lungguh kanthi bener"
        ],
        [
-        "Omah",
-        "rumah"
+        "Sapuen latare!",
+        "nyapu latar"
        ]
       ],
       "urutKanan": [
-       "rumah",
-       "bapak",
-       "ibu"
+       "lungguh kanthi bener",
+       "nyapu latar",
+       "nutup lawang"
       ],
-      "e": "Rama bapak, ibu ibu, omah rumah."
+      "e": "Tutupen lawange nutup lawang, Lungguha sing bener lungguh kanthi bener, Sapuen latare nyapu latar."
+     },
+     {
+      "tipe": "bs",
+      "t": "Tanda seru kalebu ciri khas ukara prentah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, tanda seru kalebu ciri khas ukara prentah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Tembung arta tegesipun ....",
+      "p": [
+       "duwit",
+       "banyu",
+       "roti"
+      ],
+      "j": 0,
+      "e": "Arta tegesipun duwit."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sing dadi wong tuwa wadon yaiku ....",
+      "p": [
+       "bapak",
+       "ibu",
+       "mas"
+      ],
+      "j": 1,
+      "e": "Sing dadi wong tuwa wadon yaiku ibu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Ukara nyuwun banyu marang ibu kalebu panjaluk.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, ukara nyuwun banyu marang ibu kalebu panjaluk."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Gandhengna jeneng kulawarga karo tegese!",
+      "pasangan": [
+       [
+        "kangmas",
+        "sedulur lanang tuwa"
+       ],
+       [
+        "mbakyu",
+        "sedulur wadon tuwa"
+       ],
+       [
+        "adik",
+        "sedulur enom"
+       ]
+      ],
+      "urutKanan": [
+       "sedulur enom",
+       "sedulur wadon tuwa",
+       "sedulur lanang tuwa"
+      ],
+      "e": "Kangmas sedulur lanang tuwa, mbakyu sedulur wadon tuwa, adik sedulur enom."
      }
     ]
    },
@@ -14062,203 +14062,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Bulik tegesipun ....",
-      "p": [
-       "bibi",
-       "paman",
-       "simbah"
-      ],
-      "j": 0,
-      "e": "Bulik tegesipun bibi."
-     },
-     {
-      "tipe": "bs",
-      "t": "Bulik iku adik wadon saka ibu.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, bulik iku adik wadon saka ibu."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'rama' tegesipun ....",
-      "p": [
-       "ibu",
-       "bapak",
-       "adik"
-      ],
-      "j": 1,
-      "e": "Rama tegesipun bapak."
-     },
-     {
-      "tipe": "isian",
-      "t": "Nenek diarani ....",
-      "p": [
-       "simbah kakung",
-       "simbah putri",
-       "budhe"
-      ],
-      "j": 1,
-      "e": "Nenek diarani simbah putri."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangna tembung kriya karo padanan katane!",
-      "pasangan": [
-       [
-        "Turu",
-        "tidur"
-       ],
-       [
-        "Maca",
-        "membaca"
-       ],
-       [
-        "Kowe",
-        "kamu"
-       ]
-      ],
-      "urutKanan": [
-       "kamu",
-       "tidur",
-       "membaca"
-      ],
-      "e": "Turu tidur, maca membaca, kowe kamu."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'mangan' tegesipun ....",
-      "p": [
-       "makan",
-       "minum",
-       "tidur"
-      ],
-      "j": 0,
-      "e": "Mangan tegesipun makan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kula nyuwun pamit kalebu unggah-ungguh.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, kula nyuwun pamit kalebu unggah-ungguh."
-     },
-     {
-      "tipe": "isian",
-      "t": "Tembung 'maca' tegesipun ....",
-      "p": [
-       "membaca",
-       "menulis",
-       "makan"
-      ],
-      "j": 0,
-      "e": "Maca tegesipun membaca."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'dhik' tegesipun ....",
-      "p": [
-       "adhik",
-       "mbakyu",
-       "ibu"
-      ],
-      "j": 0,
-      "e": "Dhik tegesipun adhik."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Cocokna kulawarga karo arti Indonesianya!",
-      "pasangan": [
-       [
-        "Pakdhe",
-        "paman"
-       ],
-       [
-        "Budhe",
-        "bibi"
-       ],
-       [
-        "Simbah kakung",
-        "kakek"
-       ]
-      ],
-      "urutKanan": [
-       "kakek",
-       "paman",
-       "bibi"
-      ],
-      "e": "Pakdhe paman, budhe bibi, simbah kakung kakek."
-     },
-     {
-      "tipe": "bs",
-      "t": "Simbah kalebu kulawarga besar.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, simbah kalebu kulawarga besar."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tembung 'kulawarga' tegesipun ....",
+      "t": "Tembung kulawarga tegesipun ....",
       "p": [
        "keluarga",
        "tetangga",
-       "teman"
+       "sekolah"
       ],
       "j": 0,
       "e": "Kulawarga tegesipun keluarga."
      },
      {
-      "tipe": "isian",
-      "t": "Simbah putri tegesipun ....",
-      "p": [
-       "kakek",
-       "paman",
-       "nenek"
-      ],
-      "j": 2,
-      "e": "Simbah putri tegesipun nenek."
-     },
-     {
       "tipe": "bs",
-      "t": "Matur nuwun iku unggah-ungguh nalika pamit.",
+      "t": "Sedulur enom ing kulawarga diarani adik.",
       "p": [
        "Benar",
        "Salah"
       ],
+      "j": 0,
+      "e": "Benar, sedulur enom ing kulawarga diarani adik."
+     },
+     {
+      "tipe": "pg",
+      "t": "Tembung adhik padha tegese karo ....",
+      "p": [
+       "mbakyu",
+       "bapak",
+       "adik"
+      ],
+      "j": 2,
+      "e": "Adhik padha tegese karo adik."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sedulur lanang sing umure luwih tuwa kasebut ....",
+      "p": [
+       "adik",
+       "kangmas",
+       "mbakyu"
+      ],
       "j": 1,
-      "e": "Salah, kula nyuwun pamit iku unggah-ungguh nalika pamit."
+      "e": "Sedulur lanang sing umure luwih tuwa kasebut kangmas."
      },
      {
       "tipe": "cocok",
-      "t": "Temtokna gunane unggah-ungguh ing ngisor!",
+      "t": "Pasangna tembung karo padanane!",
       "pasangan": [
        [
-        "Nyuwun pangapunten",
-        "minta maaf"
+        "bapak",
+        "rama"
        ],
        [
-        "Matur nuwun",
-        "terima kasih"
+        "ibu",
+        "biyung"
        ],
        [
-        "Rama",
-        "bapak"
+        "adik",
+        "adhik"
        ]
       ],
       "urutKanan": [
-       "bapak",
-       "terima kasih",
-       "minta maaf"
+       "adhik",
+       "rama",
+       "biyung"
       ],
-      "e": "Nyuwun pangapunten minta maaf, matur nuwun terima kasih, rama bapak."
+      "e": "Bapak rama, ibu biyung, adik adhik."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ukara Cepet turu! kalebu ukara ....",
+      "p": [
+       "carita",
+       "prentah",
+       "pawarta"
+      ],
+      "j": 1,
+      "e": "Ukara Cepet turu kalebu ukara prentah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Tembung omah tegesipun rumah.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, tembung omah tegesipun rumah."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kanggo njaluk tulung, becike nganggo basa sing ....",
+      "p": [
+       "sopan",
+       "kasar",
+       "banter"
+      ],
+      "j": 0,
+      "e": "Kanggo njaluk tulung, becike nganggo basa sing sopan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Tembung nyuwun tegesipun ....",
+      "p": [
+       "menehi",
+       "minta",
+       "njupuk"
+      ],
+      "j": 1,
+      "e": "Nyuwun tegesipun minta."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Temtokna golongane ukara-ukara ing ngisor iki!",
+      "pasangan": [
+       [
+        "Bu, tulung jupukna bukuku.",
+        "nyuwun tulung"
+       ],
+       [
+        "Aku njaluk petelot.",
+        "nyuwun barang"
+       ],
+       [
+        "Sinau sing sregep!",
+        "prentah"
+       ]
+      ],
+      "urutKanan": [
+       "prentah",
+       "nyuwun tulung",
+       "nyuwun barang"
+      ],
+      "e": "Bu tulung jupukna bukuku nyuwun tulung, Aku njaluk petelot nyuwun barang, Sinau sing sregep prentah."
+     },
+     {
+      "tipe": "bs",
+      "t": "Bapak lan ibu diarani wong tuwa.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, bapak lan ibu diarani wong tuwa."
+     },
+     {
+      "tipe": "pg",
+      "t": "Tembung meja ing basa Indonesia tegesipun ....",
+      "p": [
+       "meja",
+       "kursi",
+       "lawang"
+      ],
+      "j": 0,
+      "e": "Tembung meja ing basa Indonesia tegesipun meja."
+     },
+     {
+      "tipe": "isian",
+      "t": "Keluarga inti dumadi saka bapak, ibu, lan ....",
+      "p": [
+       "simbah",
+       "anak",
+       "pakdhe"
+      ],
+      "j": 1,
+      "e": "Keluarga inti dumadi saka bapak, ibu, lan anak."
+     },
+     {
+      "tipe": "bs",
+      "t": "Ukara Dik, nyuwun tulung tukokno roti! kalebu panyuwun tulung.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, Dik nyuwun tulung tukokno roti kalebu panyuwun tulung."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Cocokna tembung karo arti Indonesianya!",
+      "pasangan": [
+       [
+        "nyuwun",
+        "minta"
+       ],
+       [
+        "tulung",
+        "bantu"
+       ],
+       [
+        "njaluk",
+        "mohon"
+       ]
+      ],
+      "urutKanan": [
+       "bantu",
+       "mohon",
+       "minta"
+      ],
+      "e": "Nyuwun minta, tulung bantu, njaluk mohon."
      }
     ]
    }
@@ -14283,117 +14283,117 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Gerak tubuh yang lazim dilakukan sambil mendengarkan musik adalah ....",
+      "t": "Saat terbang, burung menggerakkan apa?",
       "p": [
-       "berlari",
-       "berputar",
-       "menari"
+       "sirip",
+       "sayap",
+       "ekor"
       ],
-      "j": 2,
-      "e": "Menari lazim dilakukan sambil mendengarkan musik."
+      "j": 1,
+      "e": "Burung menggerakkan sayap saat terbang."
      },
      {
       "tipe": "bs",
-      "t": "Latihan yang tekun membuat tulisan menjadi rapi.",
+      "t": "Kelinci bergerak dengan cara melompat.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, latihan tekun merapikan tulisan."
+      "e": "Benar, kelinci melompat dengan kaki belakangnya."
      },
      {
       "tipe": "pg",
-      "t": "Pemenggalan kata berlari menurut suku katanya yang tepat adalah ....",
+      "t": "Di kata manakah suku kata la tersembunyi?",
       "p": [
-       "be-rla-ri",
-       "ber-la-ri",
-       "berl-a-ri"
+       "laci",
+       "lima",
+       "lobak"
       ],
-      "j": 1,
-      "e": "Pemenggalan yang tepat adalah ber-la-ri."
+      "j": 0,
+      "e": "Kata laci diawali suku kata la."
      },
      {
       "tipe": "isian",
-      "t": "Kalimat berita memakai tanda .... di akhir.",
+      "t": "Kalimat adalah kumpulan kata yang memiliki ....",
       "p": [
-       "tanya",
-       "titik",
-       "seru"
+       "makna",
+       "warna",
+       "bunyi"
       ],
-      "j": 1,
-      "e": "Kalimat berita memakai titik di akhir."
+      "j": 0,
+      "e": "Kalimat adalah kumpulan kata yang memiliki makna."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan gerak tubuh dengan cara melakukannya!",
+      "t": "Hubungkan setiap hewan dengan geraknya!",
       "pasangan": [
        [
-        "Berlari",
-        "dengan langkah cepat"
+        "Kuda",
+        "berjalan"
        ],
        [
-        "Melompat",
-        "dengan tolakan kaki"
+        "Ikan",
+        "berenang"
        ],
        [
-        "Mengayun",
-        "dengan ayunan tangan"
+        "Burung",
+        "terbang"
        ]
       ],
       "urutKanan": [
-       "dengan tolakan kaki",
-       "dengan ayunan tangan",
-       "dengan langkah cepat"
+       "berenang",
+       "terbang",
+       "berjalan"
       ],
-      "e": "Berlari dengan langkah cepat, melompat dengan tolakan kaki, mengayun dengan ayunan tangan."
+      "e": "Kuda berjalan, ikan berenang, burung terbang."
      },
      {
       "tipe": "pg",
-      "t": "Tanda baca yang dipakai pada kalimat pertanyaan adalah ....",
+      "t": "Hewan yang berenang di air adalah ....",
       "p": [
-       "titik",
-       "tanda seru",
-       "tanda tanya"
+       "ayam",
+       "udang",
+       "kambing"
       ],
-      "j": 2,
-      "e": "Kalimat pertanyaan memakai tanda tanya."
+      "j": 1,
+      "e": "Udang berenang di air."
      },
      {
       "tipe": "bs",
-      "t": "Kata tanya kapan dipakai untuk menanyakan waktu.",
+      "t": "Kupu-kupu dan capung termasuk hewan yang terbang.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kapan menanyakan waktu."
+      "e": "Benar, kupu-kupu dan capung sama-sama terbang."
      },
      {
       "tipe": "isian",
-      "t": "Benda ditanyakan dengan kata tanya ....",
+      "t": "Awal kalimat ditulis dengan huruf ....",
       "p": [
-       "kapan",
-       "apa",
-       "siapa"
+       "kecil",
+       "kapital",
+       "miring"
       ],
       "j": 1,
-      "e": "Benda ditanyakan dengan kata tanya apa."
+      "e": "Awal kalimat ditulis dengan huruf kapital."
      },
      {
       "tipe": "pg",
-      "t": "Kata yang maknanya sama dengan mampu adalah ....",
+      "t": "Kalimat tanya diakhiri tanda ....",
       "p": [
-       "malas",
-       "bisa",
-       "lambat"
+       "titik",
+       "koma",
+       "tanya"
       ],
-      "j": 1,
-      "e": "Bisa bermakna sama dengan mampu."
+      "j": 2,
+      "e": "Kalimat tanya diakhiri tanda tanya."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan tanda baca dengan jenis kalimatnya!",
+      "t": "Pasangkan tanda baca dengan kalimat yang tepat!",
       "pasangan": [
        [
         "Titik",
@@ -14417,69 +14417,69 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Berlatih dengan sabar membuat kita mudah menyerah.",
+      "t": "Kata tanya siapa dipakai untuk menanyakan orang.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, sabar berlatih justru membuat kita tidak menyerah."
+      "j": 0,
+      "e": "Benar, siapa menanyakan nama orang."
      },
      {
       "tipe": "pg",
-      "t": "Kata kebalikan dari lambat adalah ....",
+      "t": "Kata tanya kapan digunakan untuk menanyakan ....",
       "p": [
-       "cepat",
-       "lambat",
-       "pintar"
+       "waktu",
+       "tempat",
+       "benda"
       ],
       "j": 0,
-      "e": "Kata kebalikan lambat adalah cepat."
+      "e": "Kata tanya kapan menanyakan waktu."
      },
      {
       "tipe": "isian",
-      "t": "Gerakan tangan yang bolak-balik disebut ....",
+      "t": "Kata lima memiliki suku kata ....",
       "p": [
-       "berputar",
-       "mengayun",
-       "menari"
+       "li",
+       "la",
+       "lo"
       ],
-      "j": 1,
-      "e": "Gerakan bolak-balik disebut mengayun."
+      "j": 0,
+      "e": "Kata lima diawali suku kata li."
      },
      {
       "tipe": "bs",
-      "t": "Kata melompat mengandung suku kata lo.",
+      "t": "Tanda seru dipakai pada kalimat perintah.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, melompat mengandung suku kata lo."
+      "e": "Benar, kalimat perintah memakai tanda seru."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan setiap kata dengan lawan maknanya!",
+      "t": "Tentukan pasangan kata dan suku kata awalnya!",
       "pasangan": [
        [
-        "Rajin",
-        "Malas"
+        "laci",
+        "la"
        ],
        [
-        "Pintar",
-        "Bodoh"
+        "lupa",
+        "lu"
        ],
        [
-        "Cepat",
-        "Lambat"
+        "lemah",
+        "le"
        ]
       ],
       "urutKanan": [
-       "Bodoh",
-       "Lambat",
-       "Malas"
+       "lu",
+       "le",
+       "la"
       ],
-      "e": "Rajin lawannya malas, pintar lawannya bodoh, cepat lawannya lambat."
+      "e": "Laci berawalan la, lupa berawalan lu, lemah berawalan le."
      }
     ]
    },
@@ -14489,46 +14489,526 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Badan yang diputar melakukan gerak ....",
+      "t": "Kelinci melakukan gerakan .... di halaman.",
       "p": [
-       "mengayun",
-       "berputar",
-       "melompat"
+       "berenang",
+       "melompat",
+       "terbang"
       ],
       "j": 1,
-      "e": "Diputarnya badan disebut berputar."
+      "e": "Kelinci melakukan gerakan melompat di halaman."
      },
      {
       "tipe": "bs",
-      "t": "Melompat termasuk kosakata gerak tubuh.",
+      "t": "Ikan, cumi, dan udang hidup di air.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, melompat adalah gerak tubuh."
+      "e": "Benar, ikan, cumi, dan udang hidup di air."
      },
      {
       "tipe": "pg",
-      "t": "Suku kata li terdapat dalam kata ....",
+      "t": "Suku kata li ada pada kata ....",
       "p": [
-       "me-na-ri",
-       "la-ni",
-       "me-li-uk"
+       "laci",
+       "lima",
+       "lupa"
       ],
-      "j": 2,
-      "e": "Suku kata li ada pada me-li-uk."
+      "j": 1,
+      "e": "Kata lima memuat suku kata li."
      },
      {
       "tipe": "isian",
-      "t": "Kalimat ajakan diakhiri tanda ....",
+      "t": "Akhir kalimat berita memakai tanda ....",
       "p": [
        "koma",
        "titik",
-       "tanda seru"
+       "tanya",
+       "seru"
+      ],
+      "j": 1,
+      "e": "Kalimat berita diakhiri tanda titik."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan hewan dengan cara bergeraknya!",
+      "pasangan": [
+       [
+        "Kelinci",
+        "melompat"
+       ],
+       [
+        "Kuda",
+        "berjalan"
+       ],
+       [
+        "Udang",
+        "berenang"
+       ]
+      ],
+      "urutKanan": [
+       "berjalan",
+       "berenang",
+       "melompat"
+      ],
+      "e": "Kelinci melompat, kuda berjalan, udang berenang."
+     },
+     {
+      "tipe": "pg",
+      "t": "Gerakan kuda di darat disebut ....",
+      "p": [
+       "berenang",
+       "berjalan",
+       "terbang"
+      ],
+      "j": 1,
+      "e": "Kuda berjalan di darat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Burung termasuk hewan yang dapat terbang.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, burung dapat terbang dengan sayapnya."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kata tanya apa menanyakan ....",
+      "p": [
+       "benda",
+       "waktu",
+       "orang"
+      ],
+      "j": 0,
+      "e": "Kata tanya apa dipakai untuk benda."
+     },
+     {
+      "tipe": "pg",
+      "t": "Perintah 'Buka pintu itu!' memakai tanda ....",
+      "p": [
+       "titik",
+       "tanya",
+       "seru"
       ],
       "j": 2,
-      "e": "Kalimat ajakan diakhiri tanda seru."
+      "e": "Kalimat perintah diakhiri tanda seru."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan kata tanya dengan jawabannya!",
+      "pasangan": [
+       [
+        "Siapa",
+        "guru"
+       ],
+       [
+        "Kapan",
+        "hari Minggu"
+       ],
+       [
+        "Apa",
+        "kupu-kupu"
+       ]
+      ],
+      "urutKanan": [
+       "hari Minggu",
+       "kupu-kupu",
+       "guru"
+      ],
+      "e": "Siapa jawabannya guru, kapan hari Minggu, apa kupu-kupu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Lobak mengandung suku kata lo.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, lobak diawali suku kata lo."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata lemah diawali suku kata ....",
+      "p": [
+       "le",
+       "li",
+       "lu"
+      ],
+      "j": 0,
+      "e": "Kata lemah diawali suku kata le."
+     },
+     {
+      "tipe": "isian",
+      "t": "Tarian dapat dibuat dengan meniru gerakan ....",
+      "p": [
+       "hewan",
+       "batu",
+       "awan"
+      ],
+      "j": 0,
+      "e": "Gerakan hewan dapat ditiru menjadi tarian."
+     },
+     {
+      "tipe": "bs",
+      "t": "Menari dengan rajin berlatih membuat gerakan lebih baik.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, latihan yang rajin merapikan gerakan tari."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan suku kata dengan contoh katanya!",
+      "pasangan": [
+       [
+        "la",
+        "lama"
+       ],
+       [
+        "li",
+        "lipan"
+       ],
+       [
+        "le",
+        "lele"
+       ]
+      ],
+      "urutKanan": [
+       "lipan",
+       "lele",
+       "lama"
+      ],
+      "e": "La contohnya lama, li lipan, le lele."
+     }
+    ]
+   },
+   {
+    "kode": "C",
+    "nama": "Variasi C",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Serangga seperti capung bergerak dengan ....",
+      "p": [
+       "melompat",
+       "terbang",
+       "berjalan"
+      ],
+      "j": 1,
+      "e": "Capung termasuk serangga yang terbang."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kambing dan ayam termasuk hewan berjalan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kambing dan ayam berjalan di darat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata lupa dimulai dengan suku kata ....",
+      "p": [
+       "lu",
+       "lo",
+       "li"
+      ],
+      "j": 0,
+      "e": "Kata lupa dimulai suku kata lu."
+     },
+     {
+      "tipe": "isian",
+      "t": "Pertanyaan diakhiri tanda ....",
+      "p": [
+       "tanya",
+       "seru",
+       "koma"
+      ],
+      "j": 0,
+      "e": "Pertanyaan diakhiri tanda tanya."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan burung, kupu-kupu, dan ikan dengan gerakannya!",
+      "pasangan": [
+       [
+        "Burung",
+        "terbang"
+       ],
+       [
+        "Ikan",
+        "berenang"
+       ],
+       [
+        "Kelinci",
+        "melompat"
+       ]
+      ],
+      "urutKanan": [
+       "berenang",
+       "melompat",
+       "terbang"
+      ],
+      "e": "Burung terbang, ikan berenang, kelinci melompat."
+     },
+     {
+      "tipe": "pg",
+      "t": "Hewan yang melompat di darat adalah ....",
+      "p": [
+       "ikan",
+       "kelinci",
+       "udang"
+      ],
+      "j": 1,
+      "e": "Kelinci melompat di darat."
+     },
+     {
+      "tipe": "bs",
+      "t": "Huruf kapital dipakai di awal kalimat.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, awal kalimat memakai huruf kapital."
+     },
+     {
+      "tipe": "isian",
+      "t": "Tanda baca di akhir kalimat bisa titik, tanya, atau ....",
+      "p": [
+       "seru",
+       "koma",
+       "titik"
+      ],
+      "j": 0,
+      "e": "Akhir kalimat bisa memakai tanda seru."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata tanya di mana dipakai untuk menanyakan ....",
+      "p": [
+       "waktu",
+       "orang",
+       "tempat"
+      ],
+      "j": 2,
+      "e": "Kata tanya di mana menanyakan tempat."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan suku kata dengan kata yang mengandungnya!",
+      "pasangan": [
+       [
+        "li",
+        "lima"
+       ],
+       [
+        "lu",
+        "lupa"
+       ],
+       [
+        "lo",
+        "lobak"
+       ]
+      ],
+      "urutKanan": [
+       "lupa",
+       "lobak",
+       "lima"
+      ],
+      "e": "Li ada di lima, lu di lupa, lo di lobak."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kalimat berita ditutup dengan tanda titik.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, berita diakhiri titik."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kata tanya untuk bertanya nama orang adalah ....",
+      "p": [
+       "apa",
+       "siapa",
+       "mana"
+      ],
+      "j": 1,
+      "e": "Nama orang ditanyakan dengan siapa."
+     },
+     {
+      "tipe": "isian",
+      "t": "Suku kata le terdapat dalam kata ....",
+      "p": [
+       "lemah",
+       "laci",
+       "lupa"
+      ],
+      "j": 0,
+      "e": "Kata lemah mengandung suku kata le."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kupu-kupu terbang memakai sayap.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kupu-kupu terbang dengan sayap."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan gerakan dengan hewan yang melakukannya!",
+      "pasangan": [
+       [
+        "melompat",
+        "kelinci"
+       ],
+       [
+        "berenang",
+        "udang"
+       ],
+       [
+        "berjalan",
+        "kambing"
+       ]
+      ],
+      "urutKanan": [
+       "udang",
+       "kambing",
+       "kelinci"
+      ],
+      "e": "Melompat kelinci, berenang udang, berjalan kambing."
+     }
+    ]
+   },
+   {
+    "kode": "D",
+    "nama": "Variasi D",
+    "soal": [
+     {
+      "tipe": "pg",
+      "t": "Hewan yang berjalan di darat contohnya ....",
+      "p": [
+       "kuda",
+       "ikan",
+       "burung"
+      ],
+      "j": 0,
+      "e": "Kuda merupakan hewan berjalan."
+     },
+     {
+      "tipe": "bs",
+      "t": "Udang bergerak dengan cara berenang.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, udang berenang di air."
+     },
+     {
+      "tipe": "pg",
+      "t": "Pembagian kata laci yang tepat adalah ....",
+      "p": [
+       "la-ci",
+       "l-a-ci",
+       "lac-i"
+      ],
+      "j": 0,
+      "e": "Pembagian yang tepat adalah la-ci."
+     },
+     {
+      "tipe": "isian",
+      "t": "Huruf besar di awal kalimat disebut huruf ....",
+      "p": [
+       "kapital",
+       "kecil",
+       "tanda"
+      ],
+      "j": 0,
+      "e": "Huruf besar di awal disebut huruf kapital."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Pasangkan hewan dengan gerak yang sesuai!",
+      "pasangan": [
+       [
+        "Ayam",
+        "berjalan"
+       ],
+       [
+        "Capung",
+        "terbang"
+       ],
+       [
+        "Cumi",
+        "berenang"
+       ]
+      ],
+      "urutKanan": [
+       "terbang",
+       "berenang",
+       "berjalan"
+      ],
+      "e": "Ayam berjalan, capung terbang, cumi berenang."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kelinci melompat memakai ....",
+      "p": [
+       "sirip",
+       "kaki",
+       "sayap"
+      ],
+      "j": 1,
+      "e": "Kelinci melompat dengan kaki."
+     },
+     {
+      "tipe": "bs",
+      "t": "Tanda tanya mengakhiri sebuah pertanyaan.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, tanda tanya mengakhiri pertanyaan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Orang ditanyakan dengan kata tanya ....",
+      "p": [
+       "apa",
+       "siapa",
+       "kapan"
+      ],
+      "j": 1,
+      "e": "Orang ditanyakan dengan kata tanya siapa."
+     },
+     {
+      "tipe": "pg",
+      "t": "Suku kata lu dipakai untuk merangkai kata ....",
+      "p": [
+       "lupa",
+       "lima",
+       "lobak"
+      ],
+      "j": 0,
+      "e": "Kata lupa dibentuk suku kata lu."
      },
      {
       "tipe": "cocok",
@@ -14548,556 +15028,77 @@ window.KUIS = [
        ]
       ],
       "urutKanan": [
+       "orang",
        "waktu",
-       "benda",
-       "orang"
+       "benda"
       ],
-      "e": "Apa menanyakan benda, siapa menanyakan orang, kapan menanyakan waktu."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kata yang berlawanan maknanya dengan tekun adalah ....",
-      "p": [
-       "malas",
-       "pintar",
-       "cepat"
-      ],
-      "j": 0,
-      "e": "Malas berlawanan maknanya dengan tekun."
+      "e": "Apa benda, siapa orang, kapan waktu."
      },
      {
       "tipe": "bs",
-      "t": "Tanda tanya digunakan untuk kalimat perintah.",
+      "t": "Titik dipakai setelah kalimat berita.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, tanda tanya dipakai untuk kalimat tanya."
+      "j": 0,
+      "e": "Benar, kalimat berita memakai titik."
      },
      {
-      "tipe": "isian",
-      "t": "Kaki ditolakkan untuk melakukan gerak ....",
+      "tipe": "pg",
+      "t": "Gerakan ayam di darat adalah ....",
       "p": [
-       "berlari",
+       "berenang",
        "melompat",
-       "mengayun"
-      ],
-      "j": 1,
-      "e": "Dengan tolakan kaki kita melakukan melompat."
-     },
-     {
-      "tipe": "pg",
-      "t": "Supaya bisa menulis dengan rapi, kita perlu ....",
-      "p": [
-       "makan",
-       "berlatih",
-       "tidur"
-      ],
-      "j": 1,
-      "e": "Kita perlu berlatih supaya tulisan rapi."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kata dengan persamaan maknanya!",
-      "pasangan": [
-       [
-        "Bisa",
-        "Mampu"
-       ],
-       [
-        "Rajin",
-        "Tekun"
-       ],
-       [
-        "Pintar",
-        "Cerdas"
-       ]
-      ],
-      "urutKanan": [
-       "Tekun",
-       "Cerdas",
-       "Mampu"
-      ],
-      "e": "Bisa sama dengan mampu, rajin sama dengan tekun, pintar sama dengan cerdas."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kata dapat bisa berarti bisa.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, dapat dapat berarti bisa."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kata tanya untuk menanyakan tempat adalah ....",
-      "p": [
-       "kapan",
-       "di mana",
-       "apa"
-      ],
-      "j": 1,
-      "e": "Kata tanya di mana menanyakan tempat."
-     },
-     {
-      "tipe": "isian",
-      "t": "Kata lani terbagi menjadi suku kata ....",
-      "p": [
-       "la-ni",
-       "lan-i",
-       "l-a-ni"
-      ],
-      "j": 0,
-      "e": "Pembagian yang benar adalah la-ni."
-     },
-     {
-      "tipe": "bs",
-      "t": "Menari biasanya mengikuti irama.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, menari biasanya mengikuti irama."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kegiatan dengan tempat yang tepat!",
-      "pasangan": [
-       [
-        "Berenang",
-        "kolam renang"
-       ],
-       [
-        "Membaca",
-        "perpustakaan"
-       ],
-       [
-        "Bermain",
-        "lapangan"
-       ]
-      ],
-      "urutKanan": [
-       "perpustakaan",
-       "lapangan",
-       "kolam renang"
-      ],
-      "e": "Berenang di kolam renang, membaca di perpustakaan, bermain di lapangan."
-     }
-    ]
-   },
-   {
-    "kode": "C",
-    "nama": "Variasi C",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Gerak membungkukkan badan disebut ....",
-      "p": [
-       "berputar",
-       "meliukkan badan",
-       "berlari"
-      ],
-      "j": 1,
-      "e": "Membungkukkan badan disebut meliukkan badan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Berlari adalah kosakata gerak kaki.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, berlari adalah gerak kaki."
-     },
-     {
-      "tipe": "pg",
-      "t": "Perintah ditulis dengan tanda .... di ujung.",
-      "p": [
-       "tanda koma",
-       "tanda seru",
-       "tanda titik"
-      ],
-      "j": 1,
-      "e": "Perintah ditulis dengan tanda seru di ujung."
-     },
-     {
-      "tipe": "isian",
-      "t": "Sebuah pertanyaan memakai tanda .... di akhirnya.",
-      "p": [
-       "tanda seru",
-       "tanda tanya",
-       "tanda titik"
-      ],
-      "j": 1,
-      "e": "Sebuah pertanyaan memakai tanda tanya di akhirnya."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan suku kata dengan kata yang mengandungnya!",
-      "pasangan": [
-       [
-        "la",
-        "la-ni"
-       ],
-       [
-        "lo",
-        "me-lom-pat"
-       ],
-       [
-        "ri",
-        "ber-la-ri"
-       ]
-      ],
-      "urutKanan": [
-       "me-lom-pat",
-       "ber-la-ri",
-       "la-ni"
-      ],
-      "e": "Suku la ada di la-ni, lo di me-lom-pat, ri di ber-la-ri."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kata cerdas memiliki persamaan makna dengan ....",
-      "p": [
-       "pintar",
-       "malas",
-       "lambat"
-      ],
-      "j": 0,
-      "e": "Pintar memiliki persamaan makna dengan cerdas."
-     },
-     {
-      "tipe": "bs",
-      "t": "Mengayun termasuk gerak tubuh.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, mengayun termasuk gerak tubuh."
-     },
-     {
-      "tipe": "isian",
-      "t": "Kalimat yang memberitakan sesuatu diakhiri tanda ....",
-      "p": [
-       "tanya",
-       "titik",
-       "koma"
-      ],
-      "j": 1,
-      "e": "Kalimat yang memberitakan sesuatu diakhiri titik."
-     },
-     {
-      "tipe": "pg",
-      "t": "Untuk menanyakan nama orang, kata tanya yang dipakai adalah ....",
-      "p": [
-       "apa",
-       "siapa",
-       "di mana"
-      ],
-      "j": 1,
-      "e": "Kata tanya siapa dipakai untuk nama orang."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kata dengan pembagian suku katanya!",
-      "pasangan": [
-       [
-        "berlari",
-        "ber-la-ri"
-       ],
-       [
-        "lani",
-        "la-ni"
-       ],
-       [
-        "melompat",
-        "me-lom-pat"
-       ]
-      ],
-      "urutKanan": [
-       "la-ni",
-       "me-lom-pat",
-       "ber-la-ri"
-      ],
-      "e": "Berlari jadi ber-la-ri, lani jadi la-ni, melompat jadi me-lom-pat."
-     },
-     {
-      "tipe": "bs",
-      "t": "Tanda seru dipakai untuk ajakan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, tanda seru dipakai untuk ajakan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Lawan makna kata pintar adalah ....",
-      "p": [
-       "rajin",
-       "cepat",
-       "bodoh"
+       "berjalan"
       ],
       "j": 2,
-      "e": "Bodoh adalah lawan makna pintar."
+      "e": "Ayam berjalan di darat."
      },
      {
       "tipe": "isian",
-      "t": "Gerak tubuh mengikuti irama disebut ....",
+      "t": "Tarian burung meniru gerakan ....",
       "p": [
-       "berputar",
-       "menari",
-       "melompat"
+       "terbang",
+       "berenang",
+       "mengepakkan"
       ],
-      "j": 1,
-      "e": "Gerak mengikuti irama disebut menari."
+      "j": 0,
+      "e": "Tari burung meniru gerakan terbang."
      },
      {
       "tipe": "bs",
-      "t": "Suku kata le tidak ada dalam bahasa Indonesia.",
+      "t": "Lomba tari diadakan di sekolah.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, suku kata le ada dalam kosakata."
+      "j": 0,
+      "e": "Benar, di sekolah diadakan lomba tari."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan gambaran gerakan dengan kata geraknya!",
+      "t": "Hubungkan nama tarian dengan gerakan hewan!",
       "pasangan": [
        [
-        "Memutar badan",
-        "berputar"
+        "Tari burung",
+        "terbang"
        ],
        [
-        "Membungkuk badan",
-        "meliukkan badan"
+        "Tari kelinci",
+        "melompat"
        ],
        [
-        "Melangkah cepat",
-        "berlari"
+        "Tari ikan",
+        "berenang"
        ]
       ],
       "urutKanan": [
-       "meliukkan badan",
-       "berlari",
-       "berputar"
+       "melompat",
+       "berenang",
+       "terbang"
       ],
-      "e": "Memutar badan berputar, membungkuk meliukkan badan, melangkah cepat berlari."
-     }
-    ]
-   },
-   {
-    "kode": "D",
-    "nama": "Variasi D",
-    "soal": [
-     {
-      "tipe": "pg",
-      "t": "Kata tanya yang cocok untuk menanyakan waktu adalah ....",
-      "p": [
-       "di mana",
-       "kapan",
-       "siapa"
-      ],
-      "j": 1,
-      "e": "Kata tanya kapan dipakai untuk menanyakan waktu."
-     },
-     {
-      "tipe": "bs",
-      "t": "Suku kata la ada pada kata la-ni.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, la-ni diawali suku kata la."
-     },
-     {
-      "tipe": "pg",
-      "t": "Pemenggalan kata melompat yang benar adalah ....",
-      "p": [
-       "m-elom-pat",
-       "me-lom-pat",
-       "mel-om-pat"
-      ],
-      "j": 1,
-      "e": "Pemenggalan melompat yang benar me-lom-pat."
-     },
-     {
-      "tipe": "isian",
-      "t": "Setiap kalimat berita diakhiri tanda ....",
-      "p": [
-       "tanda koma",
-       "tanda titik",
-       "tanda tanya"
-      ],
-      "j": 1,
-      "e": "Setiap kalimat berita diakhiri tanda titik."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan alat dengan kegiatan yang memakainya!",
-      "pasangan": [
-       [
-        "Krayon",
-        "menggambar"
-       ],
-       [
-        "Pensil",
-        "menulis"
-       ],
-       [
-        "Sepeda",
-        "bersepeda"
-       ]
-      ],
-      "urutKanan": [
-       "menulis",
-       "bersepeda",
-       "menggambar"
-      ],
-      "e": "Krayon untuk menggambar, pensil untuk menulis, sepeda untuk bersepeda."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kata rajin memiliki kebalikan ....",
-      "p": [
-       "cerdas",
-       "malas",
-       "tekun"
-      ],
-      "j": 1,
-      "e": "Malas adalah kebalikan kata rajin."
-     },
-     {
-      "tipe": "bs",
-      "t": "Titik dipakai untuk mengakhiri kalimat berita.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, titik mengakhiri kalimat berita."
-     },
-     {
-      "tipe": "isian",
-      "t": "Gerakan memutar badan disebut ....",
-      "p": [
-       "berputar",
-       "mengayun",
-       "meliukkan badan"
-      ],
-      "j": 0,
-      "e": "Gerakan memutar badan disebut berputar."
-     },
-     {
-      "tipe": "pg",
-      "t": "Latihan terus-menerus membuat orang menjadi ....",
-      "p": [
-       "malas",
-       "takut",
-       "mahir"
-      ],
-      "j": 2,
-      "e": "Latihan terus-menerus membuat orang mahir."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kata tanya dengan jawaban yang cocok!",
-      "pasangan": [
-       [
-        "Di mana",
-        "di sekolah"
-       ],
-       [
-        "Kapan",
-        "hari ini"
-       ],
-       [
-        "Siapa",
-        "guru"
-       ]
-      ],
-      "urutKanan": [
-       "hari ini",
-       "guru",
-       "di sekolah"
-      ],
-      "e": "Di mana jawabannya di sekolah, kapan hari ini, siapa guru."
-     },
-     {
-      "tipe": "bs",
-      "t": "Berlatih terus membuat kita semakin terampil.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, berlatih terus membuat kita terampil."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kata dapat memiliki arti ....",
-      "p": [
-       "bisa",
-       "cepat",
-       "mahir"
-      ],
-      "j": 0,
-      "e": "Kata dapat memiliki arti bisa."
-     },
-     {
-      "tipe": "isian",
-      "t": "Langkah cepat dengan kaki disebut ....",
-      "p": [
-       "berlari",
-       "berputar",
-       "melompat"
-      ],
-      "j": 0,
-      "e": "Langkah cepat dengan kaki disebut berlari."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kata tanya apa menanyakan benda.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, apa menanyakan benda."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan kata gerak dengan artinya!",
-      "pasangan": [
-       [
-        "Melompat",
-        "meloncat"
-       ],
-       [
-        "Menari",
-        "menggerakkan badan berirama"
-       ],
-       [
-        "Mengayun",
-        "menggerakkan bolak-balik"
-       ]
-      ],
-      "urutKanan": [
-       "menggerakkan badan berirama",
-       "menggerakkan bolak-balik",
-       "meloncat"
-      ],
-      "e": "Melompat meloncat, menari menggerakkan badan berirama, mengayun menggerakkan bolak-balik."
+      "e": "Tari burung terbang, tari kelinci melompat, tari ikan berenang."
      }
     ]
    }
@@ -15122,191 +15123,58 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Meja di ruang tamu biasanya dibuat dari ....",
+      "t": "Meja di ruang makan dibuat dari ....",
       "p": [
        "kain",
        "kayu",
-       "kertas"
+       "karet"
       ],
       "j": 1,
-      "e": "Meja ruang tamu memakai kayu yang keras."
+      "e": "Meja kayu terasa keras dan kuat."
      },
      {
       "tipe": "bs",
-      "t": "Kaca jendela bisa tembus pandang.",
+      "t": "Kaca jendela tembus pandang.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kaca jendela tembus pandang."
+      "e": "Benar, kaca jendela bersifat transparent."
      },
      {
       "tipe": "pg",
-      "t": "Bahan empuk untuk isi bantal adalah ....",
+      "t": "Bahan untuk membuat kunci pintu adalah ....",
       "p": [
-       "kain",
-       "kaca",
-       "batu"
+       "plastik",
+       "logam",
+       "kertas"
       ],
-      "j": 0,
-      "e": "Bantal memakai kain yang empuk."
+      "j": 1,
+      "e": "Kunci pintu terbuat dari logam yang keras."
      },
      {
       "tipe": "isian",
-      "t": "Botol air bening yang ringan terbuat dari ....",
+      "t": "Sifat kain yang menyerap air disebut ....",
       "p": [
-       "kayu",
-       "kaca",
-       "plastik"
+       "absorbent",
+       "waterproof",
+       "rigid"
       ],
-      "j": 2,
-      "e": "Botol bening yang ringan terbuat dari plastik."
+      "j": 0,
+      "e": "Absorbent artinya bahan yang menyerap air."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan perabot berikut dengan bahan pembuatnya!",
+      "t": "Pasangkan benda dengan bahan pembuatnya!",
       "pasangan": [
-       [
-        "Meja",
-        "kayu"
-       ],
-       [
-        "Gelas",
-        "kaca"
-       ],
        [
         "Kunci",
         "logam"
-       ]
-      ],
-      "urutKanan": [
-       "kaca",
-       "logam",
-       "kayu"
-      ],
-      "e": "Meja kayu, gelas kaca, kunci logam."
-     },
-     {
-      "tipe": "pg",
-      "t": "Ember untuk mencuci pakaian terbuat dari ....",
-      "p": [
-       "kaca",
-       "plastik",
-       "kertas"
-      ],
-      "j": 1,
-      "e": "Ember plastik ringan dan tahan air."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kertas tidak menyerap air.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, kertas justru menyerap air."
-     },
-     {
-      "tipe": "isian",
-      "t": "Permukaan batu bata yang tidak rata disebut ....",
-      "p": [
-       "halus",
-       "licin",
-       "kasar"
-      ],
-      "j": 2,
-      "e": "Permukaan yang tidak rata disebut kasar."
-     },
-     {
-      "tipe": "pg",
-      "t": "Penghapus yang bisa menghapus coretan pensil terbuat dari ....",
-      "p": [
-       "karet",
-       "kertas",
-       "kaca"
-      ],
-      "j": 0,
-      "e": "Penghapus terbuat dari karet yang lentur."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan barang pakai dengan bahannya!",
-      "pasangan": [
-       [
-        "Topi",
-        "kain"
        ],
        [
-        "Penghapus",
-        "karet"
-       ],
-       [
-        "Koran",
+        "Buku",
         "kertas"
-       ]
-      ],
-      "urutKanan": [
-       "karet",
-       "kertas",
-       "kain"
-      ],
-      "e": "Topi kain, penghapus karet, koran kertas."
-     },
-     {
-      "tipe": "bs",
-      "t": "Logam keras dan berkilau.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, logam keras dan berkilau."
-     },
-     {
-      "tipe": "pg",
-      "t": "Koran yang dibaca setiap pagi terbuat dari ....",
-      "p": [
-       "logam",
-       "kain",
-       "kertas"
-      ],
-      "j": 2,
-      "e": "Koran dicetak pada kertas."
-     },
-     {
-      "tipe": "isian",
-      "t": "Sepatu yang dipakai saat hujan sebaiknya berbahan ....",
-      "p": [
-       "kain",
-       "karet",
-       "kertas"
-      ],
-      "j": 1,
-      "e": "Sepatu karet tahan air saat hujan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Batu termasuk bahan empuk.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, batu bersifat keras bukan empuk."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Pasangkan barang rumah tangga dengan materialnya!",
-      "pasangan": [
-       [
-        "Payung",
-        "plastik"
-       ],
-       [
-        "Balok",
-        "kayu"
        ],
        [
         "Cermin",
@@ -15314,11 +15182,144 @@ window.KUIS = [
        ]
       ],
       "urutKanan": [
-       "kayu",
        "kaca",
-       "plastik"
+       "logam",
+       "kertas"
       ],
-      "e": "Payung plastik, balok kayu, cermin kaca."
+      "e": "Kunci logam, buku kertas, cermin kaca."
+     },
+     {
+      "tipe": "pg",
+      "t": "Cermin di kamar mandi terbuat dari ....",
+      "p": [
+       "kaca",
+       "kayu",
+       "kain"
+      ],
+      "j": 0,
+      "e": "Cermin memakai kaca yang mengkilap."
+     },
+     {
+      "tipe": "bs",
+      "t": "Karet bisa diregangkan lalu kembali lagi.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, karet lentur dan bisa stretch."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sifat permukaan batu yang tidak rata adalah ....",
+      "p": [
+       "halus",
+       "kasar",
+       "lentur"
+      ],
+      "j": 1,
+      "e": "Permukaan tidak rata disebut kasar."
+     },
+     {
+      "tipe": "pg",
+      "t": "Botol minum yang bening dan ringan terbuat dari ....",
+      "p": [
+       "plastik",
+       "kaca",
+       "logam"
+      ],
+      "j": 0,
+      "e": "Botol plastik bening dan ringan."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Tentukan bahan untuk tiap barang ini!",
+      "pasangan": [
+       [
+        "Meja",
+        "kayu"
+       ],
+       [
+        "Kaos",
+        "kain"
+       ],
+       [
+        "Gelas",
+        "plastik"
+       ]
+      ],
+      "urutKanan": [
+       "kain",
+       "plastik",
+       "kayu"
+      ],
+      "e": "Meja kayu, kaos kain, gelas plastik."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kertas menyerap air.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kertas bersifat absorbent."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sifat kayu yang sukar ditekuk disebut ....",
+      "p": [
+       "lentur",
+       "kaku",
+       "tipis"
+      ],
+      "j": 1,
+      "e": "Kayu kaku sehingga sukar ditekuk."
+     },
+     {
+      "tipe": "isian",
+      "t": "Kertas bekas bisa dibuat kertas lagi lewat kegiatan ....",
+      "p": [
+       "reduce",
+       "reuse",
+       "recycle"
+      ],
+      "j": 2,
+      "e": "Recycle artinya mengolah sampah jadi barang baru."
+     },
+     {
+      "tipe": "bs",
+      "t": "Membuang sampah sembarangan membantu Bumi.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, membuang sampah merusak Bumi."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan alat dengan materialnya!",
+      "pasangan": [
+       [
+        "Gunting",
+        "logam"
+       ],
+       [
+        "Kalender",
+        "kertas"
+       ],
+       [
+        "Jendela",
+        "kaca"
+       ]
+      ],
+      "urutKanan": [
+       "kertas",
+       "kaca",
+       "logam"
+      ],
+      "e": "Gunting logam, kalender kertas, jendela kaca."
      }
     ]
    },
@@ -15328,50 +15329,50 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Jendela kamar memakai bahan yang tembus pandang, yaitu ....",
+      "t": "Jendela kamar dibuat dari bahan yang bening, yaitu ....",
       "p": [
        "kayu",
-       "kertas",
-       "kaca"
+       "kaca",
+       "kertas"
       ],
-      "j": 2,
+      "j": 1,
       "e": "Jendela kamar memakai kaca yang tembus pandang."
      },
      {
       "tipe": "bs",
-      "t": "Kayu pada jendela bersifat bening.",
+      "t": "Plastik dibuat oleh manusia.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, kayu tidak tembus pandang."
+      "j": 0,
+      "e": "Benar, plastik adalah bahan buatan."
      },
      {
       "tipe": "pg",
-      "t": "Sifat logam yang berkilau disebut ....",
+      "t": "Sifat logam yang mengkilap disebut ....",
       "p": [
        "kaku",
        "mengkilap",
        "menyerap"
       ],
       "j": 1,
-      "e": "Logam berkilau atau mengkilap."
+      "e": "Logam mengkilap atau berkilau."
      },
      {
       "tipe": "isian",
-      "t": "Kunci pintu yang kuat dibuat dari ....",
+      "t": "Gelas susu hangat biasanya terbuat dari ....",
       "p": [
-       "logam",
-       "kayu",
-       "kaca"
+       "kertas",
+       "kaca",
+       "kain"
       ],
-      "j": 0,
-      "e": "Kunci pintu dibuat dari logam yang keras."
+      "j": 1,
+      "e": "Gelas kaca dipakai untuk susu hangat."
      },
      {
       "tipe": "cocok",
-      "t": "Tentukan bahan untuk setiap benda di bawah ini!",
+      "t": "Cocokkan tiap benda dengan materialnya!",
       "pasangan": [
        [
         "Kursi",
@@ -15382,70 +15383,70 @@ window.KUIS = [
         "kaca"
        ],
        [
-        "Garpu",
+        "Kunci",
         "logam"
        ]
       ],
       "urutKanan": [
        "logam",
-       "kaca",
-       "kayu"
+       "kayu",
+       "kaca"
       ],
-      "e": "Kursi kayu, jendela kaca, garpu logam."
+      "e": "Kursi kayu, jendela kaca, kunci logam."
      },
      {
       "tipe": "pg",
-      "t": "Sendok makan yang tahan lama terbuat dari ....",
+      "t": "Penghapus coretan pensil terbuat dari ....",
       "p": [
-       "kayu",
        "kertas",
-       "logam"
+       "kayu",
+       "karet"
       ],
       "j": 2,
-      "e": "Sendok makan terbuat dari logam yang kuat."
+      "e": "Penghapus memakai karet yang lentur."
      },
      {
       "tipe": "bs",
-      "t": "Plastik dibuat manusia.",
+      "t": "Kain tidak bisa menyerap air.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, plastik adalah bahan buatan."
+      "j": 1,
+      "e": "Salah, kain bisa menyerap air."
      },
      {
       "tipe": "isian",
-      "t": "Kain yang bisa menyerap keringat disebut ....",
+      "t": "Bahan yang bisa ditekuk disebut ....",
       "p": [
-       "tahan air",
-       "penyerap",
-       "bening"
+       "rigid",
+       "flexible",
+       "opaque"
       ],
       "j": 1,
-      "e": "Kain penyerap bisa menyerap keringat."
+      "e": "Flexible artinya lentur dan bisa ditekuk."
      },
      {
       "tipe": "pg",
-      "t": "Kayu yang diolah menjadi kertas berasal dari ....",
+      "t": "Kain untuk handuk bisa menyerap air karena bersifat ....",
       "p": [
-       "pohon",
-       "batu",
-       "logam"
+       "waterproof",
+       "absorbent",
+       "transparent"
       ],
-      "j": 0,
-      "e": "Kertas berasal dari pohon yang diolah."
+      "j": 1,
+      "e": "Kain handuk absorbent sehingga menyerap air."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan barang sehari-hari dengan bahan asalnya!",
+      "t": "Pasangkan benda kecil dengan bahannya!",
       "pasangan": [
        [
-        "Bantal",
-        "kain"
+        "Cermin",
+        "kaca"
        ],
        [
-        "Ban",
+        "Penghapus",
         "karet"
        ],
        [
@@ -15454,77 +15455,77 @@ window.KUIS = [
        ]
       ],
       "urutKanan": [
+       "karet",
        "kertas",
-       "kain",
-       "karet"
+       "kaca"
       ],
-      "e": "Bantal kain, ban karet, buku kertas."
+      "e": "Cermin kaca, penghapus karet, buku kertas."
      },
      {
       "tipe": "bs",
-      "t": "Karet bisa kembali ke bentuk semula.",
+      "t": "Logam bersifat lunak.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, logam bersifat keras."
+     },
+     {
+      "tipe": "pg",
+      "t": "Kayu diambil dari bagian pohon yang disebut ....",
+      "p": [
+       "daun",
+       "batang",
+       "akar"
+      ],
+      "j": 1,
+      "e": "Batang pohon menghasilkan kayu."
+     },
+     {
+      "tipe": "isian",
+      "t": "Botol bekas bisa dipakai lagi sebagai pot bunga. Ini disebut ....",
+      "p": [
+       "reuse",
+       "buang",
+       "simpan"
+      ],
+      "j": 0,
+      "e": "Reuse berarti memakai lagi botol bekas."
+     },
+     {
+      "tipe": "bs",
+      "t": "Daur ulang kertas disebut recycle.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, karet bersifat elastis."
-     },
-     {
-      "tipe": "pg",
-      "t": "Karpet yang lembut di injak terbuat dari ....",
-      "p": [
-       "batu",
-       "kain",
-       "karet"
-      ],
-      "j": 1,
-      "e": "Karpet lembut terbuat dari kain."
-     },
-     {
-      "tipe": "isian",
-      "t": "Cermin di kamar mandi terbuat dari ....",
-      "p": [
-       "kertas",
-       "kaca",
-       "kain"
-      ],
-      "j": 1,
-      "e": "Cermin terbuat dari kaca."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kertas cocok untuk penutup jendela.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, jendela memakai kaca supaya bening."
+      "e": "Benar, recycle mengubah kertas lama jadi baru."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan alat rumah dengan bahan utamanya!",
+      "t": "Hubungkan barang dapur dengan bahannya!",
       "pasangan": [
+       [
+        "Panci",
+        "logam"
+       ],
        [
         "Ember",
         "plastik"
        ],
        [
-        "Pintu",
+        "Papan",
         "kayu"
-       ],
-       [
-        "Kacamata",
-        "kaca"
        ]
       ],
       "urutKanan": [
-       "kaca",
        "plastik",
-       "kayu"
+       "kayu",
+       "logam"
       ],
-      "e": "Ember plastik, pintu kayu, kacamata kaca."
+      "e": "Panci logam, ember plastik, papan kayu."
      }
     ]
    },
@@ -15534,195 +15535,129 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kaos yang dipakai saat olahraga terbuat dari ....",
+      "t": "Kaos sehari-hari umumnya terbuat dari ....",
       "p": [
        "kain",
-       "plastik",
-       "kertas"
+       "kaca",
+       "karet"
       ],
       "j": 0,
-      "e": "Kaos terbuat dari kain yang lunak."
+      "e": "Kaos memakai kain yang lunak."
      },
      {
       "tipe": "bs",
-      "t": "Kaca bening sehingga cahaya masuk.",
+      "t": "Permukaan kaca halus dan licin.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kaca bening dan cahaya bisa lewat."
+      "e": "Benar, kaca halus sehingga licin."
      },
      {
       "tipe": "pg",
-      "t": "Sifat karet yang bisa ditekuk disebut ....",
+      "t": "Bahan yang tembus pandang disebut ....",
       "p": [
-       "kaku",
-       "keras",
-       "lentur"
+       "opaque",
+       "transparent",
+       "rigid"
       ],
-      "j": 2,
-      "e": "Karet bersifat lentur sehingga bisa ditekuk."
+      "j": 1,
+      "e": "Transparent artinya bisa dilihat tembus."
      },
      {
       "tipe": "isian",
-      "t": "Pensil yang coretannya bisa dihapus memakai ....",
+      "t": "Rok dan dress dibuat dari ....",
       "p": [
-       "kertas",
+       "kain",
        "karet",
-       "kayu"
-      ],
-      "j": 1,
-      "e": "Coretan pensil dihapus dengan karet."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Hubungkan perabot dengan material yang tepat!",
-      "pasangan": [
-       [
-        "Lemari",
-        "kayu"
-       ],
-       [
-        "Botol",
-        "kaca"
-       ],
-       [
-        "Sendok",
-        "logam"
-       ]
-      ],
-      "urutKanan": [
-       "logam",
-       "kayu",
-       "kaca"
-      ],
-      "e": "Lemari kayu, botol kaca, sendok logam."
-     },
-     {
-      "tipe": "pg",
-      "t": "Daun kering yang dibakar menghasilkan abu, sedangkan batangnya adalah ....",
-      "p": [
-       "kayu",
-       "logam",
-       "batu"
+       "logam"
       ],
       "j": 0,
-      "e": "Batang pohon adalah kayu."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kaos dari kain bersifat bening.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, kain tidak bening."
-     },
-     {
-      "tipe": "isian",
-      "t": "Benda yang memantulkan bayangan dengan permukaan mengkilap disebut ....",
-      "p": [
-       "kain",
-       "kertas",
-       "cermin"
-      ],
-      "j": 2,
-      "e": "Cermin memantulkan bayangan."
-     },
-     {
-      "tipe": "pg",
-      "t": "Tas belanja yang bisa dipakai berulang kali terbuat dari ....",
-      "p": [
-       "kertas",
-       "kain",
-       "batu"
-      ],
-      "j": 1,
-      "e": "Tas belanja kain bisa dipakai berulang."
+      "e": "Rok dan dress memakai kain."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan pakaian dan barang tulis dengan bahannya!",
+      "t": "Pasangkan pakaian dengan bahannya!",
       "pasangan": [
        [
         "Kaos",
         "kain"
        ],
        [
-        "Karet gelang",
-        "karet"
+        "Kunci",
+        "logam"
        ],
        [
-        "Majalah",
+        "Buku",
         "kertas"
        ]
       ],
       "urutKanan": [
+       "logam",
        "kertas",
-       "karet",
        "kain"
       ],
-      "e": "Kaos kain, karet gelang, majalah kertas."
-     },
-     {
-      "tipe": "bs",
-      "t": "Plastik berasal dari tumbuhan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, plastik dibuat manusia."
+      "e": "Kaos kain, kunci logam, buku kertas."
      },
      {
       "tipe": "pg",
-      "t": "Mainan balok susun yang aman biasanya terbuat dari ....",
+      "t": "Gunting yang tajam terbuat dari ....",
       "p": [
+       "logam",
        "kayu",
-       "kaca",
        "kain"
       ],
       "j": 0,
-      "e": "Balok susun terbuat dari kayu yang tidak tajam."
-     },
-     {
-      "tipe": "isian",
-      "t": "Susu hangat dituangkan ke dalam gelas yang terbuat dari ....",
-      "p": [
-       "kertas",
-       "kaca",
-       "logam"
-      ],
-      "j": 1,
-      "e": "Gelas kaca dipakai untuk menuang susu hangat."
+      "e": "Gunting dibuat dari logam yang keras."
      },
      {
       "tipe": "bs",
-      "t": "Kayu berasal dari pohon.",
+      "t": "Buku dan kalender terbuat dari kertas.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kayu berasal dari pohon."
+      "e": "Benar, buku dan kalender memakai kertas."
+     },
+     {
+      "tipe": "isian",
+      "t": "Menekuk kawat sampai bengkok disebut ....",
+      "p": [
+       "twist",
+       "stretch",
+       "bend"
+      ],
+      "j": 2,
+      "e": "Bend artinya menekuk bahan."
+     },
+     {
+      "tipe": "pg",
+      "t": "Sifat yang keras dan tidak mudah ditekuk disebut ....",
+      "p": [
+       "flexible",
+       "rigid",
+       "soft"
+      ],
+      "j": 1,
+      "e": "Rigid artinya kaku dan keras."
      },
      {
       "tipe": "cocok",
-      "t": "Cocokkan benda kecil dengan bahan pembuatnya!",
+      "t": "Tentukan material untuk benda ini!",
       "pasangan": [
-       [
-        "Sedotan",
-        "plastik"
-       ],
-       [
-        "Stik",
-        "kayu"
-       ],
        [
         "Cermin",
         "kaca"
+       ],
+       [
+        "Kursi",
+        "kayu"
+       ],
+       [
+        "Gelas",
+        "plastik"
        ]
       ],
       "urutKanan": [
@@ -15730,7 +15665,73 @@ window.KUIS = [
        "plastik",
        "kaca"
       ],
-      "e": "Sedotan plastik, stik kayu, cermin kaca."
+      "e": "Cermin kaca, kursi kayu, gelas plastik."
+     },
+     {
+      "tipe": "bs",
+      "t": "Kain tetap kering saat kena air.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, kain menyerap air lalu basah."
+     },
+     {
+      "tipe": "pg",
+      "t": "Benda yang bisa diregangkan disebut ....",
+      "p": [
+       "stretch",
+       "compress",
+       "bend"
+      ],
+      "j": 0,
+      "e": "Stretch berarti meregangkan bahan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Sampah kaca bisa diolah jadi kaca baru. Ini disebut ....",
+      "p": [
+       "recycle",
+       "dibakar",
+       "ditimbun"
+      ],
+      "j": 0,
+      "e": "Recycle mengubah kaca lama jadi kaca baru."
+     },
+     {
+      "tipe": "bs",
+      "t": "Meja kayu bersifat keras.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kayu keras dan kuat."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan benda tulis dengan bahannya!",
+      "pasangan": [
+       [
+        "Buku",
+        "kertas"
+       ],
+       [
+        "Penghapus",
+        "karet"
+       ],
+       [
+        "Pensil",
+        "kayu"
+       ]
+      ],
+      "urutKanan": [
+       "karet",
+       "kayu",
+       "kertas"
+      ],
+      "e": "Buku kertas, penghapus karet, pensil kayu."
      }
     ]
    },
@@ -15740,53 +15741,53 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Payung yang dipakai saat hujan terbuat dari ....",
+      "t": "Kalender dinding terbuat dari ....",
       "p": [
        "kertas",
        "plastik",
-       "kayu"
+       "kaca"
       ],
-      "j": 1,
-      "e": "Payung plastik menahan air hujan."
+      "j": 0,
+      "e": "Kalender dicetak pada kertas."
      },
      {
       "tipe": "bs",
-      "t": "Kertas tahan terhadap air.",
+      "t": "Kaca cermin memantulkan bayangan.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, kertas menyerap air."
+      "j": 0,
+      "e": "Benar, cermin kaca memantulkan bayangan."
      },
      {
       "tipe": "pg",
-      "t": "Lawan kata dari sifat halus adalah ....",
+      "t": "Lawan kata sifat halus adalah ....",
       "p": [
-       "kasar",
-       "lunak",
-       "bening"
+       "keras",
+       "bening",
+       "kasar"
       ],
-      "j": 0,
-      "e": "Lawan dari halus adalah kasar."
+      "j": 2,
+      "e": "Kasar adalah lawan dari halus."
      },
      {
       "tipe": "isian",
       "t": "Kain yang tidak bisa ditembus air disebut ....",
       "p": [
-       "penyerap",
-       "lentur",
-       "tahan air"
+       "waterproof",
+       "absorbent",
+       "flexible"
       ],
-      "j": 2,
-      "e": "Kain tahan air tidak bisa ditembus air."
+      "j": 0,
+      "e": "Waterproof artinya tahan air."
      },
      {
       "tipe": "cocok",
-      "t": "Pasangkan benda di dapur dan ruang tamu dengan bahannya!",
+      "t": "Cocokkan benda dengan material yang pas!",
       "pasangan": [
        [
-        "Rak buku",
+        "Papan",
         "kayu"
        ],
        [
@@ -15799,144 +15800,144 @@ window.KUIS = [
        ]
       ],
       "urutKanan": [
-       "kaca",
        "logam",
-       "kayu"
+       "kayu",
+       "kaca"
       ],
-      "e": "Rak buku kayu, gelas kaca, panci logam."
+      "e": "Papan kayu, gelas kaca, panci logam."
      },
      {
       "tipe": "pg",
-      "t": "Stik es krim yang sekali pakai terbuat dari ....",
+      "t": "Papan tulis di kelas terbuat dari ....",
       "p": [
-       "logam",
        "kayu",
-       "plastik"
+       "kertas",
+       "logam"
       ],
-      "j": 1,
-      "e": "Stik es krim terbuat dari kayu."
+      "j": 0,
+      "e": "Papan tulis memakai kayu."
      },
      {
       "tipe": "bs",
-      "t": "Logam bersifat empuk.",
+      "t": "Sampah kertas bisa didaur ulang.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, logam keras."
+      "j": 0,
+      "e": "Benar, kertas lama jadi kertas baru."
      },
      {
       "tipe": "isian",
-      "t": "Permukaan meja yang rata dan mengkilap disebut ....",
+      "t": "Sifat karet yang bisa kembali ke bentuk awal disebut ....",
       "p": [
-       "halus",
-       "kasar",
-       "tumpul"
+       "rigid",
+       "flexible",
+       "smooth"
       ],
-      "j": 0,
-      "e": "Permukaan rata disebut halus."
+      "j": 1,
+      "e": "Flexible membuat karet kembali ke bentuk awal."
      },
      {
       "tipe": "pg",
-      "t": "Bahan yang tidak tembus pandang disebut ....",
+      "t": "Bahan yang bisa diputar disebut ....",
       "p": [
-       "bening",
-       "tipis",
-       "opaque"
+       "twist",
+       "bend",
+       "compress"
       ],
-      "j": 2,
-      "e": "Opaque artinya tidak tembus pandang."
+      "j": 0,
+      "e": "Twist artinya memutar bahan."
      },
      {
       "tipe": "cocok",
-      "t": "Hubungkan barang tidur dan tulis dengan materialnya!",
+      "t": "Pasangkan barang dengan bahan utamanya!",
       "pasangan": [
        [
-        "Selimut",
+        "Rok",
         "kain"
        ],
        [
-        "Penghapus",
-        "karet"
-       ],
-       [
-        "Kertas catatan",
+        "Kalender",
         "kertas"
-       ]
-      ],
-      "urutKanan": [
-       "karet",
-       "kertas",
-       "kain"
-      ],
-      "e": "Selimut kain, penghapus karet, kertas catatan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Karet elastis dan bisa diregangkan.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, karet elastis."
-     },
-     {
-      "tipe": "pg",
-      "t": "Kawat untuk menggantung gambar terbuat dari ....",
-      "p": [
-       "kain",
-       "logam",
-       "karet"
-      ],
-      "j": 1,
-      "e": "Kawat terbuat dari logam yang kuat."
-     },
-     {
-      "tipe": "isian",
-      "t": "Ban sepeda yang bisa ditekuk terbuat dari ....",
-      "p": [
-       "karet",
-       "kaca",
-       "batu"
-      ],
-      "j": 0,
-      "e": "Ban sepeda terbuat dari karet yang lentur."
-     },
-     {
-      "tipe": "bs",
-      "t": "Kayu diambil dari batang pohon.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, kayu diambil dari batang pohon."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Cocokkan barang belanja dan perabot dengan bahannya!",
-      "pasangan": [
-       [
-        "Kantong belanja",
-        "plastik"
        ],
        [
         "Kursi",
         "kayu"
+       ]
+      ],
+      "urutKanan": [
+       "kertas",
+       "kayu",
+       "kain"
+      ],
+      "e": "Rok kain, kalender kertas, kursi kayu."
+     },
+     {
+      "tipe": "bs",
+      "t": "Batu bersifat lunak.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, batu bersifat keras."
+     },
+     {
+      "tipe": "pg",
+      "t": "Bahan yang ditekan sampai pipih disebut ....",
+      "p": [
+       "compress",
+       "stretch",
+       "twist"
+      ],
+      "j": 0,
+      "e": "Compress berarti menekan bahan."
+     },
+     {
+      "tipe": "isian",
+      "t": "Botol plastik dipakai ulang sebagai wadah. Ini disebut ....",
+      "p": [
+       "reuse",
+       "dibuang",
+       "dikubur"
+      ],
+      "j": 0,
+      "e": "Reuse berarti memakai botol lagi."
+     },
+     {
+      "tipe": "bs",
+      "t": "Karet memiliki permukaan kasar.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, karet biasanya halus dan lentur."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Hubungkan barang dengan bahan pembuatnya!",
+      "pasangan": [
+       [
+        "Dress",
+        "kain"
        ],
        [
         "Jendela",
         "kaca"
+       ],
+       [
+        "Ember",
+        "plastik"
        ]
       ],
       "urutKanan": [
-       "kaca",
-       "kayu",
-       "plastik"
+       "plastik",
+       "kain",
+       "kaca"
       ],
-      "e": "Kantong belanja plastik, kursi kayu, jendela kaca."
+      "e": "Dress kain, jendela kaca, ember plastik."
      }
     ]
    }
@@ -15961,203 +15962,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Which item covers your head?",
+      "t": "Which item do you put on your feet?",
       "p": [
-       "sock",
-       "cap",
-       "shoe"
+       "socks",
+       "dress",
+       "scarf"
       ],
-      "j": 1,
-      "e": "A cap sits on the head."
+      "j": 0,
+      "e": "Socks dipakai di kaki."
      },
      {
       "tipe": "bs",
-      "t": "An oval has corners.",
+      "t": "A dress can have stars on it.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, oval tidak memiliki sudut."
+      "j": 0,
+      "e": "Benar, gaun (dress) boleh bermotif bintang (stars)."
      },
      {
       "tipe": "pg",
-      "t": "A lemon has this color. Pick it.",
+      "t": "Lina sees little points on her dress. Name the pattern.",
       "p": [
-       "purple",
-       "brown",
-       "yellow"
+       "stars",
+       "flowers",
+       "circles"
       ],
-      "j": 2,
-      "e": "Lemon berwarna kuning (yellow)."
+      "j": 0,
+      "e": "Bintang (stars) berbentuk titik kecil."
      },
      {
       "tipe": "isian",
-      "t": "Count the sides: three sides make a ....",
+      "t": "At school, Ana puts on her ....",
       "p": [
-       "triangle",
-       "square",
-       "oval"
+       "shirt",
+       "dress",
+       "uniform"
       ],
-      "j": 0,
-      "e": "Tiga sisi membentuk segitiga (triangle)."
+      "j": 2,
+      "e": "Di sekolah Ana memakai seragam (uniform)."
      },
      {
       "tipe": "cocok",
-      "t": "Match each garment to the body part it covers!",
+      "t": "Match the pattern to the clothing!",
       "pasangan": [
        [
-        "Cap",
-        "head"
+        "Stars",
+        "Dress"
        ],
        [
-        "Socks",
-        "feet"
+        "Flowers",
+        "Scarf"
        ],
        [
-        "Gloves",
-        "hands"
+        "Squares",
+        "Socks"
        ]
       ],
       "urutKanan": [
-       "hands",
-       "head",
-       "feet"
+       "Scarf",
+       "Socks",
+       "Dress"
       ],
-      "e": "Cap menutup kepala, socks kaki, gloves tangan."
+      "e": "Gaun bermotif bintang, syal bunga, kaus kaki kotak."
      },
      {
       "tipe": "pg",
-      "t": "Choose what you put on in winter.",
+      "t": "Nina's scarf is pink. Pick the color word.",
       "p": [
-       "shorts",
-       "sweater",
-       "sandals"
+       "blue",
+       "pink",
+       "green"
       ],
       "j": 1,
-      "e": "Sweater dipakai saat musim dingin."
+      "e": "Selendang Nina berwarna pink."
      },
      {
       "tipe": "bs",
-      "t": "Grapes may be purple.",
+      "t": "A scarf is worn on the head.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, anggur bisa berwarna ungu (purple)."
+      "j": 1,
+      "e": "Salah, scarf dipakai di leher, bukan di kepala."
      },
      {
       "tipe": "isian",
-      "t": "Snow is ....",
+      "t": "Her socks have squares. The pattern on them is ....",
       "p": [
-       "black",
-       "white",
-       "red"
+       "squares",
+       "triangles",
+       "stars"
       ],
-      "j": 1,
-      "e": "Salju berwarna putih (white)."
+      "j": 0,
+      "e": "Kaus kakinya bermotif kotak (squares)."
      },
      {
       "tipe": "pg",
-      "t": "This shape has five points.",
+      "t": "Complete: She is wearing a dress .... Her dress shows stars.",
       "p": [
-       "star",
-       "circle",
-       "square"
+       "with stars",
+       "with flowers",
+       "with circles"
       ],
       "j": 0,
-      "e": "A star has five points."
+      "e": "Kalimat lengkap: She is wearing a dress with stars."
      },
      {
       "tipe": "cocok",
-      "t": "Link the color to a matching thing.",
+      "t": "Link each color to a piece of clothing.",
       "pasangan": [
        [
         "Purple",
-        "grape"
+        "Dress"
        ],
        [
-        "White",
-        "snow"
+        "Green",
+        "Scarf"
        ],
        [
-        "Brown",
-        "wood"
+        "Blue",
+        "Socks"
        ]
       ],
       "urutKanan": [
-       "snow",
-       "wood",
-       "grape"
+       "Socks",
+       "Dress",
+       "Scarf"
       ],
-      "e": "Ungu pada anggur, putih pada salju, coklat pada kayu."
+      "e": "Ungu untuk gaun, hijau untuk syal, biru untuk kaus kaki."
      },
      {
       "tipe": "bs",
-      "t": "She is wearing a skirt.",
+      "t": "Socks and t-shirts are clothes.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kalimat 'She is wearing a skirt' menunjukkan pakaian."
+      "e": "Benar, socks dan t-shirt termasuk pakaian."
      },
      {
       "tipe": "pg",
-      "t": "Look at Ana: she is in a red ....",
+      "t": "Which clothing goes around the neck?",
       "p": [
-       "hat",
-       "dress",
-       "boots"
+       "scarf",
+       "t-shirt",
+       "socks"
       ],
-      "j": 1,
-      "e": "Pola: She is wearing a red dress."
+      "j": 0,
+      "e": "Scarf melingkari leher."
      },
      {
       "tipe": "isian",
-      "t": "Jeans are worn on the ....",
+      "t": "The dress is purple. Write the color.",
       "p": [
-       "arms",
-       "legs",
-       "head"
+       "purple",
+       "orange",
+       "black"
       ],
-      "j": 1,
-      "e": "Jeans dipakai di kaki (legs)."
+      "j": 0,
+      "e": "Gaun itu berwarna ungu (purple)."
      },
      {
       "tipe": "bs",
-      "t": "A rectangle has four corners.",
+      "t": "She is wearing a dress with stars is a good sentence.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, persegi panjang punya empat sudut."
+      "e": "Benar, kalimat itu memakai pola She is wearing a dress with stars."
      },
      {
       "tipe": "cocok",
-      "t": "Pair each shape with its look.",
+      "t": "Draw lines: question to its answer.",
       "pasangan": [
        [
-        "Oval",
-        "egg shaped"
+        "What is she wearing?",
+        "She is wearing a dress."
        ],
        [
-        "Star",
-        "five points"
+        "What is he wearing?",
+        "He is wearing a shirt."
        ],
        [
-        "Rectangle",
-        "four corners"
+        "What is on her scarf?",
+        "Flowers."
        ]
       ],
       "urutKanan": [
-       "five points",
-       "four corners",
-       "egg shaped"
+       "He is wearing a shirt.",
+       "Flowers.",
+       "She is wearing a dress."
       ],
-      "e": "Oval seperti telur, star lima titik, rectangle empat sudut."
+      "e": "Pertanyaan pakaian dijawab dengan kalimat wearing, motif dijawab flowers."
      }
     ]
    },
@@ -16167,203 +16168,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Put these on your feet before shoes.",
+      "t": "Choose the light top with short sleeves.",
       "p": [
-       "socks",
-       "hat",
-       "gloves"
+       "t-shirt",
+       "shirt",
+       "uniform"
       ],
       "j": 0,
-      "e": "Socks dipakai di kaki sebelum sepatu."
+      "e": "Kaos (t-shirt) dipakai sehari-hari."
      },
      {
       "tipe": "bs",
-      "t": "A triangle has three corners.",
+      "t": "A t-shirt has sleeves.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, segitiga punya tiga sudut."
+      "e": "Benar, kaos (t-shirt) memiliki lengan pendek."
      },
      {
       "tipe": "pg",
-      "t": "Find the color of an orange fruit.",
+      "t": "A cloth has a pattern of repeated blooms. Name it.",
       "p": [
-       "blue",
-       "orange",
-       "grey"
+       "flowers",
+       "stars",
+       "squares"
       ],
-      "j": 1,
-      "e": "Buah jeruk berwarna oranye (orange)."
+      "j": 0,
+      "e": "Motif bunga disebut flowers."
      },
      {
       "tipe": "isian",
-      "t": "I see a shape with no corners at all: a ....",
+      "t": "Sam covers his feet with ....",
       "p": [
-       "rectangle",
-       "circle",
-       "star"
+       "dress",
+       "socks",
+       "skirt"
       ],
       "j": 1,
-      "e": "Bentuk tanpa sudut adalah lingkaran (circle)."
+      "e": "Kaus kaki (socks) menutup kaki."
      },
      {
       "tipe": "cocok",
-      "t": "Connect the outfit piece to where it goes!",
+      "t": "Connect every pattern with the right item.",
       "pasangan": [
        [
-        "Trousers",
-        "legs"
+        "Flowers",
+        "Dress"
        ],
        [
-        "Shirt",
-        "body"
+        "Stars",
+        "T-shirt"
        ],
        [
-        "Hat",
-        "head"
+        "Triangles",
+        "Socks"
        ]
       ],
       "urutKanan": [
-       "head",
-       "legs",
-       "body"
+       "Socks",
+       "Dress",
+       "T-shirt"
       ],
-      "e": "Trousers di kaki, shirt di badan, hat di kepala."
+      "e": "Bunga pada gaun, bintang pada kaos, segitiga pada kaus kaki."
      },
      {
       "tipe": "pg",
-      "t": "When the sun is strong, wear a ....",
+      "t": "The blue cap belongs to Tom. Choose its color.",
       "p": [
-       "coat",
-       "T-shirt",
-       "scarf"
+       "yellow",
+       "red",
+       "blue"
       ],
-      "j": 1,
-      "e": "Saat panas pakai kaos (T-shirt)."
+      "j": 2,
+      "e": "Topi Tom berwarna biru (blue)."
      },
      {
       "tipe": "bs",
-      "t": "The cloud looks white.",
+      "t": "Flowers cannot be a pattern on clothes.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, awan tampak putih (white)."
+      "j": 1,
+      "e": "Salah, bunga (flowers) bisa jadi motif pakaian."
      },
      {
       "tipe": "isian",
-      "t": "Ripe strawberries are ....",
+      "t": "His t-shirt shows round shapes. The pattern is ....",
       "p": [
-       "red",
-       "blue",
-       "pink"
+       "circles",
+       "squares",
+       "flowers"
       ],
       "j": 0,
-      "e": "Stroberi matang berwarna merah (red)."
+      "e": "Motif lingkaran disebut circles."
      },
      {
       "tipe": "pg",
-      "t": "Which shape rolls easily?",
+      "t": "What is he wearing? He is wearing .... His shirt is blue.",
       "p": [
-       "square",
-       "oval",
-       "circle"
+       "a blue shirt",
+       "a red dress",
+       "a green scarf"
       ],
-      "j": 2,
-      "e": "Lingkaran (circle) bisa bergulir."
+      "j": 0,
+      "e": "Jawaban: He is wearing a blue shirt."
      },
      {
       "tipe": "cocok",
-      "t": "Draw a line from each shade to its example.",
+      "t": "Pair the color with the garment.",
       "pasangan": [
        [
         "Red",
-        "brick"
-       ],
-       [
-        "Blue",
-        "sea"
+        "Dress"
        ],
        [
         "Yellow",
-        "sun"
+        "T-shirt"
+       ],
+       [
+        "Brown",
+        "Scarf"
        ]
       ],
       "urutKanan": [
-       "sea",
-       "sun",
-       "brick"
+       "T-shirt",
+       "Scarf",
+       "Dress"
       ],
-      "e": "Merah bata, biru laut, kuning matahari."
+      "e": "Merah untuk gaun, kuning untuk kaos, coklat untuk syal."
      },
      {
       "tipe": "bs",
-      "t": "He puts on socks before shoes.",
+      "t": "He is wearing a blue shirt is a correct sentence.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kaus kaki dipakai sebelum sepatu."
+      "e": "Benar, pola He is wearing a blue shirt tersebut benar."
      },
      {
       "tipe": "pg",
-      "t": "It is a ... triangle.",
+      "t": "Students wear this to school. Name it.",
       "p": [
-       "green",
-       "round",
-       "six"
+       "uniform",
+       "jacket",
+       "dress"
       ],
       "j": 0,
-      "e": "Pola Warna + Bentuk: It is a green triangle."
+      "e": "Seragam sekolah disebut uniform."
      },
      {
       "tipe": "isian",
-      "t": "A ... keeps your neck warm.",
+      "t": "The scarf is white, not pink. Fill the blank: ....",
       "p": [
-       "scarf",
-       "shoe",
-       "cap"
+       "white",
+       "pink",
+       "brown"
       ],
       "j": 0,
-      "e": "Scarf menghangatkan leher."
+      "e": "Selendang itu putih (white), bukan pink."
      },
      {
       "tipe": "bs",
-      "t": "An oval is the same as a circle.",
+      "t": "A uniform is worn at school.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, oval tidak sama dengan lingkaran."
+      "j": 0,
+      "e": "Benar, seragam (uniform) dipakai di sekolah."
      },
      {
       "tipe": "cocok",
-      "t": "Join every form to its feature.",
+      "t": "Match the question with the answer.",
       "pasangan": [
        [
-        "Circle",
-        "no corners"
+        "What is he wearing?",
+        "He is wearing a blue uniform."
        ],
        [
-        "Square",
-        "four equal sides"
+        "What is she wearing?",
+        "She is wearing socks."
        ],
        [
-        "Triangle",
-        "three edges"
+        "Which pattern is it?",
+        "Stars."
        ]
       ],
       "urutKanan": [
-       "three edges",
-       "no corners",
-       "four equal sides"
+       "Stars.",
+       "She is wearing socks.",
+       "He is wearing a blue uniform."
       ],
-      "e": "Circle tanpa sudut, square empat sisi sama, triangle tiga tepi."
+      "e": "Jawaban memakai pola wearing, sedangkan motif dijawab stars."
      }
     ]
    },
@@ -16373,203 +16374,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Choose the item that covers your body.",
+      "t": "Which item do you wear around your neck?",
       "p": [
-       "shoe",
-       "shirt",
-       "cap"
-      ],
-      "j": 1,
-      "e": "Shirt menutup badan."
-     },
-     {
-      "tipe": "bs",
-      "t": "The sun is pink.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, matahari berwarna kuning (yellow)."
-     },
-     {
-      "tipe": "pg",
-      "t": "What is she wearing? She is wearing a pink ....",
-      "p": [
-       "skirt",
        "dress",
-       "socks"
-      ],
-      "j": 1,
-      "e": "What is she wearing? She is wearing a pink dress."
-     },
-     {
-      "tipe": "isian",
-      "t": "Mix red and white to get ....",
-      "p": [
-       "pink",
-       "black",
-       "blue"
-      ],
-      "j": 0,
-      "e": "Merah + putih menjadi pink."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Which clothing matches each body part? Draw lines.",
-      "pasangan": [
-       [
-        "Dress",
-        "body"
-       ],
-       [
-        "Cap",
-        "head"
-       ],
-       [
-        "Shoes",
-        "feet"
-       ]
-      ],
-      "urutKanan": [
-       "feet",
-       "body",
-       "head"
-      ],
-      "e": "Dress untuk badan, cap untuk kepala, shoes untuk kaki."
-     },
-     {
-      "tipe": "pg",
-      "t": "Take this when rain falls.",
-      "p": [
-       "sunglasses",
-       "raincoat",
-       "shorts"
-      ],
-      "j": 1,
-      "e": "Raincoat melindungi dari hujan."
-     },
-     {
-      "tipe": "bs",
-      "t": "A square has curved sides.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 1,
-      "e": "Salah, sisi persegi lurus, bukan lengkung."
-     },
-     {
-      "tipe": "isian",
-      "t": "Four equal sides belong to a ....",
-      "p": [
-       "circle",
-       "triangle",
-       "square"
+       "hat",
+       "scarf"
       ],
       "j": 2,
-      "e": "Empat sisi sama dimiliki square."
-     },
-     {
-      "tipe": "pg",
-      "t": "What color is the carrot? It is ....",
-      "p": [
-       "orange",
-       "purple",
-       "blue"
-      ],
-      "j": 0,
-      "e": "Wortel berwarna jingga (orange)."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Match the shade with the object shown.",
-      "pasangan": [
-       [
-        "Black",
-        "coal"
-       ],
-       [
-        "Green",
-        "leaf"
-       ],
-       [
-        "Pink",
-        "flower"
-       ]
-      ],
-      "urutKanan": [
-       "leaf",
-       "flower",
-       "coal"
-      ],
-      "e": "Hitam arang, hijau daun, pink bunga."
+      "e": "Scarf menutup leher."
      },
      {
       "tipe": "bs",
-      "t": "Shorts are for cold days.",
+      "t": "Circles can be a pattern on socks.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, lingkaran (circles) boleh jadi motif kaus kaki."
+     },
+     {
+      "tipe": "pg",
+      "t": "The scarf shows many triangles. Which word do you need?",
+      "p": [
+       "triangles",
+       "circles",
+       "stars"
+      ],
+      "j": 0,
+      "e": "Motif segitiga disebut triangles."
+     },
+     {
+      "tipe": "isian",
+      "t": "Rani puts on a ... before her jacket.",
+      "p": [
+       "socks",
+       "t-shirt",
+       "jacket"
+      ],
+      "j": 1,
+      "e": "Kaos (t-shirt) adalah pakaian sederhana."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Join the clothing with its pattern.",
+      "pasangan": [
+       [
+        "Circles",
+        "Socks"
+       ],
+       [
+        "Flowers",
+        "Dress"
+       ],
+       [
+        "Stars",
+        "Scarf"
+       ]
+      ],
+      "urutKanan": [
+       "Dress",
+       "Scarf",
+       "Socks"
+      ],
+      "e": "Kaus kaki bermotif lingkaran, gaun bunga, syal bintang."
+     },
+     {
+      "tipe": "pg",
+      "t": "Mia likes orange. Her t-shirt shows that color. Pick it.",
+      "p": [
+       "green",
+       "orange",
+       "purple"
+      ],
+      "j": 1,
+      "e": "Kaos Mia berwarna jingga (orange)."
+     },
+     {
+      "tipe": "bs",
+      "t": "A dress is worn on the feet.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 1,
-      "e": "Salah, shorts dipakai saat panas."
-     },
-     {
-      "tipe": "pg",
-      "t": "It is a ... rectangle.",
-      "p": [
-       "brown",
-       "round",
-       "three"
-      ],
-      "j": 0,
-      "e": "Contoh pola Warna+Bentuk: It is a brown rectangle."
+      "e": "Salah, dress dipakai di badan, bukan di kaki."
      },
      {
       "tipe": "isian",
-      "t": "A ... is worn over a T-shirt in cold air.",
+      "t": "Squares and stars are patterns. A circle shape gives the pattern ....",
       "p": [
-       "jacket",
-       "cap",
-       "sock"
+       "stars",
+       "circles",
+       "squares"
+      ],
+      "j": 1,
+      "e": "Bentuk lingkaran disebut circles."
+     },
+     {
+      "tipe": "pg",
+      "t": "What is she wearing? Pick the good answer about her socks.",
+      "p": [
+       "she is wearing socks",
+       "she is wearing a dress",
+       "he is wearing a shirt"
       ],
       "j": 0,
-      "e": "Jacket dipakai di atas kaos saat dingin."
+      "e": "Jawaban tepat: She is wearing socks."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Match the shade with the clothing item.",
+      "pasangan": [
+       [
+        "Pink",
+        "Dress"
+       ],
+       [
+        "Orange",
+        "Scarf"
+       ],
+       [
+        "Black",
+        "Socks"
+       ]
+      ],
+      "urutKanan": [
+       "Scarf",
+       "Socks",
+       "Dress"
+      ],
+      "e": "Pink pada gaun, orange pada syal, black pada kaus kaki."
      },
      {
       "tipe": "bs",
-      "t": "An oval is round.",
+      "t": "What is she wearing? asks about clothes.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, oval berbentuk bulat telur."
+      "e": "Benar, pertanyaan itu menanyakan pakaian yang dipakai."
+     },
+     {
+      "tipe": "pg",
+      "t": "Which one is worn on the legs?",
+      "p": [
+       "shirt",
+       "socks",
+       "uniform"
+      ],
+      "j": 1,
+      "e": "Socks menutup kaki."
+     },
+     {
+      "tipe": "isian",
+      "t": "An apple is usually red. Fill the color: ....",
+      "p": [
+       "red",
+       "yellow",
+       "black"
+      ],
+      "j": 0,
+      "e": "Apel umumnya berwarna merah (red)."
+     },
+     {
+      "tipe": "bs",
+      "t": "A scarf has squares, so we say a scarf with squares.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, pola a scarf with squares sesuai untuk motif kotak."
      },
      {
       "tipe": "cocok",
-      "t": "Link the figure to how many edges it has.",
+      "t": "Find the right reply for each question.",
       "pasangan": [
        [
-        "Triangle",
-        "3 edges"
+        "What is she wearing?",
+        "She is wearing a scarf with flowers."
        ],
        [
-        "Square",
-        "4 edges"
+        "What color is the dress?",
+        "Pink."
        ],
        [
-        "Circle",
-        "0 edges"
+        "Name the pattern on socks.",
+        "Circles."
        ]
       ],
       "urutKanan": [
-       "4 edges",
-       "0 edges",
-       "3 edges"
+       "Circles.",
+       "Pink.",
+       "She is wearing a scarf with flowers."
       ],
-      "e": "Triangle tiga tepi, square empat, circle nol."
+      "e": "Jawaban wearing memakai kalimat, warna dan motif dijawab satu kata."
      }
     ]
    },
@@ -16579,203 +16580,203 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "What do you wear on your hands?",
+      "t": "Pick the special clothes for a school group.",
       "p": [
-       "boots",
-       "gloves",
-       "scarf"
-      ],
-      "j": 1,
-      "e": "Gloves dipakai di tangan."
-     },
-     {
-      "tipe": "bs",
-      "t": "Brown is the color of chocolate.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, coklat berwarna brown."
-     },
-     {
-      "tipe": "pg",
-      "t": "This figure has no straight side.",
-      "p": [
-       "rectangle",
-       "triangle",
-       "oval"
+       "scarf",
+       "t-shirt",
+       "uniform"
       ],
       "j": 2,
-      "e": "Oval tidak punya sisi lurus."
+      "e": "Seragam disebut uniform."
+     },
+     {
+      "tipe": "bs",
+      "t": "Squares are a kind of pattern.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kotak (squares) termasuk motif."
+     },
+     {
+      "tipe": "pg",
+      "t": "Which pattern is made of circles?",
+      "p": [
+       "circles",
+       "triangles",
+       "flowers"
+      ],
+      "j": 0,
+      "e": "Motif yang terbuat dari lingkaran adalah circles."
      },
      {
       "tipe": "isian",
-      "t": "The blackboard is ....",
+      "t": "She chooses a ... for the school party.",
       "p": [
-       "white",
+       "skirt",
+       "dress",
+       "shirt"
+      ],
+      "j": 1,
+      "e": "Gaun (dress) dipakai di badan."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Link the pattern to the item that shows it.",
+      "pasangan": [
+       [
+        "Triangles",
+        "T-shirt"
+       ],
+       [
+        "Squares",
+        "Dress"
+       ],
+       [
+        "Circles",
+        "Scarf"
+       ]
+      ],
+      "urutKanan": [
+       "Scarf",
+       "T-shirt",
+       "Dress"
+      ],
+      "e": "Segitiga pada kaos, kotak pada gaun, lingkaran pada syal."
+     },
+     {
+      "tipe": "pg",
+      "t": "This is a brown uniform. Choose the color.",
+      "p": [
+       "brown",
+       "green",
+       "white"
+      ],
+      "j": 0,
+      "e": "Seragam ini berwarna coklat (brown)."
+     },
+     {
+      "tipe": "bs",
+      "t": "A shirt covers the head.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 1,
+      "e": "Salah, shirt menutup badan, bukan kepala."
+     },
+     {
+      "tipe": "isian",
+      "t": "Triangles, squares, and ... are three clothes patterns.",
+      "p": [
+       "squares",
+       "circles",
+       "triangles"
+      ],
+      "j": 1,
+      "e": "Tiga motif pakaian: triangles, squares, circles."
+     },
+     {
+      "tipe": "pg",
+      "t": "He is wearing a t-shirt .... The t-shirt shows triangles. Choose the ending.",
+      "p": [
+       "with triangles",
+       "with squares",
+       "with flowers"
+      ],
+      "j": 0,
+      "e": "Kalimat lengkap: He is wearing a t-shirt with triangles."
+     },
+     {
+      "tipe": "cocok",
+      "t": "Match each clothing to its color word.",
+      "pasangan": [
+       [
+        "White",
+        "Socks"
+       ],
+       [
+        "Brown",
+        "Uniform"
+       ],
+       [
+        "Blue",
+        "Shirt"
+       ]
+      ],
+      "urutKanan": [
+       "Uniform",
+       "Shirt",
+       "Socks"
+      ],
+      "e": "Putih untuk kaus kaki, coklat untuk seragam, biru untuk baju."
+     },
+     {
+      "tipe": "bs",
+      "t": "She is wearing socks uses the word wearing.",
+      "p": [
+       "Benar",
+       "Salah"
+      ],
+      "j": 0,
+      "e": "Benar, kalimat itu memakai kata wearing."
+     },
+     {
+      "tipe": "pg",
+      "t": "Ana picks a ... before she puts on her shoes.",
+      "p": [
+       "socks",
+       "dress",
+       "t-shirt"
+      ],
+      "j": 0,
+      "e": "Kaus kaki (socks) dipakai sebelum sepatu."
+     },
+     {
+      "tipe": "isian",
+      "t": "The black bag is dark. Write its color: ....",
+      "p": [
+       "green",
        "black",
-       "green"
+       "orange"
       ],
       "j": 1,
-      "e": "Papan tulis berwarna hitam (black)."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Attach each item to the correct body zone.",
-      "pasangan": [
-       [
-        "Scarf",
-        "neck"
-       ],
-       [
-        "Shoes",
-        "feet"
-       ],
-       [
-        "Shirt",
-        "body"
-       ]
-      ],
-      "urutKanan": [
-       "body",
-       "feet",
-       "neck"
-      ],
-      "e": "Scarf di leher, shoes di kaki, shirt di badan."
-     },
-     {
-      "tipe": "pg",
-      "t": "In snowy weather, choose a warm ....",
-      "p": [
-       "coat",
-       "sandals",
-       "shorts"
-      ],
-      "j": 0,
-      "e": "Coat menghangatkan saat bersalju."
+      "e": "Tas hitam berwarna hitam (black)."
      },
      {
       "tipe": "bs",
-      "t": "A circle has no straight edge.",
+      "t": "Triangles are not found on clothes.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 0,
-      "e": "Benar, lingkaran tidak punya tepi lurus."
-     },
-     {
-      "tipe": "isian",
-      "t": "A ripe mango turns ....",
-      "p": [
-       "grey",
-       "yellow",
-       "blue"
-      ],
       "j": 1,
-      "e": "Mangga matang berwarna kuning (yellow)."
-     },
-     {
-      "tipe": "pg",
-      "t": "I need a shape with four corners and equal sides.",
-      "p": [
-       "triangle",
-       "square",
-       "rectangle"
-      ],
-      "j": 1,
-      "e": "Square punya empat sudut dan sisi sama."
+      "e": "Salah, segitiga (triangles) bisa jadi motif baju."
      },
      {
       "tipe": "cocok",
-      "t": "Find the pair: shade then thing.",
+      "t": "Pair each prompt with a suitable answer.",
       "pasangan": [
        [
-        "Orange",
-        "carrot"
+        "What is he wearing?",
+        "He is wearing a shirt with squares."
        ],
        [
-        "Grey",
-        "stone"
+        "What pattern is on the scarf?",
+        "Flowers."
        ],
        [
-        "Pink",
-        "rose"
+        "What color are the socks?",
+        "Green."
        ]
       ],
       "urutKanan": [
-       "stone",
-       "rose",
-       "carrot"
+       "Flowers.",
+       "Green.",
+       "He is wearing a shirt with squares."
       ],
-      "e": "Jingga wortel, abu batu, pink mawar."
-     },
-     {
-      "tipe": "bs",
-      "t": "She is in a pink dress today.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, 'She is in a pink dress' memakai pola warna + pakaian."
-     },
-     {
-      "tipe": "pg",
-      "t": "It is a blue ....",
-      "p": [
-       "circle",
-       "triangle",
-       "star"
-      ],
-      "j": 1,
-      "e": "It is a blue triangle."
-     },
-     {
-      "tipe": "isian",
-      "t": "T-shirts and ... are worn in hot weather.",
-      "p": [
-       "shorts",
-       "coat",
-       "sweater"
-      ],
-      "j": 0,
-      "e": "Shorts dipakai saat cuaca panas."
-     },
-     {
-      "tipe": "bs",
-      "t": "A rectangle is longer than a square.",
-      "p": [
-       "Benar",
-       "Salah"
-      ],
-      "j": 0,
-      "e": "Benar, persegi panjang lebih panjang dari persegi."
-     },
-     {
-      "tipe": "cocok",
-      "t": "Match the figure with its number of corners.",
-      "pasangan": [
-       [
-        "Square",
-        "4 corners"
-       ],
-       [
-        "Triangle",
-        "3 corners"
-       ],
-       [
-        "Circle",
-        "0 corners"
-       ]
-      ],
-      "urutKanan": [
-       "3 corners",
-       "0 corners",
-       "4 corners"
-      ],
-      "e": "Square empat sudut, triangle tiga, circle nol."
+      "e": "Kalimat wearing menjawab pakaian, motif dan warna dijawab singkat."
      }
     ]
    }
