@@ -34,22 +34,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"A cup and a plate sit side by side. The cup is ... the plate.","p":["under","next to","in front of"],"j":1,"e":"The cup is next to the plate."},
         {"tipe":"isian","t":"The short hand points to 9. The long hand points to 12. What time is it?","p":["9 o'clock","10 o'clock","8 o'clock"],"j":0,"e":"It is 9 o'clock."},
         {"tipe":"bs","t":"When we sort things, we look for a shared trait.","p":["True","False"],"j":0,"e":"True. Sorting means finding a trait that is the same."},
-        {"tipe":"cocok","t":"Link each chart type to what it uses.","pasangan":[["Pictogram","uses pictures"],["Block graph","uses bars"],["Venn","uses two circles"]],"urutKanan":["uses bars","uses two circles","uses pictures"],"e":"A pictogram uses pictures, a block graph uses bars, and Venn uses two circles."},
-        {"tipe":"essay_pendek","t":"At sunrise, animals begin to wake. Which part of the day is this?","e":"It is morning.","baris":1},
-        {"tipe":"essay_pendek","t":"A clock has two hands. Say the name of the shorter one.","e":"The hour hand.","baris":1},
-        {"tipe":"essay_pendek","t":"In a Venn diagram, where do you write a thing that fits both groups?","e":"In the middle overlap.","baris":1},
-        {"tipe":"essay_pendek","t":"Write the ordinal word that matches the number ten.","e":"Tenth.","baris":2},
-        {"tipe":"essay_kalimat","t":"The kite is above the tree. Finish this sentence: The tree is ... the kite.","e":"The tree is below the kite.","baris":2},
-        {"tipe":"essay_kalimat","t":"Ben has six marbles and Ana has six marbles. Complete: Their counts are ...","e":"Their counts are equal.","baris":2},
-        {"tipe":"essay_kalimat","t":"The short hand points at eight and the long hand points at twelve. Write the time in a sentence.","e":"It is eight o'clock.","baris":2},
-        {"tipe":"essay_kalimat","t":"Monday comes before Tuesday. Add one more sentence about these two days.","e":"Tuesday comes after Monday.","baris":2},
-        {"tipe":"essay_daftar","t":"List three position words that tell where one thing is next to another.","e":"Beside, next to, between.","baris":3},
-        {"tipe":"essay_daftar","t":"Name two kinds of charts that use pictures or blocks to show counts.","e":"Pictogram and block graph.","baris":3},
-        {"tipe":"essay_daftar","t":"Write the names of three months that start with the letter D, J, and M.","e":"December, January, March.","baris":3},
-        {"tipe":"essay_daftar","t":"Give four words for parts of the day, from sunrise to bedtime.","e":"Morning, afternoon, evening, night.","baris":4},
-        {"tipe":"essay_cerita","t":"A puppy hides under a sofa. Tell a short story about how a child finds it.","e":"The child looks down and sees the puppy under the sofa.","baris":2},
-        {"tipe":"essay_cerita","t":"Write a tiny story using the words yesterday and tomorrow, and name what happened on each day.","e":"Yesterday I planted a seed. Tomorrow I will water it.","baris":3},
-        {"tipe":"essay_cerita","t":"Make a short story about a shell chart where one row has the most shells and another has the fewest.","e":"The blue row has the most shells. The red row has the fewest.","baris":3}
+        {"tipe":"cocok","t":"Link each chart type to what it uses.","pasangan":[["Pictogram","uses pictures"],["Block graph","uses bars"],["Venn","uses two circles"]],"urutKanan":["uses bars","uses two circles","uses pictures"],"e":"A pictogram uses pictures, a block graph uses bars, and Venn uses two circles."}
       ]
     },
     {
@@ -70,22 +55,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"The shoe rack sits beside the cupboard. The rack is ... the cupboard.","p":["behind","next to","over"],"j":1,"e":"The rack is next to the cupboard."},
         {"tipe":"isian","t":"The last month of the year is ...","p":["October","November","December"],"j":2,"e":"The last month is December."},
         {"tipe":"bs","t":"The sun goes down at evening time.","p":["True","False"],"j":0,"e":"True. The sun goes down in the evening."},
-        {"tipe":"cocok","t":"Connect each comparing word to its meaning.","pasangan":[["More than","greater in number"],["Fewer than","smaller in number"],["Equal","the same in number"]],"urutKanan":["smaller in number","the same in number","greater in number"],"e":"More than means greater in number. Fewer than means smaller in number. Equal means the same in number."},
-        {"tipe":"essay_pendek","t":"What do we call the hand that moves fastest on a clock?","e":"The long hand, or minute hand.","baris":1},
-        {"tipe":"essay_pendek","t":"In a race, Ana came in 2nd. Write the full ordinal word.","e":"Second.","baris":1},
-        {"tipe":"essay_pendek","t":"Which diagram uses two circles to sort things?","e":"A Venn diagram.","baris":1},
-        {"tipe":"essay_pendek","t":"What word means the same as 'under'?","e":"Below.","baris":1},
-        {"tipe":"essay_kalimat","t":"A bird sits on the roof. Complete: The roof is ... the bird.","e":"The roof is under the bird.","baris":2},
-        {"tipe":"essay_kalimat","t":"Sam has three stickers. Lia has five stickers. Finish: Sam has ... stickers than Lia.","e":"Sam has fewer stickers than Lia.","baris":2},
-        {"tipe":"essay_kalimat","t":"Minute hand at 12, hour hand at 3. Say the hour out loud.","e":"It is three o'clock.","baris":2},
-        {"tipe":"essay_kalimat","t":"Today is Friday. Write one sentence about tomorrow.","e":"Tomorrow will be Saturday.","baris":2},
-        {"tipe":"essay_daftar","t":"Name three months that have thirty days.","e":"April, June, September.","baris":3},
-        {"tipe":"essay_daftar","t":"Which three things can a block graph show about a group of toys?","e":"The count of each toy, the most, and the fewest.","baris":3},
-        {"tipe":"essay_daftar","t":"Write three words for things we do in the morning.","e":"Wake up, brush teeth, eat breakfast.","baris":3},
-        {"tipe":"essay_daftar","t":"Give four ordinal words for the first four runners in a race.","e":"First, second, third, fourth.","baris":4},
-        {"tipe":"essay_cerita","t":"A cat naps beside a warm stove. Tell a short tale about the cat and a mouse.","e":"The cat sleeps by the stove while the mouse runs past.","baris":2},
-        {"tipe":"essay_cerita","t":"Write a little story about a clock that stops, and say what time it showed.","e":"The clock stopped at six o'clock.","baris":3},
-        {"tipe":"essay_cerita","t":"Tell a short story about a class that sorts buttons into two groups.","e":"They put round buttons in one group and square buttons in the other.","baris":3}
+        {"tipe":"cocok","t":"Connect each comparing word to its meaning.","pasangan":[["More than","greater in number"],["Fewer than","smaller in number"],["Equal","the same in number"]],"urutKanan":["smaller in number","the same in number","greater in number"],"e":"More than means greater in number. Fewer than means smaller in number. Equal means the same in number."}
       ]
     },
     {
@@ -106,22 +76,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"A cat hides below the bed. Which word means below?","p":["above","between","under"],"j":2,"e":"The word for below is under."},
         {"tipe":"isian","t":"After afternoon and before night comes the ...","p":["morning","evening","noon"],"j":1,"e":"Evening comes after afternoon."},
         {"tipe":"bs","t":"Two groups are equal when their counts differ.","p":["True","False"],"j":1,"e":"False. Equal means the counts are the same."},
-        {"tipe":"cocok","t":"Link months ten through twelve to their numbers.","pasangan":[["October","10"],["November","11"],["December","12"]],"urutKanan":["12","10","11"],"e":"October is month 10, November is month 11, December is month 12."},
-        {"tipe":"essay_pendek","t":"A week has seven days. What is the day right after Sunday?","e":"Monday.","baris":1},
-        {"tipe":"essay_pendek","t":"Which word means 'over' when one thing is higher than another?","e":"Above.","baris":1},
-        {"tipe":"essay_pendek","t":"In a pictogram, one little drawing may stand for two real objects. What does one drawing stand for here?","e":"Two real objects.","baris":2},
-        {"tipe":"essay_pendek","t":"What do we call a chart that sorts things with four boxes and two traits?","e":"A Carroll diagram.","baris":1},
-        {"tipe":"essay_kalimat","t":"A book lies on the shelf. Complete the opposite: The shelf is ... the book.","e":"The shelf is under the book.","baris":2},
-        {"tipe":"essay_kalimat","t":"In the fruit chart, mangoes have the tallest stack. Write a sentence about mangoes.","e":"Mangoes show the most.","baris":2},
-        {"tipe":"essay_kalimat","t":"Nine o'clock is shown. The short hand is on nine. Write the other hand's place.","e":"The long hand is on twelve.","baris":2},
-        {"tipe":"essay_kalimat","t":"Yesterday was Wednesday. Write one sentence about today.","e":"Today is Thursday.","baris":2},
-        {"tipe":"essay_daftar","t":"Name three position words that use the idea of 'high' or 'low'.","e":"Above, over, below.","baris":3},
-        {"tipe":"essay_daftar","t":"List two things that are the same in a Carroll diagram's top row.","e":"Both are red and both are circles.","baris":3},
-        {"tipe":"essay_daftar","t":"Write three ordinal words for places six, seven, and eight.","e":"Sixth, seventh, eighth.","baris":3},
-        {"tipe":"essay_daftar","t":"Give four names of months that come after June.","e":"July, August, September, October.","baris":4},
-        {"tipe":"essay_cerita","t":"A snail crawls between two stones. Make a tiny story about the snail's trip.","e":"The snail goes slowly between the stones to reach a leaf.","baris":2},
-        {"tipe":"essay_cerita","t":"Write a short story that uses the word evening and tells who eats dinner.","e":"In the evening my family eats dinner together.","baris":3},
-        {"tipe":"essay_cerita","t":"Tell a little story about a pictogram of birds where sparrows are the fewest.","e":"The sparrow row is the shortest, so sparrows are the fewest.","baris":3}
+        {"tipe":"cocok","t":"Link months ten through twelve to their numbers.","pasangan":[["October","10"],["November","11"],["December","12"]],"urutKanan":["12","10","11"],"e":"October is month 10, November is month 11, December is month 12."}
       ]
     },
     {
@@ -142,7 +97,76 @@ window.KUIS.push({
         {"tipe":"pg","t":"The wardrobe touches the window. The wardrobe is ... the window.","p":["next to","far from","above"],"j":0,"e":"The wardrobe is next to the window."},
         {"tipe":"isian","t":"The month right after September is ...","p":["August","October","December"],"j":1,"e":"October comes right after September."},
         {"tipe":"bs","t":"At seven, the short hand sits on the 7.","p":["True","False"],"j":0,"e":"True. At seven o'clock the short hand is on the 7."},
-        {"tipe":"cocok","t":"Match Sunday, Monday, and Tuesday to their day numbers.","pasangan":[["Sunday","day 7"],["Monday","day 1"],["Tuesday","day 2"]],"urutKanan":["day 1","day 2","day 7"],"e":"Sunday is day 7, Monday is day 1, Tuesday is day 2."},
+        {"tipe":"cocok","t":"Match Sunday, Monday, and Tuesday to their day numbers.","pasangan":[["Sunday","day 7"],["Monday","day 1"],["Tuesday","day 2"]],"urutKanan":["day 1","day 2","day 7"],"e":"Sunday is day 7, Monday is day 1, Tuesday is day 2."}
+      ]
+    },
+    {
+      "kode": "E",
+      "nama": "Essay E",
+      "soal": [
+        {"tipe":"essay_pendek","t":"At sunrise, animals begin to wake. Which part of the day is this?","e":"It is morning.","baris":1},
+        {"tipe":"essay_pendek","t":"A clock has two hands. Say the name of the shorter one.","e":"The hour hand.","baris":1},
+        {"tipe":"essay_pendek","t":"In a Venn diagram, where do you write a thing that fits both groups?","e":"In the middle overlap.","baris":1},
+        {"tipe":"essay_pendek","t":"Write the ordinal word that matches the number ten.","e":"Tenth.","baris":2},
+        {"tipe":"essay_kalimat","t":"The kite is above the tree. Finish this sentence: The tree is ... the kite.","e":"The tree is below the kite.","baris":2},
+        {"tipe":"essay_kalimat","t":"Ben has six marbles and Ana has six marbles. Complete: Their counts are ...","e":"Their counts are equal.","baris":2},
+        {"tipe":"essay_kalimat","t":"The short hand points at eight and the long hand points at twelve. Write the time in a sentence.","e":"It is eight o'clock.","baris":2},
+        {"tipe":"essay_kalimat","t":"Monday comes before Tuesday. Add one more sentence about these two days.","e":"Tuesday comes after Monday.","baris":2},
+        {"tipe":"essay_daftar","t":"List three position words that tell where one thing is next to another.","e":"Beside, next to, between.","baris":3},
+        {"tipe":"essay_daftar","t":"Name two kinds of charts that use pictures or blocks to show counts.","e":"Pictogram and block graph.","baris":3},
+        {"tipe":"essay_daftar","t":"Write the names of three months that start with the letter D, J, and M.","e":"December, January, March.","baris":3},
+        {"tipe":"essay_daftar","t":"Give four words for parts of the day, from sunrise to bedtime.","e":"Morning, afternoon, evening, night.","baris":4},
+        {"tipe":"essay_cerita","t":"A puppy hides under a sofa. Tell a short story about how a child finds it.","e":"The child looks down and sees the puppy under the sofa.","baris":2},
+        {"tipe":"essay_cerita","t":"Write a tiny story using the words yesterday and tomorrow, and name what happened on each day.","e":"Yesterday I planted a seed. Tomorrow I will water it.","baris":3},
+        {"tipe":"essay_cerita","t":"Make a short story about a shell chart where one row has the most shells and another has the fewest.","e":"The blue row has the most shells. The red row has the fewest.","baris":3}
+      ]
+    },
+    {
+      "kode": "F",
+      "nama": "Essay F",
+      "soal": [
+        {"tipe":"essay_pendek","t":"What do we call the hand that moves fastest on a clock?","e":"The long hand, or minute hand.","baris":1},
+        {"tipe":"essay_pendek","t":"In a race, Ana came in 2nd. Write the full ordinal word.","e":"Second.","baris":1},
+        {"tipe":"essay_pendek","t":"Which diagram uses two circles to sort things?","e":"A Venn diagram.","baris":1},
+        {"tipe":"essay_pendek","t":"What word means the same as 'under'?","e":"Below.","baris":1},
+        {"tipe":"essay_kalimat","t":"A bird sits on the roof. Complete: The roof is ... the bird.","e":"The roof is under the bird.","baris":2},
+        {"tipe":"essay_kalimat","t":"Sam has three stickers. Lia has five stickers. Finish: Sam has ... stickers than Lia.","e":"Sam has fewer stickers than Lia.","baris":2},
+        {"tipe":"essay_kalimat","t":"Minute hand at 12, hour hand at 3. Say the hour out loud.","e":"It is three o'clock.","baris":2},
+        {"tipe":"essay_kalimat","t":"Today is Friday. Write one sentence about tomorrow.","e":"Tomorrow will be Saturday.","baris":2},
+        {"tipe":"essay_daftar","t":"Name three months that have thirty days.","e":"April, June, September.","baris":3},
+        {"tipe":"essay_daftar","t":"Which three things can a block graph show about a group of toys?","e":"The count of each toy, the most, and the fewest.","baris":3},
+        {"tipe":"essay_daftar","t":"Write three words for things we do in the morning.","e":"Wake up, brush teeth, eat breakfast.","baris":3},
+        {"tipe":"essay_daftar","t":"Give four ordinal words for the first four runners in a race.","e":"First, second, third, fourth.","baris":4},
+        {"tipe":"essay_cerita","t":"A cat naps beside a warm stove. Tell a short tale about the cat and a mouse.","e":"The cat sleeps by the stove while the mouse runs past.","baris":2},
+        {"tipe":"essay_cerita","t":"Write a little story about a clock that stops, and say what time it showed.","e":"The clock stopped at six o'clock.","baris":3},
+        {"tipe":"essay_cerita","t":"Tell a short story about a class that sorts buttons into two groups.","e":"They put round buttons in one group and square buttons in the other.","baris":3}
+      ]
+    },
+    {
+      "kode": "G",
+      "nama": "Essay G",
+      "soal": [
+        {"tipe":"essay_pendek","t":"A week has seven days. What is the day right after Sunday?","e":"Monday.","baris":1},
+        {"tipe":"essay_pendek","t":"Which word means 'over' when one thing is higher than another?","e":"Above.","baris":1},
+        {"tipe":"essay_pendek","t":"In a pictogram, one little drawing may stand for two real objects. What does one drawing stand for here?","e":"Two real objects.","baris":2},
+        {"tipe":"essay_pendek","t":"What do we call a chart that sorts things with four boxes and two traits?","e":"A Carroll diagram.","baris":1},
+        {"tipe":"essay_kalimat","t":"A book lies on the shelf. Complete the opposite: The shelf is ... the book.","e":"The shelf is under the book.","baris":2},
+        {"tipe":"essay_kalimat","t":"In the fruit chart, mangoes have the tallest stack. Write a sentence about mangoes.","e":"Mangoes show the most.","baris":2},
+        {"tipe":"essay_kalimat","t":"Nine o'clock is shown. The short hand is on nine. Write the other hand's place.","e":"The long hand is on twelve.","baris":2},
+        {"tipe":"essay_kalimat","t":"Yesterday was Wednesday. Write one sentence about today.","e":"Today is Thursday.","baris":2},
+        {"tipe":"essay_daftar","t":"Name three position words that use the idea of 'high' or 'low'.","e":"Above, over, below.","baris":3},
+        {"tipe":"essay_daftar","t":"List two things that are the same in a Carroll diagram's top row.","e":"Both are red and both are circles.","baris":3},
+        {"tipe":"essay_daftar","t":"Write three ordinal words for places six, seven, and eight.","e":"Sixth, seventh, eighth.","baris":3},
+        {"tipe":"essay_daftar","t":"Give four names of months that come after June.","e":"July, August, September, October.","baris":4},
+        {"tipe":"essay_cerita","t":"A snail crawls between two stones. Make a tiny story about the snail's trip.","e":"The snail goes slowly between the stones to reach a leaf.","baris":2},
+        {"tipe":"essay_cerita","t":"Write a short story that uses the word evening and tells who eats dinner.","e":"In the evening my family eats dinner together.","baris":3},
+        {"tipe":"essay_cerita","t":"Tell a little story about a pictogram of birds where sparrows are the fewest.","e":"The sparrow row is the shortest, so sparrows are the fewest.","baris":3}
+      ]
+    },
+    {
+      "kode": "H",
+      "nama": "Essay H",
+      "soal": [
         {"tipe":"essay_pendek","t":"What is the name of the eighth month in a year?","e":"August.","baris":1},
         {"tipe":"essay_pendek","t":"Which position word tells that a thing is at the back of a line?","e":"Behind.","baris":1},
         {"tipe":"essay_pendek","t":"A chart has three bars. The middle bar is the tallest. What does it show?","e":"The most.","baris":1},

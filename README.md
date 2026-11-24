@@ -10,14 +10,14 @@
 
 ### Untuk Siswa
 - **Navigasi hierarki**: Kategori (Sumatif 2 / Sumatif Final) → Mata Pelajaran → Kelas, dengan filter & chips.
-- **8 tipe soal**: 4 tipe pilihan + 4 tipe essay tulis.
+- **8 tipe soal** per paket: 4 pilihan di A–D + 4 essay di E–H
   | Tipe | Label | Bentuk |
   |---|---|---|
   | `pg` | Pilihan Ganda | pertanyaan + 3–4 opsi |
   | `bs` | Benar / Salah | 2 opsi |
   | `isian` | Isian Singkat | pilih angka/kata yang tepat dari 3 opsi |
   | `cocok` | Pasangkan | 3 pasang kiri–kanan (urutan jawaban diacak) |
-- **30 soal per versi**: 15 pilihan + 15 essay. Pilihan dinilai otomatis, essay ditulis di textarea dan dinilai guru. Tombol **Cetak Essay** menghasilkan lembar cetak dengan ruang tulis dan kunci untuk guru.
+- **8 versi per paket**: A-D berisi 15 soal pilihan seperti konsep awal; E-H khusus 15 soal essay. Pilihan dinilai otomatis, essay ditulis di textarea dan dinilai guru. Tombol **Cetak Essay** menghasilkan lembar cetak dengan ruang tulis dan kunci untuk guru.
 - **Nilai 0–100 + predikat**: 🌟🌟🌟 A (≥90) · 🌟🌟 B (≥75) · 🌟 C (≥60) · ✨ D (<60, belum tuntas).
 - **Kunci Jawaban & Pembahasan** terbuka setelah mengirim — tiap soal ada penjelasan ramah anak berbahasa Indonesia.
 - **📤 Bagikan Hasil** (teks siap salin) dan **🖨 Cetak / PDF** untuk lembar hasil.
@@ -153,7 +153,8 @@ window.KUIS.push({
 
 ### Aturan wajib (dicegah validator build)
 
-- **POLA 30 soal tetap**: 15 pilihan `pg, bs, pg, isian, cocok, pg, bs, isian, pg, cocok, bs, pg, isian, bs, cocok`, lalu 15 essay `essay_pendek`×4, `essay_kalimat`×4, `essay_daftar`×4, `essay_cerita`×3.
+- **POLA A–D (pilihan)**: `pg, bs, pg, isian, cocok, pg, bs, isian, pg, cocok, bs, pg, isian, bs, cocok`.
+- **POLA E–H (essay)**: `essay_pendek`x4, `essay_kalimat`x4, `essay_daftar`x4, `essay_cerita`x3.
 - Tiap soal punya **label tipe** di UI.
 - `pg`/`isian`: minimal 3 opsi; `bs`: tepat `["Benar","Salah"]`.
 - `cocok`: 3 pasang, jawaban kanan unik; `urutKanan` = permutasi dari kanan `pasangan` dan **tidak sama** dengan urutan baris.
@@ -201,14 +202,14 @@ Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal
 | Hub (pilih paket) | `index.html` — bisa difilter: `?kelas=Kelas 1 SD&mapel=English&kat=Sumatif 2` |
 | Kerjakan kuis | `kuis.html?id=<id-paket>` — lalu pilih versi A/B/C/D |
 
-**Alur siswa:** pilih paket → pilih versi → jawab 30 soal (navigasi bebas) → **Kirim di soal 30** → lihat nilai, predikat, pembahasan → Bagikan / Cetak. Essay bisa diketik dan dicetak lewat tombol Cetak Essay.
+**Alur siswa:** pilih paket → pilih versi (A–D pilihan atau E–H essay) → jawab 15 soal → **Kirim di soal 15** → lihat hasil. Essay bisa diketik dan dicetak lewat tombol Cetak Essay.
 
 ---
 
 ## 📊 Statistik
 
-- **20 paket** → **80 versi** → **1800 soal**
-- **8 tipe soal** per versi: 4 pilihan + 4 essay tulis
+- **20 paket** → **120 versi** → **1800 soal**
+- **8 tipe soal** per paket: 4 pilihan di A-D + 4 essay di E-H
 - Bundle: `data.js` ±360 KB (1 request, tanpa server/API)
 - Stack: HTML + CSS + JS murni → di-serve gratis oleh **GitHub Pages**
 

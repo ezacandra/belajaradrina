@@ -8607,96 +8607,6 @@ window.KUIS = [
        "nomor Al-Falaq"
       ],
       "e": "Nomor 113 milik Al-Falaq, 112 milik Al-Ikhlas, dan 4 adalah jumlah ayat Al-Ikhlas."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan arti kata Al-Falaq!",
-      "e": "Al-Falaq artinya waktu subuh atau fajar.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan nomor urut Al-Falaq!",
-      "e": "Urutan Al-Falaq adalah 113.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan banyak ayat Al-Falaq!",
-      "e": "Al-Falaq terdiri dari lima ayat.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan nama lain bagi Al-Falaq bersama An-Nas!",
-      "e": "Nama lainnya adalah Mu'awwidzatain, dua surat perlindungan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan arti Mu'awwidzatain dengan kalimatmu sendiri!",
-      "e": "Mu'awwidzatain berarti dua surat perlindungan. Al-Falaq dan An-Nas termasuk di dalamnya.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan ayat pertama Al-Falaq menurut bacaan yang kamu hafal!",
-      "e": "Qul a'uudzu birabbil falaq. Artinya, aku berlindung kepada Tuhan yang menciptakan fajar.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Mengapa kita membaca Al-Falaq? Jawab dengan dua kalimat!",
-      "e": "Kita membaca Al-Falaq untuk memohon perlindungan kepada Allah. Kita berlindung hanya kepada-Nya, bukan kepada benda.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apa yang harus kamu lakukan setelah mendapat nikmat? Tulis dua kalimat!",
-      "e": "Aku mengucap alhamdulillah karena diberi nikmat. Aku juga mau berbuat baik.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga keterangan tentang Al-Falaq: nomor, jumlah ayat, dan artinya!",
-      "e": "Nomor surat Al-Falaq adalah 113. Jumlah ayatnya lima. Artinya waktu subuh.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Daftarkan tiga isi pesan surat Al-Ikhlas yang kamu ingat!",
-      "e": "Allah itu Maha Esa. Allah tempat meminta segala sesuatu. Allah tidak beranak.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga contoh perilaku baik yang diajarkan Al-Ikhlas!",
-      "e": "Berdoa kepada Allah. Bersyukur atas nikmat. Rajin ibadah.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga potongan bacaan Al-Ikhlas beserta artinya!",
-      "e": "Qul huwallahu ahad: Allah Yang Maha Esa. Allahush shamad: Allah tempat meminta. Lam yalid wa lam yulad: Allah tidak beranak.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Hari ini Adi membaca Al-Falaq sebelum tidur. Ceritakan apa yang ia minta kepada Allah, empat baris!",
-      "e": "Adi membaca Al-Falaq dengan khusyuk. Ia meminta perlindungan kepada Allah. Adi tidak takut sendirian. Ia tidur dengan tenang.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Salsa diajak teman menyembah patung. Ceritakan penolakannya menurut Al-Ikhlas, empat baris!",
-      "e": "Salsa berkata bahwa kita menyembah Allah saja. Ia tidak mau menyembah patung. Allah itu Maha Esa. Salsa memilih berdoa kepada Allah.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Guru meminta Dino menyebut ciri surat Makkiyah. Ceritakan jawaban Dino, empat baris!",
-      "e": "Dino menjawab bahwa Al-Ikhlas termasuk surat Makkiyah. Surat Makkiyah turun di kota Makkah. Al-Falaq juga tergolong Makkiyah. Dino senang karena ingat pelajarannya.",
-      "baris": 4
      }
     ]
    },
@@ -8903,96 +8813,6 @@ window.KUIS = [
        "mengucap hamdalah"
       ],
       "e": "Berdoa berarti meminta pertolongan, bersyukur dengan mengucap hamdalah, dan jujur berarti berkata benar."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa arti kata 'ahad' dalam Al-Ikhlas?",
-      "e": "Ahad berarti satu, yaitu Allah Yang Maha Esa.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan arti lafal 'shamad'!",
-      "e": "Lafal shamad memberi tahu bahwa Allah tempat meminta.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tulis jumlah kemunculan lafal ahad di Al-Ikhlas!",
-      "e": "Lafal ahad terbaca dua kali di dalam Al-Ikhlas.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan nomor surat Al-Ikhlas!",
-      "e": "Al-Ikhlas berada pada nomor 112.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan mengapa Al-Ikhlas disebut surat Makkiyah!",
-      "e": "Al-Ikhlas tergolong Makkiyah karena turun di kota Makkah. Itu sebabnya disebut surat Makkiyah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Artikan ayat terakhir Al-Ikhlas dengan kalimat sederhana!",
-      "e": "Ayat itu berarti tidak ada sesuatu pun yang sama dengan Allah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ceritakan dua kalimat tentang cara berdoa menurut Al-Ikhlas!",
-      "e": "Kita berdoa dan memohon pertolongan kepada Allah. Allah tempat meminta segala sesuatu.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apakah kita boleh menyembah selain Allah? Jawab dengan dua kalimat!",
-      "e": "Tidak boleh. Kita menyembah Allah saja karena Dia Yang Maha Esa.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga lafal dari Al-Ikhlas yang hafal kamu!",
-      "e": "Qul huwallahu ahad. Allahush shamad. Lam yalid wa lam yulad.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga arti potongan ini: ahad, shamad, yulad!",
-      "e": "Ahad berarti satu. Shamad berarti tempat meminta. Yulad berarti diperanakkan.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Daftarkan tiga hal yang tidak ada pada diri Allah menurut Al-Ikhlas!",
-      "e": "Allah tidak beranak. Allah tidak diperanakkan. Tidak ada yang setara dengan Allah.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga pesan penting dari surat Al-Ikhlas untuk anak kelas satu!",
-      "e": "Allah Maha Esa. Kita meminta pertolongan kepada-Nya. Kita berbuat baik setiap hari.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Rani hafal Al-Ikhlas dan ingin mengajarkannya. Ceritakan langkah Rani, empat baris!",
-      "e": "Rani membaca surat Al-Ikhlas perlahan. Ia mengulang ayatnya bersama teman. Rani menjelaskan bahwa Allah Maha Esa. Temannya senang belajar.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Udin ditanya guru tentang isi Al-Ikhlas. Ceritakan jawaban Udin, empat baris!",
-      "e": "Udin menjawab bahwa Al-Ikhlas menjelaskan keesaan Allah. Ia menyebut Allah tidak beranak. Udin juga berkata tidak ada yang setara. Gurunya memujinya.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Andi mendapat hadiah buku dari ayah. Ceritakan sikapnya menurut pelajaran Al-Ikhlas, empat baris!",
-      "e": "Andi mengucap alhamdulillah. Ia berterima kasih kepada ayah. Andi berdoa meminta pertolongan Allah. Ia berjanji rajin membaca Al-Qur'an.",
-      "baris": 4
      }
     ]
    },
@@ -9199,96 +9019,6 @@ window.KUIS = [
        "ayat pertama Al-Falaq"
       ],
       "e": "Potongan kufuwan ahad menutup Al-Ikhlas, birobbil falaq membuka Al-Falaq, dan huwallahu ahad membuka Al-Ikhlas."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa arti Al-Ikhlas menurut pelajaran kita?",
-      "e": "Al-Ikhlas artinya murni, yaitu memurnikan keesaan Allah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Surat Al-Ikhlas turun di mana? Jawab singkat!",
-      "e": "Al-Ikhlas turun di kota Makkah, jadi termasuk surat Makkiyah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Berapa jumlah ayat Al-Ikhlas? Jawab singkat!",
-      "e": "Jumlah ayat Al-Ikhlas ada empat.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan nama surat yang dipakai untuk meminta perlindungan!",
-      "e": "Surat Al-Falaq dipakai untuk meminta perlindungan kepada Allah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan arti kata 'falaq' dengan dua kalimat!",
-      "e": "Falaq berarti waktu subuh. Itu saat fajar mulai terang.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan dua kalimat tentang Allah Yang Maha Esa!",
-      "e": "Allah itu satu, tidak ada Tuhan selain Allah. Kita menyembah Allah saja.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan dua cara bersyukur yang bisa kamu lakukan!",
-      "e": "Aku mengucap hamdalah setiap hari. Aku menjaga nikmat Allah dengan baik.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apa bedanya Al-Ikhlas dan Al-Falaq? Tulis dua kalimat!",
-      "e": "Al-Ikhlas menjelaskan keesaan Allah. Al-Falaq berisi permohonan perlindungan.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga hal yang diajarkan Al-Ikhlas tentang Allah!",
-      "e": "Allah Maha Esa. Allah tidak beranak. Tidak ada yang setara dengan Allah.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga contoh perbuatan baik sesuai pelajaran ini!",
-      "e": "Berdoa kepada Allah. Bersyukur atas nikmat. Berkata jujur.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Daftarkan tiga isi ayat Al-Ikhlas dari ayat pertama sampai ketiga!",
-      "e": "Ayat pertama qul huwallahu ahad. Ayat kedua allahush shamad. Ayat ketiga lam yalid wa lam yulad.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga fakta Al-Falaq: artinya, nomornya, jumlah ayatnya!",
-      "e": "Artinya waktu subuh. Nomornya 113. Ayatnya ada lima.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Rizky lupa arti Al-Falaq. Ceritakan bagaimana ia bertanya dan belajar, empat baris!",
-      "e": "Rizky bertanya kepada gurunya. Gurunya menjelaskan bahwa Al-Falaq artinya subuh. Rizky mengulanginya sampai hafal. Ia senang karena tahu artinya.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Dinda melihat teman berdoa sebelum belajar. Ceritakan pelajaran yang ia ambil, empat baris!",
-      "e": "Dinda ikut berdoa sebelum belajar. Ia meminta pertolongan kepada Allah. Dinda yakin Allah menolongnya. Ia jadi lebih semangat.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Kelas satu berlatih membaca Al-Ikhlas bersama guru. Ceritakan suasannya, empat baris!",
-      "e": "Semua siswa duduk rapi. Guru membaca pelan, lalu kami mengikuti. Kami berulang sampai lancar. Alhamdulillah, kami senang.",
-      "baris": 4
      }
     ]
    },
@@ -9495,7 +9225,301 @@ window.KUIS = [
        "Al-Falaq"
       ],
       "e": "Ciri Makkiyah milik Al-Ikhlas, waktu subuh milik Al-Falaq, dan dua surat perlindungan milik Mu'awwidzatain."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan arti kata Al-Falaq!",
+      "e": "Al-Falaq artinya waktu subuh atau fajar.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan nomor urut Al-Falaq!",
+      "e": "Urutan Al-Falaq adalah 113.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan banyak ayat Al-Falaq!",
+      "e": "Al-Falaq terdiri dari lima ayat.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan nama lain bagi Al-Falaq bersama An-Nas!",
+      "e": "Nama lainnya adalah Mu'awwidzatain, dua surat perlindungan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan arti Mu'awwidzatain dengan kalimatmu sendiri!",
+      "e": "Mu'awwidzatain berarti dua surat perlindungan. Al-Falaq dan An-Nas termasuk di dalamnya.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan ayat pertama Al-Falaq menurut bacaan yang kamu hafal!",
+      "e": "Qul a'uudzu birabbil falaq. Artinya, aku berlindung kepada Tuhan yang menciptakan fajar.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Mengapa kita membaca Al-Falaq? Jawab dengan dua kalimat!",
+      "e": "Kita membaca Al-Falaq untuk memohon perlindungan kepada Allah. Kita berlindung hanya kepada-Nya, bukan kepada benda.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apa yang harus kamu lakukan setelah mendapat nikmat? Tulis dua kalimat!",
+      "e": "Aku mengucap alhamdulillah karena diberi nikmat. Aku juga mau berbuat baik.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga keterangan tentang Al-Falaq: nomor, jumlah ayat, dan artinya!",
+      "e": "Nomor surat Al-Falaq adalah 113. Jumlah ayatnya lima. Artinya waktu subuh.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Daftarkan tiga isi pesan surat Al-Ikhlas yang kamu ingat!",
+      "e": "Allah itu Maha Esa. Allah tempat meminta segala sesuatu. Allah tidak beranak.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga contoh perilaku baik yang diajarkan Al-Ikhlas!",
+      "e": "Berdoa kepada Allah. Bersyukur atas nikmat. Rajin ibadah.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga potongan bacaan Al-Ikhlas beserta artinya!",
+      "e": "Qul huwallahu ahad: Allah Yang Maha Esa. Allahush shamad: Allah tempat meminta. Lam yalid wa lam yulad: Allah tidak beranak.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Hari ini Adi membaca Al-Falaq sebelum tidur. Ceritakan apa yang ia minta kepada Allah, empat baris!",
+      "e": "Adi membaca Al-Falaq dengan khusyuk. Ia meminta perlindungan kepada Allah. Adi tidak takut sendirian. Ia tidur dengan tenang.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Salsa diajak teman menyembah patung. Ceritakan penolakannya menurut Al-Ikhlas, empat baris!",
+      "e": "Salsa berkata bahwa kita menyembah Allah saja. Ia tidak mau menyembah patung. Allah itu Maha Esa. Salsa memilih berdoa kepada Allah.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Guru meminta Dino menyebut ciri surat Makkiyah. Ceritakan jawaban Dino, empat baris!",
+      "e": "Dino menjawab bahwa Al-Ikhlas termasuk surat Makkiyah. Surat Makkiyah turun di kota Makkah. Al-Falaq juga tergolong Makkiyah. Dino senang karena ingat pelajarannya.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa arti kata 'ahad' dalam Al-Ikhlas?",
+      "e": "Ahad berarti satu, yaitu Allah Yang Maha Esa.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan arti lafal 'shamad'!",
+      "e": "Lafal shamad memberi tahu bahwa Allah tempat meminta.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tulis jumlah kemunculan lafal ahad di Al-Ikhlas!",
+      "e": "Lafal ahad terbaca dua kali di dalam Al-Ikhlas.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan nomor surat Al-Ikhlas!",
+      "e": "Al-Ikhlas berada pada nomor 112.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan mengapa Al-Ikhlas disebut surat Makkiyah!",
+      "e": "Al-Ikhlas tergolong Makkiyah karena turun di kota Makkah. Itu sebabnya disebut surat Makkiyah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Artikan ayat terakhir Al-Ikhlas dengan kalimat sederhana!",
+      "e": "Ayat itu berarti tidak ada sesuatu pun yang sama dengan Allah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ceritakan dua kalimat tentang cara berdoa menurut Al-Ikhlas!",
+      "e": "Kita berdoa dan memohon pertolongan kepada Allah. Allah tempat meminta segala sesuatu.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apakah kita boleh menyembah selain Allah? Jawab dengan dua kalimat!",
+      "e": "Tidak boleh. Kita menyembah Allah saja karena Dia Yang Maha Esa.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga lafal dari Al-Ikhlas yang hafal kamu!",
+      "e": "Qul huwallahu ahad. Allahush shamad. Lam yalid wa lam yulad.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga arti potongan ini: ahad, shamad, yulad!",
+      "e": "Ahad berarti satu. Shamad berarti tempat meminta. Yulad berarti diperanakkan.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Daftarkan tiga hal yang tidak ada pada diri Allah menurut Al-Ikhlas!",
+      "e": "Allah tidak beranak. Allah tidak diperanakkan. Tidak ada yang setara dengan Allah.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga pesan penting dari surat Al-Ikhlas untuk anak kelas satu!",
+      "e": "Allah Maha Esa. Kita meminta pertolongan kepada-Nya. Kita berbuat baik setiap hari.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Rani hafal Al-Ikhlas dan ingin mengajarkannya. Ceritakan langkah Rani, empat baris!",
+      "e": "Rani membaca surat Al-Ikhlas perlahan. Ia mengulang ayatnya bersama teman. Rani menjelaskan bahwa Allah Maha Esa. Temannya senang belajar.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Udin ditanya guru tentang isi Al-Ikhlas. Ceritakan jawaban Udin, empat baris!",
+      "e": "Udin menjawab bahwa Al-Ikhlas menjelaskan keesaan Allah. Ia menyebut Allah tidak beranak. Udin juga berkata tidak ada yang setara. Gurunya memujinya.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Andi mendapat hadiah buku dari ayah. Ceritakan sikapnya menurut pelajaran Al-Ikhlas, empat baris!",
+      "e": "Andi mengucap alhamdulillah. Ia berterima kasih kepada ayah. Andi berdoa meminta pertolongan Allah. Ia berjanji rajin membaca Al-Qur'an.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa arti Al-Ikhlas menurut pelajaran kita?",
+      "e": "Al-Ikhlas artinya murni, yaitu memurnikan keesaan Allah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Surat Al-Ikhlas turun di mana? Jawab singkat!",
+      "e": "Al-Ikhlas turun di kota Makkah, jadi termasuk surat Makkiyah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Berapa jumlah ayat Al-Ikhlas? Jawab singkat!",
+      "e": "Jumlah ayat Al-Ikhlas ada empat.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan nama surat yang dipakai untuk meminta perlindungan!",
+      "e": "Surat Al-Falaq dipakai untuk meminta perlindungan kepada Allah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan arti kata 'falaq' dengan dua kalimat!",
+      "e": "Falaq berarti waktu subuh. Itu saat fajar mulai terang.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan dua kalimat tentang Allah Yang Maha Esa!",
+      "e": "Allah itu satu, tidak ada Tuhan selain Allah. Kita menyembah Allah saja.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan dua cara bersyukur yang bisa kamu lakukan!",
+      "e": "Aku mengucap hamdalah setiap hari. Aku menjaga nikmat Allah dengan baik.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apa bedanya Al-Ikhlas dan Al-Falaq? Tulis dua kalimat!",
+      "e": "Al-Ikhlas menjelaskan keesaan Allah. Al-Falaq berisi permohonan perlindungan.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga hal yang diajarkan Al-Ikhlas tentang Allah!",
+      "e": "Allah Maha Esa. Allah tidak beranak. Tidak ada yang setara dengan Allah.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga contoh perbuatan baik sesuai pelajaran ini!",
+      "e": "Berdoa kepada Allah. Bersyukur atas nikmat. Berkata jujur.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Daftarkan tiga isi ayat Al-Ikhlas dari ayat pertama sampai ketiga!",
+      "e": "Ayat pertama qul huwallahu ahad. Ayat kedua allahush shamad. Ayat ketiga lam yalid wa lam yulad.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga fakta Al-Falaq: artinya, nomornya, jumlah ayatnya!",
+      "e": "Artinya waktu subuh. Nomornya 113. Ayatnya ada lima.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Rizky lupa arti Al-Falaq. Ceritakan bagaimana ia bertanya dan belajar, empat baris!",
+      "e": "Rizky bertanya kepada gurunya. Gurunya menjelaskan bahwa Al-Falaq artinya subuh. Rizky mengulanginya sampai hafal. Ia senang karena tahu artinya.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Dinda melihat teman berdoa sebelum belajar. Ceritakan pelajaran yang ia ambil, empat baris!",
+      "e": "Dinda ikut berdoa sebelum belajar. Ia meminta pertolongan kepada Allah. Dinda yakin Allah menolongnya. Ia jadi lebih semangat.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Kelas satu berlatih membaca Al-Ikhlas bersama guru. Ceritakan suasannya, empat baris!",
+      "e": "Semua siswa duduk rapi. Guru membaca pelan, lalu kami mengikuti. Kami berulang sampai lancar. Alhamdulillah, kami senang.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Apa arti kata 'kufuwan' dalam ayat terakhir Al-Ikhlas?",
@@ -9806,96 +9830,6 @@ window.KUIS = [
        "Shalat"
       ],
       "e": "Rukun pertama syahadat, kedua shalat, ketiga zakat."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan arti nama Al-Quddus!",
-      "e": "Al-Quddus artinya Allah Maha Suci.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa bacaan yang dibaca sebelum makan?",
-      "e": "Sebelum makan kita membaca Basmalah, yaitu Bismillahirrahmanirrahim.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Berapa jumlah rukun Islam?",
-      "e": "Rukun Islam ada lima perkara.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu jenis zakat yang kamu tahu!",
-      "e": "Satu jenis zakat adalah zakat fitrah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan kalimat syahadat tauhid!",
-      "e": "Kalimat syahadat tauhid bunyinya asyhadu alla ilaha illallah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan arti syahadat rasul dengan kalimatmu!",
-      "e": "Syahadat rasul artinya saya bersaksi bahwa Nabi Muhammad adalah utusan Allah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis satu kalimat tentang rakaat shalat Subuh!",
-      "e": "Shalat Subuh dikerjakan dua rakaat.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apa yang kamu ucapkan setelah selesai belajar?",
-      "e": "Setelah selesai belajar saya mengucapkan Tahmid, yaitu Alhamdulillahirobbil alamin.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan lima rukun Islam!",
-      "e": "Lima rukun Islam: syahadat, shalat, zakat, puasa, haji.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga shalat yang rakaatnya empat!",
-      "e": "Tiga shalat berakaat empat: Dzuhur, Ashar, Isya.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan dua macam zakat!",
-      "e": "Dua macam zakat: zakat fitrah dan zakat maal.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan nama-nama shalat wajib!",
-      "e": "Shalat wajib: Dzuhur, Ashar, Maghrib, Isya, Subuh.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan kegiatan pagimu dengan membaca Basmalah!",
-      "e": "Pagi ini saya bangun, lalu membaca Bismillahirrahmanirrahim sebelum sarapan.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana kamu menunaikan zakat fitrah!",
-      "e": "Ibuku memberi beras, lalu kami menyerahkannya kepada orang yang tidak mampu sebelum shalat Idul Fitri.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita singkat tentang anak yang rajin shalat!",
-      "e": "Rani selalu shalat lima waktu, dan Allah memberinya pahala serta akhlak yang mulia.",
-      "baris": 4
      }
     ]
    },
@@ -10102,96 +10036,6 @@ window.KUIS = [
        "Nabi Muhammad utusan Allah"
       ],
       "e": "Syahadat tauhid artinya tiada tuhan selain Allah, syahadat rasul artinya Nabi Muhammad utusan Allah, Basmalah dibaca di awal kegiatan."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa arti Asmaul Husna?",
-      "e": "Asmaul Husna artinya nama-nama Allah yang baik.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan bacaan pembuka kegiatan!",
-      "e": "Bacaan pembuka kegiatan ialah Basmalah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan dua kota suci untuk haji!",
-      "e": "Dua kota suci untuk haji ialah Mekkah dan Madinah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Berapa rakaat shalat Maghrib?",
-      "e": "Shalat Maghrib terdiri atas tiga rakaat.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan kalimat Tahmid dengan benar!",
-      "e": "Bacaan Tahmid ialah Alhamdulillahirobbil alamin.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan mengapa Allah disebut Al-Quddus!",
-      "e": "Allah disebut Al-Quddus karena Allah Maha Suci.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat tentang balasan orang yang rajin shalat!",
-      "e": "Allah memberi pahala kepada orang yang rajin mengerjakan shalat.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apa yang dilakukan siswa sebelum memulai pelajaran?",
-      "e": "Siswa membaca Basmalah sebelum memulai pelajaran.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan bacaan-bacaan yang kamu ketahui!",
-      "e": "Bacaan yang saya tahu: Basmalah, Tahmid, syahadat tauhid, syahadat rasul.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua macam syahadat!",
-      "e": "Dua macam syahadat: syahadat tauhid dan syahadat rasul.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga hal yang dijaga dalam akhlak!",
-      "e": "Tiga hal yang dijaga: badan, lisan, hati.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis lima macam shalat wajib menurut urutannya!",
-      "e": "Shalat wajib: Subuh, Dzuhur, Ashar, Maghrib, Isya.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan hari pertamamu belajar syahadat!",
-      "e": "Hari itu saya belajar syahadat tauhid, lalu saya hafal asyhadu alla ilaha illallah.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita tentang anak yang membantu orang miskin!",
-      "e": "Aku memberi beras kepada fakir, dan ibuku memujiku karena aku menunaikan zakat.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana kamu mengakhiri kegiatan!",
-      "e": "Usai belajar saya membaca Alhamdulillahirobbil alamin sebagai Tahmid.",
-      "baris": 4
      }
     ]
    },
@@ -10398,96 +10242,6 @@ window.KUIS = [
        "berkata jujur"
       ],
       "e": "Menjaga badan dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa nama baik Allah yang artinya Maha Suci?",
-      "e": "Nama baik Allah yang artinya Maha Suci ialah Al-Quddus.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Kapan Basmalah dibaca?",
-      "e": "Basmalah dibaca di awal kegiatan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Berapa lama puasa Ramadhan dijalani?",
-      "e": "Puasa Ramadhan dijalani selama satu bulan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Ke mana orang berhaji pergi?",
-      "e": "Orang berhaji pergi ke Mekkah dan Madinah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan bunyi syahadat rasul!",
-      "e": "Bunyi syahadat rasul ialah wa asyhadu anna muhammadar rasulullah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan arti syahadat tauhid!",
-      "e": "Syahadat tauhid artinya saya bersaksi bahwa tiada tuhan selain Allah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat yang menjelaskan shalat!",
-      "e": "Shalat ialah ibadah kepada Allah yang diawali takbiratul ihram dan diakhiri salam.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apa balasan bagi orang yang menunaikan shalat?",
-      "e": "Balasannya ialah pahala atau kebaikan dari Allah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan urutan empat rukun Islam pertama!",
-      "e": "Empat rukun pertama: syahadat, shalat, zakat, puasa.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga shalat yang dikerjakan siang hingga senja!",
-      "e": "Shalat siang sampai senja: Dzuhur, Ashar, Maghrib.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua macam zakat beserta gunanya!",
-      "e": "Zakat fitrah untuk orang miskin, zakat maal dari harta yang berlebih.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga cara menjaga akhlak!",
-      "e": "Badan dijaga dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana Felix bersyahadat!",
-      "e": "Felix mengucapkan asyhadu alla ilaha illallah dan wa asyhadu anna muhammadar rasulullah.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis kisah singkat tentang berbuka puasa!",
-      "e": "Saat berbuka, aku membaca Basmalah lalu makan, dan setelahnya aku mengucapkan Tahmid.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan pengalamanmu memberi zakat!",
-      "e": "Aku menyerahkan beras zakat fitrah sebelum shalat Idul Fitri kepada tetangga yang membutuhkan.",
-      "baris": 4
      }
     ]
    },
@@ -10694,7 +10448,301 @@ window.KUIS = [
        "dibaca di awal"
       ],
       "e": "Al-Quddus artinya Allah Maha Suci, Basmalah dibaca di awal, Tahmid dibaca di akhir."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan arti nama Al-Quddus!",
+      "e": "Al-Quddus artinya Allah Maha Suci.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa bacaan yang dibaca sebelum makan?",
+      "e": "Sebelum makan kita membaca Basmalah, yaitu Bismillahirrahmanirrahim.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Berapa jumlah rukun Islam?",
+      "e": "Rukun Islam ada lima perkara.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu jenis zakat yang kamu tahu!",
+      "e": "Satu jenis zakat adalah zakat fitrah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan kalimat syahadat tauhid!",
+      "e": "Kalimat syahadat tauhid bunyinya asyhadu alla ilaha illallah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan arti syahadat rasul dengan kalimatmu!",
+      "e": "Syahadat rasul artinya saya bersaksi bahwa Nabi Muhammad adalah utusan Allah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis satu kalimat tentang rakaat shalat Subuh!",
+      "e": "Shalat Subuh dikerjakan dua rakaat.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apa yang kamu ucapkan setelah selesai belajar?",
+      "e": "Setelah selesai belajar saya mengucapkan Tahmid, yaitu Alhamdulillahirobbil alamin.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan lima rukun Islam!",
+      "e": "Lima rukun Islam: syahadat, shalat, zakat, puasa, haji.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga shalat yang rakaatnya empat!",
+      "e": "Tiga shalat berakaat empat: Dzuhur, Ashar, Isya.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan dua macam zakat!",
+      "e": "Dua macam zakat: zakat fitrah dan zakat maal.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan nama-nama shalat wajib!",
+      "e": "Shalat wajib: Dzuhur, Ashar, Maghrib, Isya, Subuh.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan kegiatan pagimu dengan membaca Basmalah!",
+      "e": "Pagi ini saya bangun, lalu membaca Bismillahirrahmanirrahim sebelum sarapan.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana kamu menunaikan zakat fitrah!",
+      "e": "Ibuku memberi beras, lalu kami menyerahkannya kepada orang yang tidak mampu sebelum shalat Idul Fitri.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita singkat tentang anak yang rajin shalat!",
+      "e": "Rani selalu shalat lima waktu, dan Allah memberinya pahala serta akhlak yang mulia.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa arti Asmaul Husna?",
+      "e": "Asmaul Husna artinya nama-nama Allah yang baik.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan bacaan pembuka kegiatan!",
+      "e": "Bacaan pembuka kegiatan ialah Basmalah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan dua kota suci untuk haji!",
+      "e": "Dua kota suci untuk haji ialah Mekkah dan Madinah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Berapa rakaat shalat Maghrib?",
+      "e": "Shalat Maghrib terdiri atas tiga rakaat.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan kalimat Tahmid dengan benar!",
+      "e": "Bacaan Tahmid ialah Alhamdulillahirobbil alamin.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan mengapa Allah disebut Al-Quddus!",
+      "e": "Allah disebut Al-Quddus karena Allah Maha Suci.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat tentang balasan orang yang rajin shalat!",
+      "e": "Allah memberi pahala kepada orang yang rajin mengerjakan shalat.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apa yang dilakukan siswa sebelum memulai pelajaran?",
+      "e": "Siswa membaca Basmalah sebelum memulai pelajaran.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan bacaan-bacaan yang kamu ketahui!",
+      "e": "Bacaan yang saya tahu: Basmalah, Tahmid, syahadat tauhid, syahadat rasul.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua macam syahadat!",
+      "e": "Dua macam syahadat: syahadat tauhid dan syahadat rasul.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga hal yang dijaga dalam akhlak!",
+      "e": "Tiga hal yang dijaga: badan, lisan, hati.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis lima macam shalat wajib menurut urutannya!",
+      "e": "Shalat wajib: Subuh, Dzuhur, Ashar, Maghrib, Isya.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan hari pertamamu belajar syahadat!",
+      "e": "Hari itu saya belajar syahadat tauhid, lalu saya hafal asyhadu alla ilaha illallah.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita tentang anak yang membantu orang miskin!",
+      "e": "Aku memberi beras kepada fakir, dan ibuku memujiku karena aku menunaikan zakat.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana kamu mengakhiri kegiatan!",
+      "e": "Usai belajar saya membaca Alhamdulillahirobbil alamin sebagai Tahmid.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa nama baik Allah yang artinya Maha Suci?",
+      "e": "Nama baik Allah yang artinya Maha Suci ialah Al-Quddus.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Kapan Basmalah dibaca?",
+      "e": "Basmalah dibaca di awal kegiatan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Berapa lama puasa Ramadhan dijalani?",
+      "e": "Puasa Ramadhan dijalani selama satu bulan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Ke mana orang berhaji pergi?",
+      "e": "Orang berhaji pergi ke Mekkah dan Madinah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan bunyi syahadat rasul!",
+      "e": "Bunyi syahadat rasul ialah wa asyhadu anna muhammadar rasulullah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan arti syahadat tauhid!",
+      "e": "Syahadat tauhid artinya saya bersaksi bahwa tiada tuhan selain Allah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat yang menjelaskan shalat!",
+      "e": "Shalat ialah ibadah kepada Allah yang diawali takbiratul ihram dan diakhiri salam.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apa balasan bagi orang yang menunaikan shalat?",
+      "e": "Balasannya ialah pahala atau kebaikan dari Allah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan urutan empat rukun Islam pertama!",
+      "e": "Empat rukun pertama: syahadat, shalat, zakat, puasa.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga shalat yang dikerjakan siang hingga senja!",
+      "e": "Shalat siang sampai senja: Dzuhur, Ashar, Maghrib.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua macam zakat beserta gunanya!",
+      "e": "Zakat fitrah untuk orang miskin, zakat maal dari harta yang berlebih.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga cara menjaga akhlak!",
+      "e": "Badan dijaga dengan mandi, lisan dengan berkata jujur, hati dengan tidak dengki.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana Felix bersyahadat!",
+      "e": "Felix mengucapkan asyhadu alla ilaha illallah dan wa asyhadu anna muhammadar rasulullah.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis kisah singkat tentang berbuka puasa!",
+      "e": "Saat berbuka, aku membaca Basmalah lalu makan, dan setelahnya aku mengucapkan Tahmid.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan pengalamanmu memberi zakat!",
+      "e": "Aku menyerahkan beras zakat fitrah sebelum shalat Idul Fitri kepada tetangga yang membutuhkan.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Sebutkan pengertian Asmaul Husna!",
@@ -11005,96 +11053,6 @@ window.KUIS = [
        "tanggung jawab"
       ],
       "e": "Tugas dikerjakan sendiri berarti tanggung jawab, waktu tidur ditepati berarti disiplin, bicara pelan berarti sopan."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa sebutan untuk janji bersama yang dibuat ayah dan ibu sebelum dipakai di rumah?",
-      "e": "Janji bersama itu disebut kesepakatan keluarga.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Mengapa piring kotor perlu dicuci segera setelah makan?",
-      "e": "Piring dicuci agar tidak kotor dan besok bisa dipakai lagi.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Siapa yang memberi contoh lebih dulu saat aturan baru mulai dijalankan?",
-      "e": "Ayah dan ibu memberi contoh lebih dulu.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa yang kamu ucapkan ketika kakak lupa mematikan kipas?",
-      "e": "Aku mengucapkan, Kak, tolong matikan kipasnya, ya.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan dengan satu kalimat mengapa rumah terasa tenang bila semua patuh!",
-      "e": "Rumah terasa tenang karena semua orang melakukan kesepakatan dengan tertib.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan satu kalimat tentang cara menyiapkan tas sebelum tidur!",
-      "e": "Sebelum tidur, tas dan buku sudah kusiapkan di dekat pintu.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Rangkaikan kalimat singkat tentang meminta izin sebelum bermain di halaman!",
-      "e": "Ibu, boleh aku bermain di halaman sebentar?",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buatlah kalimat ramah untuk mengajak adik menyimpan mainan!",
-      "e": "Adik, yuk simpan mobil-mobilan di kotaknya sekarang.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga kebiasaan pagi yang sesuai aturan di rumahmu!",
-      "e": "Bangun tepat waktu, merapikan tempat tidur, dan menyisir rambut.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua contoh sikap tanggung jawab saat menyimpan sepatu!",
-      "e": "Sepatu disimpan di rak dan solnya dibersihkan dulu.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan dua cara menjaga lantai tetap bersih setelah bermain!",
-      "e": "Mainan masuk kotak, dan remah kertas kupungut lalu kubuang.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan dua kalimat sopan untuk menolak ajakan bermain saat belajar!",
-      "e": "Terima kasih, aku sedang belajar. Nanti saja ya, setelah selesai.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana kamu membantu ibu merapikan dapur setelah makan!",
-      "e": "Aku mengangkat piring ke wastafel dan menyapu lantai dapur bersama ibu.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita singkat tentang adik yang menepati janji tidur pukul delapan!",
-      "e": "Adik mematikan televisi tepat pukul delapan, lalu menyimpan bukunya dan tidur.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan apa yang terjadi bila kunci rumah diletakkan sembarangan!",
-      "e": "Kunci hilang dan kami kesulitan membuka pintu, jadi kini kunci disimpan di laci.",
-      "baris": 4
      }
     ]
    },
@@ -11301,96 +11259,6 @@ window.KUIS = [
        "selesai bermain"
       ],
       "e": "Pengingat dirapikan disampaikan usai bermain, pengingat tidur disampaikan menjelang tidur, pengingat belajar disampaikan saat televisi menyala."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa gunanya jadwal yang ditempel di dinding kamar?",
-      "e": "Jadwal mengingatkan kami kapan harus belajar dan kapan tidur.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu alasan mengapa sendok harus dikembalikan ke laci!",
-      "e": "Sendok mudah dicari lagi bila disimpan di laci.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Namakan sikap yang tampak saat kamu menyelesaikan tugas tanpa disuruh!",
-      "e": "Sikap itu bernama tanggung jawab.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Kapan sebaiknya kamu mematikan lampu kamar?",
-      "e": "Lampu dimatikan saat tidak dipakai lagi, misalnya sebelum tidur.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Susun satu kalimat yang menjelaskan arti aman di rumah!",
-      "e": "Rumah terasa aman bila kami berjalan perlahan dan tidak berlari.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan kalimat pengingat untuk ayah yang sedang membaca koran!",
-      "e": "Ayah, sebentar lagi jam belajar, ya, korannya ditutup dulu.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ubah kalimat ini agar lebih sopan: Beri aku sendok!",
-      "e": "Tolong beri aku sendok, ya, Kak.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buatlah satu kalimat tentang menjaga titipan teman dengan baik!",
-      "e": "Buku titipan Adi kusimpan di laci agar tidak hilang.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga benda yang perlu disimpan sebelum tidur!",
-      "e": "Buku, tas, dan kaus kaki disimpan di tempatnya masing-masing.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua aturan saat memakai kompor di dapur!",
-      "e": "Jangan bermain dekat kompor dan minta izin sebelum menyalakannya.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan dua contoh penggunaan waktu dengan bijak di rumah!",
-      "e": "Belajar tepat jamnya dan berhenti bermain saat waktunya selesai.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua kalimat lembut untuk mengingatkan kakak yang berteriak!",
-      "e": "Kak, suaranya pelan ya. Aku lebih nyaman begini.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan kejadian ketika kamu terlambat bangun dan apa yang kamu lakukan!",
-      "e": "Aku terlambat bangun, lalu segera merapikan tempat tidur dan bergegas belajar.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita tentang ayah yang mematuhi jadwal keluarga!",
-      "e": "Ayah mematikan televisi tepat jamnya, lalu mengajak kami membaca bersama.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana kamu memperbaiki kesalahan setelah memecahkan gelas!",
-      "e": "Aku mengakui kesalahan, minta maaf, lalu menyapu pecahannya bersama ibu.",
-      "baris": 4
      }
     ]
    },
@@ -11597,96 +11465,6 @@ window.KUIS = [
        "memungut dan membuang ke tempatnya"
       ],
       "e": "Mainan yang lupa dirapikan dikembalikan, sampah dipungut lalu dibuang ke tempatnya, berteriak diikuti maaf dan suara pelan."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa sebabnya setiap rumah punya aturan berbeda-beda?",
-      "e": "Karena kebutuhan tiap keluarga tidak sama.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu manfaat membuang sampah ke tempatnya!",
-      "e": "Lantai tetap bersih dan rumah tidak bau.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu alasan mengapa kita tidak boleh berteriak di rumah!",
-      "e": "Berteriak membuat orang lain kaget dan tidak nyaman.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa yang bisa kamu lakukan bila lupa waktu bermain?",
-      "e": "Aku segera berhenti dan membereskan mainan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis satu kalimat yang menunjukkan sikap rukun di rumah!",
-      "e": "Kami bergiliran menyimpan buku agar tidak ada yang bertengkar.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Apa arti disiplin? Tulis penjelasanmu!",
-      "e": "Disiplin berarti kegiatan dilakukan tepat pada jamnya.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Susun kalimat tentang teladan ibu saat merapikan meja makan!",
-      "e": "Ibu meletakkan piring di rak lebih dulu, lalu aku menirunya.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buatlah kalimat ramah bila kamu ingin meminjam pensil kakak!",
-      "e": "Kak, boleh aku meminjam pensilmu sebentar?",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga kegiatan sebelum tidur yang menurut aturan rumahmu!",
-      "e": "Menyimpan tas, mematikan lampu, dan berdoa.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua cara menjaga kebersihan di meja belajar!",
-      "e": "Meja kusap dengan kain dan buku kutumpuk rapi.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan dua sikap yang membuat keluarga menjadi rukun!",
-      "e": "Saling mendengarkan dan bergiliran memakai barang.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan dua janji yang bisa kamu buat setelah melanggar aturan!",
-      "e": "Aku berjanji tidak mengulanginya dan akan membereskan kembali.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan saat kamu menolong ibu menyapu halaman!",
-      "e": "Aku mengambil sapu dan menyapu daun kering di halaman depan.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita pendek tentang anak yang bangun tepat waktu!",
-      "e": "Rani bangun saat alarm berbunyi, lalu merapikan selimutnya sendiri.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana kamu mengingatkan adik dengan lembut!",
-      "e": "Aku menepuk bahunya dan berkata, Yuk, simpan mainannya, Adik.",
-      "baris": 4
      }
     ]
    },
@@ -11893,7 +11671,301 @@ window.KUIS = [
        "setelah bangun pagi"
       ],
       "e": "Tempat tidur dirapikan setelah bangun pagi, televisi dimatikan saat belajar, sampah dibuang ke tempat sampah."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa sebutan untuk janji bersama yang dibuat ayah dan ibu sebelum dipakai di rumah?",
+      "e": "Janji bersama itu disebut kesepakatan keluarga.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Mengapa piring kotor perlu dicuci segera setelah makan?",
+      "e": "Piring dicuci agar tidak kotor dan besok bisa dipakai lagi.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Siapa yang memberi contoh lebih dulu saat aturan baru mulai dijalankan?",
+      "e": "Ayah dan ibu memberi contoh lebih dulu.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa yang kamu ucapkan ketika kakak lupa mematikan kipas?",
+      "e": "Aku mengucapkan, Kak, tolong matikan kipasnya, ya.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan dengan satu kalimat mengapa rumah terasa tenang bila semua patuh!",
+      "e": "Rumah terasa tenang karena semua orang melakukan kesepakatan dengan tertib.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan satu kalimat tentang cara menyiapkan tas sebelum tidur!",
+      "e": "Sebelum tidur, tas dan buku sudah kusiapkan di dekat pintu.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Rangkaikan kalimat singkat tentang meminta izin sebelum bermain di halaman!",
+      "e": "Ibu, boleh aku bermain di halaman sebentar?",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buatlah kalimat ramah untuk mengajak adik menyimpan mainan!",
+      "e": "Adik, yuk simpan mobil-mobilan di kotaknya sekarang.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga kebiasaan pagi yang sesuai aturan di rumahmu!",
+      "e": "Bangun tepat waktu, merapikan tempat tidur, dan menyisir rambut.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua contoh sikap tanggung jawab saat menyimpan sepatu!",
+      "e": "Sepatu disimpan di rak dan solnya dibersihkan dulu.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan dua cara menjaga lantai tetap bersih setelah bermain!",
+      "e": "Mainan masuk kotak, dan remah kertas kupungut lalu kubuang.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan dua kalimat sopan untuk menolak ajakan bermain saat belajar!",
+      "e": "Terima kasih, aku sedang belajar. Nanti saja ya, setelah selesai.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana kamu membantu ibu merapikan dapur setelah makan!",
+      "e": "Aku mengangkat piring ke wastafel dan menyapu lantai dapur bersama ibu.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita singkat tentang adik yang menepati janji tidur pukul delapan!",
+      "e": "Adik mematikan televisi tepat pukul delapan, lalu menyimpan bukunya dan tidur.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan apa yang terjadi bila kunci rumah diletakkan sembarangan!",
+      "e": "Kunci hilang dan kami kesulitan membuka pintu, jadi kini kunci disimpan di laci.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa gunanya jadwal yang ditempel di dinding kamar?",
+      "e": "Jadwal mengingatkan kami kapan harus belajar dan kapan tidur.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu alasan mengapa sendok harus dikembalikan ke laci!",
+      "e": "Sendok mudah dicari lagi bila disimpan di laci.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Namakan sikap yang tampak saat kamu menyelesaikan tugas tanpa disuruh!",
+      "e": "Sikap itu bernama tanggung jawab.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Kapan sebaiknya kamu mematikan lampu kamar?",
+      "e": "Lampu dimatikan saat tidak dipakai lagi, misalnya sebelum tidur.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Susun satu kalimat yang menjelaskan arti aman di rumah!",
+      "e": "Rumah terasa aman bila kami berjalan perlahan dan tidak berlari.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan kalimat pengingat untuk ayah yang sedang membaca koran!",
+      "e": "Ayah, sebentar lagi jam belajar, ya, korannya ditutup dulu.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ubah kalimat ini agar lebih sopan: Beri aku sendok!",
+      "e": "Tolong beri aku sendok, ya, Kak.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buatlah satu kalimat tentang menjaga titipan teman dengan baik!",
+      "e": "Buku titipan Adi kusimpan di laci agar tidak hilang.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga benda yang perlu disimpan sebelum tidur!",
+      "e": "Buku, tas, dan kaus kaki disimpan di tempatnya masing-masing.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua aturan saat memakai kompor di dapur!",
+      "e": "Jangan bermain dekat kompor dan minta izin sebelum menyalakannya.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan dua contoh penggunaan waktu dengan bijak di rumah!",
+      "e": "Belajar tepat jamnya dan berhenti bermain saat waktunya selesai.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua kalimat lembut untuk mengingatkan kakak yang berteriak!",
+      "e": "Kak, suaranya pelan ya. Aku lebih nyaman begini.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan kejadian ketika kamu terlambat bangun dan apa yang kamu lakukan!",
+      "e": "Aku terlambat bangun, lalu segera merapikan tempat tidur dan bergegas belajar.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita tentang ayah yang mematuhi jadwal keluarga!",
+      "e": "Ayah mematikan televisi tepat jamnya, lalu mengajak kami membaca bersama.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana kamu memperbaiki kesalahan setelah memecahkan gelas!",
+      "e": "Aku mengakui kesalahan, minta maaf, lalu menyapu pecahannya bersama ibu.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa sebabnya setiap rumah punya aturan berbeda-beda?",
+      "e": "Karena kebutuhan tiap keluarga tidak sama.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu manfaat membuang sampah ke tempatnya!",
+      "e": "Lantai tetap bersih dan rumah tidak bau.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu alasan mengapa kita tidak boleh berteriak di rumah!",
+      "e": "Berteriak membuat orang lain kaget dan tidak nyaman.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa yang bisa kamu lakukan bila lupa waktu bermain?",
+      "e": "Aku segera berhenti dan membereskan mainan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis satu kalimat yang menunjukkan sikap rukun di rumah!",
+      "e": "Kami bergiliran menyimpan buku agar tidak ada yang bertengkar.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Apa arti disiplin? Tulis penjelasanmu!",
+      "e": "Disiplin berarti kegiatan dilakukan tepat pada jamnya.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Susun kalimat tentang teladan ibu saat merapikan meja makan!",
+      "e": "Ibu meletakkan piring di rak lebih dulu, lalu aku menirunya.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buatlah kalimat ramah bila kamu ingin meminjam pensil kakak!",
+      "e": "Kak, boleh aku meminjam pensilmu sebentar?",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga kegiatan sebelum tidur yang menurut aturan rumahmu!",
+      "e": "Menyimpan tas, mematikan lampu, dan berdoa.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua cara menjaga kebersihan di meja belajar!",
+      "e": "Meja kusap dengan kain dan buku kutumpuk rapi.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan dua sikap yang membuat keluarga menjadi rukun!",
+      "e": "Saling mendengarkan dan bergiliran memakai barang.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan dua janji yang bisa kamu buat setelah melanggar aturan!",
+      "e": "Aku berjanji tidak mengulanginya dan akan membereskan kembali.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan saat kamu menolong ibu menyapu halaman!",
+      "e": "Aku mengambil sapu dan menyapu daun kering di halaman depan.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita pendek tentang anak yang bangun tepat waktu!",
+      "e": "Rani bangun saat alarm berbunyi, lalu merapikan selimutnya sendiri.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana kamu mengingatkan adik dengan lembut!",
+      "e": "Aku menepuk bahunya dan berkata, Yuk, simpan mainannya, Adik.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Apa sebutan untuk orang yang memberi contoh perilaku baik?",
@@ -12204,96 +12276,6 @@ window.KUIS = [
        "gawang"
       ],
       "e": "Sepak bola memakai gawang, bola basket memakai ring, bulu tangkis memakai net."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa yang dimaksud bola yang tidak bisa digenggam satu tangan?",
-      "e": "Itu disebut bola besar, misalnya bola basket dan bola voli.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu contoh bola kecil yang dipakai dalam permainan kasti!",
-      "e": "Bola kasti memakai bola tenis yang muat digenggam satu tangan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Bagaimana arah lemparan bola mendatar?",
-      "e": "Lemparan mendatar arahnya sejajar dengan dada.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Alat apa yang dipakai untuk memukul bola dalam kasti?",
-      "e": "Pemukul bola kasti disebut tongkat pemukul.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan dengan satu kalimat mengapa kita perlu pemanasan sebelum latihan bola!",
-      "e": "Pemanasan membuat otot tubuh siap bergerak sebelum latihan bola dimulai.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis satu kalimat yang menjelaskan cara menangkap bola melambung!",
-      "e": "Saat menangkap bola melambung, mata harus menatap arah datangnya bola.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Rangkai kalimat singkat tentang kegunaan tongkat pemukul dalam kasti!",
-      "e": "Tongkat pemukul dipakai untuk memukul bola tenis dalam permainan kasti.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buatlah satu kalimat tentang manfaat pendinginan setelah olahraga!",
-      "e": "Pendinginan setelah olahraga menenangkan tubuh dan memperlambat napas.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga contoh bola besar yang biasa dipakai berolahraga!",
-      "e": "Bola basket, bola voli, dan bola sepak termasuk contoh bola besar.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan empat teknik melempar dan menangkap bola yang dipelajari!",
-      "e": "Empat tekniknya adalah mendatar, ke bawah, melambung, dan menggelinding.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan alat-alat yang diperlukan untuk bermain kasti!",
-      "e": "Alat kasti adalah bola tenis dan tongkat pemukul.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Daftarkan tiga contoh bola kecil selain bola tenis!",
-      "e": "Bola pingpong, satel kock, dan bola kasti adalah contoh bola kecil.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritalah pengalaman Andi yang berlatih menendang bola ke dinding!",
-      "e": "Andi menendang bola ke dinding lalu menghentikan bola yang memantul kembali.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita singkat tentang dua teman yang bekerja sama bermain bola!",
-      "e": "Dua teman saling melempar dan menangkap bola sambil tertawa gembira.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Buatlah cerita pendek tentang bermain bola di lapangan yang aman!",
-      "e": "Anak-anak bermain bola di lapangan lapang sehingga tidak menabrak benda.",
-      "baris": 4
      }
     ]
    },
@@ -12500,96 +12482,6 @@ window.KUIS = [
        "sejajar dada"
       ],
       "e": "Menangkap bola melambung dengan mata menatap bola, menangkap bola mendatar sejajar dada, menangkap bola menggelinding dekat lantai."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Seperti apa ciri-ciri bola kecil?",
-      "e": "Bola kecil berukuran sedang sehingga bisa digenggam satu tangan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu olahraga yang memakai bola besar!",
-      "e": "Sepak bola memakai bola besar yang tidak muat digenggam satu tangan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Ke mana arah bola saat kita melakukan lemparan menggelinding?",
-      "e": "Bola menggelinding menyusur lantai dengan arah dekat permukaan lantai.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Nama pemukul apa yang dipakai pemain kasti?",
-      "e": "Pemain kasti memakai tongkat pemukul untuk memukul bola.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan satu kalimat sebab kita perlu melakukan pendinginan usai latihan!",
-      "e": "Pendinginan usai latihan membuat denyut jantung kembali tenang.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan kalimat yang menerangkan arah pandangan mata waktu menangkap bola!",
-      "e": "Mata hendaknya mengikuti arah datang bola agar tangkapan tidak meleset.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat singkat yang membedakan pemanasan dan pendinginan!",
-      "e": "Pemanasan dilakukan sebelum olahraga, pendinginan dilakukan sesudahnya.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Susun satu kalimat tentang cara menghentikan bola dengan telapak kaki!",
-      "e": "Telapak kaki dipakai untuk menghentikan bola yang datang ke arah kita.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga contoh bola kecil yang sering dipakai di sekolah!",
-      "e": "Bola kasti, bola tenis, dan bola pingpong sering dipakai di sekolah.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan empat macam lemparan bola beserta arah gerakannya!",
-      "e": "Empat macam lemparan: mendatar, ke bawah, melambung, dan menggelinding.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Daftarlah peralatan yang dibutuhkan saat bermain bola kasti!",
-      "e": "Peralatan kasti meliputi bola tenis dan tongkat pemukul.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga macam bola besar yang biasa dipakai dalam latihan!",
-      "e": "Bola basket, bola voli, dan bola sepak biasa dipakai dalam latihan.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis kisah singkat tentang anak yang berlatih menendang memakai dinding!",
-      "e": "Setiap sore anak itu menendang bola ke dinding dan menangkap pantulannya.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan kejadian ketika dua sahabat saling melempar bola dengan riang!",
-      "e": "Kedua sahabat itu bergantian melempar bola sambil tertawa riang.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Buat cerita pendek yang mengajarkan bermain bola tanpa mendorong teman!",
-      "e": "Mereka bermain bola dengan tertib dan tidak mendorong teman yang berdiri.",
-      "baris": 4
      }
     ]
    },
@@ -12796,96 +12688,6 @@ window.KUIS = [
        "bulu tangkis"
       ],
       "e": "Raket dipakai bulu tangkis, tongkat pemukul dipakai kasti, gawang dipakai sepak bola."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apakah bola sepak termasuk bola besar? Jawab singkat!",
-      "e": "Ya, bola sepak termasuk bola besar karena ukurannya besar.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan bola kecil yang dipakai untuk permainan tenis meja!",
-      "e": "Tenis meja memakai bola pingpong yang termasuk bola kecil.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Bagaimana gerakan tangan saat melempar bola melambung?",
-      "e": "Tangan diayunkan dari atas ke depan sehingga bola melambung ke udara.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan alat utama yang dipakai pemain bulu tangkis!",
-      "e": "Pemain bulu tangkis memakai raket untuk memukul kok.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan dalam satu kalimat cara berlatih menendang ke dinding!",
-      "e": "Kita berlatih menendang bola ke dinding lalu menghentikan bola yang memantul.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tuliskan kalimat yang menjelaskan akibat memejamkan mata saat menangkap!",
-      "e": "Mata yang terpejam membuat bola sulit ditangkap dengan benar.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buatlah kalimat yang membandingkan lemparan mendatar dan melambung!",
-      "e": "Lemparan mendatar sejajar dada, sedangkan lemparan melambung melalui udara.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Susun kalimat tentang manfaat kerja sama saat bermain bola bersama teman!",
-      "e": "Kerja sama membuat permainan bola lebih menyenangkan dan tertib.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga contoh bola berukuran besar!",
-      "e": "Bola basket, bola voli, dan bola sepak dipakai dalam permainan bola besar.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan empat cara menangkap bola sesuai arah datangnya!",
-      "e": "Empat cara menangkap: mendatar, ke bawah, melambung, dan menggelinding.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan dua alat yang dipakai dalam permainan kasti!",
-      "e": "Alat kasti itu bola tenis dan tongkat pemukul.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Daftarkan tiga olahraga yang memakai bola kecil!",
-      "e": "Kasti, tenis meja, dan bulu tangkis memakai bola kecil.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritalah kisah Budi yang berlatih menghentikan bola yang memantul!",
-      "e": "Budi menghentikan bola yang memantul dari dinding dengan telapak kaki.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita singkat tentang anak yang saling mengoper bola dengan rapi!",
-      "e": "Anak-anak saling mengoper bola dengan rapi sambil berteriak senang.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Buatlah cerita tentang bermain bola di halaman yang tidak berbahaya!",
-      "e": "Mereka bermain di halaman yang lapang dan jauh dari jalan raya.",
-      "baris": 4
      }
     ]
    },
@@ -13092,7 +12894,301 @@ window.KUIS = [
        "bola besar"
       ],
       "e": "Sepak bola memakai bola besar, tenis meja memakai bola pingpong, kasti memakai bola tenis."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa yang dimaksud bola yang tidak bisa digenggam satu tangan?",
+      "e": "Itu disebut bola besar, misalnya bola basket dan bola voli.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu contoh bola kecil yang dipakai dalam permainan kasti!",
+      "e": "Bola kasti memakai bola tenis yang muat digenggam satu tangan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Bagaimana arah lemparan bola mendatar?",
+      "e": "Lemparan mendatar arahnya sejajar dengan dada.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Alat apa yang dipakai untuk memukul bola dalam kasti?",
+      "e": "Pemukul bola kasti disebut tongkat pemukul.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan dengan satu kalimat mengapa kita perlu pemanasan sebelum latihan bola!",
+      "e": "Pemanasan membuat otot tubuh siap bergerak sebelum latihan bola dimulai.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis satu kalimat yang menjelaskan cara menangkap bola melambung!",
+      "e": "Saat menangkap bola melambung, mata harus menatap arah datangnya bola.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Rangkai kalimat singkat tentang kegunaan tongkat pemukul dalam kasti!",
+      "e": "Tongkat pemukul dipakai untuk memukul bola tenis dalam permainan kasti.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buatlah satu kalimat tentang manfaat pendinginan setelah olahraga!",
+      "e": "Pendinginan setelah olahraga menenangkan tubuh dan memperlambat napas.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga contoh bola besar yang biasa dipakai berolahraga!",
+      "e": "Bola basket, bola voli, dan bola sepak termasuk contoh bola besar.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan empat teknik melempar dan menangkap bola yang dipelajari!",
+      "e": "Empat tekniknya adalah mendatar, ke bawah, melambung, dan menggelinding.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan alat-alat yang diperlukan untuk bermain kasti!",
+      "e": "Alat kasti adalah bola tenis dan tongkat pemukul.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Daftarkan tiga contoh bola kecil selain bola tenis!",
+      "e": "Bola pingpong, satel kock, dan bola kasti adalah contoh bola kecil.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritalah pengalaman Andi yang berlatih menendang bola ke dinding!",
+      "e": "Andi menendang bola ke dinding lalu menghentikan bola yang memantul kembali.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita singkat tentang dua teman yang bekerja sama bermain bola!",
+      "e": "Dua teman saling melempar dan menangkap bola sambil tertawa gembira.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Buatlah cerita pendek tentang bermain bola di lapangan yang aman!",
+      "e": "Anak-anak bermain bola di lapangan lapang sehingga tidak menabrak benda.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Seperti apa ciri-ciri bola kecil?",
+      "e": "Bola kecil berukuran sedang sehingga bisa digenggam satu tangan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu olahraga yang memakai bola besar!",
+      "e": "Sepak bola memakai bola besar yang tidak muat digenggam satu tangan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Ke mana arah bola saat kita melakukan lemparan menggelinding?",
+      "e": "Bola menggelinding menyusur lantai dengan arah dekat permukaan lantai.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Nama pemukul apa yang dipakai pemain kasti?",
+      "e": "Pemain kasti memakai tongkat pemukul untuk memukul bola.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan satu kalimat sebab kita perlu melakukan pendinginan usai latihan!",
+      "e": "Pendinginan usai latihan membuat denyut jantung kembali tenang.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan kalimat yang menerangkan arah pandangan mata waktu menangkap bola!",
+      "e": "Mata hendaknya mengikuti arah datang bola agar tangkapan tidak meleset.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat singkat yang membedakan pemanasan dan pendinginan!",
+      "e": "Pemanasan dilakukan sebelum olahraga, pendinginan dilakukan sesudahnya.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Susun satu kalimat tentang cara menghentikan bola dengan telapak kaki!",
+      "e": "Telapak kaki dipakai untuk menghentikan bola yang datang ke arah kita.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga contoh bola kecil yang sering dipakai di sekolah!",
+      "e": "Bola kasti, bola tenis, dan bola pingpong sering dipakai di sekolah.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan empat macam lemparan bola beserta arah gerakannya!",
+      "e": "Empat macam lemparan: mendatar, ke bawah, melambung, dan menggelinding.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Daftarlah peralatan yang dibutuhkan saat bermain bola kasti!",
+      "e": "Peralatan kasti meliputi bola tenis dan tongkat pemukul.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga macam bola besar yang biasa dipakai dalam latihan!",
+      "e": "Bola basket, bola voli, dan bola sepak biasa dipakai dalam latihan.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis kisah singkat tentang anak yang berlatih menendang memakai dinding!",
+      "e": "Setiap sore anak itu menendang bola ke dinding dan menangkap pantulannya.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan kejadian ketika dua sahabat saling melempar bola dengan riang!",
+      "e": "Kedua sahabat itu bergantian melempar bola sambil tertawa riang.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Buat cerita pendek yang mengajarkan bermain bola tanpa mendorong teman!",
+      "e": "Mereka bermain bola dengan tertib dan tidak mendorong teman yang berdiri.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Apakah bola sepak termasuk bola besar? Jawab singkat!",
+      "e": "Ya, bola sepak termasuk bola besar karena ukurannya besar.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan bola kecil yang dipakai untuk permainan tenis meja!",
+      "e": "Tenis meja memakai bola pingpong yang termasuk bola kecil.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Bagaimana gerakan tangan saat melempar bola melambung?",
+      "e": "Tangan diayunkan dari atas ke depan sehingga bola melambung ke udara.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan alat utama yang dipakai pemain bulu tangkis!",
+      "e": "Pemain bulu tangkis memakai raket untuk memukul kok.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan dalam satu kalimat cara berlatih menendang ke dinding!",
+      "e": "Kita berlatih menendang bola ke dinding lalu menghentikan bola yang memantul.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tuliskan kalimat yang menjelaskan akibat memejamkan mata saat menangkap!",
+      "e": "Mata yang terpejam membuat bola sulit ditangkap dengan benar.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buatlah kalimat yang membandingkan lemparan mendatar dan melambung!",
+      "e": "Lemparan mendatar sejajar dada, sedangkan lemparan melambung melalui udara.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Susun kalimat tentang manfaat kerja sama saat bermain bola bersama teman!",
+      "e": "Kerja sama membuat permainan bola lebih menyenangkan dan tertib.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga contoh bola berukuran besar!",
+      "e": "Bola basket, bola voli, dan bola sepak dipakai dalam permainan bola besar.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan empat cara menangkap bola sesuai arah datangnya!",
+      "e": "Empat cara menangkap: mendatar, ke bawah, melambung, dan menggelinding.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan dua alat yang dipakai dalam permainan kasti!",
+      "e": "Alat kasti itu bola tenis dan tongkat pemukul.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Daftarkan tiga olahraga yang memakai bola kecil!",
+      "e": "Kasti, tenis meja, dan bulu tangkis memakai bola kecil.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritalah kisah Budi yang berlatih menghentikan bola yang memantul!",
+      "e": "Budi menghentikan bola yang memantul dari dinding dengan telapak kaki.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita singkat tentang anak yang saling mengoper bola dengan rapi!",
+      "e": "Anak-anak saling mengoper bola dengan rapi sambil berteriak senang.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Buatlah cerita tentang bermain bola di halaman yang tidak berbahaya!",
+      "e": "Mereka bermain di halaman yang lapang dan jauh dari jalan raya.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Apakah bola basket bisa digenggam satu tangan? Jawab singkat!",
@@ -13403,96 +13499,6 @@ window.KUIS = [
        "uses pictures"
       ],
       "e": "A pictogram uses pictures, a block graph uses bars, and Venn uses two circles."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "At sunrise, animals begin to wake. Which part of the day is this?",
-      "e": "It is morning.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "A clock has two hands. Say the name of the shorter one.",
-      "e": "The hour hand.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "In a Venn diagram, where do you write a thing that fits both groups?",
-      "e": "In the middle overlap.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Write the ordinal word that matches the number ten.",
-      "e": "Tenth.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "The kite is above the tree. Finish this sentence: The tree is ... the kite.",
-      "e": "The tree is below the kite.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ben has six marbles and Ana has six marbles. Complete: Their counts are ...",
-      "e": "Their counts are equal.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "The short hand points at eight and the long hand points at twelve. Write the time in a sentence.",
-      "e": "It is eight o'clock.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Monday comes before Tuesday. Add one more sentence about these two days.",
-      "e": "Tuesday comes after Monday.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List three position words that tell where one thing is next to another.",
-      "e": "Beside, next to, between.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name two kinds of charts that use pictures or blocks to show counts.",
-      "e": "Pictogram and block graph.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write the names of three months that start with the letter D, J, and M.",
-      "e": "December, January, March.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give four words for parts of the day, from sunrise to bedtime.",
-      "e": "Morning, afternoon, evening, night.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A puppy hides under a sofa. Tell a short story about how a child finds it.",
-      "e": "The child looks down and sees the puppy under the sofa.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Write a tiny story using the words yesterday and tomorrow, and name what happened on each day.",
-      "e": "Yesterday I planted a seed. Tomorrow I will water it.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Make a short story about a shell chart where one row has the most shells and another has the fewest.",
-      "e": "The blue row has the most shells. The red row has the fewest.",
-      "baris": 3
      }
     ]
    },
@@ -13699,96 +13705,6 @@ window.KUIS = [
        "greater in number"
       ],
       "e": "More than means greater in number. Fewer than means smaller in number. Equal means the same in number."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "What do we call the hand that moves fastest on a clock?",
-      "e": "The long hand, or minute hand.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "In a race, Ana came in 2nd. Write the full ordinal word.",
-      "e": "Second.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Which diagram uses two circles to sort things?",
-      "e": "A Venn diagram.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "What word means the same as 'under'?",
-      "e": "Below.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "A bird sits on the roof. Complete: The roof is ... the bird.",
-      "e": "The roof is under the bird.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Sam has three stickers. Lia has five stickers. Finish: Sam has ... stickers than Lia.",
-      "e": "Sam has fewer stickers than Lia.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Minute hand at 12, hour hand at 3. Say the hour out loud.",
-      "e": "It is three o'clock.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Today is Friday. Write one sentence about tomorrow.",
-      "e": "Tomorrow will be Saturday.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name three months that have thirty days.",
-      "e": "April, June, September.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Which three things can a block graph show about a group of toys?",
-      "e": "The count of each toy, the most, and the fewest.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write three words for things we do in the morning.",
-      "e": "Wake up, brush teeth, eat breakfast.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give four ordinal words for the first four runners in a race.",
-      "e": "First, second, third, fourth.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A cat naps beside a warm stove. Tell a short tale about the cat and a mouse.",
-      "e": "The cat sleeps by the stove while the mouse runs past.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Write a little story about a clock that stops, and say what time it showed.",
-      "e": "The clock stopped at six o'clock.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tell a short story about a class that sorts buttons into two groups.",
-      "e": "They put round buttons in one group and square buttons in the other.",
-      "baris": 3
      }
     ]
    },
@@ -13995,96 +13911,6 @@ window.KUIS = [
        "11"
       ],
       "e": "October is month 10, November is month 11, December is month 12."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "A week has seven days. What is the day right after Sunday?",
-      "e": "Monday.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Which word means 'over' when one thing is higher than another?",
-      "e": "Above.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "In a pictogram, one little drawing may stand for two real objects. What does one drawing stand for here?",
-      "e": "Two real objects.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "What do we call a chart that sorts things with four boxes and two traits?",
-      "e": "A Carroll diagram.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "A book lies on the shelf. Complete the opposite: The shelf is ... the book.",
-      "e": "The shelf is under the book.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "In the fruit chart, mangoes have the tallest stack. Write a sentence about mangoes.",
-      "e": "Mangoes show the most.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Nine o'clock is shown. The short hand is on nine. Write the other hand's place.",
-      "e": "The long hand is on twelve.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Yesterday was Wednesday. Write one sentence about today.",
-      "e": "Today is Thursday.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name three position words that use the idea of 'high' or 'low'.",
-      "e": "Above, over, below.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two things that are the same in a Carroll diagram's top row.",
-      "e": "Both are red and both are circles.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write three ordinal words for places six, seven, and eight.",
-      "e": "Sixth, seventh, eighth.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give four names of months that come after June.",
-      "e": "July, August, September, October.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A snail crawls between two stones. Make a tiny story about the snail's trip.",
-      "e": "The snail goes slowly between the stones to reach a leaf.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Write a short story that uses the word evening and tells who eats dinner.",
-      "e": "In the evening my family eats dinner together.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tell a little story about a pictogram of birds where sparrows are the fewest.",
-      "e": "The sparrow row is the shortest, so sparrows are the fewest.",
-      "baris": 3
      }
     ]
    },
@@ -14291,7 +14117,301 @@ window.KUIS = [
        "day 7"
       ],
       "e": "Sunday is day 7, Monday is day 1, Tuesday is day 2."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "At sunrise, animals begin to wake. Which part of the day is this?",
+      "e": "It is morning.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "A clock has two hands. Say the name of the shorter one.",
+      "e": "The hour hand.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "In a Venn diagram, where do you write a thing that fits both groups?",
+      "e": "In the middle overlap.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Write the ordinal word that matches the number ten.",
+      "e": "Tenth.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "The kite is above the tree. Finish this sentence: The tree is ... the kite.",
+      "e": "The tree is below the kite.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ben has six marbles and Ana has six marbles. Complete: Their counts are ...",
+      "e": "Their counts are equal.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "The short hand points at eight and the long hand points at twelve. Write the time in a sentence.",
+      "e": "It is eight o'clock.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Monday comes before Tuesday. Add one more sentence about these two days.",
+      "e": "Tuesday comes after Monday.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List three position words that tell where one thing is next to another.",
+      "e": "Beside, next to, between.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name two kinds of charts that use pictures or blocks to show counts.",
+      "e": "Pictogram and block graph.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write the names of three months that start with the letter D, J, and M.",
+      "e": "December, January, March.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give four words for parts of the day, from sunrise to bedtime.",
+      "e": "Morning, afternoon, evening, night.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A puppy hides under a sofa. Tell a short story about how a child finds it.",
+      "e": "The child looks down and sees the puppy under the sofa.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Write a tiny story using the words yesterday and tomorrow, and name what happened on each day.",
+      "e": "Yesterday I planted a seed. Tomorrow I will water it.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Make a short story about a shell chart where one row has the most shells and another has the fewest.",
+      "e": "The blue row has the most shells. The red row has the fewest.",
+      "baris": 3
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "What do we call the hand that moves fastest on a clock?",
+      "e": "The long hand, or minute hand.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "In a race, Ana came in 2nd. Write the full ordinal word.",
+      "e": "Second.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Which diagram uses two circles to sort things?",
+      "e": "A Venn diagram.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "What word means the same as 'under'?",
+      "e": "Below.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "A bird sits on the roof. Complete: The roof is ... the bird.",
+      "e": "The roof is under the bird.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Sam has three stickers. Lia has five stickers. Finish: Sam has ... stickers than Lia.",
+      "e": "Sam has fewer stickers than Lia.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Minute hand at 12, hour hand at 3. Say the hour out loud.",
+      "e": "It is three o'clock.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Today is Friday. Write one sentence about tomorrow.",
+      "e": "Tomorrow will be Saturday.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name three months that have thirty days.",
+      "e": "April, June, September.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Which three things can a block graph show about a group of toys?",
+      "e": "The count of each toy, the most, and the fewest.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write three words for things we do in the morning.",
+      "e": "Wake up, brush teeth, eat breakfast.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give four ordinal words for the first four runners in a race.",
+      "e": "First, second, third, fourth.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A cat naps beside a warm stove. Tell a short tale about the cat and a mouse.",
+      "e": "The cat sleeps by the stove while the mouse runs past.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Write a little story about a clock that stops, and say what time it showed.",
+      "e": "The clock stopped at six o'clock.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tell a short story about a class that sorts buttons into two groups.",
+      "e": "They put round buttons in one group and square buttons in the other.",
+      "baris": 3
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "A week has seven days. What is the day right after Sunday?",
+      "e": "Monday.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Which word means 'over' when one thing is higher than another?",
+      "e": "Above.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "In a pictogram, one little drawing may stand for two real objects. What does one drawing stand for here?",
+      "e": "Two real objects.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "What do we call a chart that sorts things with four boxes and two traits?",
+      "e": "A Carroll diagram.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "A book lies on the shelf. Complete the opposite: The shelf is ... the book.",
+      "e": "The shelf is under the book.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "In the fruit chart, mangoes have the tallest stack. Write a sentence about mangoes.",
+      "e": "Mangoes show the most.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Nine o'clock is shown. The short hand is on nine. Write the other hand's place.",
+      "e": "The long hand is on twelve.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Yesterday was Wednesday. Write one sentence about today.",
+      "e": "Today is Thursday.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name three position words that use the idea of 'high' or 'low'.",
+      "e": "Above, over, below.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two things that are the same in a Carroll diagram's top row.",
+      "e": "Both are red and both are circles.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write three ordinal words for places six, seven, and eight.",
+      "e": "Sixth, seventh, eighth.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give four names of months that come after June.",
+      "e": "July, August, September, October.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A snail crawls between two stones. Make a tiny story about the snail's trip.",
+      "e": "The snail goes slowly between the stones to reach a leaf.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Write a short story that uses the word evening and tells who eats dinner.",
+      "e": "In the evening my family eats dinner together.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tell a little story about a pictogram of birds where sparrows are the fewest.",
+      "e": "The sparrow row is the shortest, so sparrows are the fewest.",
+      "baris": 3
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "What is the name of the eighth month in a year?",
@@ -14602,96 +14722,6 @@ window.KUIS = [
        "mewarnai dengan air"
       ],
       "e": "Krayon tanpa air, cat air dengan air, cat minyak untuk melukis."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan dua benda di meja seni yang termasuk media!",
-      "e": "Kertas gambar dan kain perca termasuk media berkarya.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa beda pensil dan pensil warna saat dipakai menggambar?",
-      "e": "Pensil membuat goresan hitam, pensil warna memberi warna pada gambar.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Alat apa yang dipakai untuk menarik garis lurus?",
-      "e": "Penggaris dipakai untuk menarik garis lurus.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan satu kegunaan kuas dalam kegiatan melukis!",
-      "e": "Kuas dipakai untuk mengoles cat ke kanvas.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelaskan dengan satu kalimat cara memegang pensil yang benar!",
-      "e": "Pensil dipegang dengan tiga jari agar mudah digerakkan.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis satu kalimat tentang cara duduk yang baik saat menggambar!",
-      "e": "Saat menggambar, badan duduk tegak dan kaki menempel lantai.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buat kalimat yang menjelaskan kenapa gunting harus dipakai hati-hati!",
-      "e": "Gunting tajam, jadi harus dipakai hati-hati agar jari tidak terluka.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Rangkaikan kalimat tentang cara merawat kuas setelah melukis!",
-      "e": "Kuas dicuci dengan air bersih lalu dikeringkan setelah dipakai.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga alat gambar yang ada di kotak seni Dinda!",
-      "e": "Pensil, penggaris, dan penghapus ada di kotak seni Dinda.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga jenis bahan pewarna yang dipakai saat mewarnai!",
-      "e": "Pensil warna, krayon, dan cat air dipakai untuk mewarnai.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga macam media yang bisa menerima goresan cat!",
-      "e": "Kertas, kanvas, dan kain bisa menerima goresan cat.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga contoh potongan bahan untuk membuat kolase!",
-      "e": "Potongan kertas, daun kering, dan kain perca dipakai untuk kolase.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana Farrel membuat gambar pohon dari awal sampai selesai!",
-      "e": "Farrel menggambar batang dengan pensil, lalu mewarnai daun dengan krayon.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita pendek tentang Zahra yang menempel daun pada karton!",
-      "e": "Zahra mengumpulkan daun kering lalu menempelkannya dengan lem pada karton.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan kegiatan Bima merapikan meja setelah membuat kolase!",
-      "e": "Bima membuang sisa kertas, menutup lem, dan menyimpan gunting setelah selesai.",
-      "baris": 4
      }
     ]
    },
@@ -14898,96 +14928,6 @@ window.KUIS = [
        "mengoles cat"
       ],
       "e": "Penggaris menggaris, kuas mengoles cat, gunting memotong kertas."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan alat yang dipakai untuk mengoles cat air!",
-      "e": "Kuas dipakai untuk mengoles cat air.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa sebutan karya tempelan yang memakai kertas dan daun kering?",
-      "e": "Karya semacam itu disebut kolase.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan kegunaan penggaris saat menggambar rumah!",
-      "e": "Penggaris membantu membuat garis lurus pada gambar rumah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Media apa yang terbuat dari kain dan dipakai untuk melukis?",
-      "e": "Kanvas terbuat dari kain dan dipakai untuk melukis.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat yang membedakan alat dan bahan dalam karya seni!",
-      "e": "Alat dipakai untuk mengerjakan, bahan dipakai untuk membentuk karya.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buat satu kalimat tentang cara memegang gunting dengan aman!",
-      "e": "Gunting dipegang pada gagangnya agar jari tetap aman.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Rangkaikan kalimat tentang manfaat merapikan meja setelah berkarya!",
-      "e": "Merapikan meja membuat alat mudah dicari lagi.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat tentang krayon yang digoreskan langsung tanpa air!",
-      "e": "Krayon digoreskan langsung pada kertas tanpa dicelup air.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga alat yang dipakai untuk menggambar di buku gambar!",
-      "e": "Pensil, penggaris, dan penghapus dipakai untuk menggambar.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga contoh media tempat berkarya!",
-      "e": "Kertas, kanvas, dan kain menjadi tempat berkarya.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga cara menjaga keamanan saat memakai gunting!",
-      "e": "Memegang gagang, tidak berlari, dan menjauhkan dari teman.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga langkah membuat kolase dari kertas bekas!",
-      "e": "Potong kertas, oles lem, lalu tempel rapi di karton.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan pengalaman Kinan melukis bunga di halaman dengan cat air!",
-      "e": "Kinan mencelup kuas ke cat air lalu mengoleskannya pada kertas gambar.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis kisah Rafa yang mengumpulkan biji jagung untuk karya seni!",
-      "e": "Rafa mengumpulkan biji jagung lalu menempelkannya dengan lem.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan bagaimana Nabila menyimpan alat seninya setelah selesai!",
-      "e": "Nabila mencuci kuas, menutup lem, dan meletakkan gunting di kotak.",
-      "baris": 4
      }
     ]
    },
@@ -15194,96 +15134,6 @@ window.KUIS = [
        "cat air"
       ],
       "e": "Kolase memakai potongan kertas, melukis cat air, mewarnai krayon."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan benda yang dipakai untuk menghapus goresan pensil!",
-      "e": "Penghapus dipakai untuk menghapus goresan pensil.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa yang terjadi jika krayon dicelup ke air?",
-      "e": "Krayon tetap bisa digoreskan karena tidak perlu dicelup air.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan alat yang ujungnya berbulu untuk mewarnai gambar!",
-      "e": "Kuas adalah alat berbulu yang dipakai untuk mewarnai.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan media yang terbuat dari kertas dan dipakai untuk menggambar!",
-      "e": "Kertas gambar adalah media untuk menggambar.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat tentang pensil yang dipakai untuk membuat pola!",
-      "e": "Pensil dipakai untuk membuat pola sebelum mewarnai gambar.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buat kalimat yang menjelaskan posisi punggung saat anak menggambar!",
-      "e": "Punggung sebaiknya tegak agar tangan mudah bergerak.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Rangkaikan kalimat tentang gunting yang disimpan setelah dipakai!",
-      "e": "Gunting ditutup dan disimpan setelah selesai dipakai.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat tentang kolase yang memakai potongan kain!",
-      "e": "Kolase dibuat dengan menempel potongan kain pada kertas.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga kegunaan alat gambar di kelas!",
-      "e": "Pensil untuk menggambar, penggaris untuk menggaris, lem untuk menempel.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga contoh bahan alam untuk kolase!",
-      "e": "Daun kering, ranting, dan biji jagung dipakai untuk kolase.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga benda yang bisa jadi media berkarya!",
-      "e": "Kertas, kanvas, dan kain bisa jadi media berkarya.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga langkah merawat alat gambar setelah dipakai!",
-      "e": "Bersihkan kuas, tutup lem, dan simpan pensil di kotak.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan kisah Alya yang menyiapkan buku gambar dan pensil!",
-      "e": "Alya menyiapkan buku gambar, pensil, dan krayon sebelum mulai menggambar.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita tentang Dimas yang menempel kertas dengan lem!",
-      "e": "Dimas mengoles lem pada kertas lalu menempelkannya rapi.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ceritakan kegiatan Nadia saat menyiapkan media kanvas!",
-      "e": "Nadia membentangkan kanvas di meja lalu menyiapkan kuas dan cat.",
-      "baris": 4
      }
     ]
    },
@@ -15490,7 +15340,301 @@ window.KUIS = [
        "dipotong gunting"
       ],
       "e": "Daun ditempel lem, kain dipotong gunting, kertas dilem."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan dua benda di meja seni yang termasuk media!",
+      "e": "Kertas gambar dan kain perca termasuk media berkarya.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa beda pensil dan pensil warna saat dipakai menggambar?",
+      "e": "Pensil membuat goresan hitam, pensil warna memberi warna pada gambar.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Alat apa yang dipakai untuk menarik garis lurus?",
+      "e": "Penggaris dipakai untuk menarik garis lurus.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan satu kegunaan kuas dalam kegiatan melukis!",
+      "e": "Kuas dipakai untuk mengoles cat ke kanvas.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelaskan dengan satu kalimat cara memegang pensil yang benar!",
+      "e": "Pensil dipegang dengan tiga jari agar mudah digerakkan.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis satu kalimat tentang cara duduk yang baik saat menggambar!",
+      "e": "Saat menggambar, badan duduk tegak dan kaki menempel lantai.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buat kalimat yang menjelaskan kenapa gunting harus dipakai hati-hati!",
+      "e": "Gunting tajam, jadi harus dipakai hati-hati agar jari tidak terluka.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Rangkaikan kalimat tentang cara merawat kuas setelah melukis!",
+      "e": "Kuas dicuci dengan air bersih lalu dikeringkan setelah dipakai.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga alat gambar yang ada di kotak seni Dinda!",
+      "e": "Pensil, penggaris, dan penghapus ada di kotak seni Dinda.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga jenis bahan pewarna yang dipakai saat mewarnai!",
+      "e": "Pensil warna, krayon, dan cat air dipakai untuk mewarnai.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga macam media yang bisa menerima goresan cat!",
+      "e": "Kertas, kanvas, dan kain bisa menerima goresan cat.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga contoh potongan bahan untuk membuat kolase!",
+      "e": "Potongan kertas, daun kering, dan kain perca dipakai untuk kolase.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana Farrel membuat gambar pohon dari awal sampai selesai!",
+      "e": "Farrel menggambar batang dengan pensil, lalu mewarnai daun dengan krayon.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita pendek tentang Zahra yang menempel daun pada karton!",
+      "e": "Zahra mengumpulkan daun kering lalu menempelkannya dengan lem pada karton.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan kegiatan Bima merapikan meja setelah membuat kolase!",
+      "e": "Bima membuang sisa kertas, menutup lem, dan menyimpan gunting setelah selesai.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan alat yang dipakai untuk mengoles cat air!",
+      "e": "Kuas dipakai untuk mengoles cat air.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa sebutan karya tempelan yang memakai kertas dan daun kering?",
+      "e": "Karya semacam itu disebut kolase.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan kegunaan penggaris saat menggambar rumah!",
+      "e": "Penggaris membantu membuat garis lurus pada gambar rumah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Media apa yang terbuat dari kain dan dipakai untuk melukis?",
+      "e": "Kanvas terbuat dari kain dan dipakai untuk melukis.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat yang membedakan alat dan bahan dalam karya seni!",
+      "e": "Alat dipakai untuk mengerjakan, bahan dipakai untuk membentuk karya.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buat satu kalimat tentang cara memegang gunting dengan aman!",
+      "e": "Gunting dipegang pada gagangnya agar jari tetap aman.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Rangkaikan kalimat tentang manfaat merapikan meja setelah berkarya!",
+      "e": "Merapikan meja membuat alat mudah dicari lagi.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat tentang krayon yang digoreskan langsung tanpa air!",
+      "e": "Krayon digoreskan langsung pada kertas tanpa dicelup air.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga alat yang dipakai untuk menggambar di buku gambar!",
+      "e": "Pensil, penggaris, dan penghapus dipakai untuk menggambar.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga contoh media tempat berkarya!",
+      "e": "Kertas, kanvas, dan kain menjadi tempat berkarya.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga cara menjaga keamanan saat memakai gunting!",
+      "e": "Memegang gagang, tidak berlari, dan menjauhkan dari teman.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga langkah membuat kolase dari kertas bekas!",
+      "e": "Potong kertas, oles lem, lalu tempel rapi di karton.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan pengalaman Kinan melukis bunga di halaman dengan cat air!",
+      "e": "Kinan mencelup kuas ke cat air lalu mengoleskannya pada kertas gambar.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis kisah Rafa yang mengumpulkan biji jagung untuk karya seni!",
+      "e": "Rafa mengumpulkan biji jagung lalu menempelkannya dengan lem.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan bagaimana Nabila menyimpan alat seninya setelah selesai!",
+      "e": "Nabila mencuci kuas, menutup lem, dan meletakkan gunting di kotak.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan benda yang dipakai untuk menghapus goresan pensil!",
+      "e": "Penghapus dipakai untuk menghapus goresan pensil.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa yang terjadi jika krayon dicelup ke air?",
+      "e": "Krayon tetap bisa digoreskan karena tidak perlu dicelup air.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan alat yang ujungnya berbulu untuk mewarnai gambar!",
+      "e": "Kuas adalah alat berbulu yang dipakai untuk mewarnai.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan media yang terbuat dari kertas dan dipakai untuk menggambar!",
+      "e": "Kertas gambar adalah media untuk menggambar.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat tentang pensil yang dipakai untuk membuat pola!",
+      "e": "Pensil dipakai untuk membuat pola sebelum mewarnai gambar.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buat kalimat yang menjelaskan posisi punggung saat anak menggambar!",
+      "e": "Punggung sebaiknya tegak agar tangan mudah bergerak.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Rangkaikan kalimat tentang gunting yang disimpan setelah dipakai!",
+      "e": "Gunting ditutup dan disimpan setelah selesai dipakai.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat tentang kolase yang memakai potongan kain!",
+      "e": "Kolase dibuat dengan menempel potongan kain pada kertas.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga kegunaan alat gambar di kelas!",
+      "e": "Pensil untuk menggambar, penggaris untuk menggaris, lem untuk menempel.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga contoh bahan alam untuk kolase!",
+      "e": "Daun kering, ranting, dan biji jagung dipakai untuk kolase.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga benda yang bisa jadi media berkarya!",
+      "e": "Kertas, kanvas, dan kain bisa jadi media berkarya.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga langkah merawat alat gambar setelah dipakai!",
+      "e": "Bersihkan kuas, tutup lem, dan simpan pensil di kotak.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan kisah Alya yang menyiapkan buku gambar dan pensil!",
+      "e": "Alya menyiapkan buku gambar, pensil, dan krayon sebelum mulai menggambar.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita tentang Dimas yang menempel kertas dengan lem!",
+      "e": "Dimas mengoles lem pada kertas lalu menempelkannya rapi.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ceritakan kegiatan Nadia saat menyiapkan media kanvas!",
+      "e": "Nadia membentangkan kanvas di meja lalu menyiapkan kuas dan cat.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Sebutkan alat yang dipakai untuk memotong kertas!",
@@ -15801,96 +15945,6 @@ window.KUIS = [
        "kakak lanang"
       ],
       "e": "Rama bapak, kangmas kakak lanang, adhik adik."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Wong tuwa wadon kang nglairake Bima diarani ....",
-      "e": "Wong tuwa wadon yang melahirkan Bima disebut ibu.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutan kanggo sedulur lanang sing luwih tuwa yaiku mas utawa ....",
-      "e": "Sebutan untuk saudara laki-laki yang lebih tua adalah mas atau kangmas.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Adhik tegese sedulur sing umure isih enom, yaiku ....",
-      "e": "Adhik berarti saudara yang lebih muda, disebut adik.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tanda seru ing pungkasaning ukara prentah ditulis nganggo ....",
-      "e": "Tanda seru di akhir kalimat perintah ditulis dengan tanda seru (!).",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Gawea ukara prentah kanggo ngongkon adhik nutup lawang, kanthi tanda seru!",
-      "e": "Contoh kalimat perintah: Tutupen lawange, Dik!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara panyuwun tulung marang mbakyu supaya ngresiki meja!",
-      "e": "Contoh kalimat permintaan tolong: Mbak, tulung piringe dikumbah!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara panyuwun barang marang bapak kanggo njaluk buku tulis!",
-      "e": "Contoh kalimat permintaan barang: Pak, kula nyuwun buku tulis.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelasna bedane ukara prentah lan ukara panjaluk nganggo ukaramu dhewe!",
-      "e": "Kalimat perintah dipakai untuk memerintah, sedangkan kalimat permintaan dipakai untuk memohon dengan sopan.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu anggota kulawarga inti sing ana ing omahmu!",
-      "e": "Tiga anggota keluarga inti di rumah saya adalah bapak, ibu, dan saya sebagai anak.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulisen telu tuladha ukara prentah kang nggunakake tanda seru!",
-      "e": "Tiga contoh kalimat perintah: Tutupen lawange!, Lungguha sing bener!, Sapuen latare!",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu tembung Jawa sing tegese sedulur, yaiku ....",
-      "e": "Tiga kata Jawa yang berarti saudara adalah kangmas, mbakyu, dan adhik.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu ukara panyuwun tulung kang sopan marang wong tuwa!",
-      "e": "Tiga contoh kalimat minta tolong yang sopan kepada orang tua: Bu, tulung jupukna bukuku!, Pak, tulung gawakna tasku!, Mbak, tulung kumbahna piringe!",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Gawea crita cekak bab kulawarga inti: bapak, ibu, lan Rani ing omah!",
-      "e": "Cerita singkat: Bapak, ibu, dan Rani tinggal bersama di rumah. Mereka saling menyayangi.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Critakna nalika Dhika nyuwun tulung marang kangmase ing dina Minggu!",
-      "e": "Dhika meminta tolong kepada kakak laki-lakinya pada hari Minggu. Kakaknya membantu Dhika dengan senang hati.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulisen crita cekak bab adhik sing njaluk permene marang mbakyu!",
-      "e": "Adik meminta permen kepada kakak perempuannya. Kakak memberikan permen itu dengan senyum.",
-      "baris": 4
      }
     ]
    },
@@ -16097,96 +16151,6 @@ window.KUIS = [
        "mohon"
       ],
       "e": "Tulung bantu, nyuwun mohon, njaluk minta."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Bapak lan ibune Nanda kalebu wong tuwa, dene Nanda diarani ....",
-      "e": "Bapak dan ibu Nanda termasuk orang tua, sedangkan Nanda disebut anak.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Mbakyu iku sebutan kanggo sedulur wadon sing umure ngluwihi Yoga.",
-      "e": "Mbakyu adalah sebutan untuk saudara perempuan yang usianya lebih tua dari Yoga.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tembung biyung ing basa Jawa padha karo ....",
-      "e": "Tembung biyung dalam bahasa Jawa sama dengan ibu.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tanda seru ing ukara Sapuen latare! nuduhake jinise ukara ....",
-      "e": "Tanda seru pada kalimat Sapuen latare menunjukkan bahwa kalimat itu adalah kalimat perintah.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Gawea ukara prentah kanggo ngongkon Tono nyapu latar, nganggo tanda seru!",
-      "e": "Contoh kalimat perintah: Sapuen latare, Tono!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara panyuwun tulung marang pakdhe supaya nggawa tasku!",
-      "e": "Contoh kalimat permintaan tolong: Pakdhe, tulung gawakna tasku!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara panyuwun barang marang ibu kanggo nyuwun secangkir banyu!",
-      "e": "Contoh kalimat permintaan barang: Bu, kula nyuwun banyu segelas.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelasna apa bedane ukara prentah karo ukara panyuwun, nganggo tuladha!",
-      "e": "Kalimat perintah berisi perintah, sedangkan kalimat permintaan berisi permohonan yang sopan.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu wong sing kalebu kulawarga inti ing crita Putri!",
-      "e": "Tiga orang yang termasuk keluarga inti dalam cerita Putri adalah bapak, ibu, dan Putri.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulisen telu tuladha ukara prentah kang digunakake ibu ing omah!",
-      "e": "Tiga contoh kalimat perintah yang dipakai ibu di rumah: Resikana mejamu!, Tutupen lawange!, Lungguha sing bener!",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu tembung Jawa kang tegese wong tuwa lan sedulur!",
-      "e": "Tiga kata Jawa yang berarti orang tua dan saudara adalah rama, biyung, dan kangmas.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu ukara nyuwun barang marang kanca, kudu sopan!",
-      "e": "Tiga kalimat minta barang kepada teman yang sopan: Aku njaluk pulpen!, Kula nyuwun buku!, Aku njaluk penghapus!",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Critakna kulawargane Yoga: bapak, ibu, lan adhik ing dina Senin!",
-      "e": "Keluarga Yoga terdiri dari bapak, ibu, dan adik. Mereka sarapan bersama pada hari Senin.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Gawea crita bab Sari nalika nyuwun tulung marang mbakyune!",
-      "e": "Sari meminta tolong kepada kakak perempuannya. Kakaknya membantu Sari merapikan meja.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulisen crita cekak bab kulawarga inti lan ukara prentah ing omah!",
-      "e": "Di rumah, keluarga inti saling membantu. Ibu mengatakan kalimat perintah kepada anaknya dengan ramah.",
-      "baris": 4
      }
     ]
    },
@@ -16393,96 +16357,6 @@ window.KUIS = [
        "sedulur lanang tuwa"
       ],
       "e": "Kangmas sedulur lanang tuwa, mbakyu sedulur wadon tuwa, adik sedulur enom."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Saliyane bapak lan ibu, anggota kulawarga inti sing kaping telu yaiku ....",
-      "e": "Selain bapak dan ibu, anggota keluarga inti yang ketiga adalah anak.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Kangmas lan mbakyu padha disebut sedulur, nanging beda ....",
-      "e": "Kangmas dan mbakyu sama-sama disebut kakak, tetapi berbeda jenis kelamin: kangmas kakak laki-laki, mbakyu kakak perempuan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tembung njaluk ing basa Jawa tegese ....",
-      "e": "Tembung njaluk dalam bahasa Jawa berarti meminta.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Panyuwun marang ibu kudu nggunakake basa sing sopan, dudu ....",
-      "e": "Permintaan kepada ibu harus memakai bahasa yang sopan, bukan bahasa yang kasar.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara prentah marang adhik supaya mangan, wenehana tanda seru!",
-      "e": "Contoh kalimat perintah: Mangan, Dik! Kalimat itu ditulis dengan tanda seru.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara nyuwun tulung marang bapak nalika kunci ilang!",
-      "e": "Contoh kalimat minta tolong: Pak, tulung golekna kunciku sing ilang!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulisen ukara nyuwun barang marang adhik kanthi basa sing sopan!",
-      "e": "Contoh kalimat minta barang dengan sopan: Dik, kula nyuwun penghapusmu.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jelasna kenapa ukara prentah kudu diwenehi tanda seru!",
-      "e": "Kalimat perintah memakai tanda seru supaya terdengar tegas dan jelas sebagai perintah.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu sebutan kanggo sedulur ing basa Jawa!",
-      "e": "Tiga sebutan untuk saudara dalam bahasa Jawa adalah kangmas, mbakyu, dan adhik.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu dhawuh sing kerep diucapake guru nalika pelajaran!",
-      "e": "Tiga perintah yang sering diucapkan guru: Bukaken bukumu!, Rungokna sing sregep!, Tulisen jawabanmu!",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu tembung Jawa sing artine barang, tuladha ....",
-      "e": "Tiga kata Jawa yang berarti benda adalah buku, meja, dan lawang.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutna telu ukara panyuwun tulung sing bisa diucapake marang kangmas!",
-      "e": "Tiga kalimat minta tolong kepada kakak laki-laki: Mas, tulung gawakna tasku!, Mas, tulung bukaken lawange!, Mas, tulung jupukna bukuku!",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Gawea crita cekak bab kulawarga intine Adit nalika sarapan!",
-      "e": "Keluarga inti Adit sarapan bersama. Bapak dan ibu makan dengan Adit di meja.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Critakna lelakone Dhika ing pasar nalika nyuwun pitulungan marang mbakyune!",
-      "e": "Dhika meminta pertolongan kepada kakak perempuannya di pasar. Kakaknya menemani Dhika mencari mainan.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulisen crita bab adhik sing njaluk barang marang ibu ing wayah sore!",
-      "e": "Adik meminta barang kepada ibu pada sore hari. Ibu memberikan barang itu dengan senyum.",
-      "baris": 4
      }
     ]
    },
@@ -16689,7 +16563,301 @@ window.KUIS = [
        "minta"
       ],
       "e": "Nyuwun minta, tulung bantu, njaluk mohon."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Wong tuwa wadon kang nglairake Bima diarani ....",
+      "e": "Wong tuwa wadon yang melahirkan Bima disebut ibu.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutan kanggo sedulur lanang sing luwih tuwa yaiku mas utawa ....",
+      "e": "Sebutan untuk saudara laki-laki yang lebih tua adalah mas atau kangmas.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Adhik tegese sedulur sing umure isih enom, yaiku ....",
+      "e": "Adhik berarti saudara yang lebih muda, disebut adik.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tanda seru ing pungkasaning ukara prentah ditulis nganggo ....",
+      "e": "Tanda seru di akhir kalimat perintah ditulis dengan tanda seru (!).",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Gawea ukara prentah kanggo ngongkon adhik nutup lawang, kanthi tanda seru!",
+      "e": "Contoh kalimat perintah: Tutupen lawange, Dik!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara panyuwun tulung marang mbakyu supaya ngresiki meja!",
+      "e": "Contoh kalimat permintaan tolong: Mbak, tulung piringe dikumbah!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara panyuwun barang marang bapak kanggo njaluk buku tulis!",
+      "e": "Contoh kalimat permintaan barang: Pak, kula nyuwun buku tulis.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelasna bedane ukara prentah lan ukara panjaluk nganggo ukaramu dhewe!",
+      "e": "Kalimat perintah dipakai untuk memerintah, sedangkan kalimat permintaan dipakai untuk memohon dengan sopan.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu anggota kulawarga inti sing ana ing omahmu!",
+      "e": "Tiga anggota keluarga inti di rumah saya adalah bapak, ibu, dan saya sebagai anak.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulisen telu tuladha ukara prentah kang nggunakake tanda seru!",
+      "e": "Tiga contoh kalimat perintah: Tutupen lawange!, Lungguha sing bener!, Sapuen latare!",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu tembung Jawa sing tegese sedulur, yaiku ....",
+      "e": "Tiga kata Jawa yang berarti saudara adalah kangmas, mbakyu, dan adhik.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu ukara panyuwun tulung kang sopan marang wong tuwa!",
+      "e": "Tiga contoh kalimat minta tolong yang sopan kepada orang tua: Bu, tulung jupukna bukuku!, Pak, tulung gawakna tasku!, Mbak, tulung kumbahna piringe!",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Gawea crita cekak bab kulawarga inti: bapak, ibu, lan Rani ing omah!",
+      "e": "Cerita singkat: Bapak, ibu, dan Rani tinggal bersama di rumah. Mereka saling menyayangi.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Critakna nalika Dhika nyuwun tulung marang kangmase ing dina Minggu!",
+      "e": "Dhika meminta tolong kepada kakak laki-lakinya pada hari Minggu. Kakaknya membantu Dhika dengan senang hati.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulisen crita cekak bab adhik sing njaluk permene marang mbakyu!",
+      "e": "Adik meminta permen kepada kakak perempuannya. Kakak memberikan permen itu dengan senyum.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Bapak lan ibune Nanda kalebu wong tuwa, dene Nanda diarani ....",
+      "e": "Bapak dan ibu Nanda termasuk orang tua, sedangkan Nanda disebut anak.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Mbakyu iku sebutan kanggo sedulur wadon sing umure ngluwihi Yoga.",
+      "e": "Mbakyu adalah sebutan untuk saudara perempuan yang usianya lebih tua dari Yoga.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tembung biyung ing basa Jawa padha karo ....",
+      "e": "Tembung biyung dalam bahasa Jawa sama dengan ibu.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tanda seru ing ukara Sapuen latare! nuduhake jinise ukara ....",
+      "e": "Tanda seru pada kalimat Sapuen latare menunjukkan bahwa kalimat itu adalah kalimat perintah.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Gawea ukara prentah kanggo ngongkon Tono nyapu latar, nganggo tanda seru!",
+      "e": "Contoh kalimat perintah: Sapuen latare, Tono!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara panyuwun tulung marang pakdhe supaya nggawa tasku!",
+      "e": "Contoh kalimat permintaan tolong: Pakdhe, tulung gawakna tasku!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara panyuwun barang marang ibu kanggo nyuwun secangkir banyu!",
+      "e": "Contoh kalimat permintaan barang: Bu, kula nyuwun banyu segelas.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelasna apa bedane ukara prentah karo ukara panyuwun, nganggo tuladha!",
+      "e": "Kalimat perintah berisi perintah, sedangkan kalimat permintaan berisi permohonan yang sopan.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu wong sing kalebu kulawarga inti ing crita Putri!",
+      "e": "Tiga orang yang termasuk keluarga inti dalam cerita Putri adalah bapak, ibu, dan Putri.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulisen telu tuladha ukara prentah kang digunakake ibu ing omah!",
+      "e": "Tiga contoh kalimat perintah yang dipakai ibu di rumah: Resikana mejamu!, Tutupen lawange!, Lungguha sing bener!",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu tembung Jawa kang tegese wong tuwa lan sedulur!",
+      "e": "Tiga kata Jawa yang berarti orang tua dan saudara adalah rama, biyung, dan kangmas.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu ukara nyuwun barang marang kanca, kudu sopan!",
+      "e": "Tiga kalimat minta barang kepada teman yang sopan: Aku njaluk pulpen!, Kula nyuwun buku!, Aku njaluk penghapus!",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Critakna kulawargane Yoga: bapak, ibu, lan adhik ing dina Senin!",
+      "e": "Keluarga Yoga terdiri dari bapak, ibu, dan adik. Mereka sarapan bersama pada hari Senin.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Gawea crita bab Sari nalika nyuwun tulung marang mbakyune!",
+      "e": "Sari meminta tolong kepada kakak perempuannya. Kakaknya membantu Sari merapikan meja.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulisen crita cekak bab kulawarga inti lan ukara prentah ing omah!",
+      "e": "Di rumah, keluarga inti saling membantu. Ibu mengatakan kalimat perintah kepada anaknya dengan ramah.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Saliyane bapak lan ibu, anggota kulawarga inti sing kaping telu yaiku ....",
+      "e": "Selain bapak dan ibu, anggota keluarga inti yang ketiga adalah anak.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Kangmas lan mbakyu padha disebut sedulur, nanging beda ....",
+      "e": "Kangmas dan mbakyu sama-sama disebut kakak, tetapi berbeda jenis kelamin: kangmas kakak laki-laki, mbakyu kakak perempuan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tembung njaluk ing basa Jawa tegese ....",
+      "e": "Tembung njaluk dalam bahasa Jawa berarti meminta.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Panyuwun marang ibu kudu nggunakake basa sing sopan, dudu ....",
+      "e": "Permintaan kepada ibu harus memakai bahasa yang sopan, bukan bahasa yang kasar.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara prentah marang adhik supaya mangan, wenehana tanda seru!",
+      "e": "Contoh kalimat perintah: Mangan, Dik! Kalimat itu ditulis dengan tanda seru.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara nyuwun tulung marang bapak nalika kunci ilang!",
+      "e": "Contoh kalimat minta tolong: Pak, tulung golekna kunciku sing ilang!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulisen ukara nyuwun barang marang adhik kanthi basa sing sopan!",
+      "e": "Contoh kalimat minta barang dengan sopan: Dik, kula nyuwun penghapusmu.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jelasna kenapa ukara prentah kudu diwenehi tanda seru!",
+      "e": "Kalimat perintah memakai tanda seru supaya terdengar tegas dan jelas sebagai perintah.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu sebutan kanggo sedulur ing basa Jawa!",
+      "e": "Tiga sebutan untuk saudara dalam bahasa Jawa adalah kangmas, mbakyu, dan adhik.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu dhawuh sing kerep diucapake guru nalika pelajaran!",
+      "e": "Tiga perintah yang sering diucapkan guru: Bukaken bukumu!, Rungokna sing sregep!, Tulisen jawabanmu!",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu tembung Jawa sing artine barang, tuladha ....",
+      "e": "Tiga kata Jawa yang berarti benda adalah buku, meja, dan lawang.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutna telu ukara panyuwun tulung sing bisa diucapake marang kangmas!",
+      "e": "Tiga kalimat minta tolong kepada kakak laki-laki: Mas, tulung gawakna tasku!, Mas, tulung bukaken lawange!, Mas, tulung jupukna bukuku!",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Gawea crita cekak bab kulawarga intine Adit nalika sarapan!",
+      "e": "Keluarga inti Adit sarapan bersama. Bapak dan ibu makan dengan Adit di meja.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Critakna lelakone Dhika ing pasar nalika nyuwun pitulungan marang mbakyune!",
+      "e": "Dhika meminta pertolongan kepada kakak perempuannya di pasar. Kakaknya menemani Dhika mencari mainan.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulisen crita bab adhik sing njaluk barang marang ibu ing wayah sore!",
+      "e": "Adik meminta barang kepada ibu pada sore hari. Ibu memberikan barang itu dengan senyum.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Wong tuwa lanang kang nyambut gawe ing kantor diarani ....",
@@ -17000,96 +17168,6 @@ window.KUIS = [
        "la"
       ],
       "e": "Laci berawalan la, lupa berawalan lu, lemah berawalan le."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Kuda bergerak dengan cara apa di halaman?",
-      "e": "Kuda berjalan di halaman.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa yang dilakukan kupu-kupu di atas bunga?",
-      "e": "Kupu-kupu terbang di atas bunga.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sebutkan tiga hewan yang bisa berenang!",
-      "e": "Ikan, cumi, dan udang bisa berenang.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Gerakan apa yang ditiru tari ikan?",
-      "e": "Tari ikan meniru gerakan berenang.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat berita tentang burung!",
-      "e": "Burung terbang tinggi di langit.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buat kalimat tanya memakai kata siapa!",
-      "e": "Siapa yang datang ke sekolah?",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Lengkapi kalimat ini: Ibu ... di dapur.",
-      "e": "Ibu memasak di dapur.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat perintah untuk adik!",
-      "e": "Tutup pintu itu, Adik!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga kata yang diawali suku kata la!",
-      "e": "Lama, laci, dan lala diawali suku kata la.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga contoh kata bersuku li!",
-      "e": "Lima, lipan, dan lili bersuku kata li.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga contoh hewan terbang!",
-      "e": "Burung, capung, dan kupu-kupu terbang.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tanda baca di akhir kalimat!",
-      "e": "Titik, tanda tanya, dan tanda seru.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Buat cerita singkat tentang kelinci yang berlatih lompat!",
-      "e": "Kelinci rajin berlatih lompat. Akhirnya ia menang lomba.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis cerita pendek tentang burung dan anaknya!",
-      "e": "Burung kecil belajar terbang. Induknya menemani dengan sabar.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Karanglah dongeng singkat tentang ikan di kolam!",
-      "e": "Ikan kecil berenang di kolam. Ia berlatih sampai lincah.",
-      "baris": 4
      }
     ]
    },
@@ -17297,96 +17375,6 @@ window.KUIS = [
        "lama"
       ],
       "e": "La contohnya lama, li lipan, le lele."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Bagaimana katak bergerak di dekat kolam?",
-      "e": "Katak melompat di dekat kolam.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa gerakan cumi di dalam air?",
-      "e": "Cumi berenang di dalam air.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Suku kata apa yang ada pada lusa?",
-      "e": "Lusa mengandung suku kata lu.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Hewan apa yang meniru gerak terbang?",
-      "e": "Burung menjadi contoh gerak terbang.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ubah kalimat kecil ini dengan huruf kapital: tini menari.",
-      "e": "Tini menari.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tambahkan tanda baca yang tepat: Wah tarianmu hebat",
-      "e": "Wah, tarianmu hebat!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Rangkai kata menjadi kalimat: kuda - berjalan - cepat",
-      "e": "Kuda berjalan cepat.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis satu pertanyaan memakai kata kapan!",
-      "e": "Kapan lomba tari dimulai?",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga kata yang diawali lu!",
-      "e": "Lupa, lusa, dan lunas diawali lu.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga gerakan yang bisa ditarikan!",
-      "e": "Berjalan, melompat, dan terbang bisa ditarikan.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tulis tiga kata yang mengandung suku kata le!",
-      "e": "Lemah, letih, dan lele mengandung suku kata le.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga kata tanya untuk bertanya!",
-      "e": "Apa, siapa, dan kapan adalah kata tanya.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Buat dongeng singkat tentang kucing yang rajin berlatih!",
-      "e": "Kucing berlatih melompat setiap pagi. Akhirnya ia lincah.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis kisah pendek tentang ayam di halaman!",
-      "e": "Ayam mencari makan di halaman. Ia berjalan perlahan.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Karang cerita tentang anak yang meniru tari kupu-kupu!",
-      "e": "Anak itu meniru kupu-kupu. Gerakannya lembut dan indah.",
-      "baris": 4
      }
     ]
    },
@@ -17593,96 +17581,6 @@ window.KUIS = [
        "kelinci"
       ],
       "e": "Melompat kelinci, berenang udang, berjalan kambing."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Ke mana buaya bergerak di sungai?",
-      "e": "Buaya berenang di sungai.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Apa nama gerakan kambing di padang?",
-      "e": "Kambing berjalan di padang.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Suku kata apakah yang membentuk kata laci?",
-      "e": "Suku kata la membentuk laci.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tanda apa yang menutup sebuah pertanyaan?",
-      "e": "Tanda tanya mengakhiri pertanyaan.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tulis kalimat berita memakai huruf kapital!",
-      "e": "Kakak menyiram tanaman di halaman.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Buat kalimat perintah dengan kata tolong!",
-      "e": "Tolong ambilkan bukunya, Kak!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Lengkapi kalimat ini dengan tanda seru: Astaga",
-      "e": "Astaga, besarnya!",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Susun kata ini jadi kalimat: adik - membaca - buku",
-      "e": "Adik membaca buku.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Tuliskan tiga kata berawalan lo!",
-      "e": "Lobak, loli, dan logam berawalan lo.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga nama tarian dari gerak hewan!",
-      "e": "Tari burung, tari kelinci, dan tari ikan.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga makhluk yang melompat!",
-      "e": "Kelinci, katak, dan belalang melompat.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Sebutkan tiga hal yang bisa ditanyakan!",
-      "e": "Kata tanya menanyakan benda, orang, dan tempat.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tulis dongeng pendek tentang katak di kolam!",
-      "e": "Katak melompat ke kolam. Ia berenang dengan gembira.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Buat kisah singkat tentang anak berlatih menari!",
-      "e": "Anak itu berlatih tiap hari. Gerakannya makin rapi.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Karanglah cerita tentang burung yang pandai terbang!",
-      "e": "Burung kecil rajin berlatih. Kini ia terbang tinggi.",
-      "baris": 4
      }
     ]
    },
@@ -17889,7 +17787,301 @@ window.KUIS = [
        "terbang"
       ],
       "e": "Tari burung terbang, tari kelinci melompat, tari ikan berenang."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Kuda bergerak dengan cara apa di halaman?",
+      "e": "Kuda berjalan di halaman.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa yang dilakukan kupu-kupu di atas bunga?",
+      "e": "Kupu-kupu terbang di atas bunga.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sebutkan tiga hewan yang bisa berenang!",
+      "e": "Ikan, cumi, dan udang bisa berenang.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Gerakan apa yang ditiru tari ikan?",
+      "e": "Tari ikan meniru gerakan berenang.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat berita tentang burung!",
+      "e": "Burung terbang tinggi di langit.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buat kalimat tanya memakai kata siapa!",
+      "e": "Siapa yang datang ke sekolah?",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Lengkapi kalimat ini: Ibu ... di dapur.",
+      "e": "Ibu memasak di dapur.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat perintah untuk adik!",
+      "e": "Tutup pintu itu, Adik!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga kata yang diawali suku kata la!",
+      "e": "Lama, laci, dan lala diawali suku kata la.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga contoh kata bersuku li!",
+      "e": "Lima, lipan, dan lili bersuku kata li.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga contoh hewan terbang!",
+      "e": "Burung, capung, dan kupu-kupu terbang.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tanda baca di akhir kalimat!",
+      "e": "Titik, tanda tanya, dan tanda seru.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Buat cerita singkat tentang kelinci yang berlatih lompat!",
+      "e": "Kelinci rajin berlatih lompat. Akhirnya ia menang lomba.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis cerita pendek tentang burung dan anaknya!",
+      "e": "Burung kecil belajar terbang. Induknya menemani dengan sabar.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Karanglah dongeng singkat tentang ikan di kolam!",
+      "e": "Ikan kecil berenang di kolam. Ia berlatih sampai lincah.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Bagaimana katak bergerak di dekat kolam?",
+      "e": "Katak melompat di dekat kolam.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa gerakan cumi di dalam air?",
+      "e": "Cumi berenang di dalam air.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Suku kata apa yang ada pada lusa?",
+      "e": "Lusa mengandung suku kata lu.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Hewan apa yang meniru gerak terbang?",
+      "e": "Burung menjadi contoh gerak terbang.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ubah kalimat kecil ini dengan huruf kapital: tini menari.",
+      "e": "Tini menari.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tambahkan tanda baca yang tepat: Wah tarianmu hebat",
+      "e": "Wah, tarianmu hebat!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Rangkai kata menjadi kalimat: kuda - berjalan - cepat",
+      "e": "Kuda berjalan cepat.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis satu pertanyaan memakai kata kapan!",
+      "e": "Kapan lomba tari dimulai?",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga kata yang diawali lu!",
+      "e": "Lupa, lusa, dan lunas diawali lu.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga gerakan yang bisa ditarikan!",
+      "e": "Berjalan, melompat, dan terbang bisa ditarikan.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tulis tiga kata yang mengandung suku kata le!",
+      "e": "Lemah, letih, dan lele mengandung suku kata le.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga kata tanya untuk bertanya!",
+      "e": "Apa, siapa, dan kapan adalah kata tanya.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Buat dongeng singkat tentang kucing yang rajin berlatih!",
+      "e": "Kucing berlatih melompat setiap pagi. Akhirnya ia lincah.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis kisah pendek tentang ayam di halaman!",
+      "e": "Ayam mencari makan di halaman. Ia berjalan perlahan.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Karang cerita tentang anak yang meniru tari kupu-kupu!",
+      "e": "Anak itu meniru kupu-kupu. Gerakannya lembut dan indah.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Ke mana buaya bergerak di sungai?",
+      "e": "Buaya berenang di sungai.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Apa nama gerakan kambing di padang?",
+      "e": "Kambing berjalan di padang.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Suku kata apakah yang membentuk kata laci?",
+      "e": "Suku kata la membentuk laci.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tanda apa yang menutup sebuah pertanyaan?",
+      "e": "Tanda tanya mengakhiri pertanyaan.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tulis kalimat berita memakai huruf kapital!",
+      "e": "Kakak menyiram tanaman di halaman.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Buat kalimat perintah dengan kata tolong!",
+      "e": "Tolong ambilkan bukunya, Kak!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Lengkapi kalimat ini dengan tanda seru: Astaga",
+      "e": "Astaga, besarnya!",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Susun kata ini jadi kalimat: adik - membaca - buku",
+      "e": "Adik membaca buku.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Tuliskan tiga kata berawalan lo!",
+      "e": "Lobak, loli, dan logam berawalan lo.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga nama tarian dari gerak hewan!",
+      "e": "Tari burung, tari kelinci, dan tari ikan.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga makhluk yang melompat!",
+      "e": "Kelinci, katak, dan belalang melompat.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Sebutkan tiga hal yang bisa ditanyakan!",
+      "e": "Kata tanya menanyakan benda, orang, dan tempat.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tulis dongeng pendek tentang katak di kolam!",
+      "e": "Katak melompat ke kolam. Ia berenang dengan gembira.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Buat kisah singkat tentang anak berlatih menari!",
+      "e": "Anak itu berlatih tiap hari. Gerakannya makin rapi.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Karanglah cerita tentang burung yang pandai terbang!",
+      "e": "Burung kecil rajin berlatih. Kini ia terbang tinggi.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Dengan gerakan apa ayam mencari makan?",
@@ -18200,96 +18392,6 @@ window.KUIS = [
        "metal"
       ],
       "e": "Scissors are metal, calendar is paper, and windowpane is glass."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "A spoon feels cold and hard. What is it made of?",
-      "e": "Metal makes the spoon, and metal feels cold and hard.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Fish swim inside a clear tank. Name the tank material.",
-      "e": "The tank is glass, which is see-through.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "What soft material fills a pillow?",
-      "e": "A pillow is filled with soft fabric or stuffing.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Name the stiff material a ruler is cut from.",
-      "e": "A ruler is cut from rigid wood or plastic.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tell why a raincoat keeps a child dry.",
-      "e": "A raincoat is waterproof, so rain cannot soak through it.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Explain why a brick cannot bend.",
-      "e": "A brick is rigid and hard, so it will not curve.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Say why a window lets you see a tree.",
-      "e": "Glass is transparent, so light passes and you see the tree.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tell why a sponge soaks up a spill.",
-      "e": "A sponge is absorbent, so it pulls water in.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two things at home that are made of wood.",
-      "e": "A table and a chair are made of wood.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write two materials that let light through.",
-      "e": "Glass and clear plastic let light through.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name two materials that are waterproof.",
-      "e": "Rubber and plastic are waterproof.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give two things you can do to help the Earth.",
-      "e": "You can reduce waste and reuse a bottle.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Rina drops a glass cup. It breaks. Tell why.",
-      "e": "Glass is brittle, so it breaks when it falls.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A boy bends a wire, then twists it. Describe both moves.",
-      "e": "He bends the wire into a curve and twists it around.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A can is used, then saved and made new. Tell the story.",
-      "e": "The can is reused, then recycled into a new can.",
-      "baris": 4
      }
     ]
    },
@@ -18496,96 +18598,6 @@ window.KUIS = [
        "metal"
       ],
       "e": "Pot is metal, pail is plastic, and plank is wood."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "A boot keeps water out. Which material is it?",
-      "e": "Boots are made of rubber, which keeps water out.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "What material makes a clean window pane?",
-      "e": "Window panes are made of glass.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Which material can be stretched and snaps back?",
-      "e": "Rubber stretches and then snaps back.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Name the material a warm scarf is knit from.",
-      "e": "A soft scarf is knit from wool or fabric.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Explain why a plastic bag keeps rain off.",
-      "e": "Plastic is waterproof, so rain stays outside the bag.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tell how a towel dries wet hands.",
-      "e": "The towel is absorbent and soaks the water from your hands.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Say why a metal spoon gets hot in soup.",
-      "e": "Metal carries heat, so the spoon gets hot.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tell why a pillow is soft, not hard.",
-      "e": "The pillow is filled with soft material, so it is not hard.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two things that glass is used for.",
-      "e": "Glass is used for windows and drinking cups.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write two soft materials you can bend.",
-      "e": "Fabric and rubber are soft and bend easily.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name two things that are made of metal.",
-      "e": "A key and a pair of scissors are made of metal.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give two ways to reuse an old jar.",
-      "e": "Keep pencils in it or use it to hold flowers.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A child squashes a sponge flat. What move is that?",
-      "e": "Squashing the sponge is compressing it.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A girl pulls a rubber band wide, then lets go. Tell what happens.",
-      "e": "The band stretches wide and then snaps back to its shape.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "An old newspaper is saved and turned into a new sheet. Tell the tale.",
-      "e": "The old paper is recycled into a fresh newspaper sheet.",
-      "baris": 4
      }
     ]
    },
@@ -18792,96 +18804,6 @@ window.KUIS = [
        "paper"
       ],
       "e": "Book is paper, eraser is rubber, and pencil is wood."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Which material blocks light and is not see-through?",
-      "e": "Wood is opaque, so light cannot pass through it.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Name the material a mirror is made from.",
-      "e": "A mirror is made from glass.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "What rough material comes from a tree trunk?",
-      "e": "Bark is a rough material from a tree.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Which material is used to make a strong bridge?",
-      "e": "Metal and rock are used to build strong bridges.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Explain how bending differs from twisting.",
-      "e": "Bending curves a thing, but twisting turns it around.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tell how compressing a sponge changes its size.",
-      "e": "Compressing makes the sponge smaller by pushing it together.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Say why an opaque box hides what is inside.",
-      "e": "The box is opaque, so light cannot pass and you cannot see in.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tell why fabric is good for making clothes.",
-      "e": "Fabric is soft and bendy, so clothes feel nice and fit well.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two rough materials you can touch.",
-      "e": "Rock and rough fabric feel bumpy to touch.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write two things that are transparent.",
-      "e": "Clear glass and clean water are transparent.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name two hard materials used in a kitchen.",
-      "e": "Metal pots and ceramic plates are hard.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give two ways to reduce trash at school.",
-      "e": "Use both sides of paper and carry a reusable bottle.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A man twists a wet cloth to wring it out. Name the move.",
-      "e": "He is twisting the cloth to push the water out.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A robot arm bends and stretches to reach a toy. Tell what it does.",
-      "e": "The arm bends at the joint and stretches out to grab the toy.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "A scrap of wood is saved and shaped into a toy. Tell the tale.",
-      "e": "The wood scrap is reused and carved into a little toy.",
-      "baris": 4
      }
     ]
    },
@@ -19088,7 +19010,301 @@ window.KUIS = [
        "glass"
       ],
       "e": "Dress is fabric, window is glass, and pail is plastic."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "A spoon feels cold and hard. What is it made of?",
+      "e": "Metal makes the spoon, and metal feels cold and hard.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Fish swim inside a clear tank. Name the tank material.",
+      "e": "The tank is glass, which is see-through.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "What soft material fills a pillow?",
+      "e": "A pillow is filled with soft fabric or stuffing.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Name the stiff material a ruler is cut from.",
+      "e": "A ruler is cut from rigid wood or plastic.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tell why a raincoat keeps a child dry.",
+      "e": "A raincoat is waterproof, so rain cannot soak through it.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Explain why a brick cannot bend.",
+      "e": "A brick is rigid and hard, so it will not curve.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Say why a window lets you see a tree.",
+      "e": "Glass is transparent, so light passes and you see the tree.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tell why a sponge soaks up a spill.",
+      "e": "A sponge is absorbent, so it pulls water in.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two things at home that are made of wood.",
+      "e": "A table and a chair are made of wood.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write two materials that let light through.",
+      "e": "Glass and clear plastic let light through.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name two materials that are waterproof.",
+      "e": "Rubber and plastic are waterproof.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give two things you can do to help the Earth.",
+      "e": "You can reduce waste and reuse a bottle.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Rina drops a glass cup. It breaks. Tell why.",
+      "e": "Glass is brittle, so it breaks when it falls.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A boy bends a wire, then twists it. Describe both moves.",
+      "e": "He bends the wire into a curve and twists it around.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A can is used, then saved and made new. Tell the story.",
+      "e": "The can is reused, then recycled into a new can.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "A boot keeps water out. Which material is it?",
+      "e": "Boots are made of rubber, which keeps water out.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "What material makes a clean window pane?",
+      "e": "Window panes are made of glass.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Which material can be stretched and snaps back?",
+      "e": "Rubber stretches and then snaps back.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Name the material a warm scarf is knit from.",
+      "e": "A soft scarf is knit from wool or fabric.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Explain why a plastic bag keeps rain off.",
+      "e": "Plastic is waterproof, so rain stays outside the bag.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tell how a towel dries wet hands.",
+      "e": "The towel is absorbent and soaks the water from your hands.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Say why a metal spoon gets hot in soup.",
+      "e": "Metal carries heat, so the spoon gets hot.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tell why a pillow is soft, not hard.",
+      "e": "The pillow is filled with soft material, so it is not hard.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two things that glass is used for.",
+      "e": "Glass is used for windows and drinking cups.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write two soft materials you can bend.",
+      "e": "Fabric and rubber are soft and bend easily.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name two things that are made of metal.",
+      "e": "A key and a pair of scissors are made of metal.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give two ways to reuse an old jar.",
+      "e": "Keep pencils in it or use it to hold flowers.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A child squashes a sponge flat. What move is that?",
+      "e": "Squashing the sponge is compressing it.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A girl pulls a rubber band wide, then lets go. Tell what happens.",
+      "e": "The band stretches wide and then snaps back to its shape.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "An old newspaper is saved and turned into a new sheet. Tell the tale.",
+      "e": "The old paper is recycled into a fresh newspaper sheet.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Which material blocks light and is not see-through?",
+      "e": "Wood is opaque, so light cannot pass through it.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Name the material a mirror is made from.",
+      "e": "A mirror is made from glass.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "What rough material comes from a tree trunk?",
+      "e": "Bark is a rough material from a tree.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Which material is used to make a strong bridge?",
+      "e": "Metal and rock are used to build strong bridges.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Explain how bending differs from twisting.",
+      "e": "Bending curves a thing, but twisting turns it around.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tell how compressing a sponge changes its size.",
+      "e": "Compressing makes the sponge smaller by pushing it together.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Say why an opaque box hides what is inside.",
+      "e": "The box is opaque, so light cannot pass and you cannot see in.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tell why fabric is good for making clothes.",
+      "e": "Fabric is soft and bendy, so clothes feel nice and fit well.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two rough materials you can touch.",
+      "e": "Rock and rough fabric feel bumpy to touch.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write two things that are transparent.",
+      "e": "Clear glass and clean water are transparent.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name two hard materials used in a kitchen.",
+      "e": "Metal pots and ceramic plates are hard.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give two ways to reduce trash at school.",
+      "e": "Use both sides of paper and carry a reusable bottle.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A man twists a wet cloth to wring it out. Name the move.",
+      "e": "He is twisting the cloth to push the water out.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A robot arm bends and stretches to reach a toy. Tell what it does.",
+      "e": "The arm bends at the joint and stretches out to grab the toy.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "A scrap of wood is saved and shaped into a toy. Tell the tale.",
+      "e": "The wood scrap is reused and carved into a little toy.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Name the material a heavy table is built from.",
@@ -19399,96 +19615,6 @@ window.KUIS = [
        "She is wearing a dress."
       ],
       "e": "We answer clothing questions with wearing and name the scarf pattern as flowers."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Bina sees small yellow shapes on her shirt. Name the pattern.",
-      "e": "The small shapes are stars.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Udin wears socks with round shapes. What pattern is that?",
-      "e": "Round shapes make circles.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Nani has a dress with triangle marks. Write the pattern word.",
-      "e": "The pattern word is triangles.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Sari's scarf shows little flowers. Which pattern is it?",
-      "e": "It is flowers.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "What is Bina wearing? Answer with a full sentence about her shirt.",
-      "e": "Bina is wearing a shirt with stars.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "What is Udin wearing? Answer in a sentence about his socks.",
-      "e": "Udin is wearing socks with squares.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Nani is at the school party. What is she wearing? Use a sentence.",
-      "e": "Nani is wearing a dress with flowers.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Sari has a new scarf. Say what she is wearing in one sentence.",
-      "e": "Sari is wearing a scarf with triangles.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name three patterns Bina can put on a dress.",
-      "e": "Stars, flowers, and circles.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two clothes Udin wears to school.",
-      "e": "A shirt and socks.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write two colours on Nani's scarf.",
-      "e": "Pink and purple.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Give two shapes Sari sees on her socks.",
-      "e": "Squares and triangles.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Bina has a red dress. The dress has stars. What is Bina wearing? Tell it in sentences.",
-      "e": "Bina is wearing a red dress with stars.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Udin puts on socks and a t-shirt. His socks show circles. Describe his clothes.",
-      "e": "Udin is wearing a t-shirt and socks with circles.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Nani sees a scarf with flowers. She likes it. What is she wearing? Write your answer.",
-      "e": "Nani is wearing a scarf with flowers.",
-      "baris": 4
      }
     ]
    },
@@ -19695,96 +19821,6 @@ window.KUIS = [
        "He is wearing a blue uniform."
       ],
       "e": "Wearing questions get full sentences and the pattern question gets stars."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Ben's shirt shows small squares. What pattern is it?",
-      "e": "It is squares.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Ken wears socks with star shapes. Write the pattern.",
-      "e": "The pattern is stars.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Jen likes a green dress with round marks. Which pattern is on it?",
-      "e": "The round marks are circles.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Stan has a scarf with square spots. Name the pattern.",
-      "e": "The square spots are squares.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ben has a shirt on. Say his clothes in one full sentence.",
-      "e": "Ben is wearing a shirt with squares.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ken has socks on. Describe them in one sentence.",
-      "e": "Ken is wearing socks with stars.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Jen is at a party in a dress. Say what she wears in a sentence.",
-      "e": "Jen is wearing a dress with circles.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Stan has a scarf on. Tell me his clothes in a sentence.",
-      "e": "Stan is wearing a scarf with squares.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two patterns you can see on Ben's shirt.",
-      "e": "Stars and squares.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write two clothes Ken has on today.",
-      "e": "A t-shirt and socks.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name two colours on Jen's dress.",
-      "e": "Green and yellow.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Stan sees tiny shapes on his socks. Name two of them.",
-      "e": "Squares and stars.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ben gets a new shirt. It has stars on it. What is Ben wearing? Answer in sentences.",
-      "e": "Ben is wearing a shirt with stars.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ken chooses a shirt and socks. His socks show triangles. Describe his clothes.",
-      "e": "Ken is wearing a shirt and socks with triangles.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Stan has a gift. It is a scarf with flowers. Say what he is wearing.",
-      "e": "Stan is wearing a scarf with flowers.",
-      "baris": 4
      }
     ]
    },
@@ -19991,96 +20027,6 @@ window.KUIS = [
        "She is wearing a scarf with flowers."
       ],
       "e": "A wearing question gets a sentence, while color and pattern get short answers."
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Ayu's dress shows tiny stars. What pattern is on it?",
-      "e": "Stars are on the dress.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Siti wears socks with triangle marks. Write the pattern name.",
-      "e": "The pattern is triangles.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Tono has a scarf with circles. Which pattern is that?",
-      "e": "That pattern is circles.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_pendek",
-      "t": "Wati sees square spots on her shirt. Name the pattern.",
-      "e": "Squares are on her shirt.",
-      "baris": 1
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Ayu has a dress on. Say her clothes in one sentence.",
-      "e": "Ayu is wearing a dress with stars.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Siti's socks show triangles. Say what she is wearing in a sentence.",
-      "e": "Siti is wearing socks with triangles.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Tono is at school in a uniform. Say what he wears.",
-      "e": "Tono is wearing a uniform.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_kalimat",
-      "t": "Wati puts on a scarf. It shows flowers. What is she wearing? Answer in a sentence.",
-      "e": "Wati is wearing a scarf with flowers.",
-      "baris": 2
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Name three colours you can see on clothes.",
-      "e": "Red, blue, and green.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "List two clothes Ayu has in her bag.",
-      "e": "A dress and socks.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Write two colours on Tono's uniform.",
-      "e": "Brown and blue.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_daftar",
-      "t": "Wati's socks have two shapes. Name them.",
-      "e": "Circles and squares.",
-      "baris": 3
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Ayu wears a blue dress with stars. Describe her clothes in two sentences.",
-      "e": "Ayu is wearing a blue dress with stars.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Siti picks a t-shirt and socks. Her socks show squares. Describe her clothes.",
-      "e": "Siti is wearing a t-shirt and socks with squares.",
-      "baris": 4
-     },
-     {
-      "tipe": "essay_cerita",
-      "t": "Tono sees a shirt with stars. He likes it. What is he wearing? Write a sentence.",
-      "e": "Tono is wearing a shirt with stars.",
-      "baris": 4
      }
     ]
    },
@@ -20287,7 +20233,301 @@ window.KUIS = [
        "He is wearing a shirt with squares."
       ],
       "e": "Wearing gets a full sentence, and color or pattern gets one word."
+     }
+    ]
+   },
+   {
+    "kode": "E",
+    "nama": "Essay E",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Bina sees small yellow shapes on her shirt. Name the pattern.",
+      "e": "The small shapes are stars.",
+      "baris": 1
      },
+     {
+      "tipe": "essay_pendek",
+      "t": "Udin wears socks with round shapes. What pattern is that?",
+      "e": "Round shapes make circles.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Nani has a dress with triangle marks. Write the pattern word.",
+      "e": "The pattern word is triangles.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Sari's scarf shows little flowers. Which pattern is it?",
+      "e": "It is flowers.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "What is Bina wearing? Answer with a full sentence about her shirt.",
+      "e": "Bina is wearing a shirt with stars.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "What is Udin wearing? Answer in a sentence about his socks.",
+      "e": "Udin is wearing socks with squares.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Nani is at the school party. What is she wearing? Use a sentence.",
+      "e": "Nani is wearing a dress with flowers.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Sari has a new scarf. Say what she is wearing in one sentence.",
+      "e": "Sari is wearing a scarf with triangles.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name three patterns Bina can put on a dress.",
+      "e": "Stars, flowers, and circles.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two clothes Udin wears to school.",
+      "e": "A shirt and socks.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write two colours on Nani's scarf.",
+      "e": "Pink and purple.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Give two shapes Sari sees on her socks.",
+      "e": "Squares and triangles.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Bina has a red dress. The dress has stars. What is Bina wearing? Tell it in sentences.",
+      "e": "Bina is wearing a red dress with stars.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Udin puts on socks and a t-shirt. His socks show circles. Describe his clothes.",
+      "e": "Udin is wearing a t-shirt and socks with circles.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Nani sees a scarf with flowers. She likes it. What is she wearing? Write your answer.",
+      "e": "Nani is wearing a scarf with flowers.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "F",
+    "nama": "Essay F",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Ben's shirt shows small squares. What pattern is it?",
+      "e": "It is squares.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Ken wears socks with star shapes. Write the pattern.",
+      "e": "The pattern is stars.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Jen likes a green dress with round marks. Which pattern is on it?",
+      "e": "The round marks are circles.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Stan has a scarf with square spots. Name the pattern.",
+      "e": "The square spots are squares.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ben has a shirt on. Say his clothes in one full sentence.",
+      "e": "Ben is wearing a shirt with squares.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ken has socks on. Describe them in one sentence.",
+      "e": "Ken is wearing socks with stars.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Jen is at a party in a dress. Say what she wears in a sentence.",
+      "e": "Jen is wearing a dress with circles.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Stan has a scarf on. Tell me his clothes in a sentence.",
+      "e": "Stan is wearing a scarf with squares.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two patterns you can see on Ben's shirt.",
+      "e": "Stars and squares.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write two clothes Ken has on today.",
+      "e": "A t-shirt and socks.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name two colours on Jen's dress.",
+      "e": "Green and yellow.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Stan sees tiny shapes on his socks. Name two of them.",
+      "e": "Squares and stars.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ben gets a new shirt. It has stars on it. What is Ben wearing? Answer in sentences.",
+      "e": "Ben is wearing a shirt with stars.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ken chooses a shirt and socks. His socks show triangles. Describe his clothes.",
+      "e": "Ken is wearing a shirt and socks with triangles.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Stan has a gift. It is a scarf with flowers. Say what he is wearing.",
+      "e": "Stan is wearing a scarf with flowers.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "G",
+    "nama": "Essay G",
+    "soal": [
+     {
+      "tipe": "essay_pendek",
+      "t": "Ayu's dress shows tiny stars. What pattern is on it?",
+      "e": "Stars are on the dress.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Siti wears socks with triangle marks. Write the pattern name.",
+      "e": "The pattern is triangles.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Tono has a scarf with circles. Which pattern is that?",
+      "e": "That pattern is circles.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_pendek",
+      "t": "Wati sees square spots on her shirt. Name the pattern.",
+      "e": "Squares are on her shirt.",
+      "baris": 1
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Ayu has a dress on. Say her clothes in one sentence.",
+      "e": "Ayu is wearing a dress with stars.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Siti's socks show triangles. Say what she is wearing in a sentence.",
+      "e": "Siti is wearing socks with triangles.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Tono is at school in a uniform. Say what he wears.",
+      "e": "Tono is wearing a uniform.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_kalimat",
+      "t": "Wati puts on a scarf. It shows flowers. What is she wearing? Answer in a sentence.",
+      "e": "Wati is wearing a scarf with flowers.",
+      "baris": 2
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Name three colours you can see on clothes.",
+      "e": "Red, blue, and green.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "List two clothes Ayu has in her bag.",
+      "e": "A dress and socks.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Write two colours on Tono's uniform.",
+      "e": "Brown and blue.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_daftar",
+      "t": "Wati's socks have two shapes. Name them.",
+      "e": "Circles and squares.",
+      "baris": 3
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Ayu wears a blue dress with stars. Describe her clothes in two sentences.",
+      "e": "Ayu is wearing a blue dress with stars.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Siti picks a t-shirt and socks. Her socks show squares. Describe her clothes.",
+      "e": "Siti is wearing a t-shirt and socks with squares.",
+      "baris": 4
+     },
+     {
+      "tipe": "essay_cerita",
+      "t": "Tono sees a shirt with stars. He likes it. What is he wearing? Write a sentence.",
+      "e": "Tono is wearing a shirt with stars.",
+      "baris": 4
+     }
+    ]
+   },
+   {
+    "kode": "H",
+    "nama": "Essay H",
+    "soal": [
      {
       "tipe": "essay_pendek",
       "t": "Dina has a green t-shirt with circles. Name the pattern.",

@@ -34,22 +34,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"Setelah selesai menggunting, Tono menutup gunting dan menyimpannya. Tindakan Tono menunjukkan ....","p":["kehati-hatian","kecepatan","keheranan"],"j":0,"e":"Menutup gunting menunjukkan kehati-hatian."},
         {"tipe":"isian","t":"Kain potong-potong ditempel Bu Guru ke kertas bersama daun. Teknik itu disebut ....","p":["sketsa","kolase","patung"],"j":1,"e":"Teknik menempel kain dan daun disebut kolase."},
         {"tipe":"bs","t":"Penggaris dipakai untuk memotong kertas.","p":["Benar","Salah"],"j":1,"e":"Salah, penggaris untuk menggaris, gunting untuk memotong."},
-        {"tipe":"cocok","t":"Cocokkan tiga bahan gambar dengan hasil yang dibuatnya!","pasangan":[["Krayon","mewarnai tanpa air"],["Cat air","mewarnai dengan air"],["Cat minyak","melukis dengan kuas"]],"urutKanan":["melukis dengan kuas","mewarnai tanpa air","mewarnai dengan air"],"e":"Krayon tanpa air, cat air dengan air, cat minyak untuk melukis."},
-         {"tipe":"essay_pendek","t":"Sebutkan dua benda di meja seni yang termasuk media!","e":"Kertas gambar dan kain perca termasuk media berkarya.","baris":1},
-         {"tipe":"essay_pendek","t":"Apa beda pensil dan pensil warna saat dipakai menggambar?","e":"Pensil membuat goresan hitam, pensil warna memberi warna pada gambar.","baris":1},
-         {"tipe":"essay_pendek","t":"Alat apa yang dipakai untuk menarik garis lurus?","e":"Penggaris dipakai untuk menarik garis lurus.","baris":1},
-         {"tipe":"essay_pendek","t":"Sebutkan satu kegunaan kuas dalam kegiatan melukis!","e":"Kuas dipakai untuk mengoles cat ke kanvas.","baris":1},
-         {"tipe":"essay_kalimat","t":"Jelaskan dengan satu kalimat cara memegang pensil yang benar!","e":"Pensil dipegang dengan tiga jari agar mudah digerakkan.","baris":2},
-         {"tipe":"essay_kalimat","t":"Tulis satu kalimat tentang cara duduk yang baik saat menggambar!","e":"Saat menggambar, badan duduk tegak dan kaki menempel lantai.","baris":2},
-         {"tipe":"essay_kalimat","t":"Buat kalimat yang menjelaskan kenapa gunting harus dipakai hati-hati!","e":"Gunting tajam, jadi harus dipakai hati-hati agar jari tidak terluka.","baris":2},
-         {"tipe":"essay_kalimat","t":"Rangkaikan kalimat tentang cara merawat kuas setelah melukis!","e":"Kuas dicuci dengan air bersih lalu dikeringkan setelah dipakai.","baris":2},
-         {"tipe":"essay_daftar","t":"Sebutkan tiga alat gambar yang ada di kotak seni Dinda!","e":"Pensil, penggaris, dan penghapus ada di kotak seni Dinda.","baris":3},
-         {"tipe":"essay_daftar","t":"Tuliskan tiga jenis bahan pewarna yang dipakai saat mewarnai!","e":"Pensil warna, krayon, dan cat air dipakai untuk mewarnai.","baris":3},
-         {"tipe":"essay_daftar","t":"Sebutkan tiga macam media yang bisa menerima goresan cat!","e":"Kertas, kanvas, dan kain bisa menerima goresan cat.","baris":3},
-         {"tipe":"essay_daftar","t":"Tulis tiga contoh potongan bahan untuk membuat kolase!","e":"Potongan kertas, daun kering, dan kain perca dipakai untuk kolase.","baris":3},
-         {"tipe":"essay_cerita","t":"Ceritakan bagaimana Farrel membuat gambar pohon dari awal sampai selesai!","e":"Farrel menggambar batang dengan pensil, lalu mewarnai daun dengan krayon.","baris":4},
-         {"tipe":"essay_cerita","t":"Tulis cerita pendek tentang Zahra yang menempel daun pada karton!","e":"Zahra mengumpulkan daun kering lalu menempelkannya dengan lem pada karton.","baris":4},
-         {"tipe":"essay_cerita","t":"Ceritakan kegiatan Bima merapikan meja setelah membuat kolase!","e":"Bima membuang sisa kertas, menutup lem, dan menyimpan gunting setelah selesai.","baris":4}
+        {"tipe":"cocok","t":"Cocokkan tiga bahan gambar dengan hasil yang dibuatnya!","pasangan":[["Krayon","mewarnai tanpa air"],["Cat air","mewarnai dengan air"],["Cat minyak","melukis dengan kuas"]],"urutKanan":["melukis dengan kuas","mewarnai tanpa air","mewarnai dengan air"],"e":"Krayon tanpa air, cat air dengan air, cat minyak untuk melukis."}
       ]
     },
     {
@@ -70,22 +55,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"Tangan Rania terlalu dekat ujung gunting saat memotong. Agar aman, ia harus ....","p":["memegang pada gagang","membuka gunting lebar-lebar","menutup mata"],"j":0,"e":"Rania harus memegang pada gagang gunting."},
         {"tipe":"isian","t":"Bahan yang dipakai untuk merekatkan potongan kertas adalah ....","p":["pensil warna","lem","krayon"],"j":1,"e":"Lem dipakai untuk merekatkan potongan kertas."},
         {"tipe":"bs","t":"Memegang pensil terlalu dekat ujungnya dianjurkan.","p":["Benar","Salah"],"j":1,"e":"Salah, pensil sebaiknya dipegang agak jauh dari ujung."},
-        {"tipe":"cocok","t":"Pasangkan alat gambar dengan kegunaan yang tepat!","pasangan":[["Penggaris","membuat garis lurus"],["Kuas","mengoles cat"],["Gunting","memotong kertas"]],"urutKanan":["memotong kertas","membuat garis lurus","mengoles cat"],"e":"Penggaris menggaris, kuas mengoles cat, gunting memotong kertas."},
-         {"tipe":"essay_pendek","t":"Sebutkan alat yang dipakai untuk mengoles cat air!","e":"Kuas dipakai untuk mengoles cat air.","baris":1},
-         {"tipe":"essay_pendek","t":"Apa sebutan karya tempelan yang memakai kertas dan daun kering?","e":"Karya semacam itu disebut kolase.","baris":1},
-         {"tipe":"essay_pendek","t":"Sebutkan kegunaan penggaris saat menggambar rumah!","e":"Penggaris membantu membuat garis lurus pada gambar rumah.","baris":1},
-         {"tipe":"essay_pendek","t":"Media apa yang terbuat dari kain dan dipakai untuk melukis?","e":"Kanvas terbuat dari kain dan dipakai untuk melukis.","baris":1},
-         {"tipe":"essay_kalimat","t":"Tulis kalimat yang membedakan alat dan bahan dalam karya seni!","e":"Alat dipakai untuk mengerjakan, bahan dipakai untuk membentuk karya.","baris":2},
-         {"tipe":"essay_kalimat","t":"Buat satu kalimat tentang cara memegang gunting dengan aman!","e":"Gunting dipegang pada gagangnya agar jari tetap aman.","baris":2},
-         {"tipe":"essay_kalimat","t":"Rangkaikan kalimat tentang manfaat merapikan meja setelah berkarya!","e":"Merapikan meja membuat alat mudah dicari lagi.","baris":2},
-         {"tipe":"essay_kalimat","t":"Tulis kalimat tentang krayon yang digoreskan langsung tanpa air!","e":"Krayon digoreskan langsung pada kertas tanpa dicelup air.","baris":2},
-         {"tipe":"essay_daftar","t":"Sebutkan tiga alat yang dipakai untuk menggambar di buku gambar!","e":"Pensil, penggaris, dan penghapus dipakai untuk menggambar.","baris":3},
-         {"tipe":"essay_daftar","t":"Tuliskan tiga contoh media tempat berkarya!","e":"Kertas, kanvas, dan kain menjadi tempat berkarya.","baris":3},
-         {"tipe":"essay_daftar","t":"Sebutkan tiga cara menjaga keamanan saat memakai gunting!","e":"Memegang gagang, tidak berlari, dan menjauhkan dari teman.","baris":3},
-         {"tipe":"essay_daftar","t":"Tulis tiga langkah membuat kolase dari kertas bekas!","e":"Potong kertas, oles lem, lalu tempel rapi di karton.","baris":3},
-         {"tipe":"essay_cerita","t":"Ceritakan pengalaman Kinan melukis bunga di halaman dengan cat air!","e":"Kinan mencelup kuas ke cat air lalu mengoleskannya pada kertas gambar.","baris":4},
-         {"tipe":"essay_cerita","t":"Tulis kisah Rafa yang mengumpulkan biji jagung untuk karya seni!","e":"Rafa mengumpulkan biji jagung lalu menempelkannya dengan lem.","baris":4},
-         {"tipe":"essay_cerita","t":"Ceritakan bagaimana Nabila menyimpan alat seninya setelah selesai!","e":"Nabila mencuci kuas, menutup lem, dan meletakkan gunting di kotak.","baris":4}
+        {"tipe":"cocok","t":"Pasangkan alat gambar dengan kegunaan yang tepat!","pasangan":[["Penggaris","membuat garis lurus"],["Kuas","mengoles cat"],["Gunting","memotong kertas"]],"urutKanan":["memotong kertas","membuat garis lurus","mengoles cat"],"e":"Penggaris menggaris, kuas mengoles cat, gunting memotong kertas."}
       ]
     },
     {
@@ -106,22 +76,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"Setelah menempel daun, Rizky merapikan meja. Tindakan itu disebut ....","p":["membersihkan tempat kerja","menggaris kertas","mencampur cat"],"j":0,"e":"Merapikan meja disebut membersihkan tempat kerja."},
         {"tipe":"isian","t":"Bahan yang ditempel Beni pada gambar kupu-kupu adalah daun ....","p":["basah","kering","baru"],"j":1,"e":"Beni menempelkan daun kering pada gambar kupu-kupu."},
         {"tipe":"bs","t":"Menggunting sambil berlari di kelas diperbolehkan.","p":["Benar","Salah"],"j":1,"e":"Salah, gunting harus dipakai duduk dan hati-hati."},
-        {"tipe":"cocok","t":"Hubungkan tiap teknik dengan bahan yang dipakainya!","pasangan":[["Kolase","potongan kertas"],["Melukis","cat air"],["Mewarnai","krayon"]],"urutKanan":["krayon","potongan kertas","cat air"],"e":"Kolase memakai potongan kertas, melukis cat air, mewarnai krayon."},
-         {"tipe":"essay_pendek","t":"Sebutkan benda yang dipakai untuk menghapus goresan pensil!","e":"Penghapus dipakai untuk menghapus goresan pensil.","baris":1},
-         {"tipe":"essay_pendek","t":"Apa yang terjadi jika krayon dicelup ke air?","e":"Krayon tetap bisa digoreskan karena tidak perlu dicelup air.","baris":1},
-         {"tipe":"essay_pendek","t":"Sebutkan alat yang ujungnya berbulu untuk mewarnai gambar!","e":"Kuas adalah alat berbulu yang dipakai untuk mewarnai.","baris":1},
-         {"tipe":"essay_pendek","t":"Sebutkan media yang terbuat dari kertas dan dipakai untuk menggambar!","e":"Kertas gambar adalah media untuk menggambar.","baris":1},
-         {"tipe":"essay_kalimat","t":"Tulis kalimat tentang pensil yang dipakai untuk membuat pola!","e":"Pensil dipakai untuk membuat pola sebelum mewarnai gambar.","baris":2},
-         {"tipe":"essay_kalimat","t":"Buat kalimat yang menjelaskan posisi punggung saat anak menggambar!","e":"Punggung sebaiknya tegak agar tangan mudah bergerak.","baris":2},
-         {"tipe":"essay_kalimat","t":"Rangkaikan kalimat tentang gunting yang disimpan setelah dipakai!","e":"Gunting ditutup dan disimpan setelah selesai dipakai.","baris":2},
-         {"tipe":"essay_kalimat","t":"Tulis kalimat tentang kolase yang memakai potongan kain!","e":"Kolase dibuat dengan menempel potongan kain pada kertas.","baris":2},
-         {"tipe":"essay_daftar","t":"Sebutkan tiga kegunaan alat gambar di kelas!","e":"Pensil untuk menggambar, penggaris untuk menggaris, lem untuk menempel.","baris":3},
-         {"tipe":"essay_daftar","t":"Tuliskan tiga contoh bahan alam untuk kolase!","e":"Daun kering, ranting, dan biji jagung dipakai untuk kolase.","baris":3},
-         {"tipe":"essay_daftar","t":"Sebutkan tiga benda yang bisa jadi media berkarya!","e":"Kertas, kanvas, dan kain bisa jadi media berkarya.","baris":3},
-         {"tipe":"essay_daftar","t":"Tulis tiga langkah merawat alat gambar setelah dipakai!","e":"Bersihkan kuas, tutup lem, dan simpan pensil di kotak.","baris":3},
-         {"tipe":"essay_cerita","t":"Ceritakan kisah Alya yang menyiapkan buku gambar dan pensil!","e":"Alya menyiapkan buku gambar, pensil, dan krayon sebelum mulai menggambar.","baris":4},
-         {"tipe":"essay_cerita","t":"Tulis cerita tentang Dimas yang menempel kertas dengan lem!","e":"Dimas mengoles lem pada kertas lalu menempelkannya rapi.","baris":4},
-         {"tipe":"essay_cerita","t":"Ceritakan kegiatan Nadia saat menyiapkan media kanvas!","e":"Nadia membentangkan kanvas di meja lalu menyiapkan kuas dan cat.","baris":4}
+        {"tipe":"cocok","t":"Hubungkan tiap teknik dengan bahan yang dipakainya!","pasangan":[["Kolase","potongan kertas"],["Melukis","cat air"],["Mewarnai","krayon"]],"urutKanan":["krayon","potongan kertas","cat air"],"e":"Kolase memakai potongan kertas, melukis cat air, mewarnai krayon."}
       ]
     },
     {
@@ -142,7 +97,76 @@ window.KUIS.push({
         {"tipe":"pg","t":"Bahan yang biasa dipakai bersama kuas untuk melukis adalah ....","p":["cat minyak","krayon","pensil warna"],"j":0,"e":"Cat minyak dioles bersama kuas saat melukis."},
         {"tipe":"isian","t":"Untuk membuat garis lurus, Anisa meletakkan .... di atas kertas.","p":["penggaris","gunting","krayon"],"j":0,"e":"Anisa meletakkan penggaris untuk membuat garis lurus."},
         {"tipe":"bs","t":"Gunting disimpan setelah dipakai tanpa ditutup.","p":["Benar","Salah"],"j":1,"e":"Salah, gunting sebaiknya ditutup setelah dipakai."},
-        {"tipe":"cocok","t":"Hubungkan potongan bahan dengan teknik kolase yang benar!","pasangan":[["Daun kering","ditempel dengan lem"],["Kain perca","dipotong gunting"],["Kertas bekas","dilem pada kertas"]],"urutKanan":["dilem pada kertas","ditempel dengan lem","dipotong gunting"],"e":"Daun ditempel lem, kain dipotong gunting, kertas dilem."},
+        {"tipe":"cocok","t":"Hubungkan potongan bahan dengan teknik kolase yang benar!","pasangan":[["Daun kering","ditempel dengan lem"],["Kain perca","dipotong gunting"],["Kertas bekas","dilem pada kertas"]],"urutKanan":["dilem pada kertas","ditempel dengan lem","dipotong gunting"],"e":"Daun ditempel lem, kain dipotong gunting, kertas dilem."}
+      ]
+    },
+    {
+      "kode": "E",
+      "nama": "Essay E",
+      "soal": [
+         {"tipe":"essay_pendek","t":"Sebutkan dua benda di meja seni yang termasuk media!","e":"Kertas gambar dan kain perca termasuk media berkarya.","baris":1},
+         {"tipe":"essay_pendek","t":"Apa beda pensil dan pensil warna saat dipakai menggambar?","e":"Pensil membuat goresan hitam, pensil warna memberi warna pada gambar.","baris":1},
+         {"tipe":"essay_pendek","t":"Alat apa yang dipakai untuk menarik garis lurus?","e":"Penggaris dipakai untuk menarik garis lurus.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan satu kegunaan kuas dalam kegiatan melukis!","e":"Kuas dipakai untuk mengoles cat ke kanvas.","baris":1},
+         {"tipe":"essay_kalimat","t":"Jelaskan dengan satu kalimat cara memegang pensil yang benar!","e":"Pensil dipegang dengan tiga jari agar mudah digerakkan.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tulis satu kalimat tentang cara duduk yang baik saat menggambar!","e":"Saat menggambar, badan duduk tegak dan kaki menempel lantai.","baris":2},
+         {"tipe":"essay_kalimat","t":"Buat kalimat yang menjelaskan kenapa gunting harus dipakai hati-hati!","e":"Gunting tajam, jadi harus dipakai hati-hati agar jari tidak terluka.","baris":2},
+         {"tipe":"essay_kalimat","t":"Rangkaikan kalimat tentang cara merawat kuas setelah melukis!","e":"Kuas dicuci dengan air bersih lalu dikeringkan setelah dipakai.","baris":2},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga alat gambar yang ada di kotak seni Dinda!","e":"Pensil, penggaris, dan penghapus ada di kotak seni Dinda.","baris":3},
+         {"tipe":"essay_daftar","t":"Tuliskan tiga jenis bahan pewarna yang dipakai saat mewarnai!","e":"Pensil warna, krayon, dan cat air dipakai untuk mewarnai.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga macam media yang bisa menerima goresan cat!","e":"Kertas, kanvas, dan kain bisa menerima goresan cat.","baris":3},
+         {"tipe":"essay_daftar","t":"Tulis tiga contoh potongan bahan untuk membuat kolase!","e":"Potongan kertas, daun kering, dan kain perca dipakai untuk kolase.","baris":3},
+         {"tipe":"essay_cerita","t":"Ceritakan bagaimana Farrel membuat gambar pohon dari awal sampai selesai!","e":"Farrel menggambar batang dengan pensil, lalu mewarnai daun dengan krayon.","baris":4},
+         {"tipe":"essay_cerita","t":"Tulis cerita pendek tentang Zahra yang menempel daun pada karton!","e":"Zahra mengumpulkan daun kering lalu menempelkannya dengan lem pada karton.","baris":4},
+         {"tipe":"essay_cerita","t":"Ceritakan kegiatan Bima merapikan meja setelah membuat kolase!","e":"Bima membuang sisa kertas, menutup lem, dan menyimpan gunting setelah selesai.","baris":4}
+      ]
+    },
+    {
+      "kode": "F",
+      "nama": "Essay F",
+      "soal": [
+         {"tipe":"essay_pendek","t":"Sebutkan alat yang dipakai untuk mengoles cat air!","e":"Kuas dipakai untuk mengoles cat air.","baris":1},
+         {"tipe":"essay_pendek","t":"Apa sebutan karya tempelan yang memakai kertas dan daun kering?","e":"Karya semacam itu disebut kolase.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan kegunaan penggaris saat menggambar rumah!","e":"Penggaris membantu membuat garis lurus pada gambar rumah.","baris":1},
+         {"tipe":"essay_pendek","t":"Media apa yang terbuat dari kain dan dipakai untuk melukis?","e":"Kanvas terbuat dari kain dan dipakai untuk melukis.","baris":1},
+         {"tipe":"essay_kalimat","t":"Tulis kalimat yang membedakan alat dan bahan dalam karya seni!","e":"Alat dipakai untuk mengerjakan, bahan dipakai untuk membentuk karya.","baris":2},
+         {"tipe":"essay_kalimat","t":"Buat satu kalimat tentang cara memegang gunting dengan aman!","e":"Gunting dipegang pada gagangnya agar jari tetap aman.","baris":2},
+         {"tipe":"essay_kalimat","t":"Rangkaikan kalimat tentang manfaat merapikan meja setelah berkarya!","e":"Merapikan meja membuat alat mudah dicari lagi.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tulis kalimat tentang krayon yang digoreskan langsung tanpa air!","e":"Krayon digoreskan langsung pada kertas tanpa dicelup air.","baris":2},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga alat yang dipakai untuk menggambar di buku gambar!","e":"Pensil, penggaris, dan penghapus dipakai untuk menggambar.","baris":3},
+         {"tipe":"essay_daftar","t":"Tuliskan tiga contoh media tempat berkarya!","e":"Kertas, kanvas, dan kain menjadi tempat berkarya.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga cara menjaga keamanan saat memakai gunting!","e":"Memegang gagang, tidak berlari, dan menjauhkan dari teman.","baris":3},
+         {"tipe":"essay_daftar","t":"Tulis tiga langkah membuat kolase dari kertas bekas!","e":"Potong kertas, oles lem, lalu tempel rapi di karton.","baris":3},
+         {"tipe":"essay_cerita","t":"Ceritakan pengalaman Kinan melukis bunga di halaman dengan cat air!","e":"Kinan mencelup kuas ke cat air lalu mengoleskannya pada kertas gambar.","baris":4},
+         {"tipe":"essay_cerita","t":"Tulis kisah Rafa yang mengumpulkan biji jagung untuk karya seni!","e":"Rafa mengumpulkan biji jagung lalu menempelkannya dengan lem.","baris":4},
+         {"tipe":"essay_cerita","t":"Ceritakan bagaimana Nabila menyimpan alat seninya setelah selesai!","e":"Nabila mencuci kuas, menutup lem, dan meletakkan gunting di kotak.","baris":4}
+      ]
+    },
+    {
+      "kode": "G",
+      "nama": "Essay G",
+      "soal": [
+         {"tipe":"essay_pendek","t":"Sebutkan benda yang dipakai untuk menghapus goresan pensil!","e":"Penghapus dipakai untuk menghapus goresan pensil.","baris":1},
+         {"tipe":"essay_pendek","t":"Apa yang terjadi jika krayon dicelup ke air?","e":"Krayon tetap bisa digoreskan karena tidak perlu dicelup air.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan alat yang ujungnya berbulu untuk mewarnai gambar!","e":"Kuas adalah alat berbulu yang dipakai untuk mewarnai.","baris":1},
+         {"tipe":"essay_pendek","t":"Sebutkan media yang terbuat dari kertas dan dipakai untuk menggambar!","e":"Kertas gambar adalah media untuk menggambar.","baris":1},
+         {"tipe":"essay_kalimat","t":"Tulis kalimat tentang pensil yang dipakai untuk membuat pola!","e":"Pensil dipakai untuk membuat pola sebelum mewarnai gambar.","baris":2},
+         {"tipe":"essay_kalimat","t":"Buat kalimat yang menjelaskan posisi punggung saat anak menggambar!","e":"Punggung sebaiknya tegak agar tangan mudah bergerak.","baris":2},
+         {"tipe":"essay_kalimat","t":"Rangkaikan kalimat tentang gunting yang disimpan setelah dipakai!","e":"Gunting ditutup dan disimpan setelah selesai dipakai.","baris":2},
+         {"tipe":"essay_kalimat","t":"Tulis kalimat tentang kolase yang memakai potongan kain!","e":"Kolase dibuat dengan menempel potongan kain pada kertas.","baris":2},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga kegunaan alat gambar di kelas!","e":"Pensil untuk menggambar, penggaris untuk menggaris, lem untuk menempel.","baris":3},
+         {"tipe":"essay_daftar","t":"Tuliskan tiga contoh bahan alam untuk kolase!","e":"Daun kering, ranting, dan biji jagung dipakai untuk kolase.","baris":3},
+         {"tipe":"essay_daftar","t":"Sebutkan tiga benda yang bisa jadi media berkarya!","e":"Kertas, kanvas, dan kain bisa jadi media berkarya.","baris":3},
+         {"tipe":"essay_daftar","t":"Tulis tiga langkah merawat alat gambar setelah dipakai!","e":"Bersihkan kuas, tutup lem, dan simpan pensil di kotak.","baris":3},
+         {"tipe":"essay_cerita","t":"Ceritakan kisah Alya yang menyiapkan buku gambar dan pensil!","e":"Alya menyiapkan buku gambar, pensil, dan krayon sebelum mulai menggambar.","baris":4},
+         {"tipe":"essay_cerita","t":"Tulis cerita tentang Dimas yang menempel kertas dengan lem!","e":"Dimas mengoles lem pada kertas lalu menempelkannya rapi.","baris":4},
+         {"tipe":"essay_cerita","t":"Ceritakan kegiatan Nadia saat menyiapkan media kanvas!","e":"Nadia membentangkan kanvas di meja lalu menyiapkan kuas dan cat.","baris":4}
+      ]
+    },
+    {
+      "kode": "H",
+      "nama": "Essay H",
+      "soal": [
          {"tipe":"essay_pendek","t":"Sebutkan alat yang dipakai untuk memotong kertas!","e":"Gunting dipakai untuk memotong kertas.","baris":1},
          {"tipe":"essay_pendek","t":"Apa kegunaan lem dalam kegiatan kolase?","e":"Lem dipakai untuk merekatkan potongan ke media.","baris":1},
          {"tipe":"essay_pendek","t":"Media apa yang berbentuk lembaran dan dipakai untuk menggambar?","e":"Kertas gambar berbentuk lembaran dan dipakai untuk menggambar.","baris":1},

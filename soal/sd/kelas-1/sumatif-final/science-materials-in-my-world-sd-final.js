@@ -34,22 +34,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"Try folding a thick branch. It resists. Name that trait.","p":["flexible","rigid","soft"],"j":1,"e":"Rigid means stiff and hard to curve."},
         {"tipe":"isian","t":"White sap is tapped from which growing plant?","p":["rubber tree","oak tree","pine tree"],"j":0,"e":"Rubber tree sap gives us rubber."},
         {"tipe":"bs","t":"Dropping trash helps the planet.","p":["True","False"],"j":1,"e":"False. Litter hurts the Earth, so we should recycle."},
-        {"tipe":"cocok","t":"Draw lines: tool or page to its making stuff.","pasangan":[["Scissors","metal"],["Calendar","paper"],["Windowpane","glass"]],"urutKanan":["paper","glass","metal"],"e":"Scissors are metal, calendar is paper, and windowpane is glass."},
-        {"tipe":"essay_pendek","t":"A spoon feels cold and hard. What is it made of?","e":"Metal makes the spoon, and metal feels cold and hard.","baris":1},
-        {"tipe":"essay_pendek","t":"Fish swim inside a clear tank. Name the tank material.","e":"The tank is glass, which is see-through.","baris":1},
-        {"tipe":"essay_pendek","t":"What soft material fills a pillow?","e":"A pillow is filled with soft fabric or stuffing.","baris":1},
-        {"tipe":"essay_pendek","t":"Name the stiff material a ruler is cut from.","e":"A ruler is cut from rigid wood or plastic.","baris":1},
-        {"tipe":"essay_kalimat","t":"Tell why a raincoat keeps a child dry.","e":"A raincoat is waterproof, so rain cannot soak through it.","baris":2},
-        {"tipe":"essay_kalimat","t":"Explain why a brick cannot bend.","e":"A brick is rigid and hard, so it will not curve.","baris":2},
-        {"tipe":"essay_kalimat","t":"Say why a window lets you see a tree.","e":"Glass is transparent, so light passes and you see the tree.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tell why a sponge soaks up a spill.","e":"A sponge is absorbent, so it pulls water in.","baris":2},
-        {"tipe":"essay_daftar","t":"List two things at home that are made of wood.","e":"A table and a chair are made of wood.","baris":3},
-        {"tipe":"essay_daftar","t":"Write two materials that let light through.","e":"Glass and clear plastic let light through.","baris":3},
-        {"tipe":"essay_daftar","t":"Name two materials that are waterproof.","e":"Rubber and plastic are waterproof.","baris":3},
-        {"tipe":"essay_daftar","t":"Give two things you can do to help the Earth.","e":"You can reduce waste and reuse a bottle.","baris":3},
-        {"tipe":"essay_cerita","t":"Rina drops a glass cup. It breaks. Tell why.","e":"Glass is brittle, so it breaks when it falls.","baris":4},
-        {"tipe":"essay_cerita","t":"A boy bends a wire, then twists it. Describe both moves.","e":"He bends the wire into a curve and twists it around.","baris":4},
-        {"tipe":"essay_cerita","t":"A can is used, then saved and made new. Tell the story.","e":"The can is reused, then recycled into a new can.","baris":4}
+        {"tipe":"cocok","t":"Draw lines: tool or page to its making stuff.","pasangan":[["Scissors","metal"],["Calendar","paper"],["Windowpane","glass"]],"urutKanan":["paper","glass","metal"],"e":"Scissors are metal, calendar is paper, and windowpane is glass."}
       ]
     },
     {
@@ -70,22 +55,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"Wood comes from this part of a tree.","p":["leaf","trunk","root"],"j":1,"e":"The trunk gives us wood for desks and pencils."},
         {"tipe":"isian","t":"An old jar used again as a pot. Say the act.","p":["reuse","recycle","reject"],"j":0,"e":"Reuse means using a jar again instead of tossing it."},
         {"tipe":"bs","t":"Recycling turns old sheets into new sheets.","p":["True","False"],"j":0,"e":"True. Recycling makes fresh paper from used paper."},
-        {"tipe":"cocok","t":"Link the cooking pot, the pail, and the plank to their stuff.","pasangan":[["Pot","metal"],["Pail","plastic"],["Plank","wood"]],"urutKanan":["plastic","wood","metal"],"e":"Pot is metal, pail is plastic, and plank is wood."},
-        {"tipe":"essay_pendek","t":"A boot keeps water out. Which material is it?","e":"Boots are made of rubber, which keeps water out.","baris":1},
-        {"tipe":"essay_pendek","t":"What material makes a clean window pane?","e":"Window panes are made of glass.","baris":1},
-        {"tipe":"essay_pendek","t":"Which material can be stretched and snaps back?","e":"Rubber stretches and then snaps back.","baris":1},
-        {"tipe":"essay_pendek","t":"Name the material a warm scarf is knit from.","e":"A soft scarf is knit from wool or fabric.","baris":1},
-        {"tipe":"essay_kalimat","t":"Explain why a plastic bag keeps rain off.","e":"Plastic is waterproof, so rain stays outside the bag.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tell how a towel dries wet hands.","e":"The towel is absorbent and soaks the water from your hands.","baris":2},
-        {"tipe":"essay_kalimat","t":"Say why a metal spoon gets hot in soup.","e":"Metal carries heat, so the spoon gets hot.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tell why a pillow is soft, not hard.","e":"The pillow is filled with soft material, so it is not hard.","baris":2},
-        {"tipe":"essay_daftar","t":"List two things that glass is used for.","e":"Glass is used for windows and drinking cups.","baris":3},
-        {"tipe":"essay_daftar","t":"Write two soft materials you can bend.","e":"Fabric and rubber are soft and bend easily.","baris":3},
-        {"tipe":"essay_daftar","t":"Name two things that are made of metal.","e":"A key and a pair of scissors are made of metal.","baris":3},
-        {"tipe":"essay_daftar","t":"Give two ways to reuse an old jar.","e":"Keep pencils in it or use it to hold flowers.","baris":3},
-        {"tipe":"essay_cerita","t":"A child squashes a sponge flat. What move is that?","e":"Squashing the sponge is compressing it.","baris":4},
-        {"tipe":"essay_cerita","t":"A girl pulls a rubber band wide, then lets go. Tell what happens.","e":"The band stretches wide and then snaps back to its shape.","baris":4},
-        {"tipe":"essay_cerita","t":"An old newspaper is saved and turned into a new sheet. Tell the tale.","e":"The old paper is recycled into a fresh newspaper sheet.","baris":4}
+        {"tipe":"cocok","t":"Link the cooking pot, the pail, and the plank to their stuff.","pasangan":[["Pot","metal"],["Pail","plastic"],["Plank","wood"]],"urutKanan":["plastic","wood","metal"],"e":"Pot is metal, pail is plastic, and plank is wood."}
       ]
     },
     {
@@ -106,22 +76,7 @@ window.KUIS.push({
         {"tipe":"pg","t":"Pull a band wider. Name that move.","p":["stretch","compress","twist"],"j":0,"e":"Stretch means pulling something wider."},
         {"tipe":"isian","t":"Old glass jars become fresh jars again. Say the word.","p":["recycle","bury","burn"],"j":0,"e":"Recycle turns old glass into new glass."},
         {"tipe":"bs","t":"A wood desk is hard.","p":["True","False"],"j":0,"e":"True. Wood is firm and strong for desks."},
-        {"tipe":"cocok","t":"Hook the book, the rubber eraser, and the pencil to their stuff.","pasangan":[["Book","paper"],["Eraser","rubber"],["Pencil","wood"]],"urutKanan":["rubber","wood","paper"],"e":"Book is paper, eraser is rubber, and pencil is wood."},
-        {"tipe":"essay_pendek","t":"Which material blocks light and is not see-through?","e":"Wood is opaque, so light cannot pass through it.","baris":1},
-        {"tipe":"essay_pendek","t":"Name the material a mirror is made from.","e":"A mirror is made from glass.","baris":1},
-        {"tipe":"essay_pendek","t":"What rough material comes from a tree trunk?","e":"Bark is a rough material from a tree.","baris":1},
-        {"tipe":"essay_pendek","t":"Which material is used to make a strong bridge?","e":"Metal and rock are used to build strong bridges.","baris":1},
-        {"tipe":"essay_kalimat","t":"Explain how bending differs from twisting.","e":"Bending curves a thing, but twisting turns it around.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tell how compressing a sponge changes its size.","e":"Compressing makes the sponge smaller by pushing it together.","baris":2},
-        {"tipe":"essay_kalimat","t":"Say why an opaque box hides what is inside.","e":"The box is opaque, so light cannot pass and you cannot see in.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tell why fabric is good for making clothes.","e":"Fabric is soft and bendy, so clothes feel nice and fit well.","baris":2},
-        {"tipe":"essay_daftar","t":"List two rough materials you can touch.","e":"Rock and rough fabric feel bumpy to touch.","baris":3},
-        {"tipe":"essay_daftar","t":"Write two things that are transparent.","e":"Clear glass and clean water are transparent.","baris":3},
-        {"tipe":"essay_daftar","t":"Name two hard materials used in a kitchen.","e":"Metal pots and ceramic plates are hard.","baris":3},
-        {"tipe":"essay_daftar","t":"Give two ways to reduce trash at school.","e":"Use both sides of paper and carry a reusable bottle.","baris":3},
-        {"tipe":"essay_cerita","t":"A man twists a wet cloth to wring it out. Name the move.","e":"He is twisting the cloth to push the water out.","baris":4},
-        {"tipe":"essay_cerita","t":"A robot arm bends and stretches to reach a toy. Tell what it does.","e":"The arm bends at the joint and stretches out to grab the toy.","baris":4},
-        {"tipe":"essay_cerita","t":"A scrap of wood is saved and shaped into a toy. Tell the tale.","e":"The wood scrap is reused and carved into a little toy.","baris":4}
+        {"tipe":"cocok","t":"Hook the book, the rubber eraser, and the pencil to their stuff.","pasangan":[["Book","paper"],["Eraser","rubber"],["Pencil","wood"]],"urutKanan":["rubber","wood","paper"],"e":"Book is paper, eraser is rubber, and pencil is wood."}
       ]
     },
     {
@@ -142,7 +97,76 @@ window.KUIS.push({
         {"tipe":"pg","t":"Press a sponge flat. Name the move.","p":["compress","twist","roll"],"j":0,"e":"Compress means pressing something into a small space."},
         {"tipe":"isian","t":"A used bottle becomes a flower holder. Say the act.","p":["reuse","throw","hide"],"j":0,"e":"Reuse means a bottle gets a second job."},
         {"tipe":"bs","t":"Rubber comes from tree sap, not sand.","p":["True","False"],"j":0,"e":"True. Sap from rubber trees hardens into rubber."},
-        {"tipe":"cocok","t":"Pair the dress, the window, and the pail with their stuff.","pasangan":[["Dress","fabric"],["Window","glass"],["Pail","plastic"]],"urutKanan":["plastic","fabric","glass"],"e":"Dress is fabric, window is glass, and pail is plastic."},
+        {"tipe":"cocok","t":"Pair the dress, the window, and the pail with their stuff.","pasangan":[["Dress","fabric"],["Window","glass"],["Pail","plastic"]],"urutKanan":["plastic","fabric","glass"],"e":"Dress is fabric, window is glass, and pail is plastic."}
+      ]
+    },
+    {
+      "kode": "E",
+      "nama": "Essay E",
+      "soal": [
+        {"tipe":"essay_pendek","t":"A spoon feels cold and hard. What is it made of?","e":"Metal makes the spoon, and metal feels cold and hard.","baris":1},
+        {"tipe":"essay_pendek","t":"Fish swim inside a clear tank. Name the tank material.","e":"The tank is glass, which is see-through.","baris":1},
+        {"tipe":"essay_pendek","t":"What soft material fills a pillow?","e":"A pillow is filled with soft fabric or stuffing.","baris":1},
+        {"tipe":"essay_pendek","t":"Name the stiff material a ruler is cut from.","e":"A ruler is cut from rigid wood or plastic.","baris":1},
+        {"tipe":"essay_kalimat","t":"Tell why a raincoat keeps a child dry.","e":"A raincoat is waterproof, so rain cannot soak through it.","baris":2},
+        {"tipe":"essay_kalimat","t":"Explain why a brick cannot bend.","e":"A brick is rigid and hard, so it will not curve.","baris":2},
+        {"tipe":"essay_kalimat","t":"Say why a window lets you see a tree.","e":"Glass is transparent, so light passes and you see the tree.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tell why a sponge soaks up a spill.","e":"A sponge is absorbent, so it pulls water in.","baris":2},
+        {"tipe":"essay_daftar","t":"List two things at home that are made of wood.","e":"A table and a chair are made of wood.","baris":3},
+        {"tipe":"essay_daftar","t":"Write two materials that let light through.","e":"Glass and clear plastic let light through.","baris":3},
+        {"tipe":"essay_daftar","t":"Name two materials that are waterproof.","e":"Rubber and plastic are waterproof.","baris":3},
+        {"tipe":"essay_daftar","t":"Give two things you can do to help the Earth.","e":"You can reduce waste and reuse a bottle.","baris":3},
+        {"tipe":"essay_cerita","t":"Rina drops a glass cup. It breaks. Tell why.","e":"Glass is brittle, so it breaks when it falls.","baris":4},
+        {"tipe":"essay_cerita","t":"A boy bends a wire, then twists it. Describe both moves.","e":"He bends the wire into a curve and twists it around.","baris":4},
+        {"tipe":"essay_cerita","t":"A can is used, then saved and made new. Tell the story.","e":"The can is reused, then recycled into a new can.","baris":4}
+      ]
+    },
+    {
+      "kode": "F",
+      "nama": "Essay F",
+      "soal": [
+        {"tipe":"essay_pendek","t":"A boot keeps water out. Which material is it?","e":"Boots are made of rubber, which keeps water out.","baris":1},
+        {"tipe":"essay_pendek","t":"What material makes a clean window pane?","e":"Window panes are made of glass.","baris":1},
+        {"tipe":"essay_pendek","t":"Which material can be stretched and snaps back?","e":"Rubber stretches and then snaps back.","baris":1},
+        {"tipe":"essay_pendek","t":"Name the material a warm scarf is knit from.","e":"A soft scarf is knit from wool or fabric.","baris":1},
+        {"tipe":"essay_kalimat","t":"Explain why a plastic bag keeps rain off.","e":"Plastic is waterproof, so rain stays outside the bag.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tell how a towel dries wet hands.","e":"The towel is absorbent and soaks the water from your hands.","baris":2},
+        {"tipe":"essay_kalimat","t":"Say why a metal spoon gets hot in soup.","e":"Metal carries heat, so the spoon gets hot.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tell why a pillow is soft, not hard.","e":"The pillow is filled with soft material, so it is not hard.","baris":2},
+        {"tipe":"essay_daftar","t":"List two things that glass is used for.","e":"Glass is used for windows and drinking cups.","baris":3},
+        {"tipe":"essay_daftar","t":"Write two soft materials you can bend.","e":"Fabric and rubber are soft and bend easily.","baris":3},
+        {"tipe":"essay_daftar","t":"Name two things that are made of metal.","e":"A key and a pair of scissors are made of metal.","baris":3},
+        {"tipe":"essay_daftar","t":"Give two ways to reuse an old jar.","e":"Keep pencils in it or use it to hold flowers.","baris":3},
+        {"tipe":"essay_cerita","t":"A child squashes a sponge flat. What move is that?","e":"Squashing the sponge is compressing it.","baris":4},
+        {"tipe":"essay_cerita","t":"A girl pulls a rubber band wide, then lets go. Tell what happens.","e":"The band stretches wide and then snaps back to its shape.","baris":4},
+        {"tipe":"essay_cerita","t":"An old newspaper is saved and turned into a new sheet. Tell the tale.","e":"The old paper is recycled into a fresh newspaper sheet.","baris":4}
+      ]
+    },
+    {
+      "kode": "G",
+      "nama": "Essay G",
+      "soal": [
+        {"tipe":"essay_pendek","t":"Which material blocks light and is not see-through?","e":"Wood is opaque, so light cannot pass through it.","baris":1},
+        {"tipe":"essay_pendek","t":"Name the material a mirror is made from.","e":"A mirror is made from glass.","baris":1},
+        {"tipe":"essay_pendek","t":"What rough material comes from a tree trunk?","e":"Bark is a rough material from a tree.","baris":1},
+        {"tipe":"essay_pendek","t":"Which material is used to make a strong bridge?","e":"Metal and rock are used to build strong bridges.","baris":1},
+        {"tipe":"essay_kalimat","t":"Explain how bending differs from twisting.","e":"Bending curves a thing, but twisting turns it around.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tell how compressing a sponge changes its size.","e":"Compressing makes the sponge smaller by pushing it together.","baris":2},
+        {"tipe":"essay_kalimat","t":"Say why an opaque box hides what is inside.","e":"The box is opaque, so light cannot pass and you cannot see in.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tell why fabric is good for making clothes.","e":"Fabric is soft and bendy, so clothes feel nice and fit well.","baris":2},
+        {"tipe":"essay_daftar","t":"List two rough materials you can touch.","e":"Rock and rough fabric feel bumpy to touch.","baris":3},
+        {"tipe":"essay_daftar","t":"Write two things that are transparent.","e":"Clear glass and clean water are transparent.","baris":3},
+        {"tipe":"essay_daftar","t":"Name two hard materials used in a kitchen.","e":"Metal pots and ceramic plates are hard.","baris":3},
+        {"tipe":"essay_daftar","t":"Give two ways to reduce trash at school.","e":"Use both sides of paper and carry a reusable bottle.","baris":3},
+        {"tipe":"essay_cerita","t":"A man twists a wet cloth to wring it out. Name the move.","e":"He is twisting the cloth to push the water out.","baris":4},
+        {"tipe":"essay_cerita","t":"A robot arm bends and stretches to reach a toy. Tell what it does.","e":"The arm bends at the joint and stretches out to grab the toy.","baris":4},
+        {"tipe":"essay_cerita","t":"A scrap of wood is saved and shaped into a toy. Tell the tale.","e":"The wood scrap is reused and carved into a little toy.","baris":4}
+      ]
+    },
+    {
+      "kode": "H",
+      "nama": "Essay H",
+      "soal": [
         {"tipe":"essay_pendek","t":"Name the material a heavy table is built from.","e":"A heavy table is built from wood.","baris":1},
         {"tipe":"essay_pendek","t":"What material makes a shiny ring?","e":"Metal makes a shiny ring.","baris":1},
         {"tipe":"essay_pendek","t":"Which material is a brown paper bag made from?","e":"A paper bag is made from wood pulp.","baris":1},

@@ -35,22 +35,6 @@ window.KUIS.push({
         {"tipe":"isian","t":"Ayat terakhir Al-Ikhlas ditutup 'kufuwan ....'","p":["ahad","shamad","falaq"],"j":0,"e":"Ayat itu ditutup dengan kufuwan ahad."},
         {"tipe":"bs","t":"Surat Al-Ikhlas bernomor 113.","p":["Benar","Salah"],"j":1,"e":"Salah, nomor Al-Ikhlas adalah 112."},
         {"tipe":"cocok","t":"Pasangkan bilangan dengan keterangannya!","pasangan":[["113","nomor Al-Falaq"],["112","nomor Al-Ikhlas"],["4","jumlah ayat Al-Ikhlas"]],"urutKanan":["jumlah ayat Al-Ikhlas","nomor Al-Ikhlas","nomor Al-Falaq"],"e":"Nomor 113 milik Al-Falaq, 112 milik Al-Ikhlas, dan 4 adalah jumlah ayat Al-Ikhlas."}
-,
-        {"tipe":"essay_pendek","t":"Sebutkan arti kata Al-Falaq!","e":"Al-Falaq artinya waktu subuh atau fajar.","baris":1},
-        {"tipe":"essay_pendek","t":"Sebutkan nomor urut Al-Falaq!","e":"Urutan Al-Falaq adalah 113.","baris":1},
-        {"tipe":"essay_pendek","t":"Sebutkan banyak ayat Al-Falaq!","e":"Al-Falaq terdiri dari lima ayat.","baris":1},
-        {"tipe":"essay_pendek","t":"Sebutkan nama lain bagi Al-Falaq bersama An-Nas!","e":"Nama lainnya adalah Mu'awwidzatain, dua surat perlindungan.","baris":1},
-        {"tipe":"essay_kalimat","t":"Jelaskan arti Mu'awwidzatain dengan kalimatmu sendiri!","e":"Mu'awwidzatain berarti dua surat perlindungan. Al-Falaq dan An-Nas termasuk di dalamnya.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tuliskan ayat pertama Al-Falaq menurut bacaan yang kamu hafal!","e":"Qul a'uudzu birabbil falaq. Artinya, aku berlindung kepada Tuhan yang menciptakan fajar.","baris":2},
-        {"tipe":"essay_kalimat","t":"Mengapa kita membaca Al-Falaq? Jawab dengan dua kalimat!","e":"Kita membaca Al-Falaq untuk memohon perlindungan kepada Allah. Kita berlindung hanya kepada-Nya, bukan kepada benda.","baris":2},
-        {"tipe":"essay_kalimat","t":"Apa yang harus kamu lakukan setelah mendapat nikmat? Tulis dua kalimat!","e":"Aku mengucap alhamdulillah karena diberi nikmat. Aku juga mau berbuat baik.","baris":2},
-        {"tipe":"essay_daftar","t":"Sebutkan tiga keterangan tentang Al-Falaq: nomor, jumlah ayat, dan artinya!","e":"Nomor surat Al-Falaq adalah 113. Jumlah ayatnya lima. Artinya waktu subuh.","baris":3},
-        {"tipe":"essay_daftar","t":"Daftarkan tiga isi pesan surat Al-Ikhlas yang kamu ingat!","e":"Allah itu Maha Esa. Allah tempat meminta segala sesuatu. Allah tidak beranak.","baris":3},
-        {"tipe":"essay_daftar","t":"Sebutkan tiga contoh perilaku baik yang diajarkan Al-Ikhlas!","e":"Berdoa kepada Allah. Bersyukur atas nikmat. Rajin ibadah.","baris":3},
-        {"tipe":"essay_daftar","t":"Tuliskan tiga potongan bacaan Al-Ikhlas beserta artinya!","e":"Qul huwallahu ahad: Allah Yang Maha Esa. Allahush shamad: Allah tempat meminta. Lam yalid wa lam yulad: Allah tidak beranak.","baris":3},
-        {"tipe":"essay_cerita","t":"Hari ini Adi membaca Al-Falaq sebelum tidur. Ceritakan apa yang ia minta kepada Allah, empat baris!","e":"Adi membaca Al-Falaq dengan khusyuk. Ia meminta perlindungan kepada Allah. Adi tidak takut sendirian. Ia tidur dengan tenang.","baris":4},
-        {"tipe":"essay_cerita","t":"Salsa diajak teman menyembah patung. Ceritakan penolakannya menurut Al-Ikhlas, empat baris!","e":"Salsa berkata bahwa kita menyembah Allah saja. Ia tidak mau menyembah patung. Allah itu Maha Esa. Salsa memilih berdoa kepada Allah.","baris":4},
-        {"tipe":"essay_cerita","t":"Guru meminta Dino menyebut ciri surat Makkiyah. Ceritakan jawaban Dino, empat baris!","e":"Dino menjawab bahwa Al-Ikhlas termasuk surat Makkiyah. Surat Makkiyah turun di kota Makkah. Al-Falaq juga tergolong Makkiyah. Dino senang karena ingat pelajarannya.","baris":4}
       ]
     },
     {
@@ -72,22 +56,6 @@ window.KUIS.push({
         {"tipe":"isian","t":"Al-Ikhlas mengajarkan Allah itu Maha ....","p":["Esa","ramai","dua"],"j":0,"e":"Allah Maha Esa, artinya satu."},
         {"tipe":"bs","t":"Kita boleh menyembah selain Allah.","p":["Benar","Salah"],"j":1,"e":"Tidak boleh. Kita menyembah Allah saja."},
         {"tipe":"cocok","t":"Tentukan pasangan perilaku berikut!","pasangan":[["berdoa","meminta pertolongan"],["bersyukur","mengucap hamdalah"],["jujur","berkata benar"]],"urutKanan":["berkata benar","meminta pertolongan","mengucap hamdalah"],"e":"Berdoa berarti meminta pertolongan, bersyukur dengan mengucap hamdalah, dan jujur berarti berkata benar."}
-,
-        {"tipe":"essay_pendek","t":"Apa arti kata 'ahad' dalam Al-Ikhlas?","e":"Ahad berarti satu, yaitu Allah Yang Maha Esa.","baris":1},
-        {"tipe":"essay_pendek","t":"Sebutkan arti lafal 'shamad'!","e":"Lafal shamad memberi tahu bahwa Allah tempat meminta.","baris":1},
-        {"tipe":"essay_pendek","t":"Tulis jumlah kemunculan lafal ahad di Al-Ikhlas!","e":"Lafal ahad terbaca dua kali di dalam Al-Ikhlas.","baris":1},
-        {"tipe":"essay_pendek","t":"Sebutkan nomor surat Al-Ikhlas!","e":"Al-Ikhlas berada pada nomor 112.","baris":1},
-        {"tipe":"essay_kalimat","t":"Jelaskan mengapa Al-Ikhlas disebut surat Makkiyah!","e":"Al-Ikhlas tergolong Makkiyah karena turun di kota Makkah. Itu sebabnya disebut surat Makkiyah.","baris":2},
-        {"tipe":"essay_kalimat","t":"Artikan ayat terakhir Al-Ikhlas dengan kalimat sederhana!","e":"Ayat itu berarti tidak ada sesuatu pun yang sama dengan Allah.","baris":2},
-        {"tipe":"essay_kalimat","t":"Ceritakan dua kalimat tentang cara berdoa menurut Al-Ikhlas!","e":"Kita berdoa dan memohon pertolongan kepada Allah. Allah tempat meminta segala sesuatu.","baris":2},
-        {"tipe":"essay_kalimat","t":"Apakah kita boleh menyembah selain Allah? Jawab dengan dua kalimat!","e":"Tidak boleh. Kita menyembah Allah saja karena Dia Yang Maha Esa.","baris":2},
-        {"tipe":"essay_daftar","t":"Tuliskan tiga lafal dari Al-Ikhlas yang hafal kamu!","e":"Qul huwallahu ahad. Allahush shamad. Lam yalid wa lam yulad.","baris":3},
-        {"tipe":"essay_daftar","t":"Sebutkan tiga arti potongan ini: ahad, shamad, yulad!","e":"Ahad berarti satu. Shamad berarti tempat meminta. Yulad berarti diperanakkan.","baris":3},
-        {"tipe":"essay_daftar","t":"Daftarkan tiga hal yang tidak ada pada diri Allah menurut Al-Ikhlas!","e":"Allah tidak beranak. Allah tidak diperanakkan. Tidak ada yang setara dengan Allah.","baris":3},
-        {"tipe":"essay_daftar","t":"Tulis tiga pesan penting dari surat Al-Ikhlas untuk anak kelas satu!","e":"Allah Maha Esa. Kita meminta pertolongan kepada-Nya. Kita berbuat baik setiap hari.","baris":3},
-        {"tipe":"essay_cerita","t":"Rani hafal Al-Ikhlas dan ingin mengajarkannya. Ceritakan langkah Rani, empat baris!","e":"Rani membaca surat Al-Ikhlas perlahan. Ia mengulang ayatnya bersama teman. Rani menjelaskan bahwa Allah Maha Esa. Temannya senang belajar.","baris":4},
-        {"tipe":"essay_cerita","t":"Udin ditanya guru tentang isi Al-Ikhlas. Ceritakan jawaban Udin, empat baris!","e":"Udin menjawab bahwa Al-Ikhlas menjelaskan keesaan Allah. Ia menyebut Allah tidak beranak. Udin juga berkata tidak ada yang setara. Gurunya memujinya.","baris":4},
-        {"tipe":"essay_cerita","t":"Andi mendapat hadiah buku dari ayah. Ceritakan sikapnya menurut pelajaran Al-Ikhlas, empat baris!","e":"Andi mengucap alhamdulillah. Ia berterima kasih kepada ayah. Andi berdoa meminta pertolongan Allah. Ia berjanji rajin membaca Al-Qur'an.","baris":4}
       ]
     },
     {
@@ -109,22 +77,6 @@ window.KUIS.push({
         {"tipe":"isian","t":"Golongan Al-Ikhlas adalah surat ....","p":["Makkiyah","Madaniyah","Mu'awwidzatain"],"j":0,"e":"Al-Ikhlas tergolong Makkiyah karena turun di Makkah."},
         {"tipe":"bs","t":"Rajin ibadah termasuk perilaku baik menurut Al-Ikhlas.","p":["Benar","Salah"],"j":0,"e":"Benar, rajin ibadah adalah salah satu perilaku baik."},
         {"tipe":"cocok","t":"Cocokkan potongan akhir dengan suratnya!","pasangan":[["kufuwan ahad","ayat terakhir Al-Ikhlas"],["birobbil falaq","ayat pertama Al-Falaq"],["huwallahu ahad","ayat pertama Al-Ikhlas"]],"urutKanan":["ayat pertama Al-Ikhlas","ayat terakhir Al-Ikhlas","ayat pertama Al-Falaq"],"e":"Potongan kufuwan ahad menutup Al-Ikhlas, birobbil falaq membuka Al-Falaq, dan huwallahu ahad membuka Al-Ikhlas."}
-,
-        {"tipe":"essay_pendek","t":"Apa arti Al-Ikhlas menurut pelajaran kita?","e":"Al-Ikhlas artinya murni, yaitu memurnikan keesaan Allah.","baris":1},
-        {"tipe":"essay_pendek","t":"Surat Al-Ikhlas turun di mana? Jawab singkat!","e":"Al-Ikhlas turun di kota Makkah, jadi termasuk surat Makkiyah.","baris":1},
-        {"tipe":"essay_pendek","t":"Berapa jumlah ayat Al-Ikhlas? Jawab singkat!","e":"Jumlah ayat Al-Ikhlas ada empat.","baris":1},
-        {"tipe":"essay_pendek","t":"Sebutkan nama surat yang dipakai untuk meminta perlindungan!","e":"Surat Al-Falaq dipakai untuk meminta perlindungan kepada Allah.","baris":1},
-        {"tipe":"essay_kalimat","t":"Jelaskan arti kata 'falaq' dengan dua kalimat!","e":"Falaq berarti waktu subuh. Itu saat fajar mulai terang.","baris":2},
-        {"tipe":"essay_kalimat","t":"Tuliskan dua kalimat tentang Allah Yang Maha Esa!","e":"Allah itu satu, tidak ada Tuhan selain Allah. Kita menyembah Allah saja.","baris":2},
-        {"tipe":"essay_kalimat","t":"Jelaskan dua cara bersyukur yang bisa kamu lakukan!","e":"Aku mengucap hamdalah setiap hari. Aku menjaga nikmat Allah dengan baik.","baris":2},
-        {"tipe":"essay_kalimat","t":"Apa bedanya Al-Ikhlas dan Al-Falaq? Tulis dua kalimat!","e":"Al-Ikhlas menjelaskan keesaan Allah. Al-Falaq berisi permohonan perlindungan.","baris":2},
-        {"tipe":"essay_daftar","t":"Tuliskan tiga hal yang diajarkan Al-Ikhlas tentang Allah!","e":"Allah Maha Esa. Allah tidak beranak. Tidak ada yang setara dengan Allah.","baris":3},
-        {"tipe":"essay_daftar","t":"Sebutkan tiga contoh perbuatan baik sesuai pelajaran ini!","e":"Berdoa kepada Allah. Bersyukur atas nikmat. Berkata jujur.","baris":3},
-        {"tipe":"essay_daftar","t":"Daftarkan tiga isi ayat Al-Ikhlas dari ayat pertama sampai ketiga!","e":"Ayat pertama qul huwallahu ahad. Ayat kedua allahush shamad. Ayat ketiga lam yalid wa lam yulad.","baris":3},
-        {"tipe":"essay_daftar","t":"Tulis tiga fakta Al-Falaq: artinya, nomornya, jumlah ayatnya!","e":"Artinya waktu subuh. Nomornya 113. Ayatnya ada lima.","baris":3},
-        {"tipe":"essay_cerita","t":"Rizky lupa arti Al-Falaq. Ceritakan bagaimana ia bertanya dan belajar, empat baris!","e":"Rizky bertanya kepada gurunya. Gurunya menjelaskan bahwa Al-Falaq artinya subuh. Rizky mengulanginya sampai hafal. Ia senang karena tahu artinya.","baris":4},
-        {"tipe":"essay_cerita","t":"Dinda melihat teman berdoa sebelum belajar. Ceritakan pelajaran yang ia ambil, empat baris!","e":"Dinda ikut berdoa sebelum belajar. Ia meminta pertolongan kepada Allah. Dinda yakin Allah menolongnya. Ia jadi lebih semangat.","baris":4},
-        {"tipe":"essay_cerita","t":"Kelas satu berlatih membaca Al-Ikhlas bersama guru. Ceritakan suasannya, empat baris!","e":"Semua siswa duduk rapi. Guru membaca pelan, lalu kami mengikuti. Kami berulang sampai lancar. Alhamdulillah, kami senang.","baris":4}
       ]
     },
     {
@@ -146,7 +98,75 @@ window.KUIS.push({
         {"tipe":"isian","t":"Ayat Al-Falaq berjumlah ....","p":["lima","empat","enam"],"j":0,"e":"Ayat Al-Falaq berjumlah lima."},
         {"tipe":"bs","t":"Al-Ikhlas dan Al-Falaq termasuk surat Makkiyah.","p":["Benar","Salah"],"j":0,"e":"Benar, keduanya tergolong surat Makkiyah."},
         {"tipe":"cocok","t":"Cocokkan ciri dengan surat yang tepat!","pasangan":[["Makkiyah","Al-Ikhlas"],["waktu subuh","Al-Falaq"],["dua surat perlindungan","Mu'awwidzatain"]],"urutKanan":["Mu'awwidzatain","Al-Ikhlas","Al-Falaq"],"e":"Ciri Makkiyah milik Al-Ikhlas, waktu subuh milik Al-Falaq, dan dua surat perlindungan milik Mu'awwidzatain."}
-,
+      ]
+    },
+    {
+      "kode": "E",
+      "nama": "Essay E",
+      "soal": [
+        {"tipe":"essay_pendek","t":"Sebutkan arti kata Al-Falaq!","e":"Al-Falaq artinya waktu subuh atau fajar.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan nomor urut Al-Falaq!","e":"Urutan Al-Falaq adalah 113.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan banyak ayat Al-Falaq!","e":"Al-Falaq terdiri dari lima ayat.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan nama lain bagi Al-Falaq bersama An-Nas!","e":"Nama lainnya adalah Mu'awwidzatain, dua surat perlindungan.","baris":1},
+        {"tipe":"essay_kalimat","t":"Jelaskan arti Mu'awwidzatain dengan kalimatmu sendiri!","e":"Mu'awwidzatain berarti dua surat perlindungan. Al-Falaq dan An-Nas termasuk di dalamnya.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tuliskan ayat pertama Al-Falaq menurut bacaan yang kamu hafal!","e":"Qul a'uudzu birabbil falaq. Artinya, aku berlindung kepada Tuhan yang menciptakan fajar.","baris":2},
+        {"tipe":"essay_kalimat","t":"Mengapa kita membaca Al-Falaq? Jawab dengan dua kalimat!","e":"Kita membaca Al-Falaq untuk memohon perlindungan kepada Allah. Kita berlindung hanya kepada-Nya, bukan kepada benda.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa yang harus kamu lakukan setelah mendapat nikmat? Tulis dua kalimat!","e":"Aku mengucap alhamdulillah karena diberi nikmat. Aku juga mau berbuat baik.","baris":2},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga keterangan tentang Al-Falaq: nomor, jumlah ayat, dan artinya!","e":"Nomor surat Al-Falaq adalah 113. Jumlah ayatnya lima. Artinya waktu subuh.","baris":3},
+        {"tipe":"essay_daftar","t":"Daftarkan tiga isi pesan surat Al-Ikhlas yang kamu ingat!","e":"Allah itu Maha Esa. Allah tempat meminta segala sesuatu. Allah tidak beranak.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga contoh perilaku baik yang diajarkan Al-Ikhlas!","e":"Berdoa kepada Allah. Bersyukur atas nikmat. Rajin ibadah.","baris":3},
+        {"tipe":"essay_daftar","t":"Tuliskan tiga potongan bacaan Al-Ikhlas beserta artinya!","e":"Qul huwallahu ahad: Allah Yang Maha Esa. Allahush shamad: Allah tempat meminta. Lam yalid wa lam yulad: Allah tidak beranak.","baris":3},
+        {"tipe":"essay_cerita","t":"Hari ini Adi membaca Al-Falaq sebelum tidur. Ceritakan apa yang ia minta kepada Allah, empat baris!","e":"Adi membaca Al-Falaq dengan khusyuk. Ia meminta perlindungan kepada Allah. Adi tidak takut sendirian. Ia tidur dengan tenang.","baris":4},
+        {"tipe":"essay_cerita","t":"Salsa diajak teman menyembah patung. Ceritakan penolakannya menurut Al-Ikhlas, empat baris!","e":"Salsa berkata bahwa kita menyembah Allah saja. Ia tidak mau menyembah patung. Allah itu Maha Esa. Salsa memilih berdoa kepada Allah.","baris":4},
+        {"tipe":"essay_cerita","t":"Guru meminta Dino menyebut ciri surat Makkiyah. Ceritakan jawaban Dino, empat baris!","e":"Dino menjawab bahwa Al-Ikhlas termasuk surat Makkiyah. Surat Makkiyah turun di kota Makkah. Al-Falaq juga tergolong Makkiyah. Dino senang karena ingat pelajarannya.","baris":4}
+      ]
+    },
+    {
+      "kode": "F",
+      "nama": "Essay F",
+      "soal": [
+        {"tipe":"essay_pendek","t":"Apa arti kata 'ahad' dalam Al-Ikhlas?","e":"Ahad berarti satu, yaitu Allah Yang Maha Esa.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan arti lafal 'shamad'!","e":"Lafal shamad memberi tahu bahwa Allah tempat meminta.","baris":1},
+        {"tipe":"essay_pendek","t":"Tulis jumlah kemunculan lafal ahad di Al-Ikhlas!","e":"Lafal ahad terbaca dua kali di dalam Al-Ikhlas.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan nomor surat Al-Ikhlas!","e":"Al-Ikhlas berada pada nomor 112.","baris":1},
+        {"tipe":"essay_kalimat","t":"Jelaskan mengapa Al-Ikhlas disebut surat Makkiyah!","e":"Al-Ikhlas tergolong Makkiyah karena turun di kota Makkah. Itu sebabnya disebut surat Makkiyah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Artikan ayat terakhir Al-Ikhlas dengan kalimat sederhana!","e":"Ayat itu berarti tidak ada sesuatu pun yang sama dengan Allah.","baris":2},
+        {"tipe":"essay_kalimat","t":"Ceritakan dua kalimat tentang cara berdoa menurut Al-Ikhlas!","e":"Kita berdoa dan memohon pertolongan kepada Allah. Allah tempat meminta segala sesuatu.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apakah kita boleh menyembah selain Allah? Jawab dengan dua kalimat!","e":"Tidak boleh. Kita menyembah Allah saja karena Dia Yang Maha Esa.","baris":2},
+        {"tipe":"essay_daftar","t":"Tuliskan tiga lafal dari Al-Ikhlas yang hafal kamu!","e":"Qul huwallahu ahad. Allahush shamad. Lam yalid wa lam yulad.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga arti potongan ini: ahad, shamad, yulad!","e":"Ahad berarti satu. Shamad berarti tempat meminta. Yulad berarti diperanakkan.","baris":3},
+        {"tipe":"essay_daftar","t":"Daftarkan tiga hal yang tidak ada pada diri Allah menurut Al-Ikhlas!","e":"Allah tidak beranak. Allah tidak diperanakkan. Tidak ada yang setara dengan Allah.","baris":3},
+        {"tipe":"essay_daftar","t":"Tulis tiga pesan penting dari surat Al-Ikhlas untuk anak kelas satu!","e":"Allah Maha Esa. Kita meminta pertolongan kepada-Nya. Kita berbuat baik setiap hari.","baris":3},
+        {"tipe":"essay_cerita","t":"Rani hafal Al-Ikhlas dan ingin mengajarkannya. Ceritakan langkah Rani, empat baris!","e":"Rani membaca surat Al-Ikhlas perlahan. Ia mengulang ayatnya bersama teman. Rani menjelaskan bahwa Allah Maha Esa. Temannya senang belajar.","baris":4},
+        {"tipe":"essay_cerita","t":"Udin ditanya guru tentang isi Al-Ikhlas. Ceritakan jawaban Udin, empat baris!","e":"Udin menjawab bahwa Al-Ikhlas menjelaskan keesaan Allah. Ia menyebut Allah tidak beranak. Udin juga berkata tidak ada yang setara. Gurunya memujinya.","baris":4},
+        {"tipe":"essay_cerita","t":"Andi mendapat hadiah buku dari ayah. Ceritakan sikapnya menurut pelajaran Al-Ikhlas, empat baris!","e":"Andi mengucap alhamdulillah. Ia berterima kasih kepada ayah. Andi berdoa meminta pertolongan Allah. Ia berjanji rajin membaca Al-Qur'an.","baris":4}
+      ]
+    },
+    {
+      "kode": "G",
+      "nama": "Essay G",
+      "soal": [
+        {"tipe":"essay_pendek","t":"Apa arti Al-Ikhlas menurut pelajaran kita?","e":"Al-Ikhlas artinya murni, yaitu memurnikan keesaan Allah.","baris":1},
+        {"tipe":"essay_pendek","t":"Surat Al-Ikhlas turun di mana? Jawab singkat!","e":"Al-Ikhlas turun di kota Makkah, jadi termasuk surat Makkiyah.","baris":1},
+        {"tipe":"essay_pendek","t":"Berapa jumlah ayat Al-Ikhlas? Jawab singkat!","e":"Jumlah ayat Al-Ikhlas ada empat.","baris":1},
+        {"tipe":"essay_pendek","t":"Sebutkan nama surat yang dipakai untuk meminta perlindungan!","e":"Surat Al-Falaq dipakai untuk meminta perlindungan kepada Allah.","baris":1},
+        {"tipe":"essay_kalimat","t":"Jelaskan arti kata 'falaq' dengan dua kalimat!","e":"Falaq berarti waktu subuh. Itu saat fajar mulai terang.","baris":2},
+        {"tipe":"essay_kalimat","t":"Tuliskan dua kalimat tentang Allah Yang Maha Esa!","e":"Allah itu satu, tidak ada Tuhan selain Allah. Kita menyembah Allah saja.","baris":2},
+        {"tipe":"essay_kalimat","t":"Jelaskan dua cara bersyukur yang bisa kamu lakukan!","e":"Aku mengucap hamdalah setiap hari. Aku menjaga nikmat Allah dengan baik.","baris":2},
+        {"tipe":"essay_kalimat","t":"Apa bedanya Al-Ikhlas dan Al-Falaq? Tulis dua kalimat!","e":"Al-Ikhlas menjelaskan keesaan Allah. Al-Falaq berisi permohonan perlindungan.","baris":2},
+        {"tipe":"essay_daftar","t":"Tuliskan tiga hal yang diajarkan Al-Ikhlas tentang Allah!","e":"Allah Maha Esa. Allah tidak beranak. Tidak ada yang setara dengan Allah.","baris":3},
+        {"tipe":"essay_daftar","t":"Sebutkan tiga contoh perbuatan baik sesuai pelajaran ini!","e":"Berdoa kepada Allah. Bersyukur atas nikmat. Berkata jujur.","baris":3},
+        {"tipe":"essay_daftar","t":"Daftarkan tiga isi ayat Al-Ikhlas dari ayat pertama sampai ketiga!","e":"Ayat pertama qul huwallahu ahad. Ayat kedua allahush shamad. Ayat ketiga lam yalid wa lam yulad.","baris":3},
+        {"tipe":"essay_daftar","t":"Tulis tiga fakta Al-Falaq: artinya, nomornya, jumlah ayatnya!","e":"Artinya waktu subuh. Nomornya 113. Ayatnya ada lima.","baris":3},
+        {"tipe":"essay_cerita","t":"Rizky lupa arti Al-Falaq. Ceritakan bagaimana ia bertanya dan belajar, empat baris!","e":"Rizky bertanya kepada gurunya. Gurunya menjelaskan bahwa Al-Falaq artinya subuh. Rizky mengulanginya sampai hafal. Ia senang karena tahu artinya.","baris":4},
+        {"tipe":"essay_cerita","t":"Dinda melihat teman berdoa sebelum belajar. Ceritakan pelajaran yang ia ambil, empat baris!","e":"Dinda ikut berdoa sebelum belajar. Ia meminta pertolongan kepada Allah. Dinda yakin Allah menolongnya. Ia jadi lebih semangat.","baris":4},
+        {"tipe":"essay_cerita","t":"Kelas satu berlatih membaca Al-Ikhlas bersama guru. Ceritakan suasannya, empat baris!","e":"Semua siswa duduk rapi. Guru membaca pelan, lalu kami mengikuti. Kami berulang sampai lancar. Alhamdulillah, kami senang.","baris":4}
+      ]
+    },
+    {
+      "kode": "H",
+      "nama": "Essay H",
+      "soal": [
         {"tipe":"essay_pendek","t":"Apa arti kata 'kufuwan' dalam ayat terakhir Al-Ikhlas?","e":"Kufuwan berarti setara atau sama.","baris":1},
         {"tipe":"essay_pendek","t":"Sebutkan jumlah ayat Al-Falaq dengan singkat!","e":"Al-Falaq berisi lima ayat.","baris":1},
         {"tipe":"essay_pendek","t":"Di kota mana surat Al-Ikhlas diturunkan?","e":"Al-Ikhlas diturunkan di kota Makkah.","baris":1},
