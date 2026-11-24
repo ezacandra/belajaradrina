@@ -15123,35 +15123,35 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Meja di ruang makan dibuat dari ....",
+      "t": "Panci dan kawat listrik terbuat dari logam karena ....",
       "p": [
-       "kain",
-       "kayu",
-       "karet"
+       "menghantar panas dan listrik",
+       "tembus pandang",
+       "menyerap air"
       ],
-      "j": 1,
-      "e": "Meja kayu terasa keras dan kuat."
+      "j": 0,
+      "e": "Logam menghantar panas dan listrik, jadi dipakai untuk panci dan kawat."
      },
      {
       "tipe": "bs",
-      "t": "Kaca jendela tembus pandang.",
+      "t": "Kaca terbuat dari pasir.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kaca jendela bersifat transparent."
+      "e": "Benar, kaca dibuat dari pasir."
      },
      {
       "tipe": "pg",
-      "t": "Bahan untuk membuat kunci pintu adalah ....",
+      "t": "Logam digali dari tanah dalam bentuk ....",
       "p": [
-       "plastik",
-       "logam",
-       "kertas"
+       "bijih logam",
+       "pasir halus",
+       "getah"
       ],
-      "j": 1,
-      "e": "Kunci pintu terbuat dari logam yang keras."
+      "j": 0,
+      "e": "Logam berasal dari bijih logam yang digali dari tanah."
      },
      {
       "tipe": "isian",
@@ -15190,14 +15190,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Cermin di kamar mandi terbuat dari ....",
+      "t": "Kaca bersifat kaku dan ....",
       "p": [
-       "kaca",
-       "kayu",
-       "kain"
+       "tembus pandang",
+       "menyerap air",
+       "rapuh"
       ],
       "j": 0,
-      "e": "Cermin memakai kaca yang mengkilap."
+      "e": "Kaca kaku dan tembus pandang."
      },
      {
       "tipe": "bs",
@@ -15222,14 +15222,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Botol minum yang bening dan ringan terbuat dari ....",
+      "t": "Plastik buatan manusia bersifat ....",
       "p": [
-       "plastik",
-       "kaca",
-       "logam"
+       "menyerap air",
+       "mudah pecah",
+       "tahan air"
       ],
-      "j": 0,
-      "e": "Botol plastik bening dan ringan."
+      "j": 2,
+      "e": "Plastik tahan air dan dibuat oleh manusia."
      },
      {
       "tipe": "cocok",
@@ -15278,14 +15278,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Kertas bekas bisa dibuat kertas lagi lewat kegiatan ....",
+      "t": "Karet berasal dari getah pohon ....",
       "p": [
-       "reduce",
-       "reuse",
-       "recycle"
+       "karet",
+       "jati",
+       "kelapa"
       ],
-      "j": 2,
-      "e": "Recycle artinya mengolah sampah jadi barang baru."
+      "j": 0,
+      "e": "Karet diambil dari getah pohon karet."
      },
      {
       "tipe": "bs",
@@ -15361,14 +15361,14 @@ window.KUIS = [
      },
      {
       "tipe": "isian",
-      "t": "Gelas susu hangat biasanya terbuat dari ....",
+      "t": "Piring keramik mudah pecah karena bahannya ....",
       "p": [
-       "kertas",
-       "kaca",
-       "kain"
+       "rapuh",
+       "lentur",
+       "tahan air"
       ],
-      "j": 1,
-      "e": "Gelas kaca dipakai untuk susu hangat."
+      "j": 0,
+      "e": "Keramik rapuh sehingga mudah pecah."
      },
      {
       "tipe": "cocok",
@@ -15396,14 +15396,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Penghapus coretan pensil terbuat dari ....",
+      "t": "Karet cocok untuk sepatu bot karena ....",
       "p": [
-       "kertas",
-       "kayu",
-       "karet"
+       "tembus pandang",
+       "rapuh",
+       "tahan air"
       ],
       "j": 2,
-      "e": "Penghapus memakai karet yang lentur."
+      "e": "Karet tahan air sehingga cocok untuk sepatu bot."
      },
      {
       "tipe": "bs",
@@ -15463,13 +15463,13 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Logam bersifat lunak.",
+      "t": "Kain wol berasal dari bulu domba.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, logam bersifat keras."
+      "j": 0,
+      "e": "Benar, wol berasal dari bulu domba."
      },
      {
       "tipe": "pg",
@@ -15535,14 +15535,14 @@ window.KUIS = [
     "soal": [
      {
       "tipe": "pg",
-      "t": "Kaos sehari-hari umumnya terbuat dari ....",
+      "t": "Kain sintetis dibuat oleh ....",
       "p": [
-       "kain",
-       "kaca",
-       "karet"
+       "manusia",
+       "pohon",
+       "tanah"
       ],
       "j": 0,
-      "e": "Kaos memakai kain yang lunak."
+      "e": "Kain sintetis dibuat oleh manusia."
      },
      {
       "tipe": "bs",
@@ -15634,14 +15634,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Sifat yang keras dan tidak mudah ditekuk disebut ....",
+      "t": "Bahan yang tidak menghantarkan panas disebut ....",
       "p": [
-       "flexible",
-       "rigid",
-       "soft"
+       "isolator",
+       "konduktor",
+       "transparan"
       ],
-      "j": 1,
-      "e": "Rigid artinya kaku dan keras."
+      "j": 0,
+      "e": "Isolator tidak menghantarkan panas dengan baik."
      },
      {
       "tipe": "cocok",
@@ -15762,14 +15762,14 @@ window.KUIS = [
      },
      {
       "tipe": "pg",
-      "t": "Lawan kata sifat halus adalah ....",
+      "t": "Cincin berlian termasuk bahan ....",
       "p": [
-       "keras",
-       "bening",
-       "kasar"
+       "kaca",
+       "kain",
+       "batu"
       ],
       "j": 2,
-      "e": "Kasar adalah lawan dari halus."
+      "e": "Berlian adalah batu permata yang keras."
      },
      {
       "tipe": "isian",
@@ -15819,13 +15819,13 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Sampah kertas bisa didaur ulang.",
+      "t": "Kayu bisa diolah menjadi kertas dan kardus.",
       "p": [
        "Benar",
        "Salah"
       ],
       "j": 0,
-      "e": "Benar, kertas lama jadi kertas baru."
+      "e": "Benar, kayu bisa dibuat kertas dan kardus."
      },
      {
       "tipe": "isian",
@@ -15907,13 +15907,13 @@ window.KUIS = [
      },
      {
       "tipe": "bs",
-      "t": "Karet memiliki permukaan kasar.",
+      "t": "Karet berasal dari getah, bukan dari pasir.",
       "p": [
        "Benar",
        "Salah"
       ],
-      "j": 1,
-      "e": "Salah, karet biasanya halus dan lentur."
+      "j": 0,
+      "e": "Benar, karet berasal dari getah pohon karet."
      },
      {
       "tipe": "cocok",
