@@ -1,0 +1,300 @@
+{
+  "project": "Belajar Adrina",
+  "versi_dokumen": "2026-11-25",
+  "lingkup": {
+    "kelas": "Kelas 1 SD",
+    "kategori": [
+      "Sumatif 2",
+      "Sumatif Final"
+    ],
+    "total_paket": 20,
+    "total_versi": 120,
+    "total_soal": 1800
+  },
+  "versi": {
+    "sumatif_2": {
+      "kode": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "soal_per_versi": 15,
+      "jenis": "pilihan"
+    },
+    "sumatif_final": {
+      "kode": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "soal_per_versi": 15,
+      "pilihan": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "essay": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ]
+    }
+  },
+  "tipe": [
+    {
+      "nama": "pg",
+      "versi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "wajib": [
+        "t",
+        "p",
+        "j",
+        "e"
+      ],
+      "min_opsi": 3
+    },
+    {
+      "nama": "bs",
+      "versi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "wajib": [
+        "t",
+        "p",
+        "j",
+        "e"
+      ],
+      "opsi_paket_indonesia": [
+        "Benar",
+        "Salah"
+      ],
+      "opsi_paket_inggris": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "nama": "isian",
+      "versi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "wajib": [
+        "t",
+        "p",
+        "j",
+        "e"
+      ],
+      "jumlah_opsi": 3
+    },
+    {
+      "nama": "cocok",
+      "versi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "wajib": [
+        "t",
+        "pasangan",
+        "urutKanan",
+        "e"
+      ],
+      "jumlah_pasangan": 3,
+      "kanan_unik": true,
+      "urutKanan_beda_dari_baris": true
+    },
+    {
+      "nama": "essay_pendek",
+      "versi": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "wajib": [
+        "t",
+        "e",
+        "baris"
+      ],
+      "baris": 1,
+      "dilarang": [
+        "p",
+        "j"
+      ]
+    },
+    {
+      "nama": "essay_kalimat",
+      "versi": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "wajib": [
+        "t",
+        "e",
+        "baris"
+      ],
+      "baris": 2,
+      "dilarang": [
+        "p",
+        "j"
+      ]
+    },
+    {
+      "nama": "essay_daftar",
+      "versi": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "wajib": [
+        "t",
+        "e",
+        "baris"
+      ],
+      "baris": 3,
+      "dilarang": [
+        "p",
+        "j"
+      ]
+    },
+    {
+      "nama": "essay_cerita",
+      "versi": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "wajib": [
+        "t",
+        "e",
+        "baris"
+      ],
+      "baris": 4,
+      "dilarang": [
+        "p",
+        "j"
+      ]
+    }
+  ],
+  "pola": {
+    "pilihan": [
+      "pg",
+      "bs",
+      "pg",
+      "isian",
+      "cocok",
+      "pg",
+      "bs",
+      "isian",
+      "pg",
+      "cocok",
+      "bs",
+      "pg",
+      "isian",
+      "bs",
+      "cocok"
+    ],
+    "essay": [
+      "essay_pendek",
+      "essay_pendek",
+      "essay_pendek",
+      "essay_pendek",
+      "essay_kalimat",
+      "essay_kalimat",
+      "essay_kalimat",
+      "essay_kalimat",
+      "essay_daftar",
+      "essay_daftar",
+      "essay_daftar",
+      "essay_daftar",
+      "essay_cerita",
+      "essay_cerita",
+      "essay_cerita"
+    ]
+  },
+  "bahasa": {
+    "inggris": [
+      "Mathematics",
+      "Science",
+      "English"
+    ],
+    "indonesia": [
+      "Al-Qur'an",
+      "Aqidah-Ibadah",
+      "Pendidikan Pancasila",
+      "PJOK",
+      "Seni Rupa",
+      "Bahasa Indonesia"
+    ],
+    "jawa_indonesia": [
+      "Bahasa Jawa"
+    ],
+    "aturan": "Soal dan pembahasan mengikuti bahasa mapel. Istilah baku boleh tetap dipakai."
+  },
+  "keunikan": {
+    "cakupan": "seluruh paket Sumatif Final",
+    "teks_sama": false,
+    "pembahasan_sama": false,
+    "kumpulan_opsi_sama": false,
+    "pasangan_cocok_sama": false,
+    "jaccard_minimum_gagal": 0.6
+  },
+  "kunci": {
+    "j": "indeks 0-based",
+    "e": "harus menyebut jawaban benar",
+    "sebaran": "0, 1, dan 2 harus ada pada pg dan isian tiap versi",
+    "essay": "dinilai guru, tidak ada j"
+  },
+  "wajib": [
+    "Gunakan materi dari folder sumber",
+    "Ikuti pola tipe per versi",
+    "Pastikan kunci sesuai pembahasan",
+    "Pastikan bahasa sesuai mapel",
+    "Jalankan build dan semua checker sebelum push",
+    "Naikkan ?v di index.html dan kuis.html bila data.js berubah"
+  ],
+  "dilarang": [
+    "Mengedit data.js langsung",
+    "Menyamakan soal antar versi atau antar mapel",
+    "Menulis kunci yang bertentangan dengan pembahasan",
+    "Menambah p atau j pada essay",
+    "Menaruh essay di variasi A sampai D",
+    "Push sebelum pemeriksaan selesai"
+  ],
+  "perintah": {
+    "build": "node tools/build-belajaradrina.mjs",
+    "checkers": [
+      "node tools/check-one.mjs <nama-file.js>",
+      "node tools/check-global.mjs",
+      "node tools/check-final.mjs",
+      "node tools/check-lang.mjs",
+      "node tools/audit1.mjs",
+      "node tools/audit-key2.mjs",
+      "node tools/audit-bs.mjs"
+    ],
+    "server": "node tools/serve.mjs"
+  }
+}

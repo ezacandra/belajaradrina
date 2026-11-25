@@ -1,6 +1,6 @@
 # 📚 Belajar Adrina
 
-**Bank soal & latihan online untuk siswa SD** — kategori → mata pelajaran → kelas, penilaian otomatis 0–100, kunci jawaban + pembahasan per soal, siap cetak/PDF.
+**Bank soal & latihan online untuk siswa SD.** Kategori, mata pelajaran, dan kelas bisa dipilih lewat filter. Soal pilihan dinilai otomatis, essay dinilai guru, kunci jawaban tersedia per variasi, dan hasil bisa dicetak.
 
 🌐 **Live:** https://ezacandra.github.io/belajaradrina/
 
@@ -10,35 +10,39 @@
 
 ### Untuk Siswa
 - **Navigasi hierarki**: Kategori (Sumatif 2 / Sumatif Final) → Mata Pelajaran → Kelas, dengan filter & chips.
-- **8 tipe soal** per paket: 4 pilihan di A–D + 4 essay di E–H
+- **8 tipe soal** per paket: 4 pilihan di A–D dan 4 essay di E–H.
   | Tipe | Label | Bentuk |
   |---|---|---|
   | `pg` | Pilihan Ganda | pertanyaan + 3–4 opsi |
   | `bs` | Benar / Salah | 2 opsi |
   | `isian` | Isian Singkat | pilih angka/kata yang tepat dari 3 opsi |
-  | `cocok` | Pasangkan | 3 pasang kiri–kanan (urutan jawaban diacak) |
+  | `cocok` | Pasangkan | 3 pasang kiri–kanan, urutan kanan diacak |
+   | `essay_pendek` | Essay pendek | jawaban 1 kata atau frasa |
+   | `essay_kalimat` | Essay kalimat | jawaban 1 kalimat |
+   | `essay_daftar` | Essay daftar | 3 butir jawaban |
+   | `essay_cerita` | Essay cerita | cerita pendek 2 sampai 3 kalimat |
 - **8 versi per paket**: A-D berisi 15 soal pilihan seperti konsep awal; E-H khusus 15 soal essay. Pilihan dinilai otomatis, essay ditulis di textarea dan dinilai guru. Tombol **Cetak Essay** menghasilkan lembar cetak dengan ruang tulis dan kunci untuk guru.
 - **Nilai 0–100 + predikat**: 🌟🌟🌟 A (≥90) · 🌟🌟 B (≥75) · 🌟 C (≥60) · ✨ D (<60, belum tuntas).
-- **Kunci Jawaban & Pembahasan** terbuka setelah mengirim — tiap soal ada penjelasan ramah anak berbahasa Indonesia.
+- **Kunci Jawaban dan Pembahasan** bisa dibuka kapan saja. Modal menampilkan satu variasi yang sedang dipilih.
 - **📤 Bagikan Hasil** (teks siap salin) dan **🖨 Cetak / PDF** untuk lembar hasil.
 - Soal bergambar/emoji dirender **besar** dan mudah dibaca anak kelas 1.
 
 ### untuk Guru
-- **🔑 Kunci Jawaban (Guru)** — modal kunci semua soal tanpa mengerjakan kuis.
-- Tiap paket punya **4 versi A–D** (soal berbeda, tingkat kesamaan seimbang) → anti saling contekan.
+- **🔑 Kunci Jawaban (Guru)**, modal kunci untuk satu variasi tanpa mengerjakan kuis.
+- Sumatif Final punya **8 versi**, A–D soal pilihan dan E–H soal essay. Sumatif 2 punya 4 versi A–D.
 - Cetak langsung dari browser (Ctrl+P → Save as PDF).
 
 ---
 
 ## 📦 Daftar Paket Soal (Kelas 1 SD)
 
-**10 mapel × (Sumatif 2: 4×15 + Sumatif Final: 4×30) = 1800 soal.** Sumatif Final menyediakan 120 soal per mapel, 60 pilihan dan 60 essay.
+**10 mapel × (Sumatif 2: 4×15 + Sumatif Final: 8×15) = 1800 soal.** Sumatif Final menyediakan 120 soal per mapel, 60 pilihan di A–D dan 60 essay di E–H.
 
 ### Sumatif 2
 
 | # | Mata Pelajaran | Judul | Jadwal | Ikon | File sumber |
 |---|---|---|---|---|---|
-| 1 | English | Unit 2 — Family Time | 30 Sep 2026 | 🔤 | `english-unit2-family-time-sd.js` |
+| 1 | English | Unit 2, Family Time | 30 Sep 2026 | 🔤 | `english-unit2-family-time-sd.js` |
 | 2 | Seni Rupa | Garis, Bentuk dan Warna | 1 Okt 2026 | 🎨 | `seni-rupa-garis-bentuk-warna-sd.js` |
 | 3 | Pendidikan Pancasila | Aku dan Temanku | 2 Okt 2026 | 🤝 | `pancasila-aku-dan-temanku-sd.js` |
 | 4 | Aqidah-Ibadah | Syahadat dan Sholat | 5 Okt 2026 | 🤲 | `aqidah-ibadah-syahadat-sholat-sd.js` |
@@ -49,7 +53,7 @@
 | 9 | B Jawa | Kasenenganku | 28 Sep 2026 | 💬 | `basa-jawa-kasenenganku-sd.js` |
 | 10 | PJOK | Gerak Dasar & Kesehatan | 29 Sep 2026 | 🏃 | `pjok-gerak-dasar-keselamatan-sd.js` |
 
-> English/Science/Math dicampur bahasa (istilah & soal Inggris, instruksi + pembahasan Indonesia). B Jawa pakai basa Jawa sederhana, penjelasan bahasa Indonesia.
+> Mathematics, Science, dan English memakai bahasa Inggris sederhana. Tujuh mapel lain memakai bahasa Indonesia. Basa Jawa memakai basa Jawa sederhana dengan pembahasan bahasa Indonesia.
 
 ### Sumatif Final
 
@@ -57,14 +61,14 @@
 |---|---|---|---|---|---|
 | 11 | Al-Qur'an | Surat Al-Falaq dan Al-Ikhlas | 23 Nov 2026 | 📕 | `quran-al-falaq-al-ikhlas-sd-final.js` |
 | 12 | Aqidah-Ibadah | Asmaul Husna (Al-Quddus) & Rukun Islam | 24 Nov 2026 | 🤲 | `aqidah-ibadah-asmaul-husna-rukun-islam-sd-final.js` |
-| 13 | Pendidikan Pancasila | Pelajaran 2 — Aturan di Keluarga | 25 Nov 2026 | 🤝 | `pancasila-aturan-di-keluarga-sd-final.js` |
-| 14 | PJOK | Pelajaran 3 & 4 — Bola Besar dan Bola Kecil | 26 Nov 2026 | 🏃 | `pjok-bola-besar-bola-kecil-sd-final.js` |
+| 13 | Pendidikan Pancasila | Pelajaran 2, Aturan di Keluarga | 25 Nov 2026 | 🤝 | `pancasila-aturan-di-keluarga-sd-final.js` |
+| 14 | PJOK | Pelajaran 3 & 4, Bola Besar dan Bola Kecil | 26 Nov 2026 | 🏃 | `pjok-bola-besar-bola-kecil-sd-final.js` |
 | 15 | Mathematics | Unit 6 Position, 7 Statistics, 8 Time | 27 Nov 2026 | 📐 | `matematika-position-statistics-time-sd-final.js` |
-| 16 | Seni Rupa | Bab 2 — Alat dan Bahan | 30 Nov 2026 | 🎨 | `seni-rupa-alat-bahan-sd-final.js` |
-| 17 | B Jawa | Wulangan 4 — Kulawargaku | 1 Des 2026 | 💬 | `basa-jawa-kulawargaku-sd-final.js` |
-| 18 | Bahasa Indonesia | Pelajaran 4 — Berlatih Supaya Bisa | 1 Des 2026 | ✍️ | `bahasa-indonesia-berlatih-supaya-bisa-sd-final.js` |
-| 19 | Science | Unit III — Materials in My World | 1 Des 2026 | 🔬 | `science-materials-in-my-world-sd-final.js` |
-| 20 | English | Unit 4 — Clothes, Colors, and Shapes | 2 Des 2026 | 🔤 | `english-unit4-clothes-colors-shapes-sd-final.js` |
+| 16 | Seni Rupa | Bab 2, Alat dan Bahan | 30 Nov 2026 | 🎨 | `seni-rupa-alat-bahan-sd-final.js` |
+| 17 | B Jawa | Wulangan 4, Kulawargaku | 1 Des 2026 | 💬 | `basa-jawa-kulawargaku-sd-final.js` |
+| 18 | Bahasa Indonesia | Pelajaran 4, Berlatih Supaya Bisa | 1 Des 2026 | ✍️ | `bahasa-indonesia-berlatih-supaya-bisa-sd-final.js` |
+| 19 | Science | Unit III, Materials in My World | 1 Des 2026 | 🔬 | `science-materials-in-my-world-sd-final.js` |
+| 20 | English | Unit 4, Clothes, Colors, and Shapes | 2 Des 2026 | 🔤 | `english-unit4-clothes-colors-shapes-sd-final.js` |
 
 ---
 
@@ -82,10 +86,24 @@ belajaradrina/                  # semua isi proyek ada di folder ini
 │           └── sumatif-final/  # 10 file paket Sumatif Final
 ├── tools/
 │   ├── build-belajaradrina.mjs # Build + validasi data.js
+│   ├── check-one.mjs           # Cek struktur satu paket
+│   ├── check-global.mjs        # Cek duplikat lintas mapel
+│   ├── check-lang.mjs          # Cek bahasa per mapel
+│   ├── audit1.mjs              # Cek typo dan field wajib
+│   ├── audit-key2.mjs          # Cek kunci versus pembahasan
+│   ├── audit-bs.mjs            # Cek konsistensi benar/salah
+│   ├── check-final.mjs         # Cek format akhir seluruh paket
 │   └── serve.mjs               # Server lokal untuk tes
+├── PENULISAN.md              # aturan menulis soal
+├── DESIGN.md                 # sistem desain UI
+├── MATERI.md                 # ringkasan sumber materi
+├── AUDIT.md                  # hasil pemeriksaan
+├── CHANGELOG.md              # riwayat perubahan
+├── docs/aturan.json          # aturan dalam bentuk data
 └── README.md
 
-../materi-sumatif-2/            # ⚠️ Materi sekolah (docx/pptx/pdf) — di luar repo, tidak ikut git
+../materi-sumatif-2/                         # materi Sumatif 2, di luar repo
+../materi adrina/kelas 1/Materi Sumatif Final semester 1/  # materi final, di luar repo
 ```
 
 Pola folder paket: `soal/<tingkat>/<kelas>/<kategori>/<paket>.js`.
@@ -113,10 +131,14 @@ window.KUIS.push({
   ikon: "📕",
   deskripsi: "…",
   versi: [
-    { kode: "A", nama: "Variasi A", soal: [ /* 15 soal */ ] },
+    { kode: "A", nama: "Variasi A", soal: [ /* 15 soal pilihan */ ] },
     { kode: "B", nama: "Variasi B", soal: [ … ] },
     { kode: "C", nama: "Variasi C", soal: [ … ] },
     { kode: "D", nama: "Variasi D", soal: [ … ] },
+    { kode: "E", nama: "Essay E", soal: [ /* 15 soal essay */ ] },
+    { kode: "F", nama: "Essay F", soal: [ … ] },
+    { kode: "G", nama: "Essay G", soal: [ … ] },
+    { kode: "H", nama: "Essay H", soal: [ … ] },
   ]
 });
 ```
@@ -124,27 +146,27 @@ window.KUIS.push({
 ### Format tiap tipe soal
 
 ```jsonc
-// Pilihan Ganda — j = index jawaban benar (0-based)
+// Pilihan Ganda, j = index jawaban benar (0-based)
 { "tipe": "pg", "t": "Surat yang pertama … adalah ....",
   "p": ["Al Ikhlas", "An Naas", "Al Fatihah"],
   "j": 2,
   "e": "Pembahasan untuk siswa." }
 
-// Benar / Salah — p WAJIB ["Benar","Salah"], j = 0 (Benar) atau 1 (Salah)
+// Benar / Salah, p WAJIB ["Benar","Salah"], j = 0 (Benar) atau 1 (Salah)
 { "tipe": "bs", "t": "Dalam Al Qur'an terdapat 114 surat.",
   "p": ["Benar", "Salah"], "j": 0, "e": "…" }
 
-// Isian Singkat — p = 3 pilihan angka/kata, j = index jawaban
+// Isian Singkat, p = 3 pilihan angka/kata, j = index jawaban
 { "tipe": "isian", "t": "Surat Al Fatihah terdiri dari .... ayat",
   "p": ["6", "5", "7"], "j": 2, "e": "…" }
 
-// Cocokkan — 3 pasang; urutKanan = urutan opsi kanan yang ditampilkan (diacak)
+// Cocokkan, 3 pasang; urutKanan = urutan opsi kanan yang ditampilkan (diacak)
 { "tipe": "cocok", "t": "Pasangkan istilah dengan artinya!",
   "pasangan": [["An Naas", "manusia"], ["Ummul Kitab", "induk"], ["Makkiyah", "dari Makkah"]],
   "urutKanan": ["induk", "dari Makkah", "manusia"],
   "e": "…" }
 
-// Essay tulis — tanpa p/j; e = jawaban contoh untuk guru
+// Essay tulis, tanpa p/j; e = jawaban contoh untuk guru
 { "tipe": "essay_pendek", "t": "Sebutkan arti Al-Falaq!", "e": "Waktu subuh.", "baris": 1 }
 { "tipe": "essay_kalimat", "t": "Tulis satu kalimat!", "e": "…", "baris": 2 }
 { "tipe": "essay_daftar", "t": "Sebutkan tiga benda!", "e": "…", "baris": 3 }
@@ -159,7 +181,7 @@ window.KUIS.push({
 - `pg`/`isian`: minimal 3 opsi; `bs`: tepat `["Benar","Salah"]`.
 - `cocok`: 3 pasang, jawaban kanan unik; `urutKanan` = permutasi dari kanan `pasangan` dan **tidak sama** dengan urutan baris.
 - Semua `e` (pembahasan) wajib terisi; kunci `j` disebar merata antar indeks.
-- Tidak ada teks soal kembar dalam satu versi.
+- Teks soal, pembahasan, opsi, dan pasangan cocok tidak boleh ganda di seluruh 1200 soal final.
 
 ---
 
@@ -173,12 +195,12 @@ cd belajaradrina
 # 2. Build + validasi (jangan edit data.js langsung!)
 node tools/build-belajaradrina.mjs
 
-# 3. Tes lokal (opsional)
+# 3. Uji lokal bila perlu
 node tools/serve.mjs
 #   → http://localhost:8787/   (port lain: node tools/serve.mjs . 3000)
 
 # 4. Commit & push
-git add soal data.js tools
+git add soal data.js tools *.md docs
 git commit -m "pesan"
 git push origin master
 
@@ -189,7 +211,7 @@ gh api repos/ezacandra/belajaradrina/pages/builds/latest --jq "{status: .status,
 #    https://ezacandra.github.io/belajaradrina/data.js?cb=<timestamp>
 ```
 
-Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal, index jawaban valid, `pasangan`/`urutKanan` konsisten, dan pembahasan tidak kosong — build gagal kalau ada yang melanggar.
+Validator build memeriksa struktur dasar. Enam checker di `tools/` memeriksa pola, keunikan global, bahasa, typo mekanis, dan konsistensi kunci. Jalankan semua sebelum push. Aturan lengkap ada di `PENULISAN.md`.
 
 > **Cache:** setiap kali `data.js` berubah, naikkan angka `?v=` pada `<script src="data.js?v=...">` di `index.html` **dan** `kuis.html`. GitHub Pages mengirim `cache-control: max-age=600`, jadi tanpa itu browser bisa memakai data lama hingga 10 menit.
 
@@ -199,8 +221,8 @@ Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal
 
 | Akses | URL |
 |---|---|
-| Hub (pilih paket) | `index.html` — bisa difilter: `?kelas=Kelas 1 SD&mapel=English&kat=Sumatif 2` |
-| Kerjakan kuis | `kuis.html?id=<id-paket>` — lalu pilih versi A/B/C/D |
+| Hub (pilih paket) | `index.html`, bisa difilter: `?kelas=Kelas 1 SD&mapel=English&kat=Sumatif 2` |
+| Kerjakan kuis | `kuis.html?id=<id-paket>`, lalu pilih A–D untuk pilihan atau E–H untuk essay |
 
 **Alur siswa:** pilih paket → pilih versi (A–D pilihan atau E–H essay) → jawab 15 soal → **Kirim di soal 15** → lihat hasil. Essay bisa diketik dan dicetak lewat tombol Cetak Essay.
 
@@ -210,7 +232,7 @@ Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal
 
 - **20 paket** → **120 versi** → **1800 soal**
 - **8 tipe soal** per paket: 4 pilihan di A-D + 4 essay di E-H
-- Bundle: `data.js` ±360 KB (1 request, tanpa server/API)
+- Bundle: `data.js` ±500 KB, satu request, tanpa server atau API
 - Stack: HTML + CSS + JS murni → di-serve gratis oleh **GitHub Pages**
 
 ---
@@ -230,7 +252,7 @@ Validator build memastikan: field wajib lengkap, id unik, jumlah pilihan minimal
 
 ## 📝 Catatan
 
-- **Materi sekolah** (`materi-sumatif-2/`) disimpan **di luar repo** — tidak ikut ter-commit (privasi data sekolah).
-- **`data.js` adalah file hasil build** — edit file di `soal/` lalu jalankan build.
+- **Materi sekolah** disimpan di luar repo, baik `materi-sumatif-2/` maupun `materi adrina/kelas 1/Materi Sumatif Final semester 1/`.
+- **`data.js` adalah file hasil build**, edit file di `soal/` lalu jalankan build.
 - Bahasa soal ramah anak kelas 1: kalimat pendek, emoji sebagai penanda, tanpa jebakan teknis.
 - Nama mata pelajaran ditampilkan sebagai teks polos; logo/ikon hanya sebagai tile dekoratif kartu.
